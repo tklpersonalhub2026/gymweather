@@ -67,10 +67,14 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 .ct .x{font-size:2.2vh;color:var(--sub);margin-top:.3vh}
 .ct .t{display:flex;align-items:center;gap:.8vw;font-size:6vh;font-weight:600}
 .ct svg{width:6vh;height:6vh}
-.ct.lift{position:relative;z-index:5;box-shadow:0 1.5vh 4vh rgba(0,0,0,.6);outline:2px solid var(--rain);transition:none}
+.ct.lift{position:relative;z-index:5;box-shadow:0 1.5vh 4vh rgba(0,0,0,.6);outline:2px solid var(--rain);transition:none;opacity:.92}
+.ct.drop{outline:3px dashed var(--rain);outline-offset:-3px;background:#1d3550}
 .hint{font-size:2vh;color:var(--faint);text-align:center;padding-bottom:1.2vh;flex:none}
 #dim{position:absolute;inset:0;background:#000;opacity:.88;z-index:50}
 #dim span{position:absolute;bottom:3vh;width:100%;text-align:center;color:#555;font-size:2vh}
+#dim-wrap{position:absolute;inset:0;z-index:50}
+#dim-wrap #dim{z-index:auto}
+#d-bright{position:absolute;z-index:51;border:2px solid #85b7eb;color:#cfe3f7;background:#0b1520;border-radius:3vh;font-size:2.4vh;font-weight:600;padding:0 1.4vw;display:flex;align-items:center;justify-content:center}
 .modal{position:absolute;inset:0;background:rgba(0,0,0,.6);z-index:40;display:flex;align-items:center;justify-content:center}
 .sheet{background:#13212f;border-radius:2vh;width:62vw;max-height:88vh;display:flex;flex-direction:column;padding:2.5vh 2vw;gap:1.5vh}
 .sheet h2{font-size:3.2vh;font-weight:600}
@@ -150,7 +154,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
     <button class="pill ghost" id="c-edit">Edit cities</button>
   </div>
   <div class="grid" id="c-grid"></div>
-  <div class="hint">Tap a city for its full forecast. Press and hold to slide it to a new spot. · v<span id="c-ver"></span></div>
+  <div class="hint">Tap a city for its full forecast. Press and hold, carry it onto another city, and let go — the two swap places. · v<span id="c-ver"></span></div>
 </div>
 
 <div id="news" class="view hidden">
@@ -173,10 +177,10 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
   </div>
 </div>
 
-<div id="dim" class="hidden"><span>Tap anywhere to wake</span></div>
+<div id="dim-wrap" class="hidden"><div id="dim"><span>Tap anywhere to brighten</span></div><button id="d-bright" aria-label="Brighten screen">Bright</button></div>
 
 <script>
-var VERSION = "1.5";
+var VERSION = "1.7";
 var DEFAULT_HOME = {name:"Hideout, UT", lat:40.6436, lon:-111.3985};
 var DEFAULT_CITIES = [
   {name:"Park City, UT", lat:40.6461, lon:-111.4980},
@@ -338,11 +342,14 @@ function goHome(){ clearInterval(cityTimer); clearInterval(newsTimer); closeEdit
 function showCities(){
   show("cities"); renderCities(); startTimer(goHome);
   if (!cities.length) return;
-  getJSON(forecastUrl(cities.map(function(c){return c.lat;}).join(","), cities.map(function(c){return c.lon;}).join(","), 1)).then(function(j){
-    cityWeather = Array.isArray(j) ? j : [j]; cities.forEach(function(c,i){ c._w = cityWeather[i]; }); renderCities();
+  var asked = cities.slice();
+  getJSON(forecastUrl(asked.map(function(c){return c.lat;}).join(","), asked.map(function(c){return c.lon;}).join(","), 1)).then(function(j){
+    cityWeather = Array.isArray(j) ? j : [j]; asked.forEach(function(c,i){ c._w = cityWeather[i]; });
+    if (!dragging) renderCities();
   }).catch(function(){});
 }
 function renderCities(){
+  if (dragging) return;
   var g = $("c-grid"); g.classList.toggle("three", cities.length>10);
   g.innerHTML = "";
   cities.forEach(function(c, i){
@@ -359,14 +366,15 @@ function renderCities(){
   });
 }
 
+// Reorder = swap. Press and hold a tile, carry it onto another tile, let go:
+// the two trade places and nothing else on the page moves.
 var dragging = null, press = null;
 $("c-grid").addEventListener("pointerdown", function(e){
   var t = e.target.closest(".ct"); if (!t) return;
   resetTimer();
   press = {el:t, x:e.clientX, y:e.clientY, moved:false};
   press.timer = setTimeout(function(){
-    var rc = t.getBoundingClientRect();
-    dragging = {el:t, gx:press.x-rc.left, gy:press.y-rc.top};
+    dragging = {el:t, x:press.x, y:press.y, target:null};
     t.classList.add("lift");
     if (navigator.vibrate) navigator.vibrate(15);
   }, 450);
@@ -375,16 +383,17 @@ document.addEventListener("pointermove", function(e){
   if (!press) return;
   if (!dragging){ if (Math.abs(e.clientX-press.x)+Math.abs(e.clientY-press.y)>12){ press.moved = true; clearTimeout(press.timer); } return; }
   e.preventDefault();
-  var el = dragging.el; el.style.visibility = "hidden";
+  var el = dragging.el;
+  el.style.transform = "translate("+(e.clientX-dragging.x)+"px,"+(e.clientY-dragging.y)+"px)";
+  el.style.visibility = "hidden";
   var under = document.elementFromPoint(e.clientX, e.clientY); el.style.visibility = "";
-  var over = under && under.closest(".ct");
-  if (over && over!==el){
-    var kids = Array.prototype.slice.call($("c-grid").children);
-    if (kids.indexOf(over) > kids.indexOf(el)) over.after(el); else over.before(el);
+  var over = under && under.closest("#c-grid .ct");
+  if (over===el) over = null;
+  if (over!==dragging.target){
+    if (dragging.target) dragging.target.classList.remove("drop");
+    if (over) over.classList.add("drop");
+    dragging.target = over;
   }
-  el.style.transform = "none";
-  var rc = el.getBoundingClientRect();
-  el.style.transform = "translate("+(e.clientX-dragging.gx-rc.left)+"px,"+(e.clientY-dragging.gy-rc.top)+"px)";
 }, {passive:false});
 document.addEventListener("pointerup", endPress);
 document.addEventListener("pointercancel", endPress);
@@ -392,9 +401,10 @@ function endPress(){
   if (!press) return;
   clearTimeout(press.timer);
   if (dragging){
-    var el = dragging.el; el.classList.remove("lift"); el.style.transform = "";
-    var order = Array.prototype.map.call($("c-grid").children, function(k){ return cities[+k.dataset.i]; });
-    cities = order; persistCities(); dragging = null; renderCities(); resetTimer();
+    var a = +dragging.el.dataset.i, b = dragging.target ? +dragging.target.dataset.i : -1;
+    dragging = null;
+    if (b>=0 && b!==a){ var tmp = cities[a]; cities[a] = cities[b]; cities[b] = tmp; persistCities(); }
+    renderCities(); resetTimer();
   } else if (!press.moved){
     var c = cities[+press.el.dataset.i];
     if (c){ showBoard(c); startTimer(goHome); }
@@ -447,8 +457,15 @@ $("c-home").onclick = goHome;
 $("c-edit").onclick = function(){ resetTimer(); openEditor(); };
 $("e-done").onclick = function(){ closeEditor(); resetTimer(); };
 $("editor").addEventListener("pointerdown", resetTimer);
-$("b-dim").onclick = function(){ $("dim").classList.remove("hidden"); save("gw-dim", true); };
-$("dim").onclick = function(){ $("dim").classList.add("hidden"); save("gw-dim", false); };
+function dimOn(){
+  var r = $("b-dim").getBoundingClientRect(), d = $("d-bright");
+  if (r.width){ d.style.left = r.left+"px"; d.style.top = r.top+"px"; d.style.width = Math.max(r.width, 90)+"px"; d.style.height = r.height+"px"; }
+  else { d.style.right = "2.5vw"; d.style.top = "2vh"; d.style.height = "6vh"; }
+  $("dim-wrap").classList.remove("hidden"); save("gw-dim", true);
+}
+function dimOff(){ $("dim-wrap").classList.add("hidden"); save("gw-dim", false); }
+$("b-dim").onclick = dimOn;
+$("dim-wrap").onclick = dimOff;
 $("board").addEventListener("pointerdown", function(){ if (boardCity!==home) resetTimer(); });
 
 
@@ -537,7 +554,7 @@ window.addEventListener("hashchange", function(){ readCalFromUrl(); if (boardCit
 readCalFromUrl();
 $("c-ver").textContent = VERSION;
 
-if (load("gw-dim", false)) $("dim").classList.remove("hidden");
+if (load("gw-dim", false)) requestAnimationFrame(dimOn);
 showBoard(); updateClock();
 setInterval(function(){ updateClock(); if (boardCity===home && !$("board").classList.contains("hidden")) renderCal(); }, 15000);
 setInterval(function(){ if (boardCity===home) refreshBoard(); }, REFRESH_MS);
