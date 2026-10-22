@@ -1,11 +1,18 @@
 {
- "updated": "2026-10-22T19:40:12.243722+00:00",
+ "updated": "2026-10-22T19:40:51.904364+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "KPCW",
+     "title": "Justice Department says it's sending election monitors to Utah",
+     "summary": "Utah Lt. Gov. Deidre Henderson says federal election monitors will be required to follow state laws governing poll watchers and will not be allowed to interfere with voting.",
+     "link": "https://www.kpcw.org/state-regional/2026-10-22/justice-department-says-its-sending-election-monitors-to-utah",
+     "published": "2026-10-22T19:24:15+00:00"
+    },
     {
      "source": "Park Record",
      "title": "State law enforcement division affirms no disciplinary actions taken in Park City K9 leap",
@@ -49,18 +56,25 @@
      "published": "2026-10-22T16:02:07+00:00"
     },
     {
+     "source": "KPCW",
+     "title": "Rigby taking leave from sheriff’s office with pending felony charge",
+     "summary": "The Wasatch County Council accepted his offer at its Wednesday meeting, abandoning plans to call for his resignation.",
+     "link": "https://www.kpcw.org/wasatch-county/2026-10-21/rigby-taking-leave-from-sheriffs-office-with-felony-charge-pending",
+     "published": "2026-10-22T02:48:00+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Park City Council to discuss China Bridge Garage future",
+     "summary": "The Park City Council is debating whether to replace the China Bridge parking garage or redevelop the site. Councilmembers will discuss the structure’s future Thursday.",
+     "link": "https://www.kpcw.org/park-city/2026-10-21/park-city-council-discuss-china-bridge-garage-future",
+     "published": "2026-10-22T02:02:00+00:00"
+    },
+    {
      "source": "Park Record",
      "title": "Bose acquires Skullcandy",
      "summary": "The headquarters for the Park City-based audio company, founded in 2003, will remain in Park City. The post Bose acquires Skullcandy appeared first on Park Record .",
      "link": "https://www.parkrecord.com/2026/10/21/bose-acquires-skullcandy/",
      "published": "2026-10-22T01:07:39+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Wasatch County Sheriff Jared Rigby formally placed on administrative leave by County Council",
-     "summary": "The Wasatch County Council abandoned its resolution that would have asked for Wasatch County Sheriff Jared Rigby’s resignation on Wednesday. Instead, the council unanimously approved that the sheriff will be placed on…",
-     "link": "https://www.parkrecord.com/2026/10/21/wasatch-county-sheriff-jared-rigby-formally-placed-on-administrative-leave-by-county-council/",
-     "published": "2026-10-21T22:57:03+00:00"
     }
    ]
   },
@@ -234,9 +248,9 @@
   },
   {
    "source": "KPCW",
-   "url": "https://www.kpcw.org/index.rss",
+   "url": "https://www.kpcw.org/local-news.rss",
    "ok": true,
-   "stories": 0
+   "stories": 4
   },
   {
    "source": "Salt Lake Tribune",
