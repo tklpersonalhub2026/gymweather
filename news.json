@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:40:51.904364+00:00",
+ "updated": "2026-10-22T19:43:45.329211+00:00",
  "sections": [
   {
    "key": "local",
@@ -42,25 +42,18 @@
      "published": "2026-10-22T17:13:20+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Suni Woolstenhulme pledges to put Summit County voters first, ensure “every lawful vote is counted”",
-     "summary": "This post is sponsored by Suni Woolstenhulme for clerk. SUMMIT COUNTY, Utah — For Suni Woolstenhulme, the decision to run for Summit County clerk began at the counter of her",
-     "link": "https://townlift.com/2026/10/suni-woolstenhulme-pledges-to-put-summit-county-voters-first-ensure-every-lawful-vote-is-counted/",
-     "published": "2026-10-22T17:05:27+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Creep it local: Halloween events happening around Park City",
-     "summary": "PARK CITY, Utah — Halloween weekend is almost here, and Park City locals already have plenty of options to celebrate, from trick-or-treating to historic ghost tours. Whether you’re looking for",
-     "link": "https://townlift.com/2026/10/creep-it-local-halloween-events-happening-around-park-city/",
-     "published": "2026-10-22T16:02:07+00:00"
-    },
-    {
      "source": "KPCW",
      "title": "Rigby taking leave from sheriff’s office with pending felony charge",
      "summary": "The Wasatch County Council accepted his offer at its Wednesday meeting, abandoning plans to call for his resignation.",
      "link": "https://www.kpcw.org/wasatch-county/2026-10-21/rigby-taking-leave-from-sheriffs-office-with-felony-charge-pending",
      "published": "2026-10-22T02:48:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Suni Woolstenhulme pledges to put Summit County voters first, ensure “every lawful vote is counted”",
+     "summary": "This post is sponsored by Suni Woolstenhulme for clerk. SUMMIT COUNTY, Utah — For Suni Woolstenhulme, the decision to run for Summit County clerk began at the counter of her",
+     "link": "https://townlift.com/2026/10/suni-woolstenhulme-pledges-to-put-summit-county-voters-first-ensure-every-lawful-vote-is-counted/",
+     "published": "2026-10-22T17:05:27+00:00"
     },
     {
      "source": "KPCW",
@@ -75,6 +68,13 @@
      "summary": "The headquarters for the Park City-based audio company, founded in 2003, will remain in Park City. The post Bose acquires Skullcandy appeared first on Park Record .",
      "link": "https://www.parkrecord.com/2026/10/21/bose-acquires-skullcandy/",
      "published": "2026-10-22T01:07:39+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Creep it local: Halloween events happening around Park City",
+     "summary": "PARK CITY, Utah — Halloween weekend is almost here, and Park City locals already have plenty of options to celebrate, from trick-or-treating to historic ghost tours. Whether you’re looking for",
+     "link": "https://townlift.com/2026/10/creep-it-local-halloween-events-happening-around-park-city/",
+     "published": "2026-10-22T16:02:07+00:00"
     }
    ]
   },
@@ -91,27 +91,6 @@
      "published": "2026-10-22T19:20:58+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "4.3 million tubes of toothpaste — including kids’ — recalled",
-     "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/10/22/childrens-toothpaste-recall-fda-class2-millions-pritam-international-private-limited/",
-     "published": "2026-10-22T19:04:56+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Former Utah tight end Dalton Kincaid named ‘College GameDay’ guest picker",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/22/utah-utes-college-gameday-guest-picker-dalton-kincaid/",
-     "published": "2026-10-22T18:05:46+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Teach young people the difference between investing and gambling",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/22/investing-is-not-the-same-as-gambling/",
-     "published": "2026-10-22T18:00:51+00:00"
-    },
-    {
      "source": "Salt Lake Tribune",
      "title": "Bagley Cartoon: Metaphor Police",
      "summary": "Check out Pat Bagley's latest cartoon: Metaphor Police",
@@ -119,11 +98,39 @@
      "published": "2026-10-22T17:28:30+00:00"
     },
     {
+     "source": "KSL",
+     "title": "First Presbyterian Church to host 40th annual Scottish heritage events",
+     "summary": "The First Presbyterian Church of Salt Lake City is honoring its Scottish heritage by hosting the 40th annual Scottish Festival on Saturday. The next day, the church will hold the Kirkin' o' th' Tartan.",
+     "link": "https://www.ksl.com/article/51639361/first-presbyterian-church-to-host-40th-annual-scottish-heritage-events",
+     "published": "2026-10-22T12:43:45+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "4.3 million tubes of toothpaste — including kids’ — recalled",
+     "summary": "",
+     "link": "https://www.deseret.com/lifestyle/2026/10/22/childrens-toothpaste-recall-fda-class2-millions-pritam-international-private-limited/",
+     "published": "2026-10-22T19:04:56+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Utah’s top election official says the DOJ is sending election monitors to Utah. Here’s what we know.",
      "summary": "The Justice Department is sending election monitors to Utah for the November midterms as it investigates Lt. Gov. Deidre Henderson over the state’s voter rolls.",
      "link": "https://www.sltrib.com/news/2026/10/22/doj-sending-election-monitors-utah/",
      "published": "2026-10-22T15:34:33+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
+     "summary": "A federal judge has ordered President Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11.",
+     "link": "https://www.ksl.com/article/51639670/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
+     "published": "2026-10-22T12:29:56+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Former Utah tight end Dalton Kincaid named ‘College GameDay’ guest picker",
+     "summary": "",
+     "link": "https://www.deseret.com/sports/2026/10/22/utah-utes-college-gameday-guest-picker-dalton-kincaid/",
+     "published": "2026-10-22T18:05:46+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -134,24 +141,17 @@
     },
     {
      "source": "KSL",
-     "title": "Flooding triggers evacuations in Hurricane; warning for many areas near Lake Powell",
-     "summary": "The Hurricane Police Department issued an evacuation notice to residents in the Willow Wind complex and any homes along Gould Wash. An emergency shelter has been opened nearby.",
-     "link": "https://www.ksl.com/article/51639727/hurricane-police-issue-evacuation-orders-due-to-flooding",
-     "published": "2026-10-22T13:04:11+00:00"
+     "title": "Ogden man accused of threatening synagogue in 2025 charged with federal hate crime",
+     "summary": "An Ogden man who was initially arrested in 2025 and accused of threatening to blow up a synagogue while he was in possession of homemade explosives is now charged in federal court with a hate crime.",
+     "link": "https://www.ksl.com/article/51639744/ogden-man-accused-of-threatening-synagogue-in-2025-charged-with-federal-hate-crime",
+     "published": "2026-10-22T12:03:18+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Violent Arizona storms bring possible tornado, toppled trees and golf ball-size hail",
-     "summary": "A possible tornado caused significant damage in a central Arizona community, with trees falling onto homes and utility poles knocked down during violent storms overnight into Thursday.",
-     "link": "https://www.ksl.com/article/51639615/violent-arizona-storms-bring-possible-tornado-toppled-trees-and-golf-ball-size-hail",
-     "published": "2026-10-22T13:01:46+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "First Presbyterian Church to host 40th annual Scottish heritage events",
-     "summary": "The First Presbyterian Church of Salt Lake City is honoring its Scottish heritage by hosting the 40th annual Scottish Festival on Saturday. The next day, the church will hold the Kirkin' o' th' Tartan.",
-     "link": "https://www.ksl.com/article/51639361/first-presbyterian-church-to-host-40th-annual-scottish-heritage-events",
-     "published": "2026-10-22T12:43:45+00:00"
+     "source": "Deseret News",
+     "title": "Opinion: Teach young people the difference between investing and gambling",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/10/22/investing-is-not-the-same-as-gambling/",
+     "published": "2026-10-22T18:00:51+00:00"
     }
    ]
   },
@@ -162,31 +162,10 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "GOP officials divided over Ramaswamy ad with Acton's mom",
-     "summary": "In the ad, which first circulated on social media Monday night, Democrat Amy Acton's estranged mother called her a liar.",
-     "link": "https://www.cbsnews.com/news/vivek-ramaswamy-ad-amy-acton-mother-republicans-ohio/",
-     "published": "2026-10-22T19:39:01+00:00"
-    },
-    {
-     "source": "CBS News",
      "title": "What to know about the PHP bug affecting 70% of world's websites",
      "summary": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
      "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
-     "published": "2026-10-22T19:39:01+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-     "summary": "Memphis has become a hotspot for data centers driven by Elon Musk's SpaceXAI.",
-     "link": "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
-     "published": "2026-10-22T19:37:01+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Hegseth bans use of nonpublic info for bets on U.S. military ops",
-     "summary": "Defense Secretary Pete Hegseth said the ban applies to classified and unclassified information and includes prediction markets such as Polymarket and Kalshi.",
-     "link": "https://www.cbsnews.com/news/hegseth-betting-ban-military-operations/",
-     "published": "2026-10-22T19:21:00+00:00"
+     "published": "2026-10-22T19:42:04+00:00"
     },
     {
      "source": "NPR",
@@ -203,11 +182,32 @@
      "published": "2026-10-22T17:55:35+00:00"
     },
     {
+     "source": "CBS News",
+     "title": "Tom Skerritt, known for roles in \"Alien,\" \"Picket Fences,\" dies at 93",
+     "summary": "Tom Skerritt died of natural causes, his family said in a statement.",
+     "link": "https://www.cbsnews.com/news/tom-skerritt-dies-age-93-alien-top-gun-picket-fences/",
+     "published": "2026-10-22T19:39:42+00:00"
+    },
+    {
      "source": "PBS NewsHour",
      "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
      "summary": "President Donald Trump, who has often avoided depositions, filed his lawsuit against the BBC last December.",
      "link": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
      "published": "2026-10-22T17:40:42+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+     "summary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+     "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
+     "published": "2026-10-22T13:50:55+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "GOP officials divided over Ramaswamy ad with Acton's mom",
+     "summary": "In the ad, which first circulated on social media Monday night, Democrat Amy Acton's estranged mother called her a liar.",
+     "link": "https://www.cbsnews.com/news/vivek-ramaswamy-ad-amy-acton-mother-republicans-ohio/",
+     "published": "2026-10-22T19:39:01+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +217,18 @@
      "published": "2026-10-22T16:11:51+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-     "summary": "Russia bombarded Kyiv with ballistic missiles in an hourslong nighttime barrage, while the Russian military said Thursday that its air defenses intercepted over 800 drones fired by Ukraine at Moscow and other cities.",
-     "link": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed",
-     "published": "2026-10-22T14:58:46+00:00"
+     "source": "NPR",
+     "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+     "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+     "published": "2026-10-22T11:28:24+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-     "summary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
-     "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-     "published": "2026-10-22T13:50:55+00:00"
+     "source": "CBS News",
+     "title": "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+     "summary": "Memphis has become a hotspot for data centers driven by Elon Musk's SpaceXAI.",
+     "link": "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
+     "published": "2026-10-22T19:37:01+00:00"
     }
    ]
   }
