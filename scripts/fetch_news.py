@@ -117,7 +117,17 @@ def main():
                 pool.extend(got)
             else:
                 out["feeds"].append({"source": source, "url": url, "ok": False, "error": err})
-        pool.sort(key=lambda i: i["_t"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+        # Mix sources: each source's newest story first, then each one's second, and so on
+        newest = lambda i: i["_t"] or datetime.min.replace(tzinfo=timezone.utc)
+        by_src = {}
+        for i in sorted(pool, key=newest, reverse=True):
+            by_src.setdefault(i["source"], []).append(i)
+        mixed, rank = [], 0
+        while len(mixed) < len(pool):
+            tier = [lst[rank] for lst in by_src.values() if rank < len(lst)]
+            mixed.extend(sorted(tier, key=newest, reverse=True))
+            rank += 1
+        pool = mixed
         for i in pool:
             i.pop("_t", None)
         out["sections"].append({"key": sec["key"], "title": sec["title"], "scope": sec["scope"], "items": pool[:PER_SECTION]})
