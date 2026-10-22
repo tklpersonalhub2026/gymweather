@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d3654"/>
+      <stop offset="1" stop-color="#0f1a26"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <g transform="translate(640 330)">
+    <circle r="132" fill="#fac775"/>
+    <g stroke="#fac775" stroke-width="34" stroke-linecap="round">
+      <line x1="0" y1="-178" x2="0" y2="-236"/>
+      <line x1="126" y1="-126" x2="167" y2="-167"/>
+      <line x1="178" y1="0" x2="236" y2="0"/>
+      <line x1="126" y1="126" x2="167" y2="167"/>
+      <line x1="-126" y1="-126" x2="-167" y2="-167"/>
+    </g>
+  </g>
+  <g fill="#f4f6f8">
+    <circle cx="330" cy="560" r="130"/>
+    <circle cx="520" cy="470" r="180"/>
+    <circle cx="700" cy="570" r="120"/>
+    <rect x="330" y="560" width="370" height="130"/>
+  </g>
+  <g stroke="#85b7eb" stroke-width="44" stroke-linecap="round">
+    <line x1="390" y1="790" x2="360" y2="870"/>
+    <line x1="530" y1="790" x2="500" y2="870"/>
+    <line x1="670" y1="790" x2="640" y2="870"/>
+  </g>
+</svg>
