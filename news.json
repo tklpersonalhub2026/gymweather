@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:43:45.329211+00:00",
+ "updated": "2026-10-22T23:12:48.324177+00:00",
  "sections": [
   {
    "key": "local",
@@ -8,10 +8,38 @@
    "items": [
     {
      "source": "KPCW",
-     "title": "Justice Department says it's sending election monitors to Utah",
-     "summary": "Utah Lt. Gov. Deidre Henderson says federal election monitors will be required to follow state laws governing poll watchers and will not be allowed to interfere with voting.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-22/justice-department-says-its-sending-election-monitors-to-utah",
-     "published": "2026-10-22T19:24:15+00:00"
+     "title": "Utah high school graduates ACT scores on the rise",
+     "summary": "Utah teens are scoring higher on the ACT compared to their peers across the country.",
+     "link": "https://www.kpcw.org/state-regional/2026-10-22/utah-high-school-graduates-act-scores-on-the-rise",
+     "published": "2026-10-22T23:08:40+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Wasatch County Undersheriff Josh Probst leads command with sheriff on paid leave",
+     "summary": "Wasatch County Sheriff Jared Rigby, facing obstruction charges and administrative leave, passes responsibilities to Undersheriff Josh Probst The post Wasatch County Undersheriff Josh Probst leads command with sheriff on…",
+     "link": "https://www.parkrecord.com/2026/10/22/wasatch-county-undersheriff-josh-probst-leads-command-with-sheriff-on-paid-leave/",
+     "published": "2026-10-22T20:58:57+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Remembering Alan Siddoway: A lifetime of service to Summit County",
+     "summary": "For nearly 42 years, the Summit County law enforcement officer and Search and Rescue leader showed up for people on their worst days, bringing preparation, humility and an uncommon reverence for the people in his care.",
+     "link": "https://townlift.com/2026/10/remembering-alan-siddoway-a-lifetime-of-service-to-summit-county/",
+     "published": "2026-10-22T20:46:12+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Summit County correcting 50 ballots missing Basin Rec bond question",
+     "summary": "Voters in two Silver Creek precincts received incorrect ballots due to a mapping error, the county says.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-22/summit-county-correcting-50-ballots-missing-basin-rec-bond-question",
+     "published": "2026-10-22T21:43:21+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Utah lawmakers weigh tighter license plate reader rules after local data-sharing concerns",
+     "summary": "Proposed 2027 legislation comes months after TownLift reporting showed Park City and Summit County plate data was accessible through a national law enforcement network.",
+     "link": "https://townlift.com/2026/10/utah-lawmakers-weigh-tighter-license-plate-reader-rules-after-local-data-sharing-concerns/",
+     "published": "2026-10-22T20:23:15+00:00"
     },
     {
      "source": "Park Record",
@@ -21,18 +49,18 @@
      "published": "2026-10-22T19:04:30+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Wasatch County Council unanimously approves Sheriff Rigby’s administrative leave",
-     "summary": "WASATCH COUNTY, Utah — The Wasatch County Council unanimously accepted Sheriff Jared Rigby’s offer to step away from his day-to-day duties. Rigby sent a letter Wednesday morning to the council",
-     "link": "https://townlift.com/2026/10/wasatch-county-council-unanimously-approves-sheriff-rigbys-administrative-leave/",
-     "published": "2026-10-22T19:02:03+00:00"
+     "source": "KPCW",
+     "title": "Park City summer market and arts festival a success",
+     "summary": "Park City staff say the Park Silly Sunday Market and Kimball Arts Festival were successes this year. The two events attracted over 200,000 attendees in total.",
+     "link": "https://www.kpcw.org/park-city/2026-10-22/park-city-summer-market-and-arts-festival-a-success",
+     "published": "2026-10-22T21:28:09+00:00"
     },
     {
      "source": "TownLift",
-     "title": "Have you seen the blue flies with white fuzz? Learn about the woolly aphid",
-     "summary": "These pesky bugs are relatively harmless. While they’re around all year long, they’re only really noticeable for a few days in autumn.",
-     "link": "https://townlift.com/2026/10/have-you-seen-the-blue-flies-with-white-fuzz-learn-about-the-woolly-aphid/",
-     "published": "2026-10-22T17:48:16+00:00"
+     "title": "Summit County reissues ballots after 50 voters were left off Basin Recreation bond question",
+     "summary": "Historical district boundary discrepancy affected two Upper Silver Creek precincts; clerk says corrected ballots are being sent",
+     "link": "https://townlift.com/2026/10/summit-county-reissues-ballots-after-50-voters-were-left-off-basin-recreation-bond-question/",
+     "published": "2026-10-22T20:02:19+00:00"
     },
     {
      "source": "Park Record",
@@ -43,38 +71,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Rigby taking leave from sheriff’s office with pending felony charge",
-     "summary": "The Wasatch County Council accepted his offer at its Wednesday meeting, abandoning plans to call for his resignation.",
-     "link": "https://www.kpcw.org/wasatch-county/2026-10-21/rigby-taking-leave-from-sheriffs-office-with-felony-charge-pending",
-     "published": "2026-10-22T02:48:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Suni Woolstenhulme pledges to put Summit County voters first, ensure “every lawful vote is counted”",
-     "summary": "This post is sponsored by Suni Woolstenhulme for clerk. SUMMIT COUNTY, Utah — For Suni Woolstenhulme, the decision to run for Summit County clerk began at the counter of her",
-     "link": "https://townlift.com/2026/10/suni-woolstenhulme-pledges-to-put-summit-county-voters-first-ensure-every-lawful-vote-is-counted/",
-     "published": "2026-10-22T17:05:27+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Park City Council to discuss China Bridge Garage future",
-     "summary": "The Park City Council is debating whether to replace the China Bridge parking garage or redevelop the site. Councilmembers will discuss the structure’s future Thursday.",
-     "link": "https://www.kpcw.org/park-city/2026-10-21/park-city-council-discuss-china-bridge-garage-future",
-     "published": "2026-10-22T02:02:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Bose acquires Skullcandy",
-     "summary": "The headquarters for the Park City-based audio company, founded in 2003, will remain in Park City. The post Bose acquires Skullcandy appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/21/bose-acquires-skullcandy/",
-     "published": "2026-10-22T01:07:39+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Creep it local: Halloween events happening around Park City",
-     "summary": "PARK CITY, Utah — Halloween weekend is almost here, and Park City locals already have plenty of options to celebrate, from trick-or-treating to historic ghost tours. Whether you’re looking for",
-     "link": "https://townlift.com/2026/10/creep-it-local-halloween-events-happening-around-park-city/",
-     "published": "2026-10-22T16:02:07+00:00"
+     "title": "More Utah voters register as unaffiliated; Republican affiliations dominant in Wasatch Back",
+     "summary": "More than 29,000 Utahn voters have registered as unaffiliated this year, the largest increase since 2020.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-22/more-utah-voters-register-as-unaffiliated-republican-affiliations-dominant-in-wasatch-back",
+     "published": "2026-10-22T21:13:15+00:00"
     }
    ]
   },
@@ -84,11 +84,18 @@
    "scope": "Utah",
    "items": [
     {
-     "source": "Deseret News",
-     "title": "Elizabeth Smart kidnapper waives preliminary hearing for park charges, is working on settlement",
-     "summary": "Wanda Barzee waived her right to a preliminary hearing on Thursday on accusations that she was in a park as a registered sex offender. Her attorney said a settlement in the case is likely.",
-     "link": "https://www.deseret.com/utah/2026/10/22/elizabeth-smart-kiddnapper-waives-preliminary-hearing-for-park-charges-is-working-on-settlement/",
-     "published": "2026-10-22T19:20:58+00:00"
+     "source": "Salt Lake Tribune",
+     "title": "Salt Lake City’s ‘invisible’ downtown art museum will get a brand-new building and location",
+     "summary": "As downtown Salt Lake City gets ready for its makeover, here's where a certain art museum stands amid all the plans.",
+     "link": "https://www.sltrib.com/artsliving/2026/10/22/umoca-will-get-new-location/",
+     "published": "2026-10-22T20:12:07+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "7 things to consider before adopting a pet",
+     "summary": "Becoming a pet owner involves more than furry snuggles and cute accessories. Are you ready for the time, cost and responsibility?",
+     "link": "https://bit.ly/3VW7utF",
+     "published": "2026-10-22T16:57:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,17 +106,17 @@
     },
     {
      "source": "KSL",
-     "title": "First Presbyterian Church to host 40th annual Scottish heritage events",
-     "summary": "The First Presbyterian Church of Salt Lake City is honoring its Scottish heritage by hosting the 40th annual Scottish Festival on Saturday. The next day, the church will hold the Kirkin' o' th' Tartan.",
-     "link": "https://www.ksl.com/article/51639361/first-presbyterian-church-to-host-40th-annual-scottish-heritage-events",
-     "published": "2026-10-22T12:43:45+00:00"
+     "title": "Charges dismissed against ex-Ogden officer in July 4 incident that allegedly injured 8 people",
+     "summary": "Charges have been dismissed against an ex-Ogden police officer in connection with a July 4 incident in Ogden that allegedly injured eight people.",
+     "link": "https://www.ksl.com/article/51639791/charges-dismissed-against-ex-ogden-officer-in-july-4-incident-that-allegedly-injured-8-people",
+     "published": "2026-10-22T16:44:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "4.3 million tubes of toothpaste — including kids’ — recalled",
-     "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/10/22/childrens-toothpaste-recall-fda-class2-millions-pritam-international-private-limited/",
-     "published": "2026-10-22T19:04:56+00:00"
+     "source": "KSL",
+     "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem",
+     "summary": "President Donald Trump has accused LeBron James of disrespecting the United States. This comes after James continued his warmups during the national anthem at a game on Tuesday.",
+     "link": "https://www.ksl.com/article/51639807/trump-blasts-76ers-star-lebron-james-as-disgrace-for-not-standing-still-during-national-anthem",
+     "published": "2026-10-22T16:23:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,17 +127,10 @@
     },
     {
      "source": "KSL",
-     "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "summary": "A federal judge has ordered President Donald Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11.",
-     "link": "https://www.ksl.com/article/51639670/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
-     "published": "2026-10-22T12:29:56+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Former Utah tight end Dalton Kincaid named ‘College GameDay’ guest picker",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/22/utah-utes-college-gameday-guest-picker-dalton-kincaid/",
-     "published": "2026-10-22T18:05:46+00:00"
+     "title": "Strong 7-magnitude earthquake hits China's Tibet region, killing 16 and injuring dozens, state media reports",
+     "summary": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck China's Tibet region on Thursday, according to state news agency Xinhua.",
+     "link": "https://www.ksl.com/article/51639719/strong-7-magnitude-earthquake-strikes-chinas-tibet-region",
+     "published": "2026-10-22T16:03:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -138,20 +138,6 @@
      "summary": "Utah Jazz forward Jaren Jackson Jr. returned to Memphis for the first time since his trade, leaving Grizzlies fans torn over who to root for.",
      "link": "https://www.sltrib.com/sports/jazz/2026/10/22/jaren-jackson-jr-returned-memphis/",
      "published": "2026-10-22T14:13:29+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Ogden man accused of threatening synagogue in 2025 charged with federal hate crime",
-     "summary": "An Ogden man who was initially arrested in 2025 and accused of threatening to blow up a synagogue while he was in possession of homemade explosives is now charged in federal court with a hate crime.",
-     "link": "https://www.ksl.com/article/51639744/ogden-man-accused-of-threatening-synagogue-in-2025-charged-with-federal-hate-crime",
-     "published": "2026-10-22T12:03:18+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Teach young people the difference between investing and gambling",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/22/investing-is-not-the-same-as-gambling/",
-     "published": "2026-10-22T18:00:51+00:00"
     }
    ]
   },
@@ -162,10 +148,38 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "What to know about the PHP bug affecting 70% of world's websites",
-     "summary": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
-     "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
-     "published": "2026-10-22T19:42:04+00:00"
+     "title": "Trump says Iran is making up strikes on ships to drive up oil prices",
+     "summary": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+     "published": "2026-10-22T23:09:59+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
+     "summary": "With the midterm elections less than two weeks away, a new legal battle is raising questions about the federal government's role in policing who is eligible to vote. A federal judge in California has blocked a…",
+     "link": "https://www.pbs.org/newshour/show/doj-monitoring-plans-and-dhs-voter-checks-raise-concerns-of-election-interference",
+     "published": "2026-10-22T22:55:44+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+     "summary": "Skerritt was Captain Dallas in Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+     "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+     "published": "2026-10-22T20:12:52+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
+     "summary": "It was the biggest earthquake in the region in the last five years, China's national broadcaster CCTV said.",
+     "link": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
+     "published": "2026-10-22T23:04:35+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "News Wrap: Virginia state senator charged with running criminal marijuana enterprise",
+     "summary": "In our news wrap Thursday, federal authorities charged Virginia state Sen. Louise Lucas with running a criminal marijuana enterprise, New York City lawmakers voted to ban horse-drawn carriage rides in Central Park and a…",
+     "link": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
+     "published": "2026-10-22T22:50:52+00:00"
     },
     {
      "source": "NPR",
@@ -175,25 +189,18 @@
      "published": "2026-10-22T19:16:20+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "U.S. jobless claims fell to 194,000 last week, lowest since July",
-     "summary": "So far this year, claims have remained at historically low levels, never topping 230,000 in a single week.",
-     "link": "https://www.pbs.org/newshour/economy/u-s-jobless-claims-fell-to-194000-last-week-lowest-since-july",
-     "published": "2026-10-22T17:55:35+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Tom Skerritt, known for roles in \"Alien,\" \"Picket Fences,\" dies at 93",
-     "summary": "Tom Skerritt died of natural causes, his family said in a statement.",
-     "link": "https://www.cbsnews.com/news/tom-skerritt-dies-age-93-alien-top-gun-picket-fences/",
-     "published": "2026-10-22T19:39:42+00:00"
+     "title": "Trump defends Ramaswamy despite bipartisan outrage over attack ad against Amy Acton",
+     "summary": "President Trump on Thursday defended the Republican nominee for Ohio governor, Vivek Ramaswamy, amid backlash from a controversial attack ad that featured the estranged mother of Ramaswamy's opponent, Amy Acton. CBS…",
+     "link": "https://www.cbsnews.com/video/trump-defends-ramaswamy-despite-bipartisan-outrage-over-attack-ad-featuring-opponents-mom/",
+     "published": "2026-10-22T22:59:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11",
-     "summary": "President Donald Trump, who has often avoided depositions, filed his lawsuit against the BBC last December.",
-     "link": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
-     "published": "2026-10-22T17:40:42+00:00"
+     "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news",
+     "summary": "Iran's state television reported that seven oil tankers either caught fire or were damaged by mines overnight Wednesday into Thursday after being targeted or striking naval mines in the Strait of Hormuz.",
+     "link": "https://www.pbs.org/newshour/world/iran-says-7-oil-tankers-damaged-in-strait-of-hormuz-and-other-middle-east-news",
+     "published": "2026-10-22T22:48:30+00:00"
     },
     {
      "source": "NPR",
@@ -204,31 +211,10 @@
     },
     {
      "source": "CBS News",
-     "title": "GOP officials divided over Ramaswamy ad with Acton's mom",
-     "summary": "In the ad, which first circulated on social media Monday night, Democrat Amy Acton's estranged mother called her a liar.",
-     "link": "https://www.cbsnews.com/news/vivek-ramaswamy-ad-amy-acton-mother-republicans-ohio/",
-     "published": "2026-10-22T19:39:01+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "WATCH: Blanche and Patel announce charges for Democratic Virginia lawmaker Lucas",
-     "summary": "Virginia state Sen. L. Louise Lucas, one of the state's most powerful Democrats, was charged on Thursday in connection with what federal authorities alleged was a role leading a wide-ranging criminal enterprise that…",
-     "link": "https://www.pbs.org/newshour/politics/watch-blanche-and-patel-announce-charges-for-democratic-virginia-lawmaker-lucas",
-     "published": "2026-10-22T16:11:51+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-     "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
-     "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-     "published": "2026-10-22T11:28:24+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
-     "summary": "Memphis has become a hotspot for data centers driven by Elon Musk's SpaceXAI.",
-     "link": "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
-     "published": "2026-10-22T19:37:01+00:00"
+     "title": "GOP Rep. Gabe Evans on running in competitive Colorado district, data center regulation and more",
+     "summary": "\"The Ratepayer Protection Act,\" aimed at preventing utility customers from absorbing the costs of data centers, overwhelmingly passed the House but failed to advance in the Senate by three votes. Republican Rep. Gabe…",
+     "link": "https://www.cbsnews.com/video/gop-gabe-evans-competitive-colorado-district-data-center-regulation-more/",
+     "published": "2026-10-22T22:54:11+00:00"
     }
    ]
   }
@@ -267,8 +253,8 @@
   {
    "source": "Deseret News",
    "url": "https://www.deseret.com/arc/outboundfeeds/rss/?outputType=xml",
-   "ok": true,
-   "stories": 4
+   "ok": false,
+   "error": "no element found: line 1, column 38"
   },
   {
    "source": "NPR",
