@@ -8,6 +8,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Gym Weather">
 <title>Gym Weather</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap">
 <style>
 :root{--bg:#0f1a26;--card:#16263a;--line:#22344a;--text:#f4f6f8;--sub:#9fb0c2;--faint:#5f7489;--rain:#85b7eb;--rainbg:#13314f;--snow:#3c3489;--snowtext:#cecbf6;--hi:#f0997b;--lo:#85b7eb;--warn:#a32d2d;--watch:#b56a0b;--accent:#185fa5}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
@@ -73,6 +75,28 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 .list{overflow:auto;min-height:0}
 .sub{color:var(--sub);font-size:2.2vh}
 .err{position:absolute;bottom:1vh;left:2.5vw;font-size:1.8vh;color:var(--faint)}
+.temp,.cond,.hilo,.tile .v,.top .place,.pill,.ct .n,.ct .t,.day .dn,.cal .ttl,.ev .tm,.ncol h3,.ni .h{font-family:"Barlow Condensed",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
+.top .place{font-size:3.4vh;letter-spacing:.03em}
+.pill{font-size:2.7vh}
+.cal{flex:none;height:27vh;border-top:1px solid var(--line);padding:1.6vh 2.5vw 1.8vh;display:flex;flex-direction:column;gap:1.2vh}
+.cal .hd{display:flex;align-items:center;justify-content:space-between}
+.cal .ttl{font-size:3.4vh;font-weight:700;letter-spacing:.05em}
+.cal .ttl small{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;font-size:2vh;color:var(--sub);font-weight:400;letter-spacing:0;margin-left:1.2vw}
+.cal .evs{flex:1;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1vw;min-height:0}
+.ev{background:#f4f6f8;color:#0f1a26;border-radius:1.4vh;padding:1.2vh 1.2vw;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+.ev .tm{font-size:4.2vh;font-weight:700;line-height:1.05}
+.ev .tt{font-size:2.6vh;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ev .cn{font-size:1.9vh;color:#4a5568;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ev.quiet{background:var(--card);color:var(--sub)}
+.news{flex:1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2vw;padding:1vh 2.5vw 2.5vh;min-height:0}
+.ncol{display:flex;flex-direction:column;min-height:0}
+.ncol h3{font-size:4vh;font-weight:700;letter-spacing:.05em;border-bottom:.4vh solid var(--rain);padding-bottom:.6vh;display:flex;justify-content:space-between;align-items:baseline;flex:none}
+.ncol h3 small{font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;font-size:1.8vh;color:var(--sub);font-weight:400;letter-spacing:0}
+.nlist{overflow-y:auto;-webkit-overflow-scrolling:touch;display:flex;flex-direction:column;gap:1.2vh;padding-top:1.2vh;min-height:0}
+.ni{display:block;flex:none;background:var(--card);border-radius:1.4vh;padding:1.4vh 1.2vw;color:var(--text);text-decoration:none}
+.ni .s{font-size:1.8vh;font-weight:600;color:var(--rain);letter-spacing:.04em;text-transform:uppercase}
+.ni .h{font-size:3.1vh;font-weight:600;line-height:1.15;margin-top:.4vh}
+.ni .d{font-size:2vh;line-height:1.35;color:#c3ccda;margin-top:.6vh;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 </style>
 </head>
 <body>
@@ -84,6 +108,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
     <span class="tbtns">
       <button class="pill hidden" id="b-back">Home</button>
       <button class="pill" id="b-cities">Cities</button>
+      <button class="pill" id="b-news">News</button>
       <button class="pill ghost" id="b-dim" aria-label="Dim screen">Dim</button>
     </span>
   </div>
@@ -105,6 +130,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
     </div>
   </div>
   <div class="strip" id="b-strip"></div>
+  <div class="cal hidden" id="b-cal"></div>
   <div class="alert hidden" id="b-alert"><span class="run" id="b-alert-text"></span></div>
   <div class="err" id="b-err"></div>
 </div>
@@ -116,7 +142,15 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
     <button class="pill ghost" id="c-edit">Edit cities</button>
   </div>
   <div class="grid" id="c-grid"></div>
-  <div class="hint">Tap a city for its full forecast. Press and hold to slide it to a new spot.</div>
+  <div class="hint">Tap a city for its full forecast. Press and hold to slide it to a new spot. · v<span id="c-ver"></span></div>
+</div>
+
+<div id="news" class="view hidden">
+  <div class="top">
+    <span class="tbtns"><button class="pill" id="n-home">Home</button><span class="place">News</span></span>
+    <span id="n-stamp"></span>
+  </div>
+  <div class="news" id="n-cols"></div>
 </div>
 
 <div class="modal hidden" id="editor">
@@ -134,7 +168,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 <div id="dim" class="hidden"><span>Tap anywhere to wake</span></div>
 
 <script>
-var VERSION = "1.0";
+var VERSION = "1.1";
 var DEFAULT_HOME = {name:"Hideout, UT", lat:40.6436, lon:-111.3985};
 var DEFAULT_CITIES = [
   {name:"Park City, UT", lat:40.6461, lon:-111.4980},
@@ -148,7 +182,7 @@ var DEFAULT_CITIES = [
   {name:"Ho Chi Minh City", lat:10.8231, lon:106.6297},
   {name:"Hanoi", lat:21.0278, lon:105.8342}
 ];
-var CITY_SECONDS = 30, MAX_CITIES = 15, REFRESH_MS = 10*60*1000;
+var NEWS_SECONDS = 180, CITY_SECONDS = 30, MAX_CITIES = 15, REFRESH_MS = 10*60*1000;
 
 function load(k, d){ try{ var v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }
 function save(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
@@ -204,6 +238,7 @@ function showBoard(city){
   var away = !!city;
   $("b-back").classList.toggle("hidden", !away);
   $("b-cities").classList.toggle("hidden", away);
+  $("b-news").classList.toggle("hidden", away);
   show("board");
   var key = boardCity.lat+","+boardCity.lon;
   if (boardData[key]) renderBoard(boardData[key].w, boardData[key].a);
@@ -258,6 +293,7 @@ function renderBoard(w, alerts){
   s += '<div class="band"><svg viewBox="0 0 1000 100" preserveAspectRatio="none">'+band+'</svg></div>';
   $("b-strip").innerHTML = s;
   renderAlerts(alerts);
+  renderCal();
 }
 function soonLine(h, nowIso){
   var i0 = h.time.indexOf(nowIso.slice(0,13)+":00"); if (i0<0) return "";
@@ -289,7 +325,7 @@ function startTimer(onEnd){
 }
 function tick(){ var t = "Returning home in "+cityLeft+"s"; $("c-count").textContent = t; if (boardCity!==home) $("b-clock").textContent = t; }
 function resetTimer(){ cityLeft = CITY_SECONDS; tick(); }
-function goHome(){ clearInterval(cityTimer); closeEditor(); showBoard(); updateClock(); }
+function goHome(){ clearInterval(cityTimer); clearInterval(newsTimer); closeEditor(); showBoard(); updateClock(); }
 
 function showCities(){
   show("cities"); renderCities(); startTimer(goHome);
@@ -392,7 +428,7 @@ $("e-results").addEventListener("click", function(e){
 $("e-sethome").onclick = function(){ pickHome = true; $("e-search").placeholder = "Search for your home location"; $("e-search").focus(); };
 var STATES = {"Alabama":"AL","Alaska":"AK","Arizona":"AZ","Arkansas":"AR","California":"CA","Colorado":"CO","Connecticut":"CT","Delaware":"DE","Florida":"FL","Georgia":"GA","Hawaii":"HI","Idaho":"ID","Illinois":"IL","Indiana":"IN","Iowa":"IA","Kansas":"KS","Kentucky":"KY","Louisiana":"LA","Maine":"ME","Maryland":"MD","Massachusetts":"MA","Michigan":"MI","Minnesota":"MN","Mississippi":"MS","Missouri":"MO","Montana":"MT","Nebraska":"NE","Nevada":"NV","New Hampshire":"NH","New Jersey":"NJ","New Mexico":"NM","New York":"NY","North Carolina":"NC","North Dakota":"ND","Ohio":"OH","Oklahoma":"OK","Oregon":"OR","Pennsylvania":"PA","Rhode Island":"RI","South Carolina":"SC","South Dakota":"SD","Tennessee":"TN","Texas":"TX","Utah":"UT","Vermont":"VT","Virginia":"VA","Washington":"WA","West Virginia":"WV","Wisconsin":"WI","Wyoming":"WY","District of Columbia":"DC"};
 
-function show(id){ ["board","cities"].forEach(function(v){ $(v).classList.toggle("hidden", v!==id); }); }
+function show(id){ ["board","cities","news"].forEach(function(v){ $(v).classList.toggle("hidden", v!==id); }); }
 function updateClock(){
   if (boardCity && boardCity!==home && !$("board").classList.contains("hidden")) return;
   $("b-clock").textContent = new Date().toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
@@ -407,9 +443,90 @@ $("b-dim").onclick = function(){ $("dim").classList.remove("hidden"); save("gw-d
 $("dim").onclick = function(){ $("dim").classList.add("hidden"); save("gw-dim", false); };
 $("board").addEventListener("pointerdown", function(){ if (boardCity!==home) resetTimer(); });
 
+
+// ---- News ----
+var newsTimer = null, newsIdle = 0;
+function esc(t){ return String(t==null?"":t).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }
+function ago(iso){
+  var t = Date.parse(iso); if (isNaN(t)) return "";
+  var m = Math.max(0, Math.round((Date.now()-t)/60000));
+  if (m<60) return m+" min ago"; var h = Math.round(m/60);
+  if (h<24) return h+(h===1?" hr ago":" hrs ago");
+  var d = Math.round(h/24); return d===1 ? "Yesterday" : d+" days ago";
+}
+function showNews(){
+  show("news"); newsIdle = 0; clearInterval(newsTimer);
+  newsTimer = setInterval(function(){ newsIdle++; if (newsIdle>=NEWS_SECONDS) goHome(); }, 1000);
+  loadNews();
+}
+function newsTouch(){ newsIdle = 0; }
+function loadNews(){
+  getJSON("news.json?t="+Date.now()).then(renderNews).catch(function(){
+    $("n-cols").innerHTML = '<div class="sub">News isn\'t available right now. It will be back shortly.</div>';
+  });
+}
+function renderNews(j){
+  if (j.updated) $("n-stamp").textContent = "Updated "+new Date(j.updated).toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit"})+" · returns home after 3 min untouched";
+  $("n-cols").innerHTML = (j.sections||[]).map(function(s){
+    var items = (s.items||[]).map(function(n){
+      return '<a class="ni" href="'+esc(n.link)+'" target="_blank" rel="noopener">'+
+        '<div class="s">'+esc(n.source)+(n.published?' · '+ago(n.published):'')+'</div>'+
+        '<div class="h">'+esc(n.title)+'</div>'+(n.summary?'<div class="d">'+esc(n.summary)+'</div>':'')+'</a>';
+    }).join("") || '<div class="sub" style="padding-top:1.2vh">No stories right now.</div>';
+    return '<div class="ncol"><h3>'+esc(s.title)+'<small>'+esc(s.scope||"")+'</small></h3><div class="nlist">'+items+'</div></div>';
+  }).join("");
+}
+$("b-news").onclick = showNews;
+$("n-home").onclick = goHome;
+$("news").addEventListener("pointerdown", newsTouch);
+$("news").addEventListener("scroll", newsTouch, true);
+$("news").addEventListener("click", newsTouch);
+
+// ---- Morning calendar (sent by the iPad Shortcut as #cal=time|title|calendar~...) ----
+function todayKey(){ var n = new Date(); return n.getFullYear()+"-"+(n.getMonth()+1)+"-"+n.getDate(); }
+function readCalFromUrl(){
+  var m = location.hash.match(/^#cal=(.*)$/); if (!m) return;
+  var raw = m[1]; try { raw = decodeURIComponent(raw); } catch(e){}
+  var events = raw.split("~").map(function(x){ return x.trim(); }).filter(Boolean).map(function(line){
+    var p = line.split("|").map(function(x){ return x.trim(); });
+    if (p.length===1) return {time:"", title:p[0], cal:""};
+    var tm = /^12:00\s*AM$/i.test(p[0]) ? "All day" : p[0];
+    return {time:tm, title:p[1]||"", cal:p[2]||""};
+  });
+  save("gw-cal", {day:todayKey(), events:events, cleared:false});
+  try { history.replaceState(null, "", location.pathname+location.search); } catch(e){}
+}
+function renderCal(){
+  var c = load("gw-cal", null), hr = new Date().getHours();
+  var on = !!(c && c.day===todayKey() && !c.cleared && hr<12 && boardCity===home);
+  $("b-cal").classList.toggle("hidden", !on);
+  $("b-strip").classList.toggle("hidden", on);
+  if (!on) return;
+  var d = new Date().toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"}).toUpperCase();
+  var ev = c.events || [], cards;
+  if (!ev.length) cards = '<div class="ev quiet"><div class="tt">Nothing on the calendar today</div></div>';
+  else {
+    var shown = ev.length>4 ? ev.slice(0,3) : ev;
+    cards = shown.map(function(e){
+      return '<div class="ev"><div class="tm">'+esc(e.time)+'</div><div class="tt">'+esc(e.title)+'</div>'+(e.cal?'<div class="cn">'+esc(e.cal)+'</div>':'')+'</div>';
+    }).join("");
+    if (ev.length>4) cards += '<div class="ev quiet"><div class="tm">+'+(ev.length-3)+'</div><div class="tt">more today</div></div>';
+  }
+  $("b-cal").innerHTML = '<div class="hd"><div class="ttl">TODAY · '+d+'<small>Clears itself at noon</small></div>'+
+    '<button class="pill" id="cal-clear">✕ Clear</button></div><div class="evs">'+cards+'</div>';
+}
+$("b-cal").addEventListener("click", function(e){
+  if (!e.target.closest("#cal-clear")) return;
+  var c = load("gw-cal", null); if (c){ c.cleared = true; save("gw-cal", c); }
+  renderCal();
+});
+window.addEventListener("hashchange", function(){ readCalFromUrl(); if (boardCity===home) renderCal(); });
+readCalFromUrl();
+$("c-ver").textContent = VERSION;
+
 if (load("gw-dim", false)) $("dim").classList.remove("hidden");
 showBoard(); updateClock();
-setInterval(updateClock, 15000);
+setInterval(function(){ updateClock(); if (boardCity===home && !$("board").classList.contains("hidden")) renderCal(); }, 15000);
 setInterval(function(){ if (boardCity===home) refreshBoard(); }, REFRESH_MS);
 setInterval(function(){ var n = new Date(); if (n.getHours()===3 && n.getMinutes()<1 && boardCity===home) location.reload(); }, 50000);
 </script>
