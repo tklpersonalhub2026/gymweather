@@ -17,7 +17,7 @@ SECTIONS = [
     {"key": "local", "title": "LOCAL", "scope": "Park City · Summit · Wasatch", "feeds": [
         ("Park Record", "https://www.parkrecord.com/feed/"),
         ("TownLift", "https://townlift.com/feed/"),
-        ("KPCW", "https://www.kpcw.org/index.rss"),
+        ("KPCW", ["https://www.kpcw.org/local-news.rss", "https://www.kpcw.org/news.rss", "https://www.kpcw.org/summit-county.rss", "https://www.kpcw.org/index.rss"]),
     ]},
     {"key": "state", "title": "STATE", "scope": "Utah", "feeds": [
         ("Salt Lake Tribune", "https://www.sltrib.com/arc/outboundfeeds/rss/?outputType=xml"),
@@ -102,13 +102,21 @@ def main():
     out = {"updated": datetime.now(timezone.utc).isoformat(), "sections": [], "feeds": []}
     for sec in SECTIONS:
         pool = []
-        for source, url in sec["feeds"]:
-            try:
-                got = fetch(source, url)
+        for source, urls in sec["feeds"]:
+            urls = [urls] if isinstance(urls, str) else urls
+            got, url, err = [], urls[0], "no stories"
+            for url in urls:  # first address that returns stories wins
+                try:
+                    got = fetch(source, url)
+                    if got:
+                        break
+                except Exception as e:  # keep going; one bad feed shouldn't empty the page
+                    err = str(e)[:200]
+            if got:
                 out["feeds"].append({"source": source, "url": url, "ok": True, "stories": len(got)})
                 pool.extend(got)
-            except Exception as e:  # keep going; one bad feed shouldn't empty the page
-                out["feeds"].append({"source": source, "url": url, "ok": False, "error": str(e)[:200]})
+            else:
+                out["feeds"].append({"source": source, "url": url, "ok": False, "error": err})
         pool.sort(key=lambda i: i["_t"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
         for i in pool:
             i.pop("_t", None)
