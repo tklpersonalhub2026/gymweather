@@ -182,7 +182,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 <div id="news" class="view hidden">
   <div class="top">
     <span class="tbtns"><button class="pill" id="n-home">Home</button><span class="place">News</span></span>
-    <span id="n-stamp"></span>
+    <span class="tbtns"><span id="n-stamp"></span><button class="pill" id="n-update">Update news</button></span>
   </div>
   <div class="news" id="n-cols"></div>
 </div>
@@ -202,7 +202,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 <div id="dim-wrap" class="hidden"><div id="dim"><span>Tap anywhere to brighten</span></div><button id="d-bright" aria-label="Brighten screen">Bright</button></div>
 
 <script>
-var VERSION = "1.8";
+var VERSION = "1.9";
 var DEFAULT_HOME = {name:"Hideout, UT", lat:40.6436, lon:-111.3985};
 var DEFAULT_CITIES = [
   {name:"Park City, UT", lat:40.6461, lon:-111.4980},
@@ -555,8 +555,9 @@ function showNews(){
 }
 function newsTouch(){ newsIdle = 0; }
 function loadNews(){
-  getJSON("news.json?t="+Date.now()).then(renderNews).catch(function(){
+  return getJSON("news.json?t="+Date.now()).then(function(j){ renderNews(j); return true; }).catch(function(){
     $("n-cols").innerHTML = '<div class="sub">News isn\'t available right now. It will be back shortly.</div>';
+    return false;
   });
 }
 function renderNews(j){
@@ -572,6 +573,16 @@ function renderNews(j){
 }
 $("b-news").onclick = showNews;
 $("n-home").onclick = goHome;
+// Update news: fetch the latest headlines the 15-minute collector has saved, and scroll each column back to the top
+$("n-update").onclick = function(){
+  var b = $("n-update"); if (b.disabled) return;
+  b.disabled = true; b.textContent = "Updating…";
+  loadNews().then(function(ok){
+    [].forEach.call(document.querySelectorAll("#n-cols .nlist"), function(el){ el.scrollTop = 0; });
+    b.textContent = ok ? "Up to date" : "Try again shortly";
+    setTimeout(function(){ b.disabled = false; b.textContent = "Update news"; }, 2500);
+  });
+};
 $("news").addEventListener("pointerdown", newsTouch);
 $("news").addEventListener("scroll", newsTouch, true);
 $("news").addEventListener("click", newsTouch);
