@@ -69,6 +69,26 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 .ct svg{width:6vh;height:6vh}
 .ct.lift{position:relative;z-index:5;box-shadow:0 1.5vh 4vh rgba(0,0,0,.6);outline:2px solid var(--rain);transition:none;opacity:.92}
 .ct.drop{outline:3px dashed var(--rain);outline-offset:-3px;background:#1d3550}
+.day{cursor:pointer}
+.day.sel{background:var(--card);box-shadow:inset 0 .5vh 0 var(--rain)}
+#dpop{position:absolute;left:2.5vw;right:2.5vw;top:9vh;bottom:28vh;z-index:30;background:#13212f;border:1px solid var(--line);border-radius:2vh;box-shadow:0 2vh 6vh rgba(0,0,0,.6);padding:3vh 3vw;display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:2vh 3vw;cursor:pointer}
+#dpop .dh{grid-column:1/3;display:flex;align-items:center;justify-content:space-between}
+#dpop .dt{font-size:5vh;font-weight:700}
+#dpop .dx{font-size:2.4vh;color:var(--sub)}
+#dpop .dl{display:flex;flex-direction:column;justify-content:center;gap:1.4vh}
+#dpop .dl svg{width:14vh;height:14vh}
+#dpop .dw{font-size:4.5vh;font-weight:600}
+#dpop .dhl{font-size:8vh;font-weight:600;line-height:1}
+#dpop .dsub{font-size:2.6vh;color:var(--sub)}
+#dpop .dr{display:flex;flex-direction:column;justify-content:center;gap:1.6vh}
+#dpop .parts{display:grid;grid-template-columns:repeat(4,1fr);gap:1vw}
+#dpop .pt{background:var(--card);border-radius:1.2vh;padding:1.4vh .8vw;text-align:center;display:flex;flex-direction:column;align-items:center;gap:.4vh}
+#dpop .pt .pn{font-size:2.2vh;color:var(--sub)}
+#dpop .pt svg{width:6vh;height:6vh}
+#dpop .pt .pv{font-size:3.6vh;font-weight:600}
+#dpop .pt .pp{font-size:2.2vh;color:var(--rain)}
+#dpop .facts{display:grid;grid-template-columns:1fr 1fr;gap:1vh 2vw;font-size:2.7vh}
+#dpop .facts b{color:var(--sub);font-weight:400;margin-right:.6vw}
 .hint{font-size:2vh;color:var(--faint);text-align:center;padding-bottom:1.2vh;flex:none}
 #dim{position:absolute;inset:0;background:#000;opacity:.88;z-index:50}
 #dim span{position:absolute;bottom:3vh;width:100%;text-align:center;color:#555;font-size:2vh}
@@ -84,7 +104,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 .list{overflow:auto;min-height:0}
 .sub{color:var(--sub);font-size:2.2vh}
 .err{position:absolute;bottom:1vh;left:2.5vw;font-size:1.8vh;color:var(--faint)}
-.temp,.cond,.hilo,.tile .v,.top .place,.pill,.ct .n,.ct .t,.day .dn,.cal .ttl,.ev .tm,.ncol h3,.ni .h{font-family:"Barlow Condensed",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
+#dpop .dt,#dpop .dhl,#dpop .pt .pv,.temp,.cond,.hilo,.tile .v,.top .place,.pill,.ct .n,.ct .t,.day .dn,.cal .ttl,.ev .tm,.ncol h3,.ni .h{font-family:"Barlow Condensed",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
 .top .place{font-size:3.4vh;letter-spacing:.03em}
 .pill{font-size:2.7vh}
 .cal{flex:none;height:27vh;border-top:1px solid var(--line);padding:1.6vh 2.5vw 1.8vh;display:flex;flex-direction:column;gap:1.2vh}
@@ -145,6 +165,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
   <div class="cal hidden" id="b-cal"></div>
   <div class="alert hidden" id="b-alert"><span class="run" id="b-alert-text"></span></div>
   <div class="err" id="b-err"></div>
+  <div id="dpop" class="hidden"></div>
 </div>
 
 <div id="cities" class="view hidden">
@@ -238,14 +259,15 @@ function hourLabel(iso){ var h = parseInt(iso.slice(11,13),10); return (h%12||12
 function forecastUrl(lats, lons, days){
   return "https://api.open-meteo.com/v1/forecast?latitude="+lats+"&longitude="+lons+
     "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,wind_gusts_10m,wind_direction_10m,is_day"+
-    "&hourly=precipitation_probability,precipitation,snowfall,weather_code"+
-    "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,rain_sum,showers_sum,snowfall_sum"+
+    "&hourly=precipitation_probability,precipitation,snowfall,weather_code,temperature_2m"+
+    "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,rain_sum,showers_sum,snowfall_sum,apparent_temperature_max,apparent_temperature_min,wind_speed_10m_max,wind_gusts_10m_max,wind_direction_10m_dominant,sunrise,sunset,uv_index_max"+
     "&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&timezone=auto&forecast_days="+days;
 }
 function getJSON(url){ return fetch(url, {cache:"no-store"}).then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); }); }
 
 var boardCity = null, boardData = {};
 function showBoard(city){
+  closePop();
   boardCity = city || home;
   var away = !!city;
   $("b-back").classList.toggle("hidden", !away);
@@ -275,6 +297,7 @@ function getAlerts(c){
 
 function renderBoard(w, alerts){
   var cur = w.current, d = w.daily, h = w.hourly;
+  lastW = w;
   $("b-place").textContent = boardCity.name;
   $("b-icon").innerHTML = icon(cur.weather_code, cur.is_day, "big");
   $("b-temp").textContent = r(cur.temperature_2m)+"°";
@@ -294,7 +317,7 @@ function renderBoard(w, alerts){
     var p = d.precipitation_probability_max[i]||0, snow = d.snowfall_sum[i]||0, liq = (d.rain_sum[i]||0)+(d.showers_sum[i]||0);
     var extra = snow>=0.1 ? '<span class="badge">'+snowIn(snow)+' snow</span>' :
       '<span class="p'+(p<20?' dry':'')+'">'+p+'%'+(liq>=0.01?' · '+inches(liq)+'"':'')+'</span>';
-    s += '<div class="day"><span class="dn">'+name+'</span>'+icon(d.weather_code[i],1)+'<span>'+r(d.temperature_2m_max[i])+'° / '+r(d.temperature_2m_min[i])+'°</span>'+extra+'</div>';
+    s += '<div class="day" data-i="'+i+'"><span class="dn">'+name+'</span>'+icon(d.weather_code[i],1)+'<span>'+r(d.temperature_2m_max[i])+'° / '+r(d.temperature_2m_min[i])+'°</span>'+extra+'</div>';
   }
   var start = h.time.indexOf(d.time[1]+"T00:00"), n = 240, bw = 1000/n;
   for (var k=0;k<n && start>=0 && start+k<h.time.length;k++){
@@ -304,9 +327,52 @@ function renderBoard(w, alerts){
   for (var j=1;j<10;j++) band += '<line x1="'+j*100+'" y1="0" x2="'+j*100+'" y2="100" stroke="#22344a" stroke-width="2"/>';
   s += '<div class="band"><svg viewBox="0 0 1000 100" preserveAspectRatio="none">'+band+'</svg></div>';
   $("b-strip").innerHTML = s;
+  if (popDay) markSel();
   renderAlerts(alerts);
   renderCal();
 }
+// ---- Day details pop-up: tap a day in the 10-day row; tap again (or the card) to close; closes itself after 8 seconds ----
+var lastW = null, popDay = 0, popTimer = null, POP_SECONDS = 8;
+function markSel(){ [].forEach.call(document.querySelectorAll("#b-strip .day"), function(el){ el.classList.toggle("sel", +el.dataset.i===popDay); }); }
+function closePop(){ clearTimeout(popTimer); popDay = 0; $("dpop").classList.add("hidden"); markSel(); }
+function hm(iso){ var t = iso.slice(11,16).split(":"), hh = +t[0]; return (hh%12||12)+":"+t[1]+(hh<12?" am":" pm"); }
+function openPop(i){
+  var w = lastW; if (!w) return;
+  var d = w.daily, h = w.hourly, date = d.time[i];
+  var dt = new Date(date+"T12:00:00");
+  var title = dt.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"});
+  var p = d.precipitation_probability_max[i]||0, sn = d.snowfall_sum[i]||0, liq = (d.rain_sum[i]||0)+(d.showers_sum[i]||0);
+  var parts = [["Morning",6,12],["Afternoon",12,18],["Evening",18,24],["Overnight",24,30]].map(function(pt){
+    var base = h.time.indexOf(date+"T00:00"); if (base<0) return "";
+    var temps = [], prob = 0, codes = {}, best = null, n = 0;
+    for (var k=base+pt[1]; k<base+pt[2] && k<h.time.length; k++){
+      temps.push(h.temperature_2m[k]); prob = Math.max(prob, h.precipitation_probability[k]||0);
+      var c = h.weather_code[k]; codes[c] = (codes[c]||0)+1; if (best===null || codes[c]>codes[best] || (codes[c]===codes[best] && c>best)) best = c; n++;
+    }
+    if (!n) return "";
+    var avg = temps.reduce(function(a,b){return a+b;},0)/temps.length;
+    return '<div class="pt"><div class="pn">'+pt[0]+'</div>'+icon(best, (pt[0]==="Overnight"||pt[0]==="Evening")?0:1)+'<div class="pv">'+r(avg)+'°</div><div class="pp">'+prob+'% precip</div></div>';
+  }).join("");
+  var precip = sn>=0.1 ? snowIn(sn)+" snow" + (liq>=0.01 ? " + "+inches(liq)+'" rain' : "") : (liq>=0.01 ? inches(liq)+'" rain' : "None expected");
+  $("dpop").innerHTML =
+    '<div class="dh"><div class="dt">'+title+'</div><div class="dx">Tap to close</div></div>'+
+    '<div class="dl">'+icon(d.weather_code[i],1)+'<div class="dw">'+(WORDS[d.weather_code[i]]||"")+'</div>'+
+      '<div class="dhl"><span style="color:var(--hi)">'+r(d.temperature_2m_max[i])+'°</span> <span style="color:var(--faint)">/</span> <span style="color:var(--lo)">'+r(d.temperature_2m_min[i])+'°</span></div>'+
+      '<div class="dsub">Feels like '+r(d.apparent_temperature_max[i])+'° / '+r(d.apparent_temperature_min[i])+'°</div></div>'+
+    '<div class="dr"><div class="parts">'+parts+'</div><div class="facts">'+
+      '<div><b>Precip chance</b>'+p+'%</div><div><b>Amount</b>'+precip+'</div>'+
+      '<div><b>Wind</b>'+dir(d.wind_direction_10m_dominant[i])+' '+r(d.wind_speed_10m_max[i])+' mph</div><div><b>Gusts</b>'+r(d.wind_gusts_10m_max[i])+' mph</div>'+
+      '<div><b>Sunrise</b>'+hm(d.sunrise[i])+'</div><div><b>Sunset</b>'+hm(d.sunset[i])+'</div>'+
+      '<div><b>UV index</b>'+r(d.uv_index_max[i]||0)+'</div></div></div>';
+  popDay = i; $("dpop").classList.remove("hidden"); markSel();
+  clearTimeout(popTimer); popTimer = setTimeout(closePop, POP_SECONDS*1000);
+}
+$("b-strip").addEventListener("click", function(e){
+  var el = e.target.closest(".day"); if (!el) return;
+  var i = +el.dataset.i; if (i===popDay) closePop(); else openPop(i);
+});
+$("dpop").addEventListener("click", closePop);
+
 function soonLine(h, nowIso){
   var i0 = h.time.indexOf(nowIso.slice(0,13)+":00"); if (i0<0) return "";
   var kind = function(i){ return ((h.snowfall[i]||0)>0 || isSnowCode(h.weather_code[i])) ? "Snow" : "Rain"; };
