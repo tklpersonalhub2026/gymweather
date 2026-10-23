@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:12:48.324177+00:00",
+ "updated": "2026-10-23T01:49:54.857213+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,6 +85,20 @@
    "items": [
     {
      "source": "Salt Lake Tribune",
+     "title": "Flash floods hit Zion National Park, while ‘prolonged’ rain makes the Escalante River rise",
+     "summary": "The rain in southern Utah will peter out Friday, when northern Utah can expect more.",
+     "link": "https://www.sltrib.com/news/2026/10/22/hurricane-hit-with-flash-floods/",
+     "published": "2026-10-23T01:06:56+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Pediatrician warns about energy-drink risks for teens",
+     "summary": "Johns Hopkins researchers say nearly a third of teens ages 12 to 17 regularly drink energy drinks, raising concerns about caffeine's effects on young people.",
+     "link": "https://www.ksl.com/article//pediatrician-warns-about-energy-drink-risks-for-teens/51639902",
+     "published": "2026-10-22T18:35:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
      "title": "Salt Lake City’s ‘invisible’ downtown art museum will get a brand-new building and location",
      "summary": "As downtown Salt Lake City gets ready for its makeover, here's where a certain art museum stands amid all the plans.",
      "link": "https://www.sltrib.com/artsliving/2026/10/22/umoca-will-get-new-location/",
@@ -92,10 +106,17 @@
     },
     {
      "source": "KSL",
-     "title": "7 things to consider before adopting a pet",
-     "summary": "Becoming a pet owner involves more than furry snuggles and cute accessories. Are you ready for the time, cost and responsibility?",
-     "link": "https://bit.ly/3VW7utF",
-     "published": "2026-10-22T16:57:00+00:00"
+     "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer",
+     "summary": "Mississippi has released video showing the fatal shooting of a 1-year-old boy by a police officer. Kohen Wiley was killed in June when Senatobia police officer Sgt. Hunter Foster fired his gun into a moving vehicle…",
+     "link": "https://www.ksl.com/article/news/us/mississippi-releases-video-showing-fatal-shooting-of-1-year-old-boy-by-police-officer/51639808",
+     "published": "2026-10-22T18:02:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "City council approves zoning changes for Provo Towne Centre redevelopment",
+     "summary": "The Provo City Council approved some zoning changes on Tuesday that will allow the redevelopment of Provo Towne Centre to move forward.",
+     "link": "https://www.ksl.com/article/51639810/city-council-approves-zoning-changes-for-provo-towne-centre-redevelopment",
+     "published": "2026-10-22T17:31:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -106,17 +127,10 @@
     },
     {
      "source": "KSL",
-     "title": "Charges dismissed against ex-Ogden officer in July 4 incident that allegedly injured 8 people",
-     "summary": "Charges have been dismissed against an ex-Ogden police officer in connection with a July 4 incident in Ogden that allegedly injured eight people.",
-     "link": "https://www.ksl.com/article/51639791/charges-dismissed-against-ex-ogden-officer-in-july-4-incident-that-allegedly-injured-8-people",
-     "published": "2026-10-22T16:44:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem",
-     "summary": "President Donald Trump has accused LeBron James of disrespecting the United States. This comes after James continued his warmups during the national anthem at a game on Tuesday.",
-     "link": "https://www.ksl.com/article/51639807/trump-blasts-76ers-star-lebron-james-as-disgrace-for-not-standing-still-during-national-anthem",
-     "published": "2026-10-22T16:23:00+00:00"
+     "title": "New study traces van Gogh's famed 'Starry Night' to an actual night sky from 1889",
+     "summary": "Scientists doubling as art detectives have traced Vincent van Gogh's \" The Starry Night \" to a celestial scene that suggests a new date for one of the world's most famous paintings.",
+     "link": "https://www.ksl.com/article/news/utah/science-and-tech/new-study-traces-van-goghs-famed-starry-night-to-an-actual-night-sky-from-1889/51639694",
+     "published": "2026-10-22T17:05:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -124,20 +138,6 @@
      "summary": "The Justice Department is sending election monitors to Utah for the November midterms as it investigates Lt. Gov. Deidre Henderson over the state’s voter rolls.",
      "link": "https://www.sltrib.com/news/2026/10/22/doj-sending-election-monitors-utah/",
      "published": "2026-10-22T15:34:33+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Strong 7-magnitude earthquake hits China's Tibet region, killing 16 and injuring dozens, state media reports",
-     "summary": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck China's Tibet region on Thursday, according to state news agency Xinhua.",
-     "link": "https://www.ksl.com/article/51639719/strong-7-magnitude-earthquake-strikes-chinas-tibet-region",
-     "published": "2026-10-22T16:03:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Why some Grizzlies fans were cheering for the Jazz in the season opener",
-     "summary": "Utah Jazz forward Jaren Jackson Jr. returned to Memphis for the first time since his trade, leaving Grizzlies fans torn over who to root for.",
-     "link": "https://www.sltrib.com/sports/jazz/2026/10/22/jaren-jackson-jr-returned-memphis/",
-     "published": "2026-10-22T14:13:29+00:00"
     }
    ]
   },
@@ -148,17 +148,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Trump says Iran is making up strikes on ships to drive up oil prices",
-     "summary": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
-     "published": "2026-10-22T23:09:59+00:00"
+     "title": "More people now use GLP-1s to lose weight than for other health issues",
+     "summary": "Growing usage of GLP-1 drugs for weight loss is reshaping how consumers shop for food and clothes, according to consulting firm EY-Parthenon.",
+     "link": "https://www.cbsnews.com/news/glp-1-weight-loss-drug-diabetes-consumption-habits/",
+     "published": "2026-10-23T01:06:59+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "DOJ monitoring plans and DHS voter checks raise concerns of election interference",
-     "summary": "With the midterm elections less than two weeks away, a new legal battle is raising questions about the federal government's role in policing who is eligible to vote. A federal judge in California has blocked a…",
-     "link": "https://www.pbs.org/newshour/show/doj-monitoring-plans-and-dhs-voter-checks-raise-concerns-of-election-interference",
-     "published": "2026-10-22T22:55:44+00:00"
+     "title": "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+     "summary": "Calley Means, a top adviser to Health Secretary Robert F. Kennedy Jr. and a chief advocate for the Make America Healthy Again movement, resigned from his position with the Trump administration Thursday.",
+     "link": "https://www.pbs.org/newshour/politics/rfk-jr-adviser-calley-means-resigns-amid-growing-maha-discontent-over-lack-of-progress",
+     "published": "2026-10-23T00:51:44+00:00"
     },
     {
      "source": "NPR",
@@ -169,17 +169,17 @@
     },
     {
      "source": "CBS News",
-     "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
-     "summary": "It was the biggest earthquake in the region in the last five years, China's national broadcaster CCTV said.",
-     "link": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
-     "published": "2026-10-22T23:04:35+00:00"
+     "title": "Trump praises Ramaswamy ad as some GOP critics speak out",
+     "summary": "\"Who wouldn't use such an Ad?\" President Trump wrote. \"I would, it's called, 'hitting pay dirt.'\"",
+     "link": "https://www.cbsnews.com/news/ramaswamy-ad-amy-acton-mother-trump/",
+     "published": "2026-10-23T01:00:26+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: Virginia state senator charged with running criminal marijuana enterprise",
-     "summary": "In our news wrap Thursday, federal authorities charged Virginia state Sen. Louise Lucas with running a criminal marijuana enterprise, New York City lawmakers voted to ban horse-drawn carriage rides in Central Park and a…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-virginia-state-senator-charged-with-running-criminal-marijuana-enterprise",
-     "published": "2026-10-22T22:50:52+00:00"
+     "title": "IV team warned Christa Pike's vein might have 'blown' during failed execution, court filing says",
+     "summary": "Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike's arms before her attempted execution and warned that some of her veins may have ruptured, or \"blown,\" before she was…",
+     "link": "https://www.pbs.org/newshour/nation/iv-team-warned-christa-pikes-vein-might-have-blown-during-failed-execution-court-filing-says",
+     "published": "2026-10-23T00:35:31+00:00"
     },
     {
      "source": "NPR",
@@ -190,17 +190,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump defends Ramaswamy despite bipartisan outrage over attack ad against Amy Acton",
-     "summary": "President Trump on Thursday defended the Republican nominee for Ohio governor, Vivek Ramaswamy, amid backlash from a controversial attack ad that featured the estranged mother of Ramaswamy's opponent, Amy Acton. CBS…",
-     "link": "https://www.cbsnews.com/video/trump-defends-ramaswamy-despite-bipartisan-outrage-over-attack-ad-featuring-opponents-mom/",
-     "published": "2026-10-22T22:59:00+00:00"
+     "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
+     "summary": "It was the biggest earthquake in the region in the last five years, China's national broadcaster CCTV said.",
+     "link": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
+     "published": "2026-10-23T00:56:47+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news",
-     "summary": "Iran's state television reported that seven oil tankers either caught fire or were damaged by mines overnight Wednesday into Thursday after being targeted or striking naval mines in the Strait of Hormuz.",
-     "link": "https://www.pbs.org/newshour/world/iran-says-7-oil-tankers-damaged-in-strait-of-hormuz-and-other-middle-east-news",
-     "published": "2026-10-22T22:48:30+00:00"
+     "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
+     "summary": "U.S. Rep. Ilhan Omar will move out of her Washington, D.C., home that federal agents searched last week, she said Wednesday, noting that attention brought on by the raid has made her feel unsafe there.",
+     "link": "https://www.pbs.org/newshour/politics/rep-ilhan-omar-says-she-will-move-out-of-her-washington-dc-home-after-federal-search",
+     "published": "2026-10-23T00:25:01+00:00"
     },
     {
      "source": "NPR",
@@ -211,10 +211,10 @@
     },
     {
      "source": "CBS News",
-     "title": "GOP Rep. Gabe Evans on running in competitive Colorado district, data center regulation and more",
-     "summary": "\"The Ratepayer Protection Act,\" aimed at preventing utility customers from absorbing the costs of data centers, overwhelmingly passed the House but failed to advance in the Senate by three votes. Republican Rep. Gabe…",
-     "link": "https://www.cbsnews.com/video/gop-gabe-evans-competitive-colorado-district-data-center-regulation-more/",
-     "published": "2026-10-22T22:54:11+00:00"
+     "title": "More parents facing charges for their children's e-motorcycle crashes",
+     "summary": "Among those charged were the mother and father of 13-year-old Benson Nguyen, who died after crashing his e-moto into a light pole in Southern California.",
+     "link": "https://www.cbsnews.com/news/parents-children-electric-motorcycle-crashes-criminal-charges/",
+     "published": "2026-10-23T00:12:05+00:00"
     }
    ]
   }
