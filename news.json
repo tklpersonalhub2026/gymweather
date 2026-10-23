@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:55:28.636790+00:00",
+ "updated": "2026-10-23T23:03:22.597213+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,11 +7,60 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "KPCW",
+     "title": "Here’s how the Snyderville Basin ensures new developments have water",
+     "summary": "Western Summit County has a unique process of auditing water suppliers each year.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-23/heres-how-the-snyderville-basin-ensures-new-developments-have-water",
+     "published": "2026-10-23T22:30:18+00:00"
+    },
+    {
      "source": "Park Record",
-     "title": "Park City leaders address infrastructure upgrades, but could work be finished by Winter Olympics?",
-     "summary": "Mayor Ryan Dickey and the Park City Council on Thursday held a discussion about infrastructure in the Main Street core that eventually encompassed the 2034 Winter Olympics as well, particularly in the context of…",
-     "link": "https://www.parkrecord.com/2026/10/23/park-city-leaders-address-infrastructure-upgrades-but-could-work-be-finished-by-winter-olympics/",
-     "published": "2026-10-23T19:45:00+00:00"
+     "title": "Obituary: Kathryn D. “Kathy” Jones-Price",
+     "summary": "Kathy passed away on October 14, 2026, in Park City, Utah, at the age of 71 from metastatic colorectal cancer. She was born in Salt Lake City on November 10, 1954, to Byron D. Jones and Margaret Adamson Jones. She had a…",
+     "link": "https://www.parkrecord.com/2026/10/23/obituary-kathryn-d-kathy-jones-price/",
+     "published": "2026-10-23T22:10:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Summit County selects mountain-inspired design for Kimball Junction pedestrian bridge",
+     "summary": "Concept B emerged from three options after nearly 850 people weighed in; construction is expected to begin in 2028",
+     "link": "https://townlift.com/2026/10/summit-county-selects-mountain-inspired-design-for-kimball-junction-pedestrian-bridge/",
+     "published": "2026-10-23T20:55:54+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Where to take old prescriptions in the Wasatch Back",
+     "summary": "Wasatch Back residents have several locations to drop old medications on National Prescription Drug Take Back Day Oct. 24.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-23/where-to-take-old-prescriptions-in-the-wasatch-back",
+     "published": "2026-10-23T22:11:14+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Obituary: Morgan Stanley Hole",
+     "summary": "It is with a profound sense of loss that we share the passing of Morgan Stanley Hole, age 63, of Park City, Utah, on August 17, 2026. Over a short span of ﬁve months, Morgan courageously and valiantly, though ultimately…",
+     "link": "https://www.parkrecord.com/2026/10/23/obituary-morgan-stanley-hole/",
+     "published": "2026-10-23T22:05:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Park City council weighs China Bridge redevelopment to revitalize Swede Alley corridor",
+     "summary": "PARK CITY, Utah — With the southern portion of China Bridge parking garage within a decade of the end of its service life, Park City officials are considering a broader",
+     "link": "https://townlift.com/2026/10/park-city-council-weighs-china-bridge-redevelopment-to-revitalize-swede-alley-corridor/",
+     "published": "2026-10-23T20:26:15+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Obituary: Gerald Young",
+     "summary": "October 20, 2026, Gerald Edwin Young passed away at his home surrounded by family. Gerald was born August 5, 1930 in Oakley, Ut on his fathers ranch. He owns and operates a cattle ranch and loved ranching and the…",
+     "link": "https://www.parkrecord.com/2026/10/23/obituary-gerald-young/",
+     "published": "2026-10-23T22:00:00+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Wasatch County throws support behind lawsuit against developer-led towns",
+     "summary": "A judge in Moab is set to consider whether preliminary municipalities violate the Utah Constitution.",
+     "link": "https://www.kpcw.org/state-regional/2026-10-23/wasatch-county-throws-support-behind-lawsuit-against-developer-led-towns",
+     "published": "2026-10-23T21:30:28+00:00"
     },
     {
      "source": "TownLift",
@@ -22,59 +71,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Registration for Christian Center of Park City’s Operation Hope now open",
-     "summary": "Wasatch Back families can now register online for Operation Hope, the annual Christian Center of Park City holiday program. The event provides Christmas presents to kids in need.",
-     "link": "https://www.kpcw.org/summit-county/2026-10-23/registration-for-christian-center-of-park-citys-operation-hope-now-open",
-     "published": "2026-10-23T18:00:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Powder Buoy Party comes back to raise money for Utah Avalanche Center",
-     "summary": "One of the final autumn events before the official start of winter is the Powder Buoy and Utah Avalanche Center party at Park City Brewing. The post Powder Buoy Party comes back to raise money for Utah Avalanche Center…",
-     "link": "https://www.parkrecord.com/2026/10/23/powder-buoy-party-comes-back-to-raise-money-for-utah-avalanche-center/",
-     "published": "2026-10-23T19:30:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Doppelmayr opens expanded Salt Lake City headquarters as ski lift demand grows",
-     "summary": "The 160,000-square-foot facility expands the company’s Utah manufacturing capacity as resorts across North America invest in new ropeway systems",
-     "link": "https://townlift.com/2026/10/doppelmayr-opens-expanded-salt-lake-city-headquarters-as-ski-lift-demand-grows/",
-     "published": "2026-10-23T18:03:17+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Friday Film Review | 'Wicker'",
-     "summary": "“Wicker” is a romantic-fantasy film directed and adapted by Alex Huston Fischer and Eleanor Wilson from the short story “Wicker Husband” by Ursula Wills-Jones.",
-     "link": "https://www.kpcw.org/arts-culture/2026-10-23/friday-film-review-wicker",
-     "published": "2026-10-23T16:34:58+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Ted Ligety excited to show off ‘relatable’ skiing in 77th ‘Warren Miller’ film",
-     "summary": "The 77th installment in the late director's annual winter sports film series spotlights skiers on their “Days Off.” For Ligety, that means hitting the slopes at Deer Valley with the family. The post Ted Ligety excited…",
-     "link": "https://www.parkrecord.com/2026/10/23/ted-ligety-excited-to-show-off-relatable-skiing-in-77th-warren-miller-film/",
-     "published": "2026-10-23T19:15:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Judge to appoint new attorney for Kouri Richins in pending fraud case",
-     "summary": "Amy Fowler’s withdrawal follows Richins’ allegations of a conflict of interest involving a witness in her husband’s murder trial.",
-     "link": "https://townlift.com/2026/10/judge-to-appoint-new-attorney-for-kouri-richins-in-pending-fraud-case/",
-     "published": "2026-10-23T17:01:28+00:00"
-    },
-    {
-     "source": "KPCW",
      "title": "Park City to host open house on Little Kate Road upgrades",
      "summary": "Park City is asking residents to once again weigh in on the Little Kate Road project. The new design includes a buffered bike lane.",
      "link": "https://www.kpcw.org/park-city/2026-10-23/park-city-to-host-open-house-on-little-kate-road-upgrades",
-     "published": "2026-10-23T16:05:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Park City mountain biking team heads to state race",
-     "summary": "The cyclists finished second in most races this season to Corner Canyon. The post Park City mountain biking team heads to state race appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/23/park-city-mountain-biking-team-heads-to-state-race/",
-     "published": "2026-10-23T19:05:51+00:00"
+     "published": "2026-10-23T20:55:00+00:00"
     }
    ]
   },
@@ -85,10 +85,31 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "This Utah theater has become a cultural destination. Here are my top 10 shows",
+     "title": "No Tyler Robinson trial date set as attorneys clash over timeline",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/23/eccles-theater-best-shows-salt-lake-city-utah/",
-     "published": "2026-10-23T19:44:54+00:00"
+     "link": "https://www.deseret.com/utah/2026/10/23/no-date-set-for-tyler-robinson-trial/",
+     "published": "2026-10-23T22:51:56+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Gunmen open fire at a Christian church in Jordan, killing at least seven",
+     "summary": "Officials said the shooting, during a funeral at an Orthodox church, was a terrorist act motivated by extremist ideology.",
+     "link": "https://www.sltrib.com/religion/2026/10/23/deadly-shooting-christian-church/",
+     "published": "2026-10-23T21:02:22+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Former Syracuse students sue school district over alleged sexual harassment",
+     "summary": "Two former Syracuse High students allege in a Title IX suit that school officials knew about sexual harassment allegations related to nude images of underage girls and did nothing.",
+     "link": "https://www.ksl.com/article/51640267/former-syracuse-students-sue-school-district-over-alleged-sexual-harassment",
+     "published": "2026-10-23T17:02:04+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "High school girls soccer: Samantha Brown’s long-range effort lifts Ridgeline to coveted 4A state championship",
+     "summary": "",
+     "link": "https://www.deseret.com/sports/2026/10/23/high-school-girls-soccer-4a-state-championship/",
+     "published": "2026-10-23T22:38:50+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,17 +120,17 @@
     },
     {
      "source": "KSL",
-     "title": "Motorcyclist killed after hitting a deer on SR-13",
-     "summary": "A motorcyclist died Thursday morning after hitting a deer on state Route 13 in Box Elder County, according to the Utah Highway Patrol.",
-     "link": "https://www.ksl.com/article/51639982/motorcyclist-killed-after-hitting-a-deer-on-sr-13",
-     "published": "2026-10-22T22:30:00+00:00"
+     "title": "Rockslide near Bridal Veil Falls closes section of Provo Canyon trail",
+     "summary": "A section of the Provo River Trail in Provo Canyon is temporarily closed because of at least one rockslide in Bridal Veil Falls area Friday afternoon, Utah County officials said.",
+     "link": "https://www.ksl.com/article/51640392/rockslide-near-bridal-veil-falls-closes-section-of-provo-canyon-trail",
+     "published": "2026-10-23T16:56:57+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Rare Arizona tornado might signal a record-breaking El Niño winter",
+     "title": "High school girls volleyball: 2A state tournament Day 1 recap — North Summit, Parowan, San Juan and Millard advance to semis",
      "summary": "",
-     "link": "https://www.deseret.com/environment/2026/10/23/arizona-tornado-might-signal-el-nino-winter/",
-     "published": "2026-10-23T19:21:28+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/23/girls-volleyball-2a-1a-state-tournament-first-round-quarterfinals/",
+     "published": "2026-10-23T22:23:31+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,38 +141,17 @@
     },
     {
      "source": "KSL",
-     "title": "Salt Lake City park to close again — this time for upgrades",
-     "summary": "A park in Salt Lake City's west side is getting yet another makeover as the city seeks to revitalize it.",
-     "link": "https://www.ksl.com/article/51639933/salt-lake-city-park-to-close-again--this-time-for-upgrades",
-     "published": "2026-10-22T22:14:00+00:00"
+     "title": "Trial dates for Tyler Robinson may be included in November scheduling order",
+     "summary": "Tyler Robinson, the man facing death penalty charges after being accused of killing Charlie Kirk, appeared in court Friday, where attorneys discussed how long the process will take in preparation for scheduling a trial.",
+     "link": "https://www.ksl.com/article/51640263/judge-could-set-trial-dates-for-tyler-robinson-in-friday-afternoon-hearing",
+     "published": "2026-10-23T16:45:10+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "High school girls soccer: Lone Peak blanks Davis to cap remarkable turnaround this season with 6A title",
+     "title": "BYU now among ‘the hunted’ after rising to No. 2, while Utah gets first true test (+predictions)",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/high-school-girls-soccer-6a-state-championship/",
-     "published": "2026-10-23T19:19:45+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Bagley Cartoon: Wanna Bet?",
-     "summary": "Check out Pat Bagley's latest cartoon: Wanna Bet?",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/10/23/bagley-cartoon-wanna-bet/",
-     "published": "2026-10-23T15:40:12+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "'Let my mom check my candy': Navigating Halloween with food allergies",
-     "summary": "A Syracuse family shares their Halloween routine, while a pediatric dietitian offers tips to help children with food allergies celebrate safely.",
-     "link": "https://www.ksl.com/article/51639931/let-my-mom-check-my-candy-navigating-halloween-with-food-allergies",
-     "published": "2026-10-22T21:37:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Utah Housing Corporation shakeup continues as president and CEO resigns",
-     "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/23/utah-housing-commission-leader-resigns/",
-     "published": "2026-10-23T19:10:32+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/23/byu-cougars-ucf-knights-commentary/",
+     "published": "2026-10-23T21:45:00+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "\"The People's Court\" Mystery: Michelle Parker's Case Reopened | Case by Case | \"48 Hours\" Podcast",
-     "summary": "A televised dispute over an engagement ring turned into one of Florida's most haunting missing persons cases. This week, CBS News correspondents Shanelle Kaul and Cristian Benavides examine the recent arrest of Michelle…",
-     "link": "https://www.cbsnews.com/video/102326-the-peoples-court-mystery-michelle-parker-48-hours-case-by-case/",
-     "published": "2026-10-23T23:00:00+00:00"
+     "title": "House hunter discovers body in vacant home",
+     "summary": "In an exclusive interview, a homebuyer shares vivid details of finding a dead man during a house tour.",
+     "link": "https://www.cbsnews.com/news/kentucky-house-hunter-discovers-deceased-body-in-a-vacant-house/",
+     "published": "2026-10-23T22:56:58+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "News Wrap: White House says Melania Trump brokered localized ceasefire deal in Oleshky",
+     "summary": "In our news wrap Friday, the White House says Melania Trump brokered a localized ceasefire deal in the Ukrainian city of Oleshky, Romania's president blamed Russia for a drone strike that sank a cargo ship in the Black…",
+     "link": "https://www.pbs.org/newshour/show/news-wrap-white-house-says-melania-trump-brokered-localized-ceasefire-deal-in-oleshky",
+     "published": "2026-10-23T22:50:35+00:00"
     },
     {
      "source": "NPR",
@@ -175,18 +182,18 @@
      "published": "2026-10-23T19:31:15+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
-     "summary": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself.",
-     "link": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
-     "published": "2026-10-23T18:56:29+00:00"
+     "source": "CBS News",
+     "title": "Extended interview: Son of freed American Stephen Hubbard, Fr. Joseph Coleman, on father's release",
+     "summary": "The son of Stephen Hubbard, Fr. Joseph Coleman, and the family's lawyer, Martin De Luca, speak with CBS News' Olivia Rinaldi about Hubbard's release from Russia after more than four years in jail.",
+     "link": "https://www.cbsnews.com/video/extended-interview-fr-joseph-coleman-son-of-freed-american-stephen-hubbard/",
+     "published": "2026-10-23T22:55:06+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Police officer who shot and killed 1-year-old resigns",
-     "summary": "The Mississippi attorney general's office had determined that the use of force was justified in the deadly shooting that stemmed from an alleged shoplifting incident.",
-     "link": "https://www.cbsnews.com/news/mississippi-police-officer-resigns-shooting-killed-kohen-wiley/",
-     "published": "2026-10-23T19:48:40+00:00"
+     "source": "PBS NewsHour",
+     "title": "'There's babies in there': Oregon father describes stopping school shooter",
+     "summary": "Kaylub Giamanco is the father who stopped a school shooter in Bend, Oregon, a week ago. The teen gunman entered the school and killed three students and a teacher before Giamanco stopped him. In a new interview with…",
+     "link": "https://www.pbs.org/newshour/show/theres-babies-in-there-oregon-father-describes-stopping-school-shooter",
+     "published": "2026-10-23T22:48:48+00:00"
     },
     {
      "source": "NPR",
@@ -197,24 +204,17 @@
     },
     {
      "source": "PBS NewsHour",
-     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34",
-     "summary": "Images being broadcast on Jordanian state television show two gunmen who appear to be holding pistols approaching the church and firing shots. A third man who appears to be holding a semiautomatic rifle then appears and…",
-     "link": "https://www.pbs.org/newshour/world/gunmen-open-fire-at-a-church-during-a-funeral-in-jordan-killing-7-and-wounding-34",
-     "published": "2026-10-23T18:20:06+00:00"
+     "title": "Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs",
+     "summary": "Collins, locked in a tight race with Democratic challenger Troy Jackson, issued a statement saying she'd spoken with Trump's top trade negotiator, Jamieson Greer, and Commerce Secretary Howard Lutnick \"about the toll…",
+     "link": "https://www.pbs.org/newshour/politics/seeking-to-help-collins-in-maine-trump-exempts-some-canadian-imports-from-his-50-tariffs",
+     "published": "2026-10-23T22:48:08+00:00"
     },
     {
      "source": "CBS News",
-     "title": "\"Face the Nation with Margaret Brennan\" guests for Oct. 25, 2026",
-     "summary": "This week's guests include Attorney General Todd Blanche, GOP Sen. Thom Tillis, Democratic Rep. Jason Crow and Texas Democratic gubernatorial candidate Gina Hinojosa.",
-     "link": "https://www.cbsnews.com/news/face-the-nation-guests-10-25-2026/",
-     "published": "2026-10-23T19:24:05+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother",
-     "summary": "Speaking at a campaign stop, Ramaswamy said the advertisement, which features Acton's mother calling her \"a liar,\" had nothing to do with childhood abuse.",
-     "link": "https://www.pbs.org/newshour/politics/vivek-ramaswamy-defends-ad-featuring-amy-actons-estranged-mother",
-     "published": "2026-10-23T18:07:34+00:00"
+     "title": "Judge allows Jane Doe anonymity in Cornell sexual assault lawsuit",
+     "summary": "Jane Doe can remain anonymous in her sexual assault lawsuit involving former members of Cornell University's Chi Phi fraternity, a judge ruled.",
+     "link": "https://www.cbsnews.com/news/jane-doe-can-remain-anonymous-cornell-university-sexual-assault-lawsuit/",
+     "published": "2026-10-23T22:46:47+00:00"
     },
     {
      "source": "NPR",
@@ -224,11 +224,11 @@
      "published": "2026-10-23T17:35:14+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "DOJ didn't ensure school discrimination ended before dropping cases: watchdog",
-     "summary": "In at least 18 cases, the Justice Department supported dismissals without first asking the federal court overseeing the case to determine if the school had ended discriminatory practices.",
-     "link": "https://www.cbsnews.com/news/school-desegregation-cases-ended-without-ensuring-discrimination-ended-watchdog/",
-     "published": "2026-10-23T19:18:40+00:00"
+     "source": "PBS NewsHour",
+     "title": "Surging diesel prices loom over Republicans in Iowa's midterm races",
+     "summary": "It's been more than a decade since Iowa has had a Democratic governor or senator. But this year, with the incumbents retiring, both races are competitive. As Peter Tubbs at Iowa PBS reports, record-high diesel prices…",
+     "link": "https://www.pbs.org/newshour/show/surging-diesel-prices-loom-over-republicans-in-iowas-midterm-races",
+     "published": "2026-10-23T22:45:29+00:00"
     }
    ]
   }
