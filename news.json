@@ -1,11 +1,18 @@
 {
- "updated": "2026-10-23T23:03:22.597213+00:00",
+ "updated": "2026-10-24T01:30:06.412928+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "TownLift",
+     "title": "BREAKING: Summit County to close 50-year-old murder case and name Ted Bundy as the killer",
+     "summary": "Summit County has a single open homicide linked to Bundy in the state's cold case database: Melissa Smith, a 17-year-old from Midvale whose body was found Oct. 27, 1974, near Toll Canyon in Summit Park by a man who was…",
+     "link": "https://townlift.com/2026/10/breaking-summit-county-to-close-50-year-old-murder-case-and-name-ted-bundy-as-the-killer/",
+     "published": "2026-10-23T23:43:06+00:00"
+    },
     {
      "source": "KPCW",
      "title": "Here’s how the Snyderville Basin ensures new developments have water",
@@ -19,13 +26,6 @@
      "summary": "Kathy passed away on October 14, 2026, in Park City, Utah, at the age of 71 from metastatic colorectal cancer. She was born in Salt Lake City on November 10, 1954, to Byron D. Jones and Margaret Adamson Jones. She had a…",
      "link": "https://www.parkrecord.com/2026/10/23/obituary-kathryn-d-kathy-jones-price/",
      "published": "2026-10-23T22:10:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Summit County selects mountain-inspired design for Kimball Junction pedestrian bridge",
-     "summary": "Concept B emerged from three options after nearly 850 people weighed in; construction is expected to begin in 2028",
-     "link": "https://townlift.com/2026/10/summit-county-selects-mountain-inspired-design-for-kimball-junction-pedestrian-bridge/",
-     "published": "2026-10-23T20:55:54+00:00"
     },
     {
      "source": "KPCW",
@@ -43,10 +43,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Park City council weighs China Bridge redevelopment to revitalize Swede Alley corridor",
-     "summary": "PARK CITY, Utah — With the southern portion of China Bridge parking garage within a decade of the end of its service life, Park City officials are considering a broader",
-     "link": "https://townlift.com/2026/10/park-city-council-weighs-china-bridge-redevelopment-to-revitalize-swede-alley-corridor/",
-     "published": "2026-10-23T20:26:15+00:00"
+     "title": "Summit County selects mountain-inspired design for Kimball Junction pedestrian bridge",
+     "summary": "Concept B emerged from three options after nearly 850 people weighed in; construction is expected to begin in 2028",
+     "link": "https://townlift.com/2026/10/summit-county-selects-mountain-inspired-design-for-kimball-junction-pedestrian-bridge/",
+     "published": "2026-10-23T20:55:54+00:00"
     },
     {
      "source": "Park Record",
@@ -64,10 +64,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Alpha Park City brings AI-powered school model to Park City",
-     "summary": "The K-8 private school combines two hours of adaptive academics with life-skills workshops. Tuition is $50,000 a year.",
-     "link": "https://townlift.com/2026/10/alpha-park-city-brings-ai-powered-school-model-to-park-city/",
-     "published": "2026-10-23T19:13:15+00:00"
+     "title": "Park City council weighs China Bridge redevelopment to revitalize Swede Alley corridor",
+     "summary": "PARK CITY, Utah — With the southern portion of China Bridge parking garage within a decade of the end of its service life, Park City officials are considering a broader",
+     "link": "https://townlift.com/2026/10/park-city-council-weighs-china-bridge-redevelopment-to-revitalize-swede-alley-corridor/",
+     "published": "2026-10-23T20:26:15+00:00"
     },
     {
      "source": "KPCW",
@@ -84,11 +84,32 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "Utah’s elections chief doesn’t have to give full voter rolls to Trump’s DOJ, judge decides",
+     "summary": "Utah’s voter database is “not a record or paper which ‘comes into [the Utah Lieutenant Governor’s] possession,’ so she need not make it ‘available for inspection, reproduction, or copying’ by the Attorney General,\" the…",
+     "link": "https://www.sltrib.com/news/politics/2026/10/23/judge-tosses-trumps-doj-suit/",
+     "published": "2026-10-24T00:38:32+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "No Tyler Robinson trial date set as attorneys clash over timeline",
+     "title": "Church memorials should point to Jesus Christ, Elder McKay says at Church History Symposium",
      "summary": "",
-     "link": "https://www.deseret.com/utah/2026/10/23/no-date-set-for-tyler-robinson-trial/",
-     "published": "2026-10-23T22:51:56+00:00"
+     "link": "https://www.deseret.com/faith/2026/10/23/church-memorials-should-point-to-jesus-christ-elder-mckay-says-at-church-history-symposium/",
+     "published": "2026-10-23T23:18:24+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "The DOJ is sending election monitors to Utah. The state's voters already trust the process",
+     "summary": "Utah voters are overwhelmingly confident in the state's election process, new polling shows. Lt. Gov. Deidre Henderson, who oversees state elections, doesn't want that to change — even as the Justice Department said it…",
+     "link": "https://www.ksl.com/article//the-doj-is-sending-election-monitors-to-utah-the-states-voters-already-trust-the-process/51640076",
+     "published": "2026-10-23T18:36:10+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Rockslide near Bridal Veil Falls closes section of Provo Canyon trail",
+     "summary": "A section of the Provo Canyon Trail, including Bridal Veil Falls, is temporarily closed because a rockslide and mudslide in the area Friday afternoon, Utah County officials said.",
+     "link": "https://www.deseret.com/utah/2026/10/23/rockslide-near-bridal-veil-falls-closes-section-of-provo-canyon-trail/",
+     "published": "2026-10-23T23:07:19+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,17 +120,17 @@
     },
     {
      "source": "KSL",
-     "title": "Former Syracuse students sue school district over alleged sexual harassment",
-     "summary": "Two former Syracuse High students allege in a Title IX suit that school officials knew about sexual harassment allegations related to nude images of underage girls and did nothing.",
-     "link": "https://www.ksl.com/article/51640267/former-syracuse-students-sue-school-district-over-alleged-sexual-harassment",
-     "published": "2026-10-23T17:02:04+00:00"
+     "title": "St. George man charged with lewdness, endangering police K-9 during arrest attempt",
+     "summary": "A man was charged in Washington County Thursday on three counts, including endangering a police service dog.",
+     "link": "https://www.ksl.com/article/51640245/st-george-man-charged-with-lewdness-endangering-police-k-9-during-arrest-attempt",
+     "published": "2026-10-23T18:19:36+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "High school girls soccer: Samantha Brown’s long-range effort lifts Ridgeline to coveted 4A state championship",
+     "title": "No Tyler Robinson trial date set as attorneys clash over timeline",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/high-school-girls-soccer-4a-state-championship/",
-     "published": "2026-10-23T22:38:50+00:00"
+     "link": "https://www.deseret.com/utah/2026/10/23/no-date-set-for-tyler-robinson-trial/",
+     "published": "2026-10-23T22:51:56+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,38 +141,17 @@
     },
     {
      "source": "KSL",
-     "title": "Rockslide near Bridal Veil Falls closes section of Provo Canyon trail",
-     "summary": "A section of the Provo River Trail in Provo Canyon is temporarily closed because of at least one rockslide in Bridal Veil Falls area Friday afternoon, Utah County officials said.",
-     "link": "https://www.ksl.com/article/51640392/rockslide-near-bridal-veil-falls-closes-section-of-provo-canyon-trail",
-     "published": "2026-10-23T16:56:57+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "High school girls volleyball: 2A state tournament Day 1 recap — North Summit, Parowan, San Juan and Millard advance to semis",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/girls-volleyball-2a-1a-state-tournament-first-round-quarterfinals/",
-     "published": "2026-10-23T22:23:31+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Watch: Flash floods rip through southern Utah",
-     "summary": "A weather system parked over southern Utah for an unusually long time this week, triggering flash floods from Escalante to Zion National Park.",
-     "link": "https://www.sltrib.com/news/environment/2026/10/23/southern-utah-storms-heavy-rains/",
-     "published": "2026-10-23T18:10:45+00:00"
-    },
-    {
-     "source": "KSL",
      "title": "Trial dates for Tyler Robinson may be included in November scheduling order",
      "summary": "Tyler Robinson, the man facing death penalty charges after being accused of killing Charlie Kirk, appeared in court Friday, where attorneys discussed how long the process will take in preparation for scheduling a trial.",
      "link": "https://www.ksl.com/article/51640263/judge-could-set-trial-dates-for-tyler-robinson-in-friday-afternoon-hearing",
-     "published": "2026-10-23T16:45:10+00:00"
+     "published": "2026-10-23T18:16:15+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "BYU now among ‘the hunted’ after rising to No. 2, while Utah gets first true test (+predictions)",
+     "title": "High school girls soccer: Samantha Brown’s long-range effort lifts Ridgeline to coveted 4A state championship",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/byu-cougars-ucf-knights-commentary/",
-     "published": "2026-10-23T21:45:00+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/23/high-school-girls-soccer-4a-state-championship/",
+     "published": "2026-10-23T22:38:50+00:00"
     }
    ]
   },
@@ -162,17 +162,38 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "House hunter discovers body in vacant home",
-     "summary": "In an exclusive interview, a homebuyer shares vivid details of finding a dead man during a house tour.",
-     "link": "https://www.cbsnews.com/news/kentucky-house-hunter-discovers-deceased-body-in-a-vacant-house/",
-     "published": "2026-10-23T22:56:58+00:00"
+     "title": "Trump's U.N. ambassador says Iran war could drag on for another year",
+     "summary": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+     "published": "2026-10-24T01:15:04+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+     "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+     "published": "2026-10-24T00:40:42+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: White House says Melania Trump brokered localized ceasefire deal in Oleshky",
-     "summary": "In our news wrap Friday, the White House says Melania Trump brokered a localized ceasefire deal in the Ukrainian city of Oleshky, Romania's president blamed Russia for a drone strike that sank a cargo ship in the Black…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-white-house-says-melania-trump-brokered-localized-ceasefire-deal-in-oleshky",
-     "published": "2026-10-23T22:50:35+00:00"
+     "title": "Rollins says USDA is 'full-bore ahead' on Forest Service reorganization",
+     "summary": "The Trump administration wants to move Forest Service headquarters from Washington to Salt Lake City, shutter 23 research stations, and close many regional offices and replace them with state offices.",
+     "link": "https://www.pbs.org/newshour/politics/rollins-says-usda-is-full-bore-ahead-on-forest-service-reorganization",
+     "published": "2026-10-23T23:52:37+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Justice Department attempts to block certification of Alaska Senate race if Republican loses",
+     "summary": "President Trump is calling into question the integrity of the upcoming Alaska Senate vote, asking the Justice Department to block future certification over possible confusion around the identities of two candidates who…",
+     "link": "https://www.cbsnews.com/video/justice-department-attempts-to-block-certification-of-alaska-senate-race-if-republican-loses-1/",
+     "published": "2026-10-24T01:08:49+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Signs of fraying loyalty emerge in Netanyahu stronghold before Israeli election",
+     "summary": "Kiryat Shmona, Israel's northernmost city, has long been a bastion of support for Prime Minister Benjamin Netanyahu's Likud party. But that loyalty is no longer ironclad.",
+     "link": "https://www.pbs.org/newshour/world/signs-of-fraying-loyalty-emerge-in-netanyahu-stronghold-before-israeli-election",
+     "published": "2026-10-23T23:31:21+00:00"
     },
     {
      "source": "NPR",
@@ -183,17 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Extended interview: Son of freed American Stephen Hubbard, Fr. Joseph Coleman, on father's release",
-     "summary": "The son of Stephen Hubbard, Fr. Joseph Coleman, and the family's lawyer, Martin De Luca, speak with CBS News' Olivia Rinaldi about Hubbard's release from Russia after more than four years in jail.",
-     "link": "https://www.cbsnews.com/video/extended-interview-fr-joseph-coleman-son-of-freed-american-stephen-hubbard/",
-     "published": "2026-10-23T22:55:06+00:00"
+     "title": "Indiana school bus driver gets children out of bus just before it goes up in flames",
+     "summary": "An Indiana resident captured footage of the moment when a school bus was consumed by flames, leaving only the frame, just after the student passengers were let out. Tom Hanson has the details.",
+     "link": "https://www.cbsnews.com/video/indiana-school-bus-driver-gets-children-out-of-bus-just-before-it-goes-up-in-flames/",
+     "published": "2026-10-24T01:08:31+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "'There's babies in there': Oregon father describes stopping school shooter",
-     "summary": "Kaylub Giamanco is the father who stopped a school shooter in Bend, Oregon, a week ago. The teen gunman entered the school and killed three students and a teacher before Giamanco stopped him. In a new interview with…",
-     "link": "https://www.pbs.org/newshour/show/theres-babies-in-there-oregon-father-describes-stopping-school-shooter",
-     "published": "2026-10-23T22:48:48+00:00"
+     "title": "Treasury proposes rule to curb high-tech investments in China and other adversaries",
+     "summary": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other \"countries of concern.\"",
+     "link": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries",
+     "published": "2026-10-23T23:19:32+00:00"
     },
     {
      "source": "NPR",
@@ -203,32 +224,11 @@
      "published": "2026-10-23T18:30:00+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs",
-     "summary": "Collins, locked in a tight race with Democratic challenger Troy Jackson, issued a statement saying she'd spoken with Trump's top trade negotiator, Jamieson Greer, and Commerce Secretary Howard Lutnick \"about the toll…",
-     "link": "https://www.pbs.org/newshour/politics/seeking-to-help-collins-in-maine-trump-exempts-some-canadian-imports-from-his-50-tariffs",
-     "published": "2026-10-23T22:48:08+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Judge allows Jane Doe anonymity in Cornell sexual assault lawsuit",
-     "summary": "Jane Doe can remain anonymous in her sexual assault lawsuit involving former members of Cornell University's Chi Phi fraternity, a judge ruled.",
-     "link": "https://www.cbsnews.com/news/jane-doe-can-remain-anonymous-cornell-university-sexual-assault-lawsuit/",
-     "published": "2026-10-23T22:46:47+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-     "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-     "published": "2026-10-23T17:35:14+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Surging diesel prices loom over Republicans in Iowa's midterm races",
-     "summary": "It's been more than a decade since Iowa has had a Democratic governor or senator. But this year, with the incumbents retiring, both races are competitive. As Peter Tubbs at Iowa PBS reports, record-high diesel prices…",
-     "link": "https://www.pbs.org/newshour/show/surging-diesel-prices-loom-over-republicans-in-iowas-midterm-races",
-     "published": "2026-10-23T22:45:29+00:00"
+     "title": "New book, \"Formula 101,\" gives fans a crash course on F1 racing",
+     "summary": "Matt Elisofon and Brian Muller are the hosts of \"The Red Flags\" podcast and have a new book coming out called \"Formula 101.\" They say it's got something for everyone who has any level of interest in F1 racing. Elisofon…",
+     "link": "https://www.cbsnews.com/video/new-book-formula-101-gives-fans-a-crash-course-on-f1-racing/",
+     "published": "2026-10-24T00:32:05+00:00"
     }
    ]
   }
