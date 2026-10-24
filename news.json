@@ -1,11 +1,18 @@
 {
- "updated": "2026-10-24T06:23:31.242320+00:00",
+ "updated": "2026-10-24T11:30:37.926715+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "Park Record",
+     "title": "Devotion to community",
+     "summary": "\"I have known Malena Stevens for many years and have witnessed her devotion to serving our community in numerous thankless positions.\" The post Devotion to community appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/24/devotion-to-community/",
+     "published": "2026-10-24T11:30:00+00:00"
+    },
     {
      "source": "TownLift",
      "title": "BREAKING: Summit County to close 50-year-old murder case and name Ted Bundy as the killer",
@@ -22,10 +29,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Obituary: Kathryn D. “Kathy” Jones-Price",
-     "summary": "Kathy passed away on October 14, 2026, in Park City, Utah, at the age of 71 from metastatic colorectal cancer. She was born in Salt Lake City on November 10, 1954, to Byron D. Jones and Margaret Adamson Jones. She had a…",
-     "link": "https://www.parkrecord.com/2026/10/23/obituary-kathryn-d-kathy-jones-price/",
-     "published": "2026-10-23T22:10:00+00:00"
+     "title": "Party matters",
+     "summary": "\"In a normal environment, voters can ignore party affiliation and choose the best candidate. This time it matters.\" The post Party matters appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/24/party-matters/",
+     "published": "2026-10-24T11:15:00+00:00"
     },
     {
      "source": "KPCW",
@@ -33,13 +40,6 @@
      "summary": "Wasatch Back residents have several locations to drop old medications on National Prescription Drug Take Back Day Oct. 24.",
      "link": "https://www.kpcw.org/summit-county/2026-10-23/where-to-take-old-prescriptions-in-the-wasatch-back",
      "published": "2026-10-23T22:11:14+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Obituary: Morgan Stanley Hole",
-     "summary": "It is with a profound sense of loss that we share the passing of Morgan Stanley Hole, age 63, of Park City, Utah, on August 17, 2026. Over a short span of ﬁve months, Morgan courageously and valiantly, though ultimately…",
-     "link": "https://www.parkrecord.com/2026/10/23/obituary-morgan-stanley-hole/",
-     "published": "2026-10-23T22:05:00+00:00"
     },
     {
      "source": "TownLift",
@@ -50,10 +50,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Obituary: Gerald Young",
-     "summary": "October 20, 2026, Gerald Edwin Young passed away at his home surrounded by family. Gerald was born August 5, 1930 in Oakley, Ut on his fathers ranch. He owns and operates a cattle ranch and loved ranching and the…",
-     "link": "https://www.parkrecord.com/2026/10/23/obituary-gerald-young/",
-     "published": "2026-10-23T22:00:00+00:00"
+     "title": "B is for bad",
+     "summary": "\"I voted against Constitutional Amendment B, and I encourage you to vote against amendment B.\" The post B is for bad appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/24/b-is-for-bad/",
+     "published": "2026-10-24T11:00:00+00:00"
     },
     {
      "source": "KPCW",
@@ -70,11 +70,11 @@
      "published": "2026-10-23T20:26:15+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Park City to host open house on Little Kate Road upgrades",
-     "summary": "Park City is asking residents to once again weigh in on the Little Kate Road project. The new design includes a buffered bike lane.",
-     "link": "https://www.kpcw.org/park-city/2026-10-23/park-city-to-host-open-house-on-little-kate-road-upgrades",
-     "published": "2026-10-23T20:55:00+00:00"
+     "source": "Park Record",
+     "title": "Obituary: Kathryn D. “Kathy” Jones-Price",
+     "summary": "Kathy passed away on October 14, 2026, in Park City, Utah, at the age of 71 from metastatic colorectal cancer. She was born in Salt Lake City on November 10, 1954, to Byron D. Jones and Margaret Adamson Jones. She had a…",
+     "link": "https://www.parkrecord.com/2026/10/23/obituary-kathryn-d-kathy-jones-price/",
+     "published": "2026-10-23T22:10:00+00:00"
     }
    ]
   },
@@ -85,10 +85,10 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Jazz survive a third-quarter collapse to edge Pelicans in dramatic fashion",
+     "title": "Opinion: Hookup culture isn’t working. Young people are hungry for something better",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/jazz-survive-a-third-quarter-collapse-to-edge-pelicans-in-dramatic-fashion/",
-     "published": "2026-10-24T05:59:08+00:00"
+     "link": "https://www.deseret.com/opinion/2026/10/24/hookup-culture-is-harming-young-people/",
+     "published": "2026-10-24T10:00:01+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -105,18 +105,18 @@
      "published": "2026-10-23T23:27:20+00:00"
     },
     {
+     "source": "Deseret News",
+     "title": "No. 10 Utes face biggest test yet in No. 14 Houston and QB Conner Weigman",
+     "summary": "",
+     "link": "https://www.deseret.com/sports/2026/10/24/utah-houston-preview-conner-weignan-houston-offense/",
+     "published": "2026-10-24T10:00:01+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Utah Royals clinch their first NWSL playoff berth",
      "summary": "",
      "link": "https://www.sltrib.com/sports/2026/10/23/utah-royals-clinch-their-first/",
      "published": "2026-10-24T04:36:30+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "No. 2 BYU vs. UCF: How to watch, listen to or stream Saturday’s matchup",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/byu-cougars-football-ucf-how-to-watch-2026/",
-     "published": "2026-10-24T04:32:57+00:00"
     },
     {
      "source": "KSL",
@@ -127,10 +127,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "High school football: Friday’s 3A/2A/1A first round recap",
+     "title": "No. 2 Cougars face another big challenge some 2,000 miles away from Provo",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/high-school-football-3a-2a-1a-first-round-recap/",
-     "published": "2026-10-24T04:20:34+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/24/byu-cougars-football-ucf-central-florida-knights-bounce-house-orlando/",
+     "published": "2026-10-24T10:00:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -148,10 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "High school girls volleyball: 1A state tournament Day 1 recap — Panguitch, Rich, St. Joseph and Milford earn semifinal spots",
+     "title": "Religious freedom advocates from around the world find family-like solidarity in Utah",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/23/girls-volleyball-1a-state-tournament-first-round-quarterfinals/",
-     "published": "2026-10-24T04:02:24+00:00"
+     "link": "https://www.deseret.com/faith/2026/10/24/religious-freedom-advocates-in-utah/",
+     "published": "2026-10-24T10:00:00+00:00"
     }
    ]
   },
@@ -162,17 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Trump's U.N. ambassador says Iran war could drag on for another year",
-     "summary": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-     "published": "2026-10-24T03:20:01+00:00"
+     "title": "Paris museums close, shops build barricades ahead of more protests",
+     "summary": "A week after 3,000 shops were damaged or looted, France braces for more protests.",
+     "link": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+     "published": "2026-10-24T11:29:58+00:00"
     },
     {
      "source": "NPR",
-     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-     "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-     "published": "2026-10-24T00:40:42+00:00"
+     "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+     "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+     "published": "2026-10-24T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -183,10 +183,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Iran has \"increased efforts to target U.S. personnel,\" intel chief warns",
-     "summary": "Director of National Intelligence Jay Clayton warned in a memo to Secretary of State Rubio that Iran has \"substantially increased efforts to target U.S. personnel,\" and the plots have \"reached advanced stages.\"",
-     "link": "https://www.cbsnews.com/news/iran-target-u-s-personnel/",
-     "published": "2026-10-24T03:13:10+00:00"
+     "title": "1 arrested after fire at Hitler's Eagle's Nest mountain retreat",
+     "summary": "Police said firefighting efforts were hampered due to local conditions.",
+     "link": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
+     "published": "2026-10-24T11:25:55+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "U.S. birth rate drops to record low, but older women are having more babies",
+     "summary": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+     "published": "2026-10-24T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-10-23T23:31:21+00:00"
     },
     {
-     "source": "NPR",
-     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-     "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-     "published": "2026-10-23T19:31:15+00:00"
+     "source": "CBS News",
+     "title": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
+     "summary": "A gunman opened fire from his car in the Paris suburb of Trappes on Friday, in what authorities described as a racially motivated act of terrorism.",
+     "link": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/",
+     "published": "2026-10-24T11:13:12+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "DOJ demands that some California counties set aside alleged noncitizen ballots",
-     "summary": "Federal prosecutors sent letters to county registrars across California demanding that local officials set aside and verify ballots that the Justice Department said may belong to noncitizens.",
-     "link": "https://www.cbsnews.com/news/doj-california-counties-set-aside-verify-certain-ballots-noncitizens/",
-     "published": "2026-10-24T02:54:30+00:00"
+     "source": "NPR",
+     "title": "This decade has been missing its big-impact midterm",
+     "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+     "published": "2026-10-24T09:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-10-23T23:19:32+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-     "summary": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
-     "published": "2026-10-23T18:30:00+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "DOJ sues to block Alaska Senate certification if Sullivan loses",
-     "summary": "The Trump administration is suing to prevent the Alaska Senate election from being certified if GOP Sen. Daniel Sullivan loses to Democrat Mary Peltola because of the other Dan Sullivan who is on the ballot.",
-     "link": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
-     "published": "2026-10-24T02:42:42+00:00"
+     "title": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
+     "summary": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+     "published": "2026-10-24T09:55:05+00:00"
     }
    ]
   }
