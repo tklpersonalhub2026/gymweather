@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:56:10.656126+00:00",
+ "updated": "2026-10-27T06:11:09.026992+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "Park Record",
+     "title": "Inaugural Park City Film Festival wraps with ‘The Last Critic’",
+     "summary": "The first Park City Film Festival wraps up Sunday night. The post Inaugural Park City Film Festival wraps with ‘The Last Critic’ appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/26/inaugural-park-city-film-festival-wraps-with-the-last-critic/",
+     "published": "2026-10-27T02:28:31+00:00"
+    },
+    {
      "source": "KPCW",
      "title": "Park City looks to back-to-back winter sports events as hotel bookings lag",
      "summary": "Two major winter sports competitions are coming to Park City on back-to-back weekends in January. Tourism officials are building on the events as advance winter lodging bookings remain below last year.",
      "link": "https://www.kpcw.org/park-city/2026-10-26/park-city-looks-to-back-to-back-winter-sports-events-as-hotel-bookings-lag",
      "published": "2026-10-26T23:37:29+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Park City speeding cases include stops outside the municipal boundaries",
-     "summary": "The Park City Police Department stopped drivers suspected of speeding in a series of recent traffic stops, including cases well above the posted limits and in at least two locations that are not inside the municipal…",
-     "link": "https://www.parkrecord.com/2026/10/26/park-city-speeding-cases-include-stops-outside-the-municipal-boundaries/",
-     "published": "2026-10-26T22:00:00+00:00"
     },
     {
      "source": "TownLift",
@@ -36,10 +36,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman",
-     "summary": "The Park City Police Department received at least two recent reports of issues at Main Street nightclubs. The post Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman appeared first on…",
-     "link": "https://www.parkrecord.com/2026/10/26/park-city-police-blotter-person-reportedly-attempts-to-pick-a-fight-with-doorman/",
-     "published": "2026-10-26T21:50:35+00:00"
+     "title": "Park City speeding cases include stops outside the municipal boundaries",
+     "summary": "The Park City Police Department stopped drivers suspected of speeding in a series of recent traffic stops, including cases well above the posted limits and in at least two locations that are not inside the municipal…",
+     "link": "https://www.parkrecord.com/2026/10/26/park-city-speeding-cases-include-stops-outside-the-municipal-boundaries/",
+     "published": "2026-10-26T22:00:00+00:00"
     },
     {
      "source": "TownLift",
@@ -57,10 +57,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Vail Resorts announces new dining, après experiences for 2026-27",
-     "summary": "The company touted its \"largest investment in food to date\" with higher-quality ingredients and new presentations for its most popular quick-service menu items like chili, burgers, chicken strips and pizza. The post…",
-     "link": "https://www.parkrecord.com/2026/10/26/vail-resorts-announces-new-dining-apres-experiences-for-2026-27/",
-     "published": "2026-10-26T20:25:34+00:00"
+     "title": "Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman",
+     "summary": "The Park City Police Department received at least two recent reports of issues at Main Street nightclubs. The post Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman appeared first on…",
+     "link": "https://www.parkrecord.com/2026/10/26/park-city-police-blotter-person-reportedly-attempts-to-pick-a-fight-with-doorman/",
+     "published": "2026-10-26T21:50:35+00:00"
     },
     {
      "source": "TownLift",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "What’s got McAfee so fired up about the University of Utah?",
+     "title": "The good and bad of Sunday’s outdoor NHL game — and what Utah can learn from it",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/26/whats-got-mcafee-so-fired-up-about-the-university-of-utah/",
-     "published": "2026-10-27T00:12:09+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/26/2027-winter-classic-2026-heritage-classic-utah-mammoth-colorado-avalanche/",
+     "published": "2026-10-27T05:23:04+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Utah Jazz young core shines in hard-fought loss to Grizzlies",
+     "summary": "Despite missing its two best players, the Utah Jazz kept it close down the stretch against the Memphis Grizzlies, before eventually dropping 110-105.",
+     "link": "https://sports.ksl.com/nba/utah-jazz/jazz-grizzlies-young-core-shine/578516",
+     "published": "2026-10-26T23:07:49+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,18 +105,18 @@
      "published": "2026-10-26T20:52:30+00:00"
     },
     {
-     "source": "KSL",
-     "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
-     "summary": "Russia is committing war crimes and crimes against humanity by intentionally attacking civilian infrastructure – including vital energy systems – in Ukraine, an independent UN investigations panel said on Monday.",
-     "link": "https://www.ksl.com/article/51641128/un-panel-russia-is-committing-crimes-against-humanity-by-targeting-civilians-in-ukraine",
-     "published": "2026-10-26T18:22:00+00:00"
+     "source": "Deseret News",
+     "title": "2 Jazz stars sustain injuries — and 2 other takeaways from Utah’s loss to Memphis Grizzlies",
+     "summary": "",
+     "link": "https://www.deseret.com/sports/2026/10/26/utah-jazz-lose-110-105-to-memphis-grizzlies-markkanen-jackson-injured/",
+     "published": "2026-10-27T05:01:31+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Opinion: Why losing to UCF might help BYU more than beating Notre Dame",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/26/getting-off-the-rollercoaster/",
-     "published": "2026-10-26T23:41:52+00:00"
+     "source": "KSL",
+     "title": "Shriners of Salt Lake City makes Halloween memorable for kids in wheelchairs",
+     "summary": "Shriners held its annual \"wheelchair Halloween costume clinic\" on Thursday, offering kids in wheelchairs a chance to enjoy a holiday that can normally seem daunting.",
+     "link": "https://www.ksl.com/article/51641333/shriners-of-salt-lake-city-makes-halloween-memorable-for-kids-in-wheelchairs",
+     "published": "2026-10-26T22:34:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -119,25 +126,18 @@
      "published": "2026-10-26T19:19:25+00:00"
     },
     {
-     "source": "KSL",
-     "title": "18-year-old sentenced to jail for assault with a hammer, but judge said crime was 'worthy of prison'",
-     "summary": "An 18-year-old was ordered to spend time in jail and on probation for hitting another man with a hammer in the face, causing significant injuries.",
-     "link": "https://www.ksl.com/article/51640330/18-year-old-sentenced-to-jail-for-assault-with-a-hammer-but-judge-said-crime-was-worthy-of-prison",
-     "published": "2026-10-26T18:07:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "Elder Gilbert dedicates Cody Wyoming Temple, his first since becoming an Apostle",
+     "title": "‘Your vocals are insane,’ Kelly Clarkson tells Utah singer on ‘The Voice’",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/10/26/church-news-elder-gilbert-dedicates-cody-wyoming-temple-first-as-apostle/",
-     "published": "2026-10-26T23:07:39+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/10/26/the-voice-battle-round-cade-mower-defeats-brayden-howell/",
+     "published": "2026-10-27T04:48:56+00:00"
     },
     {
      "source": "KSL",
-     "title": "Groundbreaking announced for Lehi temple",
-     "summary": "The Church of Jesus Christ of Latter-day Saints announced Monday that Elder John A. McCune, from the Utah Area Presidency, will preside at the groundbreaking for the Lehi Utah Temple on Dec. 5.",
-     "link": "https://www.ksl.com/article/51641309/groundbreaking-announced-for-lehi-temple",
-     "published": "2026-10-26T17:44:00+00:00"
+     "title": "Why Crossroads Urban Center wants UTA to postpone its proposed fare increase",
+     "summary": "One of Utah's largest organizations that offers assistance to residents with low income is urging the state's largest transit provider to pause its proposed fare increase until it increases outreach over discounted…",
+     "link": "https://www.ksl.com/article/51641155/why-crossroads-urban-center-wants-uta-to-postpone-its-proposed-fare-increase",
+     "published": "2026-10-26T22:01:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -148,10 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "Another U.S. pro sports league partners with prediction markets",
+     "title": "2026 Parry’s Power Guide: Predicting Week 2 of the high school football playoffs",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/26/nba-agreement-kalshi-polymarket-prediction-market-sports-betting-nfl-holdout/",
-     "published": "2026-10-26T22:26:11+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/26/high-school-football-parrys-power-guide-playoffs-week-2/",
+     "published": "2026-10-27T02:43:56+00:00"
     }
    ]
   },
@@ -161,18 +161,18 @@
    "scope": "United States",
    "items": [
     {
-     "source": "CBS News",
-     "title": "DOJ takes steps to charge James Comey again",
-     "summary": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
-     "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
-     "published": "2026-10-27T00:34:45+00:00"
+     "source": "NPR",
+     "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+     "summary": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
+     "link": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
+     "published": "2026-10-27T05:46:18+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-     "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
-     "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
-     "published": "2026-10-27T00:31:45+00:00"
+     "source": "CBS News",
+     "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
+     "summary": "Iran says indirect negotiations with the U.S. continue but rules out bending to Trump's demands, even if he orders new strikes.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+     "published": "2026-10-27T05:43:15+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -182,11 +182,18 @@
      "published": "2026-10-26T22:55:02+00:00"
     },
     {
+     "source": "NPR",
+     "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
+     "summary": "The Milwaukee Brewers are one victory from their first World Series title after routing the Tampa Bay Rays 10-1 on Monday night thanks to a trio of young players who have shined in October.",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
+     "published": "2026-10-27T05:45:44+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "LA residents sue city over Hollywood sign crowds: \"Reached its peak\"",
-     "summary": "A group of residents who live near the world-famous Hollywood Sign, which attracts millions of visitors from around the world every year, have filed public nuisance lawsuits against the city of Los Angeles, asking…",
-     "link": "https://www.cbsnews.com/losangeles/news/hollywood-sign-los-angeles-residents-file-public-nuisance-lawsuit/",
-     "published": "2026-10-27T00:24:50+00:00"
+     "title": "These factors could decide Netanyahu's fate in Israel's election",
+     "summary": "Israelis are choosing their next government. The race is wide open, and Benjamin Netanyahu's political fate could hinge on a couple key factors.",
+     "link": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
+     "published": "2026-10-27T05:01:43+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,17 +204,17 @@
     },
     {
      "source": "NPR",
-     "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-     "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
-     "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
-     "published": "2026-10-26T18:41:43+00:00"
+     "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+     "summary": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+     "link": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+     "published": "2026-10-27T05:26:58+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Why DOJ's attempt to charge James Comey again is highly unusual",
-     "summary": "The Department of Justice took steps to charge former FBI director James Comey for the third time on Monday. CBS News senior Justice Department reporter Sarah Lynch explains why the situation is so unusual.",
-     "link": "https://www.cbsnews.com/video/why-dojs-attempt-charge-james-comey-again-highly-unusual/",
-     "published": "2026-10-27T00:24:00+00:00"
+     "title": "DOJ takes steps to charge James Comey again",
+     "summary": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
+     "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+     "published": "2026-10-27T04:38:53+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -218,17 +225,10 @@
     },
     {
      "source": "NPR",
-     "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-     "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
-     "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
-     "published": "2026-10-26T18:38:01+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Legal analysis of DOJ taking steps to charge James Comey again",
-     "summary": "The Trump administration is attempting to charge former FBI director James Comey again. Comey said he remains innocent. CBS News legal contributor Rebecca Roiphe has more.",
-     "link": "https://www.cbsnews.com/video/legal-analysis-doj-taking-steps-charge-james-comey-again/",
-     "published": "2026-10-27T00:20:02+00:00"
+     "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+     "summary": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+     "published": "2026-10-27T05:22:24+00:00"
     }
    ]
   }
