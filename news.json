@@ -1,11 +1,67 @@
 {
- "updated": "2026-10-27T18:12:17.433157+00:00",
+ "updated": "2026-10-27T22:24:23.567271+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "KPCW",
+     "title": "Heavy rain in southeast Utah has prompts a rise in Lake Powell’s water level",
+     "summary": "Hydrologists say the boost is a \"nice start to the water year,\" though the increase doesn’t solve the lake’s drought problems.",
+     "link": "https://www.kpcw.org/state-regional/2026-10-27/heavy-rain-in-southeast-utah-has-prompts-a-rise-in-lake-powells-water-level",
+     "published": "2026-10-27T21:52:00+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Prospector businesses weigh drawbacks, benefits of Bonanza Park development proposal",
+     "summary": "The Prospector Square Property Owners Association recently conducted a survey of businesses about the Bonanza Park proposal. The post Prospector businesses weigh drawbacks, benefits of Bonanza Park development proposal…",
+     "link": "https://www.parkrecord.com/2026/10/27/prospector-businesses-weigh-drawbacks-benefits-of-bonanza-park-development-proposal/",
+     "published": "2026-10-27T21:15:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Police Log: Truck knocks down signs on Main Street, photographer stands in SR 224 traffic, and injured moose",
+     "summary": "Local officers responded to a variety of calls this week, including an oversized truck reportedly knocked down a stop sign and street sign on Main Street, an injured female moose",
+     "link": "https://townlift.com/2026/10/police-log-truck-knocks-down-signs-on-main-street-photographer-stands-in-sr-224-traffic-and-injured-moose/",
+     "published": "2026-10-27T20:40:51+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "DNA analysis solves Ted Bundy cold case in Summit County",
+     "summary": "Melissa Ann Smith, a Midvale police chief's daughter, was found dead in Summit Park in 1974.",
+     "link": "https://www.kpcw.org/state-regional/2026-10-27/dna-analysis-solves-ted-bundy-cold-case-in-summit-county",
+     "published": "2026-10-27T21:51:16+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Summit County prosecutors attribute 1974 homicide cold case to Ted Bundy",
+     "summary": "Summit County prosecutors on Tuesday announced the 1974 murder of Melissa Smith, whose body was discovered by a hunter in Summit Park exactly 52 years ago this week, has been attributed to infamous serial killer Ted…",
+     "link": "https://www.parkrecord.com/2026/10/27/summit-county-prosecutors-attribute-homicide-in-1974-cold-case-to-ted-bundy/",
+     "published": "2026-10-27T21:00:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "The police chief’s daughter, found in Summit Park in 1974, was murdered by Ted Bundy, DNA confirms",
+     "summary": "New forensic testing connected evidence from Smith’s 1974 homicide to another Utah victim whose DNA had been directly matched to Bundy",
+     "link": "https://townlift.com/2026/10/the-police-chiefs-daughter-found-in-summit-park-in-1974-was-murdered-by-ted-bundy-dna-confirms/",
+     "published": "2026-10-27T18:39:54+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Kohler Dairy’s fall festival is an agritourism hot spot",
+     "summary": "At Midway’s Kohler Dairy, Afton Stallings, 3, played in a sandbox filled with dried corn kernels. She filled buckets with the kernels and flung them in the air while her brother Cooper Stallings, 1, sat behind her.…",
+     "link": "https://www.parkrecord.com/2026/10/27/kohler-dairys-fall-festival-is-an-agritourism-hot-spot/",
+     "published": "2026-10-27T20:45:00+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Recreators have until Sunday to ride shuttle to Bonanza Flat",
+     "summary": "The free shuttle transports riders to trails in Park City's Bonanza Flat open space in the summer and winter months.",
+     "link": "https://www.kpcw.org/park-city/2026-10-27/recreators-have-until-sunday-to-ride-shuttle-to-bonanza-flat",
+     "published": "2026-10-27T20:37:01+00:00"
+    },
     {
      "source": "TownLift",
      "title": "The birth of the Park City Film Festival",
@@ -15,66 +71,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Park City Film Festival holds space for trans voices",
-     "summary": "Speakers share the struggles, and joys, of being trans in the Wasatch Back. The post Park City Film Festival holds space for trans voices appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/27/park-city-film-festival-holds-space-for-trans-voices/",
-     "published": "2026-10-27T16:36:33+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Park City looks to back-to-back winter sports events as hotel bookings lag",
-     "summary": "Two major winter sports competitions are coming to Park City on back-to-back weekends in January. Tourism officials are building on the events as advance winter lodging bookings remain below last year.",
-     "link": "https://www.kpcw.org/park-city/2026-10-26/park-city-looks-to-back-to-back-winter-sports-events-as-hotel-bookings-lag",
-     "published": "2026-10-26T23:37:29+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Kimball Art Center presents “Between the Lines”",
-     "summary": "PARK CITY, Utah — “Between the Lines” runs until Jan. 3, 2027, at Kimball Art Center with a presentation on “How to Look at Contemporary Art” offered free of charge",
-     "link": "https://townlift.com/2026/10/kimball-art-center-presents-between-the-lines/",
-     "published": "2026-10-27T17:02:34+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "The North Face announces US Ski & Snowboard fall collection",
-     "summary": "The collection includes 55 pieces of performance and lifestyle apparel and equipment, ranging from technical competition outerwear to T-shirts, hoodies, fleece, hats, beanies, and travel gear. The post The North Face…",
-     "link": "https://www.parkrecord.com/2026/10/27/the-north-face-announces-us-ski-snowboard-fall-collection/",
-     "published": "2026-10-27T15:19:08+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Heber City limits elected official opinion pieces in newsletter",
-     "summary": "Heber City elected officials will face new limits on publishing personal opinion pieces in the city newsletter. The council narrowly approved the change this October.",
-     "link": "https://www.kpcw.org/2026-10-26/heber-city-limits-elected-official-opinion-pieces-in-newsletter",
-     "published": "2026-10-26T23:06:52+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "PCHS Miners mountain bike team takes 7th in state championships",
-     "summary": "ST. GEORGE, Utah — Park City High School’s mountain biking team finished seventh at the Utah High School Cycling League State Championships in St. George over the weekend, competing against",
-     "link": "https://townlift.com/2026/10/pchs-miners-mountain-bike-team-takes-7th-in-state-championships/",
-     "published": "2026-10-27T16:32:59+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Inaugural Park City Film Festival wraps with ‘The Last Critic’",
-     "summary": "The first Park City Film Festival wraps up Sunday night. The post Inaugural Park City Film Festival wraps with ‘The Last Critic’ appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/26/inaugural-park-city-film-festival-wraps-with-the-last-critic/",
-     "published": "2026-10-27T02:28:31+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Eastern Summit County called on to help draw map of future growth",
-     "summary": "The future land use map will inform policymaker decisions on issues like housing and open space.",
-     "link": "https://www.kpcw.org/summit-county/2026-10-26/eastern-summit-county-called-on-to-help-draw-map-of-future-growth",
-     "published": "2026-10-26T22:50:13+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Trailmaster",
-     "summary": "Meet Hall of Fame nominee Don Taylor, the man who helped put Deer Valley mountain biking on the map",
-     "link": "https://townlift.com/2026/10/trailmaster/",
-     "published": "2026-10-27T16:05:34+00:00"
+     "title": "Prospector businesses formally outline concerns about Bonanza Park project involving Park City",
+     "summary": "A business group centered in Prospector has outlined concerns about a development proposal in Bonanza Park that range from pedestrian routes to traffic. The post Prospector businesses formally outline concerns about…",
+     "link": "https://www.parkrecord.com/2026/10/27/prospector-businesses-formally-outline-concerns-about-bonanza-park-project-involving-park-city/",
+     "published": "2026-10-27T20:30:00+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "‘One of the hardest places to play’: Arizona State coach Kenny Dillingham previews matchup with No. 8 BYU",
+     "title": "The U.S. is changing its Canada tariff list. Here’s what’s in and what’s out",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/arizona-state-head-coach-kenny-dillingham-byu-press-conference-2026/",
-     "published": "2026-10-27T18:00:00+00:00"
+     "link": "https://www.deseret.com/politics/2026/10/27/some-canadian-goods-lose-tariffs-others-get-hit-with-50-percent-duties/",
+     "published": "2026-10-27T21:56:14+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Buzz of the Week: If Utah stopped changing clocks, which time should it keep?",
-     "summary": "Clocks fall back an hour at 2 a.m. Sunday, Nov. 1. That means an extra hour of sleep — and darker evenings. Just as a hypothetical: If Utah stopped changing clocks, which time would you want to keep?",
-     "link": "https://www.sltrib.com/news/2026/10/27/daylight-saving-time-utah-which/",
-     "published": "2026-10-27T15:34:33+00:00"
+     "title": "It’s been nearly 20 years since Donny Osmond gave a concert in Salt Lake City. Here’s when he’s coming back.",
+     "summary": "Donny Osmond plans to end a concert tour next summer with two shows in Salt Lake City. Here's how you can get tickets.",
+     "link": "https://www.sltrib.com/artsliving/2026/10/27/donny-osmond-plans-perform-salt/",
+     "published": "2026-10-27T21:13:02+00:00"
     },
     {
      "source": "KSL",
-     "title": "Police, courts to close 1975 cold case murder investigation",
-     "summary": "A cold case murder investigation involving convicted serial killer Ted Bundy will be officially closed Tuesday.",
-     "link": "https://www.ksl.com/article/51641653/police-courts-to-close-1975-cold-case-murder-investigation",
-     "published": "2026-10-27T11:56:33+00:00"
+     "title": "12-week trial scheduled in 2028 for man accused of killing Tremonton officers",
+     "summary": "A 12-week trial has been scheduled in 2028 for the man accused of killing two Tremonton officers during a domestic violence response last year.",
+     "link": "https://www.ksl.com/article/51641659/12-week-trial-scheduled-in-2028-for-man-accused-of-killing-tremonton-officers",
+     "published": "2026-10-27T16:09:51+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Apostle announces new Latter-day Saint missionary record during BYU devotional",
+     "title": "What does Delaney Gibb have in store for her junior year at BYU?",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/10/27/apostle-announces-new-latter-day-saint-missionary-record-during-byu-devotional/",
-     "published": "2026-10-27T17:55:57+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/27/delaney-gibb-byu-womens-basketball-star-junior-season-lee-cummard-big-12-media-days/",
+     "published": "2026-10-27T21:51:08+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Bagley Cartoon: Game Day",
-     "summary": "Check out Pat Bagley's latest cartoon: Game Day",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/10/27/bagley-cartoon-game-day/",
-     "published": "2026-10-27T15:25:01+00:00"
+     "title": "Utah Jazz forward Jaren Jackson will miss multiple weeks with torn MCL",
+     "summary": "Utah Jazz forward Jaren Jackson has suffered a torn MCL in his right knee, a team source confirmed to the Salt Lake Tribune. ESPN reported that Jackson will be sidelined for six to eight weeks.",
+     "link": "https://www.sltrib.com/sports/jazz/2026/10/27/utah-jazz-forward-jaren-jackson-jr/",
+     "published": "2026-10-27T19:47:55+00:00"
     },
     {
      "source": "KSL",
-     "title": "AI investment boom drives core capital goods orders, shipments higher in September",
-     "summary": "New orders for key U.S.-manufactured capital goods increased in September and shipments of these products surged, suggesting business spending on equipment maintained ​robust growth.",
-     "link": "https://www.ksl.com/article/51641542/ai-investment-boom-drives-core-capital-goods-orders-shipments-higher-in-september",
-     "published": "2026-10-27T11:39:26+00:00"
+     "title": "Cattle hauler overturns on I-84 in Weber County, causes delays",
+     "summary": "A trailer hauling cattle overturned on I-84, causing delays near Riverdale Tuesday afternoon.",
+     "link": "https://www.ksl.com/article/51641754/cattle-hauler-overturns-on-i-84-in-weber-county-causes-delays",
+     "published": "2026-10-27T15:48:03+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Double elimination impending for ‘Dancing with the Stars’ Horror Movie Night",
+     "title": "How long will Jaren Jackson Jr., Lauri Markkanen be out of the Jazz lineup?",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/27/dwts-horror-movie-night-double-elimination-coming/",
-     "published": "2026-10-27T17:18:53+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/27/utah-jazz-injury-update-jaren-jackson-jr-lauri-markkanen/",
+     "published": "2026-10-27T21:36:52+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: I’m a teacher learning how to treat gunshot wounds. I’m begging for a different reality.",
-     "summary": "“I’m enraged that we keep choosing to prepare for school shootings instead of preventing them in the first place,” one Utah educator writes in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/10/27/voices-im-teacher-why-am-i/",
-     "published": "2026-10-27T12:05:00+00:00"
+     "title": "The 1974 death of a Midvale teen has been solved. Serial killer Ted Bundy did it, authorities say.",
+     "summary": "The case of Melissa Ann Smith is the second Utah cold case linked to serial killer Ted Bundy that investigators have closed this year, using new DNA technology to connect him to the decades-old killings.",
+     "link": "https://www.sltrib.com/news/2026/10/27/utah-teen-melissa-ann-smith-killed/",
+     "published": "2026-10-27T19:29:39+00:00"
     },
     {
      "source": "KSL",
-     "title": "Local AI expert weighs in as Musk offers dim forecast for neocloud companies",
-     "summary": "Elon Musk offered a gloomy outlook this weekend for neocloud companies as they try to build out data center infrastructure for artificial intelligence.",
-     "link": "https://www.ksl.com/article/51641357/local-ai-expert-weighs-in-as-musk-offers-dim-forecast-for-neocloud-companies",
-     "published": "2026-10-27T11:07:10+00:00"
+     "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
+     "summary": "Israel's election ended with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.",
+     "link": "https://www.ksl.com/article/51641406/voters-in-israel-are-deciding-whether-to-oust-netanyahu-after-3-years-of-war",
+     "published": "2026-10-27T15:47:08+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Say it isn’t so: The words Americans often mispronounce",
+     "title": "Apostle leads BYU students in standing shout to celebrate restoration of Christ’s church",
      "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/10/27/unscramblerer-most-mispronounced-words-us-states/",
-     "published": "2026-10-27T16:09:58+00:00"
+     "link": "https://www.deseret.com/faith/2026/10/27/apostle-leads-byu-students-in-celebration-of-church/",
+     "published": "2026-10-27T21:26:27+00:00"
     }
    ]
   },
@@ -161,74 +161,74 @@
    "scope": "United States",
    "items": [
     {
-     "source": "PBS NewsHour",
-     "title": "Soccer star Kylian Mbappé apologizes for comments about Mao Zedong",
-     "summary": "Kylian Mbappé has apologized for comments referring to Mao Zedong as a dictator. He said his remarks were ill-judged and hurt many people in China and Chinese communities worldwide.",
-     "link": "https://www.pbs.org/newshour/world/soccer-star-kylian-mbappe-apologizes-for-comments-about-mao-zedong",
-     "published": "2026-10-27T18:02:15+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Dollar General overcharged people at checkout for years, FTC says",
-     "summary": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
-     "link": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-     "published": "2026-10-27T17:53:09+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-     "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-     "published": "2026-10-27T17:01:37+00:00"
+     "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+     "summary": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
+     "link": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+     "published": "2026-10-27T22:20:14+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "5 things to watch for in this week's Federal Reserve meeting",
-     "summary": "The Fed's Oct. 27-28 meeting will be the fourth of Chairman Kevin Warsh's tenure, which has been marked by questions regarding his independence from President Donald Trump, who appointed him earlier this year.",
-     "link": "https://www.pbs.org/newshour/economy/5-things-to-watch-for-in-this-weeks-federal-reserve-meeting",
-     "published": "2026-10-27T17:45:45+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Alex Pretti's parents says they haven't heard from the federal government about his death",
-     "summary": "Alex Pretti's parents spoke publicly for the first time since he was fatally shot by a federal agent in Minnesota in January.",
-     "link": "https://www.cbsnews.com/video/alex-prettis-parents-says-they-havent-heard-from-the-federal-government-about-his-death/",
-     "published": "2026-10-27T17:37:02+00:00"
+     "title": "Daylight saving time is coming to an end again. Here's how the time change may impact you",
+     "summary": "One tip: Try to get outside for some morning sun — it'll help your body clock reset faster.",
+     "link": "https://www.pbs.org/newshour/nation/daylight-saving-time-is-coming-to-an-end-again-heres-how-the-time-change-may-impact-you",
+     "published": "2026-10-27T21:58:45+00:00"
     },
     {
      "source": "NPR",
-     "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-     "summary": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-     "published": "2026-10-27T14:41:17+00:00"
+     "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+     "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+     "published": "2026-10-27T21:17:57+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Florida Senate race heats up between Angie Nixon and Ashley Moody",
-     "summary": "The Florida race between state Democratic Rep. Angie Nixon and GOP Sen. Ashley Moody is heating up with one week left until the midterm elections. Cristian Benavides has more.",
-     "link": "https://www.cbsnews.com/video/florida-senate-race-heats-up-angie-nixon-ashley-moody/",
-     "published": "2026-10-27T17:35:27+00:00"
+     "title": "Anthropic files for IPO as it competes for AI dominance",
+     "summary": "Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.",
+     "link": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
+     "published": "2026-10-27T22:19:52+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Judge scolds DOJ over case against ex-FBI officials accused of false statements about Hunter Biden's laptop",
-     "summary": "A federal judge has scolded the Justice Department for its unorthodox handling of a criminal case against two former FBI officials.",
-     "link": "https://www.pbs.org/newshour/nation/judge-scolds-doj-over-case-against-ex-fbi-officials-accused-of-false-statements-about-hunter-bidens-laptop",
-     "published": "2026-10-27T17:34:26+00:00"
+     "title": "U.S. military says 5 were killed by a strike on an alleged drug smuggling boat in the eastern Pacific",
+     "summary": "Trump has sought to justify the attacks by saying they stem the flow of drugs into the U.S., but critics have questioned the overall legality of the boat strikes as well as their effectiveness.",
+     "link": "https://www.pbs.org/newshour/world/u-s-military-says-5-were-killed-by-a-strike-on-an-alleged-drug-smuggling-boat-in-the-eastern-pacific",
+     "published": "2026-10-27T21:37:57+00:00"
     },
     {
      "source": "NPR",
-     "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-     "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-     "published": "2026-10-27T14:15:21+00:00"
+     "title": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
+     "summary": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+     "published": "2026-10-27T20:45:39+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Zookeeper dies after being attacked by leopard, safari park says",
-     "summary": "The woman was attacked while caring for two Persian leopards in an indoor facility at the Beekse Bergen park in the south of the Netherlands.",
-     "link": "https://www.cbsnews.com/news/zookeeper-dies-leopard-attack-dutch-safari-park/",
-     "published": "2026-10-27T17:33:57+00:00"
+     "title": "New charges tossed against ex-FBI officials in Hunter Biden probe",
+     "summary": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
+     "link": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
+     "published": "2026-10-27T22:09:55+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Libertarians could siphon Republican support in the fight for control of the U.S. Senate",
+     "summary": "Third-party Libertarian candidates threaten to siphon votes from Republicans in competitive states and could imperil the party's chances of holding its narrow majority over Democrats.",
+     "link": "https://www.pbs.org/newshour/politics/libertarians-could-siphon-republican-support-in-the-fight-for-control-of-the-u-s-senate",
+     "published": "2026-10-27T21:10:32+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+     "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
+     "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+     "published": "2026-10-27T19:53:12+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
+     "summary": "Federal prosecutors in Washington, D.C., failed to secure an indictment against Cassidy Hutchinson over her testimony about the Jan. 6, 2021, Capitol riot.",
+     "link": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+     "published": "2026-10-27T22:02:42+00:00"
     }
    ]
   }
