@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:50:54.469551+00:00",
+ "updated": "2026-10-27T00:56:10.656126+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
-     "source": "Park Record",
-     "title": "Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman",
-     "summary": "The Park City Police Department received at least two recent reports of issues at Main Street nightclubs. The post Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman appeared first on…",
-     "link": "https://www.parkrecord.com/2026/10/26/park-city-police-blotter-person-reportedly-attempts-to-pick-a-fight-with-doorman/",
-     "published": "2026-10-26T21:50:35+00:00"
+     "source": "KPCW",
+     "title": "Park City looks to back-to-back winter sports events as hotel bookings lag",
+     "summary": "Two major winter sports competitions are coming to Park City on back-to-back weekends in January. Tourism officials are building on the events as advance winter lodging bookings remain below last year.",
+     "link": "https://www.kpcw.org/park-city/2026-10-26/park-city-looks-to-back-to-back-winter-sports-events-as-hotel-bookings-lag",
+     "published": "2026-10-26T23:37:29+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Judge dismisses DOJ lawsuit against Utah lieutenant governor",
-     "summary": "A federal judge has dismissed a lawsuit filed by the Trump administration against Utah’s top election official, Lt. Gov. Deidre Henderson, that sought Utah voters’ sensitive private information.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-26/judge-dismisses-doj-lawsuit-against-utah-lieutenant-governor",
-     "published": "2026-10-26T21:19:48+00:00"
+     "source": "Park Record",
+     "title": "Park City speeding cases include stops outside the municipal boundaries",
+     "summary": "The Park City Police Department stopped drivers suspected of speeding in a series of recent traffic stops, including cases well above the posted limits and in at least two locations that are not inside the municipal…",
+     "link": "https://www.parkrecord.com/2026/10/26/park-city-speeding-cases-include-stops-outside-the-municipal-boundaries/",
+     "published": "2026-10-26T22:00:00+00:00"
     },
     {
      "source": "TownLift",
@@ -28,11 +28,18 @@
      "published": "2026-10-26T20:32:23+00:00"
     },
     {
+     "source": "KPCW",
+     "title": "Heber City limits elected official opinion pieces in newsletter",
+     "summary": "Heber City elected officials will face new limits on publishing personal opinion pieces in the city newsletter. The council narrowly approved the change this October.",
+     "link": "https://www.kpcw.org/2026-10-26/heber-city-limits-elected-official-opinion-pieces-in-newsletter",
+     "published": "2026-10-26T23:06:52+00:00"
+    },
+    {
      "source": "Park Record",
-     "title": "Vail Resorts announces new dining, après experiences for 2026-27",
-     "summary": "The company touted its \"largest investment in food to date\" with higher-quality ingredients and new presentations for its most popular quick-service menu items like chili, burgers, chicken strips and pizza. The post…",
-     "link": "https://www.parkrecord.com/2026/10/26/vail-resorts-announces-new-dining-apres-experiences-for-2026-27/",
-     "published": "2026-10-26T20:25:34+00:00"
+     "title": "Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman",
+     "summary": "The Park City Police Department received at least two recent reports of issues at Main Street nightclubs. The post Park City police blotter: Person reportedly attempts to ‘pick a fight’ with doorman appeared first on…",
+     "link": "https://www.parkrecord.com/2026/10/26/park-city-police-blotter-person-reportedly-attempts-to-pick-a-fight-with-doorman/",
+     "published": "2026-10-26T21:50:35+00:00"
     },
     {
      "source": "TownLift",
@@ -43,10 +50,17 @@
     },
     {
      "source": "KPCW",
-     "title": "Utah's big cities got their Colorado River water. Others have unfulfilled promises",
-     "summary": "Transbasin diversions that fueled growth on the Wasatch Front had ramifications for farmers, the Ute Indian Tribe and the environment.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-26/utahs-big-cities-got-their-colorado-river-water-others-have-unfulfilled-promises",
-     "published": "2026-10-26T17:57:31+00:00"
+     "title": "Eastern Summit County called on to help draw map of future growth",
+     "summary": "The future land use map will inform policymaker decisions on issues like housing and open space.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-26/eastern-summit-county-called-on-to-help-draw-map-of-future-growth",
+     "published": "2026-10-26T22:50:13+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Vail Resorts announces new dining, après experiences for 2026-27",
+     "summary": "The company touted its \"largest investment in food to date\" with higher-quality ingredients and new presentations for its most popular quick-service menu items like chili, burgers, chicken strips and pizza. The post…",
+     "link": "https://www.parkrecord.com/2026/10/26/vail-resorts-announces-new-dining-apres-experiences-for-2026-27/",
+     "published": "2026-10-26T20:25:34+00:00"
     },
     {
      "source": "TownLift",
@@ -56,25 +70,11 @@
      "published": "2026-10-26T20:02:59+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Wasatch County Clerk-Auditor’s Office ensures voting equipment accuracy",
-     "summary": "Wasatch County Clerk-Auditor Joey Granger expects to receive thousands of ballots by mail or dropbox by Election Day. In-person voting will run until 8 p.m. on Nov. 3 at the Wasatch County Administration building, and…",
-     "link": "https://www.parkrecord.com/2026/10/26/wasatch-county-clerk-auditors-office-ensures-voting-equipment-accuracy/",
-     "published": "2026-10-26T19:40:49+00:00"
-    },
-    {
      "source": "KPCW",
-     "title": "Wasatch Back Meals on Wheels seeks funds, volunteers for growing demand",
-     "summary": "Wasatch Back Meals on Wheels is facing a funding shortage that’s left more than 300 seniors on its waiting list for meal deliveries.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-26/wasatch-back-meals-on-wheels-seeks-funds-volunteers-for-growing-demand",
-     "published": "2026-10-26T17:09:23+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Discover the cozy side of Park City",
-     "summary": "PARK CITY, Utah — The leaves are golden, snow is capping the mountains and the crisp air is signaling that winter is just around the corner. As the temperature drops",
-     "link": "https://townlift.com/2026/10/discover-the-cozy-side-of-park-city/",
-     "published": "2026-10-26T19:30:03+00:00"
+     "title": "Wasatch Back early voting opens Tuesday",
+     "summary": "Wasatch Back voters will be asked to choose candidates for state and local offices as well as vote on two Utah constitutional amendments.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-26/wasatch-back-early-voting-opens-tuesday",
+     "published": "2026-10-26T22:37:26+00:00"
     }
    ]
   },
@@ -85,10 +85,10 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Church of Jesus Christ sets groundbreaking date for Lehi Utah Temple",
+     "title": "What’s got McAfee so fired up about the University of Utah?",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/10/26/lehi-utah-temple-groundbreaking-date-announced/",
-     "published": "2026-10-26T21:39:24+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/26/whats-got-mcafee-so-fired-up-about-the-university-of-utah/",
+     "published": "2026-10-27T00:12:09+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,17 +99,17 @@
     },
     {
      "source": "KSL",
-     "title": "Weber County man arrested after allegedly placing signage identifying license plate readers",
-     "summary": "A Weber County man was arrested Sunday for allegedly placing signage identifying license-plate readers and his backers decried the detention.",
-     "link": "https://www.ksl.com/article/51641191/weber-county-man-arrested-after-allegedly-placing-signage-identifying-license-plate-readers",
-     "published": "2026-10-26T12:31:29+00:00"
+     "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
+     "summary": "Russia is committing war crimes and crimes against humanity by intentionally attacking civilian infrastructure – including vital energy systems – in Ukraine, an independent UN investigations panel said on Monday.",
+     "link": "https://www.ksl.com/article/51641128/un-panel-russia-is-committing-crimes-against-humanity-by-targeting-civilians-in-ukraine",
+     "published": "2026-10-26T18:22:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: Once again, Utah is a safe place to vote",
+     "title": "Opinion: Why losing to UCF might help BYU more than beating Notre Dame",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/26/yet-another-study-finds-little-fraud-in-utah-voting/",
-     "published": "2026-10-26T21:26:15+00:00"
+     "link": "https://www.deseret.com/opinion/2026/10/26/getting-off-the-rollercoaster/",
+     "published": "2026-10-26T23:41:52+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,17 +120,24 @@
     },
     {
      "source": "KSL",
-     "title": "Serbia's political veteran Vucic outplayed all opponents. Then came the students",
-     "summary": "Serbia's populist leader Aleksandar Vucic on Sunday the conceded defeat of his right-wing Serbian Progressive Party to a grassroots movement of university students.",
-     "link": "https://www.ksl.com/article/51641019/serbias-political-veteran-vucic-outplayed-all-opponents-then-came-the-students",
-     "published": "2026-10-26T12:27:00+00:00"
+     "title": "18-year-old sentenced to jail for assault with a hammer, but judge said crime was 'worthy of prison'",
+     "summary": "An 18-year-old was ordered to spend time in jail and on probation for hitting another man with a hammer in the face, causing significant injuries.",
+     "link": "https://www.ksl.com/article/51640330/18-year-old-sentenced-to-jail-for-assault-with-a-hammer-but-judge-said-crime-was-worthy-of-prison",
+     "published": "2026-10-26T18:07:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Unwrapping the Story Behind Minky Couture’s Annual White Glove Event",
+     "title": "Elder Gilbert dedicates Cody Wyoming Temple, his first since becoming an Apostle",
      "summary": "",
-     "link": "https://www.deseret.com/brandview/2026/10/26/unwrapping-the-story-behind-minky-coutures-annual-white-glove-event/",
-     "published": "2026-10-26T21:25:55+00:00"
+     "link": "https://www.deseret.com/faith/2026/10/26/church-news-elder-gilbert-dedicates-cody-wyoming-temple-first-as-apostle/",
+     "published": "2026-10-26T23:07:39+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Groundbreaking announced for Lehi temple",
+     "summary": "The Church of Jesus Christ of Latter-day Saints announced Monday that Elder John A. McCune, from the Utah Area Presidency, will preside at the groundbreaking for the Lehi Utah Temple on Dec. 5.",
+     "link": "https://www.ksl.com/article/51641309/groundbreaking-announced-for-lehi-temple",
+     "published": "2026-10-26T17:44:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -140,18 +147,11 @@
      "published": "2026-10-26T16:56:18+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Pending U.S. home sales hit a new low, fewer homes under contract in Utah",
-     "summary": "For the four weeks ending Oct. 18, the number of homes for sale with an offer was down 14.4% from the same period a year ago, according to Redfin.",
-     "link": "https://www.ksl.com/article/news/utah/pending-us-home-sales-hit-a-new-low-fewer-homes-under-contract-in-utah/51640562",
-     "published": "2026-10-26T12:07:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "How will No. 8 BYU solve its tackling woes ahead of Arizona State?",
+     "title": "Another U.S. pro sports league partners with prediction markets",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/26/byu-cougars-/",
-     "published": "2026-10-26T21:13:42+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/26/nba-agreement-kalshi-polymarket-prediction-market-sports-betting-nfl-holdout/",
+     "published": "2026-10-26T22:26:11+00:00"
     }
    ]
   },
@@ -161,18 +161,39 @@
    "scope": "United States",
    "items": [
     {
+     "source": "CBS News",
+     "title": "DOJ takes steps to charge James Comey again",
+     "summary": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
+     "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+     "published": "2026-10-27T00:34:45+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+     "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+     "published": "2026-10-27T00:31:45+00:00"
+    },
+    {
      "source": "PBS NewsHour",
-     "title": "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote",
-     "summary": "Tens of thousands of Israelis living abroad are expected to fly in for this month's election. That's according to AID Coalition, a U.S.-based nonprofit focused on strengthening Israel's democracy.",
-     "link": "https://www.pbs.org/newshour/politics/tens-of-thousands-of-israelis-living-abroad-are-expected-to-fly-in-for-pivotal-vote",
-     "published": "2026-10-26T21:44:02+00:00"
+     "title": "Candidates enter final week of campaigning with control of Congress at stake",
+     "summary": "It's crunch time for candidates across the country with Election Day just over a week away. On Monday, President Trump campaigned in ruby-red Mississippi, a state he won by almost 23 points two years ago. Over the…",
+     "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
+     "published": "2026-10-26T22:55:02+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Analyzing Democratic, Republican strategies to sway voters",
-     "summary": "The countdown to the midterm elections is on, and both sides of the aisle have deployed strategies to appeal to voters. CBS News contributor Chuck Rocha and former RNC spokesperson Kevin Sheridan break down the…",
-     "link": "https://www.cbsnews.com/video/analyzing-democratic-republican-strategies-to-sway-voters/",
-     "published": "2026-10-26T21:22:48+00:00"
+     "title": "LA residents sue city over Hollywood sign crowds: \"Reached its peak\"",
+     "summary": "A group of residents who live near the world-famous Hollywood Sign, which attracts millions of visitors from around the world every year, have filed public nuisance lawsuits against the city of Los Angeles, asking…",
+     "link": "https://www.cbsnews.com/losangeles/news/hollywood-sign-los-angeles-residents-file-public-nuisance-lawsuit/",
+     "published": "2026-10-27T00:24:50+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+     "summary": "In our news wrap Monday, AI giant Anthropic officially kicked off what could be one of the biggest initial public offerings ever, at least two Catholic bishops have expressed regret for taking part in a White House…",
+     "link": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
+     "published": "2026-10-26T22:50:40+00:00"
     },
     {
      "source": "NPR",
@@ -182,18 +203,18 @@
      "published": "2026-10-26T18:41:43+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Voters in these Democratic strongholds could ban trans girls from girls' school sports",
-     "summary": "Colorado and Washington are reliably Democratic states where elected officials have rejected moves to ban transgender women and girls from female sports competitions. Now activists have gone around lawmakers to put…",
-     "link": "https://www.pbs.org/newshour/politics/voters-in-these-democratic-strongholds-could-ban-trans-girls-from-girls-school-sports",
-     "published": "2026-10-26T21:21:39+00:00"
+     "source": "CBS News",
+     "title": "Why DOJ's attempt to charge James Comey again is highly unusual",
+     "summary": "The Department of Justice took steps to charge former FBI director James Comey for the third time on Monday. CBS News senior Justice Department reporter Sarah Lynch explains why the situation is so unusual.",
+     "link": "https://www.cbsnews.com/video/why-dojs-attempt-charge-james-comey-again-highly-unusual/",
+     "published": "2026-10-27T00:24:00+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Ukraine disputes Elon Musk's claim that drone strikes violated Starlink's terms",
-     "summary": "According to SpaceX CEO Elon Musk, Ukraine violated Starlink's rules. He said it used the civilian satellite internet network for an offensive drone strike. Ukrainian officials dispute the statement. Clayton Swope…",
-     "link": "https://www.cbsnews.com/video/ukraine-disputes-elon-musks-claim-drone-strikes-violated-starlinks-terms/",
-     "published": "2026-10-26T21:08:23+00:00"
+     "source": "PBS NewsHour",
+     "title": "Netanyahu faces Israeli voters in first election since Oct. 7 and Gaza war",
+     "summary": "Israelis will go to the polls on Tuesday in what many describe as the most consequential election in years. It's the first vote since the Oct. 7 Hamas attack and Israel's war in Gaza. Prime Minister Netanyahu has been…",
+     "link": "https://www.pbs.org/newshour/show/netanyahu-faces-israeli-voters-in-first-election-since-oct-7-and-gaza-war",
+     "published": "2026-10-26T22:45:37+00:00"
     },
     {
      "source": "NPR",
@@ -204,31 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump campaigning in red states to reassure Republican voters",
-     "summary": "President Trump will work to court voters for Sen. Cindy Hyde-Smith in Mississippi on Monday ahead of the midterms. Skyler Henry has more details.",
-     "link": "https://www.cbsnews.com/video/trump-campaigning-red-states-reassure-republican-voters/",
-     "published": "2026-10-26T20:58:08+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Following post-surgery checkup, Pope Leo will proceed with Latin America trip, Vatican confirms",
-     "summary": "Pope Leo XIV will proceed with his planned trip to Uruguay, Argentina, and Peru from November 6 to 17.",
-     "link": "https://www.pbs.org/newshour/world/following-post-surgery-checkup-pope-leo-will-proceed-with-latin-america-trip-vatican-confirms",
-     "published": "2026-10-26T20:54:31+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "AI giant Anthropic files for an IPO that could break records",
-     "summary": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.",
-     "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-     "published": "2026-10-26T14:16:23+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Trump, Obama on campaign pushes as Democrats poised to take the House, CBS News poll shows",
-     "summary": "President Donald Trump and former President Barack Obama made their rounds across the U.S. ahead of the midterm elections. A new CBS News poll found that Democrats are on track to take control of the House of…",
-     "link": "https://www.cbsnews.com/video/trump-obama-campaign-pushes-democrats-poised-take-house-cbs-news-poll/",
-     "published": "2026-10-26T20:55:22+00:00"
+     "title": "Legal analysis of DOJ taking steps to charge James Comey again",
+     "summary": "The Trump administration is attempting to charge former FBI director James Comey again. Comey said he remains innocent. CBS News legal contributor Rebecca Roiphe has more.",
+     "link": "https://www.cbsnews.com/video/legal-analysis-doj-taking-steps-charge-james-comey-again/",
+     "published": "2026-10-27T00:20:02+00:00"
     }
    ]
   }
