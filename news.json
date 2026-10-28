@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:31:40.728393+00:00",
+ "updated": "2026-10-28T14:25:46.096924+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,11 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "Park Record",
+     "title": "Way We Were: Tricks and treats",
+     "summary": "\"The first time I could find any mention of an event called Halloween on Main, however, was in 1996.\" The post Way We Were: Tricks and treats appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/28/way-we-were-tricks-and-treats/",
+     "published": "2026-10-28T14:15:00+00:00"
+    },
+    {
      "source": "TownLift",
-     "title": "The Black Crowes and Caamp to headline inaugural Boundless Life Festival at Canyons Village",
-     "summary": "PARK CITY, Utah — The Black Crowes and Caamp will headline the first-ever Boundless Life Music, Arts & Culture Fest, a two-day festival coming to Canyons Village at Park City",
-     "link": "https://townlift.com/2026/10/the-black-crowes-and-caamp-to-headline-inaugural-boundless-life-festival-at-canyons-village/",
-     "published": "2026-10-28T02:01:49+00:00"
+     "title": "Jobs of the week, Oct. 28",
+     "summary": "Check out this week’s jobs from local Park City employers, brought to you by the Park City Chamber of Commerce. National Ability Center is seeking applicants for an Executive Assistant.",
+     "link": "https://townlift.com/2026/10/jobs-of-the-week-oct-28/",
+     "published": "2026-10-28T12:01:57+00:00"
     },
     {
      "source": "KPCW",
@@ -22,10 +29,17 @@
     },
     {
      "source": "Park Record",
-     "title": "Prospector businesses weigh drawbacks, benefits of Bonanza Park development proposal",
-     "summary": "The Prospector Square Property Owners Association recently conducted a survey of businesses about the Bonanza Park proposal. The post Prospector businesses weigh drawbacks, benefits of Bonanza Park development proposal…",
-     "link": "https://www.parkrecord.com/2026/10/27/prospector-businesses-weigh-drawbacks-benefits-of-bonanza-park-development-proposal/",
-     "published": "2026-10-27T21:15:00+00:00"
+     "title": "Journalism Matters: The dullest election season ever",
+     "summary": "\"The key contests pretty much were settled in the primaries back in June in blue Summit County and red Wasatch County.\" The post Journalism Matters: The dullest election season ever appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/28/journalism-matters-the-dullest-election-season-ever/",
+     "published": "2026-10-28T14:00:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "The Black Crowes and Caamp to headline inaugural Boundless Life Festival at Canyons Village",
+     "summary": "PARK CITY, Utah — The Black Crowes and Caamp will headline the first-ever Boundless Life Music, Arts & Culture Fest, a two-day festival coming to Canyons Village at Park City",
+     "link": "https://townlift.com/2026/10/the-black-crowes-and-caamp-to-headline-inaugural-boundless-life-festival-at-canyons-village/",
+     "published": "2026-10-28T02:01:49+00:00"
     },
     {
      "source": "KPCW",
@@ -36,17 +50,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Summit County prosecutors attribute 1974 homicide cold case to Ted Bundy",
-     "summary": "Summit County prosecutors on Tuesday announced the 1974 murder of Melissa Smith, whose body was discovered by a hunter in Summit Park exactly 52 years ago this week, has been attributed to infamous serial killer Ted…",
-     "link": "https://www.parkrecord.com/2026/10/27/summit-county-prosecutors-attribute-homicide-in-1974-cold-case-to-ted-bundy/",
-     "published": "2026-10-27T21:00:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Police Log: Truck knocks down signs on Main Street, photographer stands in SR 224 traffic, and injured moose",
-     "summary": "Local officers responded to a variety of calls this week, including an oversized truck reportedly knocked down a stop sign and street sign on Main Street, an injured female moose",
-     "link": "https://townlift.com/2026/10/police-log-truck-knocks-down-signs-on-main-street-photographer-stands-in-sr-224-traffic-and-injured-moose/",
-     "published": "2026-10-27T20:40:51+00:00"
+     "title": "Green Tips: Sustainability and industry responsibility",
+     "summary": "\"Advocating for education, joining local environmental-centered groups and supporting eco-events can be helpful when thinking about equity outside of individual choices.\" The post Green Tips: Sustainability and industry…",
+     "link": "https://www.parkrecord.com/2026/10/28/green-tips-sustainability-and-industry-responsibility/",
+     "published": "2026-10-28T13:45:00+00:00"
     },
     {
      "source": "KPCW",
@@ -56,25 +63,18 @@
      "published": "2026-10-27T21:52:00+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Kohler Dairy’s fall festival is an agritourism hot spot",
-     "summary": "At Midway’s Kohler Dairy, Afton Stallings, 3, played in a sandbox filled with dried corn kernels. She filled buckets with the kernels and flung them in the air while her brother Cooper Stallings, 1, sat behind her.…",
-     "link": "https://www.parkrecord.com/2026/10/27/kohler-dairys-fall-festival-is-an-agritourism-hot-spot/",
-     "published": "2026-10-27T20:45:00+00:00"
-    },
-    {
      "source": "TownLift",
-     "title": "The police chief’s daughter, found in Summit Park in 1974, was murdered by Ted Bundy, DNA confirms",
-     "summary": "New forensic testing connected evidence from Smith’s 1974 homicide to another Utah victim whose DNA had been directly matched to Bundy",
-     "link": "https://townlift.com/2026/10/the-police-chiefs-daughter-found-in-summit-park-in-1974-was-murdered-by-ted-bundy-dna-confirms/",
-     "published": "2026-10-27T18:39:54+00:00"
+     "title": "Police Log: Truck knocks down signs on Main Street, photographer stands in SR 224 traffic, and injured moose",
+     "summary": "Local officers responded to a variety of calls this week, including an oversized truck reportedly knocked down a stop sign and street sign on Main Street, an injured female moose",
+     "link": "https://townlift.com/2026/10/police-log-truck-knocks-down-signs-on-main-street-photographer-stands-in-sr-224-traffic-and-injured-moose/",
+     "published": "2026-10-27T20:40:51+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "DNA analysis solves Ted Bundy cold case in Summit County",
-     "summary": "Melissa Ann Smith, a Midvale police chief's daughter, was found dead in Summit Park in 1974.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-27/dna-analysis-solves-ted-bundy-cold-case-in-summit-county",
-     "published": "2026-10-27T21:51:16+00:00"
+     "source": "Park Record",
+     "title": "The Porcupine Quill: Politicians need to stop getting taxpayers to fund their name dropping",
+     "summary": "\"At first, I thought that was nice, our mayor welcoming the world. But after thinking about it, I was a little ticked.\" The post The Porcupine Quill: Politicians need to stop getting taxpayers to fund their name…",
+     "link": "https://www.parkrecord.com/2026/10/28/the-porcupine-quill-politicians-need-to-stop-getting-taxpayers-to-fund-their-name-dropping/",
+     "published": "2026-10-28T13:30:00+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Fight night at the Delta Center turns into a hockey game",
+     "title": "High school football: 1A/8-Player Quarterfinal previews",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/utah-mammoth-lose-3-1-to-minnesota-wild/",
-     "published": "2026-10-28T05:46:15+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Endless penalties cost Utah Mammoth in loss to Minnesota Wild",
-     "summary": "Amid a heated divisional matchup between the top two teams in the Central Division, the Utah Mammoth were their own worst enemy, struggling to stay out of the penalty box against the Minnesota Wild.",
-     "link": "https://sports.ksl.com/nhl/utah-mammoth/minnesota-wild-beat-utah-mammoth/578543",
-     "published": "2026-10-27T23:27:55+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/28/high-school-football-1a-8-player-quarterfinal-previews/",
+     "published": "2026-10-28T13:26:19+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "It’s been nearly 20 years since Donny Osmond gave a concert in Salt Lake City. Here’s when he’s coming back.",
-     "summary": "Donny Osmond plans to end a concert tour next summer with two shows in Salt Lake City. Here's how you can get tickets.",
-     "link": "https://www.sltrib.com/artsliving/2026/10/27/donny-osmond-plans-perform-salt/",
-     "published": "2026-10-27T21:13:02+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "High school girls volleyball: 5A state tournament Day 1 first round recap",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/high-school-girls-volleyball-5a-state-tournament-first-round/",
-     "published": "2026-10-28T05:14:02+00:00"
+     "title": "Voices: The most important check on presidential power might be your midterm ballot",
+     "summary": "“Saving constitutional government in America requires a Congress willing to check the presidency. This, in turn, requires American voters to care,” Verlan Lewis writes in an op-ed.",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/10/28/voices-most-important-check/",
+     "published": "2026-10-28T12:05:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "Hurricane residents call for flood prevention amid new storm warnings",
-     "summary": "With another round of storms projected for southern Utah this weekend, Hurricane residents are bracing for impact, with the hope that officials will take measures to prevent yet another round of floods from entering…",
-     "link": "https://www.ksl.com/article/51641757/hurricane-residents-call-for-flood-prevention-amid-new-storm-warnings",
-     "published": "2026-10-27T22:36:00+00:00"
+     "title": "At least 64 dead in high-speed train crash in central Spain",
+     "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 64 people on Wednesday in central Spain, authorities said.",
+     "link": "https://www.ksl.com/article/51641899/at-least-30-dead-and-80-injured-in-high-speed-train-crash-in-central-spain",
+     "published": "2026-10-28T07:37:24+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Utah Jazz forward Jaren Jackson will miss multiple weeks with torn MCL",
-     "summary": "Utah Jazz forward Jaren Jackson has suffered a torn MCL in his right knee, a team source confirmed to the Salt Lake Tribune. ESPN reported that Jackson will be sidelined for six to eight weeks.",
-     "link": "https://www.sltrib.com/sports/jazz/2026/10/27/utah-jazz-forward-jaren-jackson-jr/",
-     "published": "2026-10-27T19:47:55+00:00"
+     "title": "The injury that threatened BYU’s Sione Moa’s leg, and the score that finally put it behind him",
+     "summary": "BYU running back Sione Moa scored his first TD in over a year at UCF after compartment syndrome and a knee surgery. Here’s how he got back.",
+     "link": "https://www.sltrib.com/sports/byu-cougars/2026/10/28/after-leg-threatening-injury-byus/",
+     "published": "2026-10-28T12:00:01+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "The long afterlife of a one-use Halloween costume",
+     "title": "Bishops’ prayer over Trump raises a hard question",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/27/the-environmental-impact-of-cheap-halloween-costumes-and-how-to-reduce-waste/",
-     "published": "2026-10-28T02:25:00+00:00"
+     "link": "https://www.deseret.com/faith/2026/10/28/catholic-bishops-prayer-trump/",
+     "published": "2026-10-28T10:00:01+00:00"
     },
     {
      "source": "KSL",
-     "title": "Across Utah's biggest congressional district, 'rural' means different things",
-     "summary": "Representing Utahns in the state's most sprawling new congressional district is a job that's hard to imagine even for veteran political scientists, and not because of all the driving involved.",
-     "link": "https://www.ksl.com/article/51641666/across-utahs-biggest-congressional-district-rural-means-different-things",
-     "published": "2026-10-27T22:02:00+00:00"
+     "title": "Utah couple stranded in Eastern Europe asks for those back home to help",
+     "summary": "Valentin and Anastasia Sergeif are asking for help pushing their immigration case to review after three years of waiting for the immigration freeze to let up.",
+     "link": "https://www.ksl.com/article/51641763/utah-couple-stranded-in-eastern-europe-asks-for-those-back-home-to-help",
+     "published": "2026-10-28T07:13:38+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "The 1974 death of a Midvale teen has been solved. Serial killer Ted Bundy did it, authorities say.",
-     "summary": "The case of Melissa Ann Smith is the second Utah cold case linked to serial killer Ted Bundy that investigators have closed this year, using new DNA technology to connect him to the decades-old killings.",
-     "link": "https://www.sltrib.com/news/2026/10/27/utah-teen-melissa-ann-smith-killed/",
-     "published": "2026-10-27T19:29:39+00:00"
+     "title": "Federal government sues Utah, seeks stop to the state’s lawsuit against Kalshi",
+     "summary": "The CFTC brought legal action against the state of Utah on Tuesday, seeking to end the Beehive State's lawsuit against Kalshi and protect the federal government's ability to allow prediction markets in the state.",
+     "link": "https://www.sltrib.com/news/2026/10/28/federal-governments-cftc-sues-utah/",
+     "published": "2026-10-28T12:00:01+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "High school cross country: Canyon View girls claim first title, Ogden boys back on the podium in 3A",
+     "title": "Who should run for president in 2028? Voters aren’t sure",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/high-school-cross-country-3a-state-championship/",
-     "published": "2026-10-28T01:11:29+00:00"
+     "link": "https://www.deseret.com/politics/2026/10/28/2028-presidential-nominee-polling-finds-voters-split-over-who-they-want-to-lead-each-party-midterms-will-impact-it/",
+     "published": "2026-10-28T10:00:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Israelis await final election results as Netanyahu remains far from defeated",
+     "summary": "Israelis are closely awaiting final election results and what they mean for Prime Minister Benjamin Netanyahu's far-right government as vote counting indicates no clear winner.",
+     "link": "https://www.ksl.com/article/51641862/israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated",
+     "published": "2026-10-28T06:51:24+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Years after their political paths wound through D.C., Riley Owen and Ben McAdams vie to return",
+     "summary": "A generation apart, Republican Riley Owen and Democrat Ben McAdams paths have followed different paths to a crossroads where one will become the next representative in Utah's new 1st Congressional District.",
+     "link": "https://www.sltrib.com/news/politics/2026/10/28/utahs-1st-congressional-district/",
+     "published": "2026-10-28T12:00:01+00:00"
     }
    ]
   },
@@ -162,17 +162,38 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Brazil's Flávio Bolsonaro heading for Ecuador, Argentina says",
-     "summary": "Flávio Bolsonaro, who lost Brazil's presidential election, was en route to Ecuador after stopping off in Argentina, an Argentine agency said. Earlier, a State Department official told CBS News they would receive U.S.…",
-     "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
-     "published": "2026-10-28T07:04:18+00:00"
+     "title": "Midterm campaigns make final push as early voters hit the polls",
+     "summary": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+     "link": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+     "published": "2026-10-28T14:18:22+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+     "summary": "The Federal Reserve is expected to stand pat on interest rates Wednesday even though inflation has accelerated in the past couple of months as the Iran war has caused spikes in oil and gas prices.",
+     "link": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-holds-briefing-after-latest-interest-rate-decision",
+     "published": "2026-10-28T14:14:27+00:00"
     },
     {
      "source": "NPR",
-     "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-     "summary": "President Donald Trump said that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
-     "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-     "published": "2026-10-28T06:15:31+00:00"
+     "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+     "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+     "published": "2026-10-28T13:05:33+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Flávio Bolsonaro leaves Brazil, lands in U.S. after election loss",
+     "summary": "Flávio Bolsonaro, who lost Brazil's presidential election, left the country with his family and State Department official told CBS News they would receive U.S. visas.",
+     "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
+     "published": "2026-10-28T14:16:35+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+     "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+     "published": "2026-10-28T11:28:55+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -182,18 +203,18 @@
      "published": "2026-10-27T22:55:25+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
-     "summary": "Tampa Bay became the fourth team in World Series history to avoid elimination with an extra-inning comeback. Game 5 in the best-of-seven matchup is Wednesday night at Tropicana Field.",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
-     "published": "2026-10-28T06:13:28+00:00"
+     "source": "CBS News",
+     "title": "Exclusive discounts from CBS Mornings Deals",
+     "summary": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through…",
+     "link": "https://www.cbsnews.com/video/cbs-mornings-deals-102826/",
+     "published": "2026-10-28T14:11:03+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "8-month Iran war looms large over Israeli election",
-     "summary": "Israelis voted in a national election set to shape the country's next government, with the Iran war looming large over their decisions.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-     "published": "2026-10-28T03:48:19+00:00"
+     "source": "NPR",
+     "title": "Dozens are dead in a high-speed train crash in Spain",
+     "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+     "published": "2026-10-28T10:09:46+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -204,31 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Iran war has cost $47 billion, U.S. military says",
-     "summary": "The war with Iran has cost the U.S. military at least $47.1 billion as of mid-October, according to a new estimate from U.S. Central Command obtained by CBS News.",
-     "link": "https://www.cbsnews.com/news/iran-war-cost-centcom-47-billion/",
-     "published": "2026-10-28T03:29:20+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-     "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-     "published": "2026-10-28T01:58:08+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Poll gauges voter enthusiasm for both parties a week before election",
-     "summary": "A new PBS News/NPR/Marist poll released on Tuesday shows Democrats hold an eight-point lead among likely voters. With independents, that lead grows to 13 points. Geoff Bennett breaks down the poll results and what it…",
-     "link": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
-     "published": "2026-10-27T22:45:04+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Alexander brothers sentenced to 30 years in prison for sex trafficking",
-     "summary": "Alon, Oren and Tal Alexander have been sentenced to 30 years in prison for sex trafficking after the trio was convicted of drugging and raping dozens of women.",
-     "link": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
-     "published": "2026-10-28T02:04:54+00:00"
+     "title": "Qatari mediators hand Iran new proposal to end the war",
+     "summary": "Iran rejects \"unacceptable\" ideas after Qatari mediators presented Tehran with a new draft deal to end the war, the Reuters news agency reports.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+     "published": "2026-10-28T14:02:03+00:00"
     }
    ]
   }
