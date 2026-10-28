@@ -1,11 +1,18 @@
 {
- "updated": "2026-10-28T01:37:33.804586+00:00",
+ "updated": "2026-10-28T07:31:40.728393+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "TownLift",
+     "title": "The Black Crowes and Caamp to headline inaugural Boundless Life Festival at Canyons Village",
+     "summary": "PARK CITY, Utah — The Black Crowes and Caamp will headline the first-ever Boundless Life Music, Arts & Culture Fest, a two-day festival coming to Canyons Village at Park City",
+     "link": "https://townlift.com/2026/10/the-black-crowes-and-caamp-to-headline-inaugural-boundless-life-festival-at-canyons-village/",
+     "published": "2026-10-28T02:01:49+00:00"
+    },
     {
      "source": "KPCW",
      "title": "China Bridge Garage reconstruction could bring new life to Swede Alley",
@@ -19,13 +26,6 @@
      "summary": "The Prospector Square Property Owners Association recently conducted a survey of businesses about the Bonanza Park proposal. The post Prospector businesses weigh drawbacks, benefits of Bonanza Park development proposal…",
      "link": "https://www.parkrecord.com/2026/10/27/prospector-businesses-weigh-drawbacks-benefits-of-bonanza-park-development-proposal/",
      "published": "2026-10-27T21:15:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Police Log: Truck knocks down signs on Main Street, photographer stands in SR 224 traffic, and injured moose",
-     "summary": "Local officers responded to a variety of calls this week, including an oversized truck reportedly knocked down a stop sign and street sign on Main Street, an injured female moose",
-     "link": "https://townlift.com/2026/10/police-log-truck-knocks-down-signs-on-main-street-photographer-stands-in-sr-224-traffic-and-injured-moose/",
-     "published": "2026-10-27T20:40:51+00:00"
     },
     {
      "source": "KPCW",
@@ -43,10 +43,10 @@
     },
     {
      "source": "TownLift",
-     "title": "The police chief’s daughter, found in Summit Park in 1974, was murdered by Ted Bundy, DNA confirms",
-     "summary": "New forensic testing connected evidence from Smith’s 1974 homicide to another Utah victim whose DNA had been directly matched to Bundy",
-     "link": "https://townlift.com/2026/10/the-police-chiefs-daughter-found-in-summit-park-in-1974-was-murdered-by-ted-bundy-dna-confirms/",
-     "published": "2026-10-27T18:39:54+00:00"
+     "title": "Police Log: Truck knocks down signs on Main Street, photographer stands in SR 224 traffic, and injured moose",
+     "summary": "Local officers responded to a variety of calls this week, including an oversized truck reportedly knocked down a stop sign and street sign on Main Street, an injured female moose",
+     "link": "https://townlift.com/2026/10/police-log-truck-knocks-down-signs-on-main-street-photographer-stands-in-sr-224-traffic-and-injured-moose/",
+     "published": "2026-10-27T20:40:51+00:00"
     },
     {
      "source": "KPCW",
@@ -64,10 +64,10 @@
     },
     {
      "source": "TownLift",
-     "title": "The birth of the Park City Film Festival",
-     "summary": "PARK CITY, Utah — Katharine Wang, who has grown the Park City Film Series for years, pulled off one of the fastest event creations I have seen: the Park City",
-     "link": "https://townlift.com/2026/10/the-birth-of-the-park-city-film-festival/",
-     "published": "2026-10-27T18:06:35+00:00"
+     "title": "The police chief’s daughter, found in Summit Park in 1974, was murdered by Ted Bundy, DNA confirms",
+     "summary": "New forensic testing connected evidence from Smith’s 1974 homicide to another Utah victim whose DNA had been directly matched to Bundy",
+     "link": "https://townlift.com/2026/10/the-police-chiefs-daughter-found-in-summit-park-in-1974-was-murdered-by-ted-bundy-dna-confirms/",
+     "published": "2026-10-27T18:39:54+00:00"
     },
     {
      "source": "KPCW",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "High school cross country: Canyon View girls claim first title, Ogden boys back on the podium in 3A",
+     "title": "Fight night at the Delta Center turns into a hockey game",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/high-school-cross-country-3a-state-championship/",
-     "published": "2026-10-28T01:11:29+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/27/utah-mammoth-lose-3-1-to-minnesota-wild/",
+     "published": "2026-10-28T05:46:15+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Endless penalties cost Utah Mammoth in loss to Minnesota Wild",
+     "summary": "Amid a heated divisional matchup between the top two teams in the Central Division, the Utah Mammoth were their own worst enemy, struggling to stay out of the penalty box against the Minnesota Wild.",
+     "link": "https://sports.ksl.com/nhl/utah-mammoth/minnesota-wild-beat-utah-mammoth/578543",
+     "published": "2026-10-27T23:27:55+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,18 +105,18 @@
      "published": "2026-10-27T21:13:02+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war",
-     "summary": "Israelis are voting in a pivotal election as the country grapples with unfinished wars and divisions over its future.",
-     "link": "https://www.ksl.com/article/51641406/voters-in-israel-are-deciding-whether-to-oust-netanyahu-after-3-years-of-war",
-     "published": "2026-10-27T06:39:51+00:00"
+     "source": "Deseret News",
+     "title": "High school girls volleyball: 5A state tournament Day 1 first round recap",
+     "summary": "",
+     "link": "https://www.deseret.com/sports/2026/10/27/high-school-girls-volleyball-5a-state-tournament-first-round/",
+     "published": "2026-10-28T05:14:02+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "High school cross country: Viewmont girls celebrates first-ever 5A state title, Maple Mountain boys repeat",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/high-school-cross-country-5a-state-championship/",
-     "published": "2026-10-28T01:00:17+00:00"
+     "source": "KSL",
+     "title": "Hurricane residents call for flood prevention amid new storm warnings",
+     "summary": "With another round of storms projected for southern Utah this weekend, Hurricane residents are bracing for impact, with the hope that officials will take measures to prevent yet another round of floods from entering…",
+     "link": "https://www.ksl.com/article/51641757/hurricane-residents-call-for-flood-prevention-amid-new-storm-warnings",
+     "published": "2026-10-27T22:36:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -119,18 +126,18 @@
      "published": "2026-10-27T19:47:55+00:00"
     },
     {
-     "source": "KSL",
-     "title": "UVU hires first chief safety officer in wake of Charlie Kirk killing, independent review",
-     "summary": "Utah Valley University on Monday announced that Michael Rapich, a retired Utah Highway Patrol colonel, will serve as the university's inaugural chief safety officer.",
-     "link": "https://www.ksl.com/article/51641273/uvu-hires-first-chief-safety-officer-in-wake-of-charlie-kirk-killing-independent-review",
-     "published": "2026-10-27T06:24:28+00:00"
+     "source": "Deseret News",
+     "title": "The long afterlife of a one-use Halloween costume",
+     "summary": "",
+     "link": "https://www.deseret.com/entertainment/2026/10/27/the-environmental-impact-of-cheap-halloween-costumes-and-how-to-reduce-waste/",
+     "published": "2026-10-28T02:25:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Where does Utah rank in some of Morgan Scalley’s key stats for success?",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/utah-utes-football-statistical-analysis-key-stats-morgan-scalley/",
-     "published": "2026-10-28T00:45:04+00:00"
+     "source": "KSL",
+     "title": "Across Utah's biggest congressional district, 'rural' means different things",
+     "summary": "Representing Utahns in the state's most sprawling new congressional district is a job that's hard to imagine even for veteran political scientists, and not because of all the driving involved.",
+     "link": "https://www.ksl.com/article/51641666/across-utahs-biggest-congressional-district-rural-means-different-things",
+     "published": "2026-10-27T22:02:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -140,18 +147,11 @@
      "published": "2026-10-27T19:29:39+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Utah Jazz young core shines in hard-fought loss to Grizzlies",
-     "summary": "Despite missing its two best players, the Utah Jazz kept it close down the stretch against the Memphis Grizzlies, before eventually dropping 110-105.",
-     "link": "https://sports.ksl.com/nba/utah-jazz/jazz-grizzlies-young-core-shine/578516",
-     "published": "2026-10-26T23:07:49+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "High school cross country: Lone Peak girls claim fifth straight 6A title, Lehi boys snap 3-decade drought",
+     "title": "High school cross country: Canyon View girls claim first title, Ogden boys back on the podium in 3A",
      "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/27/high-school-girls-cross-country-6a-state-championship/",
-     "published": "2026-10-27T23:16:05+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/27/high-school-cross-country-3a-state-championship/",
+     "published": "2026-10-28T01:11:29+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Judge continues to block Trump from cutting down trees at D.C. golf course",
-     "summary": "\"The Court earlier stated, 'I am not the Lorax. I do not speak for the trees,'\" U.S. District Judge Ana Reyes wrote. \"The Court still does not speak for the trees. It speaks only for the rule of law.\"",
-     "link": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
-     "published": "2026-10-28T01:15:03+00:00"
+     "title": "Brazil's Flávio Bolsonaro heading for Ecuador, Argentina says",
+     "summary": "Flávio Bolsonaro, who lost Brazil's presidential election, was en route to Ecuador after stopping off in Argentina, an Argentine agency said. Earlier, a State Department official told CBS News they would receive U.S.…",
+     "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
+     "published": "2026-10-28T07:04:18+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+     "summary": "President Donald Trump said that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
+     "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+     "published": "2026-10-28T06:15:31+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -176,17 +183,17 @@
     },
     {
      "source": "NPR",
-     "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-     "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-     "published": "2026-10-27T21:17:57+00:00"
+     "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
+     "summary": "Tampa Bay became the fourth team in World Series history to avoid elimination with an extra-inning comeback. Game 5 in the best-of-seven matchup is Wednesday night at Tropicana Field.",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
+     "published": "2026-10-28T06:13:28+00:00"
     },
     {
      "source": "CBS News",
-     "title": "U.S. issuing visas to Brazil's Flávio Bolsonaro and family, official says",
-     "summary": "Flávio Bolsonaro and his family will receive U.S. visas after Bolsonaro lost Brazil's presidential election over the weekend, a State Department official told CBS News.",
-     "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
-     "published": "2026-10-28T01:00:15+00:00"
+     "title": "8-month Iran war looms large over Israeli election",
+     "summary": "Israelis voted in a national election set to shape the country's next government, with the Iran war looming large over their decisions.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+     "published": "2026-10-28T03:48:19+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-10-27T22:50:38+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
-     "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-     "published": "2026-10-27T20:45:39+00:00"
+     "source": "CBS News",
+     "title": "Iran war has cost $47 billion, U.S. military says",
+     "summary": "The war with Iran has cost the U.S. military at least $47.1 billion as of mid-October, according to a new estimate from U.S. Central Command obtained by CBS News.",
+     "link": "https://www.cbsnews.com/news/iran-war-cost-centcom-47-billion/",
+     "published": "2026-10-28T03:29:20+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Israeli election exit polls show race headed toward stalemate",
-     "summary": "Israeli Prime Minister Benjamin Netanyahu appears to have won fewer votes than his main challenger, according to early exit polls, but both sides will likely struggle to cobble together a coalition.",
-     "link": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
-     "published": "2026-10-28T00:58:03+00:00"
+     "source": "NPR",
+     "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+     "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+     "published": "2026-10-28T01:58:08+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-10-27T22:45:04+00:00"
     },
     {
-     "source": "NPR",
-     "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-     "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-     "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-     "published": "2026-10-27T19:53:12+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Flames shoot from roof of George Bush Intercontinental Airport in Houston",
-     "summary": "A fire broke out at George Bush Intercontinental Airport in Houston on Tuesday, with smoke rising from Terminal C. Kris Van Cleave reports.",
-     "link": "https://www.cbsnews.com/video/flames-shoot-roof-george-bush-intercontinental-airport-houston/",
-     "published": "2026-10-28T00:43:20+00:00"
+     "title": "Alexander brothers sentenced to 30 years in prison for sex trafficking",
+     "summary": "Alon, Oren and Tal Alexander have been sentenced to 30 years in prison for sex trafficking after the trio was convicted of drugging and raping dozens of women.",
+     "link": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
+     "published": "2026-10-28T02:04:54+00:00"
     }
    ]
   }
