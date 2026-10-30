@@ -1,11 +1,46 @@
 {
- "updated": "2026-10-29T21:22:58.789716+00:00",
+ "updated": "2026-10-30T01:18:44.223579+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "Park Record",
+     "title": "Shaun White speaks in Park City on vision for new Snow League",
+     "summary": "The Snow League is a halfpipe snowboarding and freeski competition, now in its second season. Founder Shaun White hopes the league will revolutionize the sport for athletes and spectators alike. The post Shaun White…",
+     "link": "https://www.parkrecord.com/2026/10/29/shaun-white-speaks-in-park-city-on-vision-for-new-snow-league/",
+     "published": "2026-10-30T01:06:46+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Paint spill closes I-80 westbound ramp at Kimball Junction, snarls traffic leaving Park City",
+     "summary": "SUMMIT COUNT, Utah — The ramp from northbound SR 224 to westbound I-80 at Kimball Junction is closed Thursday evening after a paint spill covered the roadway, and traffic heading",
+     "link": "https://townlift.com/2026/10/paint-spill-closes-i-80-westbound-ramp-at-kimball-junction-snarls-traffic-leaving-park-city/",
+     "published": "2026-10-30T00:56:44+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "USU study of moose-human conflict resumes on Basin Rec trails",
+     "summary": "A privacy complaint paused the study, which is intended to improve wildlife safety education.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-29/usu-study-of-moose-human-conflict-resumes-on-basin-rec-trails",
+     "published": "2026-10-29T21:29:00+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Heber City Council restricts personal columns by officials",
+     "summary": "The Heber City Council voted to prevent elected officials from publishing personal columns in the city newsletter unless they obtain prior approval. The amendment changed the existing communication policy, which was…",
+     "link": "https://www.parkrecord.com/2026/10/29/heber-city-council-restricts-personal-columns-by-officials/",
+     "published": "2026-10-29T22:17:52+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Freeride World Tour returns to Snowbird for 2027 finals, first Utah stop since 2014",
+     "summary": "SNOWBIRD, Utah — The Freeride World Tour will return to Snowbird in March 2027 for the first of its two season finals, Snowbird Resort, the FWT and U.S. Ski &",
+     "link": "https://townlift.com/2026/10/freeride-world-tour-returns-to-snowbird-for-2027-finals-first-utah-stop-since-2014/",
+     "published": "2026-10-29T22:05:32+00:00"
+    },
     {
      "source": "KPCW",
      "title": "Developer addresses Browns Canyon town at Summit County Council",
@@ -14,18 +49,11 @@
      "published": "2026-10-29T20:54:05+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Lost Creek developer tells Summit County: ‘We intend to birth a city’",
-     "summary": "Ivory says it prefers the county process, while council members raise concerns about water, traffic, density, and affordability",
-     "link": "https://townlift.com/2026/10/lost-creek-developer-tells-summit-county-we-intend-to-birth-a-city/",
-     "published": "2026-10-29T20:22:17+00:00"
-    },
-    {
      "source": "Park Record",
-     "title": "910 Cattle Ranch management plan likely to be approved by the end of the year",
-     "summary": "The Utah Division of Forestry, Fire and State Lands is expected to adopt an extensive management plan for the 910 Cattle Ranch by the end of the year, allowing the Summit County government to install trails and open…",
-     "link": "https://www.parkrecord.com/2026/10/29/910-cattle-ranch-management-plan-likely-to-be-approved-by-the-end-of-the-year/",
-     "published": "2026-10-29T20:01:52+00:00"
+     "title": "Solomon Children’s Justice Center earns accreditation through National Children’s Alliance",
+     "summary": "Established in 2012, the center is the first in Utah to seek and be recommended for first-time National Children's Alliance accreditation in over 20 years. The post Solomon Children’s Justice Center earns accreditation…",
+     "link": "https://www.parkrecord.com/2026/10/29/solomon-childrens-justice-center-earns-accreditation-through-national-childrens-alliance/",
+     "published": "2026-10-29T21:37:39+00:00"
     },
     {
      "source": "KPCW",
@@ -36,45 +64,17 @@
     },
     {
      "source": "TownLift",
-     "title": "Woodward Park City, University of Utah to host second annual Rail Jam",
-     "summary": "PARK CITY, Utah — Freestyle skiers and snowboarders will take over the University of Utah campus Nov. 6 for the second annual Rail Jam, an event and competition featuring student",
-     "link": "https://townlift.com/2026/10/woodward-park-city-university-of-utah-to-host-second-annual-rail-jam/",
-     "published": "2026-10-29T20:02:54+00:00"
+     "title": "Lost Creek developer tells Summit County: ‘We intend to birth a city’",
+     "summary": "Ivory says it prefers the county process, while council members raise concerns about water, traffic, density, and affordability",
+     "link": "https://townlift.com/2026/10/lost-creek-developer-tells-summit-county-we-intend-to-birth-a-city/",
+     "published": "2026-10-29T20:22:17+00:00"
     },
     {
      "source": "Park Record",
-     "title": "Claim Jumper in Park City poised to become a boutique hotel",
-     "summary": "The ownership of the Claim Jumper is converting the address into a lodging property. There is a possibility of a project completion by the end of 2027. The post Claim Jumper in Park City poised to become a boutique…",
-     "link": "https://www.parkrecord.com/2026/10/29/claim-jumper-in-park-city-poised-to-become-a-boutique-hotel/",
-     "published": "2026-10-29T19:25:02+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Summit Community Gardens & EATS provides fresh food year-round for those in need",
-     "summary": "As the fall harvest comes to an end, Summit Community Gardens and EATS is shifting gears to prevent winter food insecurity.",
-     "link": "https://www.kpcw.org/summit-county/2026-10-29/summit-community-gardens-eats-provides-fresh-food-year-round-for-those-in-need",
-     "published": "2026-10-29T20:25:06+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Utah companies partner with USA Bobsled & Skeleton to develop next-generation sleds",
-     "summary": "UTAH — Utah’s aerospace and advanced manufacturing companies are bringing their expertise from the air to the track, teaming up with USA Bobsled & Skeleton to develop the team’s next",
-     "link": "https://townlift.com/2026/10/utah-companies-partner-with-usa-bobsled-skeleton-to-develop-next-generation-sleds/",
-     "published": "2026-10-29T19:02:37+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Park City restaurants announce Thanksgiving dine-in and takeout specials",
-     "summary": "“To cook, or not to cook? Park City area restaurants would encourage the latter this Thanksgiving,” said Park City Area Restaurant Association Executive Director Ginger Wicks. The post Park City restaurants announce…",
-     "link": "https://www.parkrecord.com/2026/10/29/park-city-restaurants-announce-thanksgiving-dine-in-and-takeout-specials/",
-     "published": "2026-10-29T18:50:10+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Utah safety officials reminder drivers to plan a sober ride home this Halloween",
-     "summary": "Utah safety officials will put more law enforcement on the streets over Halloween weekend to target impaired driving.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-29/utah-safety-officials-reminder-drivers-to-plan-a-sober-ride-home-this-halloween",
-     "published": "2026-10-29T20:04:00+00:00"
+     "title": "Freeride World Tour returns to Snowbird for 2027 YETI Snowbird Pro",
+     "summary": "The competition will bring the world’s top freeride athletes to Snowbird’s Mount Baldy March 16-22. The post Freeride World Tour returns to Snowbird for 2027 YETI Snowbird Pro appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/29/freeride-world-tour-returns-to-snowbird-for-2027-yeti-snowbird-pro/",
+     "published": "2026-10-29T21:23:32+00:00"
     }
    ]
   },
@@ -84,11 +84,60 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "Daughter turns dad in for allegedly filming 10-year-old girl on Utah school bus",
+     "summary": "65-year-old Gabriele Basile is facing charges for allegedly filming video up the skirt of a 10-year-old girl who was a passenger on his Jordan School District bus.",
+     "link": "https://www.sltrib.com/news/2026/10/29/daughter-turns-dad-allegedly/",
+     "published": "2026-10-30T00:52:03+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "Patrick Stewart, actor known for ‘Star Trek’ and ‘X-Men,’ dies at 86",
+     "title": "Unwrapping the Story Behind Minky Couture’s Annual White Glove Event",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/29/actor-patrick-stewart-dies-at-86/",
-     "published": "2026-10-29T20:58:54+00:00"
+     "link": "https://www.deseret.com/brandview/2026/10/29/unwrapping-the-story-behind-minky-coutures-annual-white-glove-event/",
+     "published": "2026-10-30T00:32:38+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Utah correctional officers required to work mandatory overtime to compensate for short-staffing",
+     "summary": "The Department of Corrections has nearly 70 vacancies for correctional officers.",
+     "link": "https://www.ksl.com/article/51642198/utah-correctional-officers-required-to-work-mandatory-overtime-to-compensate-for-short-staffing",
+     "published": "2026-10-29T19:02:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Trump raises national security alarm over imported robots",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/10/29/why-american-reliance-on-foreign-robots-worries-the-white-house/",
+     "published": "2026-10-30T00:19:27+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Patrick Stewart, master of Shakespeare, ‘Star Trek’ and more, has died",
+     "summary": "Patrick Stewart, who overcame a bleak childhood in England’s coal-mining country to find acclaim as a Shakespearean actor before making an unlikely career pivot in middle age that would bring him his greatest fame, died…",
+     "link": "https://www.sltrib.com/news/nation-world/2026/10/29/patrick-stewart-master-shakespeare/",
+     "published": "2026-10-29T21:41:07+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Man who testified against brother released after years in jail for his part in fatal WinCo shooting",
+     "summary": "A man who testified about his role in a 2022 killing outside WinCo in South Salt Lake during a recent jury trial was sentenced to probation on Thursday after four years in jail.",
+     "link": "https://www.ksl.com/article/51642344/man-who-testified-against-brother-released-after-years-in-jail-for-his-part-in-fatal-winco-shooting",
+     "published": "2026-10-29T18:50:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Remember ‘Light the Fire Within’ from Utah’s last Olympics? Here’s the motto for LA’s 2028 Summer Games",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2026/10/29/la-2028-summer-games-motto-announced-utah-took-inspirational-tone-in-2002/",
+     "published": "2026-10-30T00:16:45+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Honoring veterans and first-responders with free movie tickets",
+     "summary": "The nonprofit Veteran Tickets Foundation is offering one million free movie tickets to veterans and first responders across the country.",
+     "link": "https://www.ksl.com/article/51642404/honoring-veterans-and-first-responders-with-free-movie-tickets",
+     "published": "2026-10-29T18:29:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,60 +147,11 @@
      "published": "2026-10-29T17:27:28+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Patrick Stewart, stage giant also of 'Star Trek' and 'X-Men' fame, dies at 86",
-     "summary": "Patrick Stewart, the classically trained stage actor who scaled the Shakespearean canon and added gravitas to a \"Star Trek\" franchise and the \"X-Men\" films, has died. He was 86.",
-     "link": "https://www.ksl.com/article/51642390/patrick-stewart-stage-giant-also-of-star-trek-and-x-men-fame-dies-at-86",
-     "published": "2026-10-29T14:00:58+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "Early praise gives ‘The Hunger Games: Sunrise on the Reaping’ a promising start",
+     "title": "High school girls volleyball: 4A state tournament Day 1 recap — Orem, Desert Hills, Green Canyon and Provo earn spots in semifinals",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/29/early-reactions-are-positive-for-the-hunger-games-sunrise-on-the-reaping/",
-     "published": "2026-10-29T20:25:39+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Tras la muerte de dos niños en un apartamento de Utah, la familia recibió ayuda de ‘miles y miles de personas’ para llevarlos a casa, según su madre",
-     "summary": "Los oficiales involucrados no han proveído más información a pesar de la presencia de monóxido de carbono cuando fueron encontrados.",
-     "link": "https://www.sltrib.com/news/2026/10/29/aparentes-muertes-por-monxido-de/",
-     "published": "2026-10-29T16:30:09+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "'Deceived: The Daybell Story' podcast launches this week with untold details, new interviews",
-     "summary": "KSL Podcasts and East Idaho News reporter Nate Eaton are teaming up for \"Deceived: The Daybell Story,\" a deep dive into the Daybell case, debuting on Thursday.",
-     "link": "https://www.ksl.com/article/51642383/deceived-the-daybell-story-podcast-launches-this-week-with-untold-details-new-interviews",
-     "published": "2026-10-29T13:56:26+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "How these Utahns are creating a ‘locker room’ for those without a team",
-     "summary": "",
-     "link": "https://www.deseret.com/sports/2026/10/29/i-love-you-bro-project-the-next-shift-project-hockey-and-mental-health/",
-     "published": "2026-10-29T20:00:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "After two children died in a Utah apartment, the family got help from ‘thousands and thousands of people’ to send them home, their mother says",
-     "summary": "The Cache County Sheriff’s Office said this week that the chief deputy in charge of the investigation had no new information about the deaths.",
-     "link": "https://www.sltrib.com/news/2026/10/29/apparent-richmond-carbon-monoxide/",
-     "published": "2026-10-29T16:22:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "8 new hymns make 90 in 'Hymns for Home and Church' as cover is released, printing begins",
-     "summary": "\"Be Thou My Vision\" and \"O Come, O Come, Emmanuel\" are two already well-known songs in Thursdays new batch of hymns for \"Hymns for Home and Church.\"",
-     "link": "https://www.ksl.com/article/51642377/8-new-hymns-make-90-in-hymns-for-home-and-church-as-cover-is-released-printing-begins",
-     "published": "2026-10-29T13:35:10+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Utah shows other states how to build a ladder out of poverty",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/29/utah-shows-other-states-how-to-build-the-ladder-out-of-poverty/",
-     "published": "2026-10-29T19:52:43+00:00"
+     "link": "https://www.deseret.com/sports/2026/10/29/high-school-girls-volleyball-4a-state-tournament-first-round/",
+     "published": "2026-10-29T22:48:38+00:00"
     }
    ]
   },
@@ -165,14 +165,35 @@
      "title": "Patrick Stewart, best known for \"Star Trek\" and \"X-Men,\" dies at 86",
      "summary": "Patrick Stewart starred on stage and screen across his decadeslong acting career. He died at his home on Wednesday.",
      "link": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/",
-     "published": "2026-10-29T21:16:41+00:00"
+     "published": "2026-10-30T01:16:47+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
-     "summary": "Army Lt. Gen. Brett Sylvia was the second general under Hegseth to be removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
-     "link": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
-     "published": "2026-10-29T20:51:20+00:00"
+     "title": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+     "summary": "Results released by election officials on Thursday showed Netanyahu's bloc winning 53 seats in the 120-member assembly, well below the 68 seats it had controlled at its peak in the previous parliament.",
+     "link": "https://www.pbs.org/newshour/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
+     "published": "2026-10-30T00:44:24+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+     "summary": "New reporting alleging Democratic efforts to prop up a spoiler candidate has roiled Alaska's all-important U.S. Senate race.",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+     "published": "2026-10-29T22:23:38+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Walking through Patrick Stewart's career, from celebrated thespian to \"Star Trek\" icon",
+     "summary": "Sir Patrick Stewart, the iconic actor, royal knight and thespian, who spent more time on stage than he did on screens, has died at 86. Wall Street Journal reporter Chris Kornelis joins \"The Daily Report\" to discuss his…",
+     "link": "https://www.cbsnews.com/video/walking-through-sir-patrick-stewarts-career-celebrated-thespian-star-trek-icon/",
+     "published": "2026-10-30T01:09:17+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "WATCH: Trumps host Halloween celebration at the White House",
+     "summary": "President Donald Trump and first lady Melania Trump handed out candy to hundreds of costumed kids outside the White House residence at Thursday's annual Halloween celebration.",
+     "link": "https://www.pbs.org/newshour/politics/watch-trumps-host-halloween-celebration-at-the-white-house",
+     "published": "2026-10-29T23:53:45+00:00"
     },
     {
      "source": "NPR",
@@ -183,52 +204,31 @@
     },
     {
      "source": "CBS News",
-     "title": "Iran claims 4 tankers hit mines in Strait of Hormuz",
-     "summary": "A tanker was also struck by a projectile in the strait on Thursday night.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
-     "published": "2026-10-29T21:12:46+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "What killed 500-plus penguins? How scientists solved the mystery",
-     "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-     "published": "2026-10-29T20:03:26+00:00"
+     "title": "Details on Flávio Bolsonaro's escape from Brazil",
+     "summary": "CBS News' Lilia Luciano has the details on how Flávio Bolsonaro, the defeated candidate in Brazil's presidential election, managed to flee the country for Florida, despite being asked to turn over his passports to…",
+     "link": "https://www.cbsnews.com/video/details-flvio-bolsonaros-escape-brazil/",
+     "published": "2026-10-30T01:03:07+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Patrick Stewart, star of stage and 'Star Trek,' dies at 86",
-     "summary": "Stewart was a classically trained stage actor who scaled the Shakespearean canon and added gravitas to a \"Star Trek\" franchise and the \"X-Men\" films.",
-     "link": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86",
-     "published": "2026-10-29T20:02:17+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Millions of French press coffee makers recalled due to burn risk",
-     "summary": "Product safety regulators said the glass carafes can unexpectedly break if they are damaged or cracked, leading to burn injuries.",
-     "link": "https://www.cbsnews.com/news/french-press-coffee-makers-recall-bodum-usa/",
-     "published": "2026-10-29T21:09:34+00:00"
+     "title": "WATCH: Trump calls reporter 'disgusting' when questioned about not traveling to Kansas",
+     "summary": "A reporter from Reuters asked the president why he no longer plans to attend a rally in Kansas Saturday for Republican Sen. Roger Marshall, who is in a competitive reelection race.",
+     "link": "https://www.pbs.org/newshour/politics/watch-trump-calls-reporter-disgusting-when-questioned-about-not-traveling-to-kansas",
+     "published": "2026-10-29T23:49:01+00:00"
     },
     {
      "source": "NPR",
-     "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
-     "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
-     "published": "2026-10-29T20:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
-     "summary": "Twenty-five states sued the Trump administration in June over the new Centers for Medicare and Medicaid Services guidance tied to the 2025 law known as the \"One Big Beautiful Bill.\"",
-     "link": "https://www.pbs.org/newshour/politics/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
-     "published": "2026-10-29T19:53:52+00:00"
+     "title": "Some rural Republicans in California say redistricting has left them without a voice",
+     "summary": "California's far northeastern corner used to be a reliably red congressional district. But Proposition 50 carved it up, meaning many voters there may soon have a Democrat representing them in D.C.",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
+     "published": "2026-10-29T20:19:31+00:00"
     },
     {
      "source": "CBS News",
-     "title": "From the archives: Patrick Stewart on \"Star Trek\" and Shakespeare",
-     "summary": "Sir Patrick Stewart, the classically-trained stage actor who was best-known for his roles in the \"Star Trek\" and \"X-Men\" franchises, died on Oct. 28, 2026 at age 86. In this \"Sunday Morning\" profile that aired May 24…",
-     "link": "https://www.cbsnews.com/video/from-the-archives-patrick-stewart-on-star-trek-and-shakespeare/",
-     "published": "2026-10-29T21:03:00+00:00"
+     "title": "Is it legal to recruit a candidate with the same name as one's opponent?",
+     "summary": "Alaska's governor ordered a new investigation into the alleged plot to siphon votes away from Republican Sen. Dan Sullivan, as the Justice Department issued new subpoenas in the case. CBS News legal analyst Jessica…",
+     "link": "https://www.cbsnews.com/video/is-it-legal-to-recruit-candidate-with-same-name-as-opponent-alaska/",
+     "published": "2026-10-30T01:00:05+00:00"
     }
    ]
   }
