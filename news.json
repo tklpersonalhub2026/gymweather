@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:52:47.105352+00:00",
+ "updated": "2026-10-31T22:24:45.610904+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "My take on daylight saving as an Arizona native",
+     "title": "Opinion: Emily Dickinson’s Response to the 1871 Peshtigo Fire",
      "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/10/31/my-take-on-daylight-saving-as-an-arizona-native/",
-     "published": "2026-10-31T18:06:06+00:00"
+     "link": "https://www.deseret.com/opinion/2026/10/31/emily-dickinson-and-the-1871-peshtigo-fire/",
+     "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Online registry highlights Utah's haunted 'real estate'",
+     "summary": "Kris Bowen acknowledged that sometimes a property's spooky secrets are something to be celebrated, which is why he created \"Utah's Real Haunted Houses: The Registry.\"",
+     "link": "https://www.ksl.com/article/51642682/online-registry-highlights-utahs-haunted-real-estate",
+     "published": "2026-10-31T16:11:07+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,18 +105,18 @@
      "published": "2026-10-31T12:05:00+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Popemobile exhibition unveiled at the Vatican featuring the vehicle used since 1930",
-     "summary": "The Vatican is opening a celebration of the popemobile. The now-iconic vehicle has allowed popes to get close to the faithful at home and abroad for nearly a century.",
-     "link": "https://www.ksl.com/article/51642141/popemobile-exhibition-unveiled-at-the-vatican-featuring-the-vehicle-used-since-1930",
-     "published": "2026-10-31T11:57:50+00:00"
+     "source": "Deseret News",
+     "title": "My take on daylight saving as an Arizona native",
+     "summary": "",
+     "link": "https://www.deseret.com/u-s-world/2026/10/31/my-take-on-daylight-saving-as-an-arizona-native/",
+     "published": "2026-10-31T18:06:06+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Letter to the editor: I’m voting against Amendment B",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/31/letter-im-voting-against-amendment-b/",
-     "published": "2026-10-31T17:00:00+00:00"
+     "source": "KSL",
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "summary": "A federal judge has dismissed President Donald Trump's multibillion-dollar lawsuit against The Wall Street Journal and Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.",
+     "link": "https://www.ksl.com/article/51642810/trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter-is-dismissed-with-prejudice",
+     "published": "2026-10-31T16:05:40+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -119,11 +126,25 @@
      "published": "2026-10-31T12:01:00+00:00"
     },
     {
+     "source": "Deseret News",
+     "title": "Letter to the editor: I’m voting against Amendment B",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/10/31/letter-im-voting-against-amendment-b/",
+     "published": "2026-10-31T17:00:00+00:00"
+    },
+    {
      "source": "KSL",
-     "title": "Halloween through the years: A look back at Utah's spooky season traditions",
-     "summary": "From trick-or-treating and costume parades to candy safety and haunted graveyards, KSL archive footage reveals how Halloween traditions in Utah have evolved over the decades.",
-     "link": "https://www.ksl.com/article/51642674/halloween-through-the-years-a-look-back-at-utahs-spooky-season-traditions",
-     "published": "2026-10-31T11:30:00+00:00"
+     "title": "1 dead, 6 wounded in targeted shooting at California Spirit Halloween store, police say",
+     "summary": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California, on Friday night, police said.",
+     "link": "https://www.ksl.com/article/51642733/1-dead-6-wounded-in-shooting-at-california-spirit-halloween-store",
+     "published": "2026-10-31T15:43:08+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "A father’s favorite songs. Cherished train trips with mom. Here’s how Utahns are remembering loved ones for Day of the Dead.",
+     "summary": "As a child, Consuelo Soto Vargas spent days traveling by train to Oaxaca with her mother and siblings. During the Day of the Dead, Vargas said her memories of those journeys are some of the ones she treasures the most.",
+     "link": "https://www.sltrib.com/news/2026/10/31/utahns-remember-loved-ones-ahead/",
+     "published": "2026-10-31T12:00:01+00:00"
     },
     {
      "source": "Deseret News",
@@ -131,27 +152,6 @@
      "summary": "",
      "link": "https://www.deseret.com/entertainment/2026/10/31/the-rise-of-ella-langley/",
      "published": "2026-10-31T16:16:17+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Here are 7 legislative races worth watching on election night",
-     "summary": "Here is a look at seven seats in the Utah Legislature that could be in play on Election Night, especially if the prevailing national trends bolster Democrats in the Beehive State.",
-     "link": "https://www.sltrib.com/news/politics/2026/10/31/utah-elections-legislative-races/",
-     "published": "2026-10-31T12:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Advisories issued as more rain, snow return to Utah, including areas recovering from floods",
-     "summary": "Another series of flood watches has been issued for most of southern Utah and parts of central and eastern Utah, as an atmospheric river and cold front are forecast to collide over the state this weekend.",
-     "link": "https://www.ksl.com/article/51642571/flood-watch-issued-across-parts-of-utah-including-areas-recovering-from-flooding",
-     "published": "2026-10-31T11:20:32+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "A drone motor in a garage. Natural gas to jet fuel. A power grid under pressure. What Utah builders made in days",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2026/10/31/utah-builders-race-the-clock-to-turn-ideas-into-working-solutions-at-hard-tech-hackathon/",
-     "published": "2026-10-31T16:01:21+00:00"
     }
    ]
   },
@@ -161,32 +161,60 @@
    "scope": "United States",
    "items": [
     {
+     "source": "PBS NewsHour",
+     "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns virtually",
+     "summary": "The closing sprint in Texas comes as early voting nears its conclusion in several states. Early balloting totals were approaching 50 million heading into the weekend. About 112 million voted in total in the 2022 midterm…",
+     "link": "https://www.pbs.org/newshour/politics/paxton-and-talarico-tussle-for-texas-senate-seat-as-trump-campaigns-virtually",
+     "published": "2026-10-31T22:14:59+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "This week on \"Sunday Morning\" (Nov. 1)",
-     "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
-     "published": "2026-10-31T18:46:34+00:00"
+     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
+     "summary": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+     "published": "2026-10-31T22:10:33+00:00"
     },
     {
      "source": "NPR",
-     "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "published": "2026-10-31T19:30:19+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "\"Face the Nation with Margaret Brennan\" guests for Nov. 1, 2026",
+     "summary": "This week's guests include independent Sen. Bernie Sanders, Republican Rep. Mike Lawler and Democratic Gov. Josh Shapiro of Pennsylvania.",
+     "link": "https://www.cbsnews.com/news/face-the-nation-guests-for-11-01-2026/",
+     "published": "2026-10-31T21:56:07+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "summary": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
+     "link": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "published": "2026-10-31T21:32:54+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Key takeaways from this week's political meeting in Beijing",
      "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
      "published": "2026-10-31T18:42:33+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
-     "summary": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National…",
-     "link": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
-     "published": "2026-10-31T18:29:25+00:00"
+     "source": "CBS News",
+     "title": "DOJ calls Alaska Senate allegations \"troubling,\" asks to segregate ballots",
+     "summary": "The top federal prosecutor in Alaska did not specify what crimes are being investigated by the Justice Department, saying he's \"not making any assumptions on whether a crime has been committed or not.\"",
+     "link": "https://www.cbsnews.com/news/alaska-us-attorney-senate-race-two-dan-sullivans/",
+     "published": "2026-10-31T21:56:00+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Book excerpt: \"Frank Capra: A Life\" by Sam Wasson",
-     "summary": "Returning to movie screens after his service in World War II, Jimmy Stewart was nervous about appearing in Frank Capra's \"It's a Wonderful Life\" – a film now acknowledged as one of his very best.",
-     "link": "https://www.cbsnews.com/news/book-excerpt-frank-capra-a-life-by-sam-wasson/",
-     "published": "2026-10-31T18:44:32+00:00"
+     "source": "PBS NewsHour",
+     "title": "Analysis: More than 40% of names on DOJ list of alleged noncitizens not on California's voter rolls",
+     "summary": "It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials. The analysis also found that thousands of U.S. citizens appear to be flagged as ineligible…",
+     "link": "https://www.pbs.org/newshour/politics/analysis-more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter-rolls",
+     "published": "2026-10-31T20:03:15+00:00"
     },
     {
      "source": "NPR",
@@ -196,39 +224,11 @@
      "published": "2026-10-31T18:11:02+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-     "summary": "About 70,000 police and gendarmes were deployed across the country, and Paris marches were rerouted to the capital's edge. Youth-led demonstrations were also reported in Germany and Italy.",
-     "link": "https://www.pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
-     "published": "2026-10-31T17:14:30+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
-     "summary": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-     "published": "2026-10-31T18:40:49+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
-     "summary": "In past elections, elected leaders, candidates and social media users have spread falsehoods that \"late night\" arrivals of \"ballot dumps\" or \"suitcases\" of ballots are signs of fraud, or that only Democratic-led cities…",
-     "link": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
-     "published": "2026-10-31T17:02:17+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-     "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-     "published": "2026-10-31T13:50:58+00:00"
-    },
-    {
      "source": "CBS News",
      "title": "2026 elections live updates: Trump supports Republicans with telerallies",
      "summary": "The November 2026 midterm elections are just three days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
      "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-     "published": "2026-10-31T18:33:37+00:00"
+     "published": "2026-10-31T21:45:14+00:00"
     }
    ]
   }
