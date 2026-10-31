@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:50:25.173743+00:00",
+ "updated": "2026-10-31T18:52:47.105352+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,11 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "TownLift",
+     "title": "More than just an extra hour: The quirky history of Daylight Saving Time",
+     "summary": "Utahns will gain an extra hour of sleep this weekend as Daylight Saving Time comes to an end. Clocks will roll back one hour at 2 a.m. on Sunday, marking",
+     "link": "https://townlift.com/2026/10/more-than-just-an-extra-hour-the-quirky-history-of-daylight-saving-time/",
+     "published": "2026-10-31T17:05:04+00:00"
+    },
+    {
      "source": "Park Record",
-     "title": "Betty Diaries: The horror, the horror",
-     "summary": "\"A solitary chime punctuates the silence as I drive home late one night. The basis of all human fears. A gas tank, slightly empty.\" The post Betty Diaries: The horror, the horror appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/31/betty-diaries-the-horror-the-horror/",
-     "published": "2026-10-31T14:30:00+00:00"
+     "title": "Early deja vu with warm system passing through",
+     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
+     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
+     "published": "2026-10-31T15:53:25+00:00"
     },
     {
      "source": "KPCW",
@@ -22,17 +29,17 @@
     },
     {
      "source": "TownLift",
-     "title": "Cloud-seeding startup plans drone-based operations in the Wasatch Back this winter",
-     "summary": "WASATCH BACK, Utah — A new startup plans to use drones to perform cloud-seeding operations over the Wasatch Back this winter, bringing innovative technology to a decades-old effort to increase",
-     "link": "https://townlift.com/2026/10/cloud-seeding-startup-plans-drone-based-operations-in-the-wasatch-back-this-winter/",
-     "published": "2026-10-30T20:45:14+00:00"
+     "title": "Kimball Art Center celebrates 50 years with free birthday bash",
+     "summary": "PARK CITY, Utah — Join Kimball Art Center Friday, Nov. 6, for a 50th birthday celebration filled with clay challenges, collaborative artwork, games and cake. From 4 to 6 p.m.,",
+     "link": "https://townlift.com/2026/10/kimball-art-center-celebrates-50-years-with-free-birthday-bash/",
+     "published": "2026-10-31T15:02:15+00:00"
     },
     {
      "source": "Park Record",
-     "title": "More Dogs on Main: Hard times for the 1 percent",
-     "summary": "\"If you are not a member of the Illuminati, Wasatch Peaks might not be on your radar. It’s a private ski and golf resort in Morgan County designed as a refuge for the 1% of the 1%.\" The post More Dogs on Main: Hard…",
-     "link": "https://www.parkrecord.com/2026/10/31/more-dogs-on-main-hard-times-for-the-1-percent/",
-     "published": "2026-10-31T14:15:00+00:00"
+     "title": "Betty Diaries: The horror, the horror",
+     "summary": "\"A solitary chime punctuates the silence as I drive home late one night. The basis of all human fears. A gas tank, slightly empty.\" The post Betty Diaries: The horror, the horror appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/31/betty-diaries-the-horror-the-horror/",
+     "published": "2026-10-31T14:30:00+00:00"
     },
     {
      "source": "KPCW",
@@ -42,18 +49,18 @@
      "published": "2026-10-30T21:10:00+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Summit County weighs new formula for transportation funding",
-     "summary": "Proposal would give population more weight when distributing money to smaller cities",
-     "link": "https://townlift.com/2026/10/summit-county-weighs-new-formula-for-transportation-funding/",
-     "published": "2026-10-30T20:02:14+00:00"
+     "source": "Park Record",
+     "title": "More Dogs on Main: Hard times for the 1 percent",
+     "summary": "\"If you are not a member of the Illuminati, Wasatch Peaks might not be on your radar. It’s a private ski and golf resort in Morgan County designed as a refuge for the 1% of the 1%.\" The post More Dogs on Main: Hard…",
+     "link": "https://www.parkrecord.com/2026/10/31/more-dogs-on-main-hard-times-for-the-1-percent/",
+     "published": "2026-10-31T14:15:00+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Wild Seeing: A postcard from the wild West",
-     "summary": "\"This summer's drive through the West's most iconic landscapes — Montana, Idaho, Utah, Wyoming, Nevada and California — surpassed expectations.\" The post Wild Seeing: A postcard from the wild West appeared first on Park…",
-     "link": "https://www.parkrecord.com/2026/10/31/wild-seeing-a-postcard-from-the-wild-west/",
-     "published": "2026-10-31T14:00:00+00:00"
+     "source": "TownLift",
+     "title": "Cloud-seeding startup plans drone-based operations in the Wasatch Back this winter",
+     "summary": "WASATCH BACK, Utah — A new startup plans to use drones to perform cloud-seeding operations over the Wasatch Back this winter, bringing innovative technology to a decades-old effort to increase",
+     "link": "https://townlift.com/2026/10/cloud-seeding-startup-plans-drone-based-operations-in-the-wasatch-back-this-winter/",
+     "published": "2026-10-30T20:45:14+00:00"
     },
     {
      "source": "KPCW",
@@ -63,18 +70,11 @@
      "published": "2026-10-30T20:42:29+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "The first real snow storm of the season hits Sunday with up to 2 feet of snow",
-     "summary": "PARK CITY, Utah — The first significant snowstorm of the 2026-27 season is on the way! TownLift’s snow forecast calls for 11 inches at Park City Mountain and 7 inches",
-     "link": "https://townlift.com/2026/10/the-first-real-snow-storm-of-the-season-hits-sunday-with-up-to-2-feet-of-snow/",
-     "published": "2026-10-30T19:27:00+00:00"
-    },
-    {
      "source": "Park Record",
-     "title": "A field of our own",
-     "summary": "\"Let’s give football a little more field of its own and few more painted lines to play and practice on.\" The post A field of our own appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/31/a-field-of-our-own-2/",
-     "published": "2026-10-31T13:15:00+00:00"
+     "title": "Wild Seeing: A postcard from the wild West",
+     "summary": "\"This summer's drive through the West's most iconic landscapes — Montana, Idaho, Utah, Wyoming, Nevada and California — surpassed expectations.\" The post Wild Seeing: A postcard from the wild West appeared first on Park…",
+     "link": "https://www.parkrecord.com/2026/10/31/wild-seeing-a-postcard-from-the-wild-west/",
+     "published": "2026-10-31T14:00:00+00:00"
     }
    ]
   },
@@ -84,6 +84,13 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Deseret News",
+     "title": "My take on daylight saving as an Arizona native",
+     "summary": "",
+     "link": "https://www.deseret.com/u-s-world/2026/10/31/my-take-on-daylight-saving-as-an-arizona-native/",
+     "published": "2026-10-31T18:06:06+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Voices: Make the judiciary boring again",
      "summary": "“A fair, independent court system requires judges to decide cases according to the rule of law and the Constitution, not fear, political pressure or retaliation,” Natasha Rogers and Nancy Sylvester write in an op-ed.",
@@ -91,39 +98,39 @@
      "published": "2026-10-31T12:05:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "A brief history of indecent TV ads — and what, if anything, can be done about them",
-     "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/10/31/brief-history-indecent-tv-ads-sydney-sweeney-brooke-shields/",
-     "published": "2026-10-31T10:00:00+00:00"
+     "source": "KSL",
+     "title": "Popemobile exhibition unveiled at the Vatican featuring the vehicle used since 1930",
+     "summary": "The Vatican is opening a celebration of the popemobile. The now-iconic vehicle has allowed popes to get close to the faithful at home and abroad for nearly a century.",
+     "link": "https://www.ksl.com/article/51642141/popemobile-exhibition-unveiled-at-the-vatican-featuring-the-vehicle-used-since-1930",
+     "published": "2026-10-31T11:57:50+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Casa Del Tamal operator puts focus on family, tamales; US official visits Mexican restaurant",
-     "summary": "La Casa Del Tamal, where operator Cristina Olvera puts a focus on family and tamales, drew a visit this week from a U.S. Small Business Administration official.",
-     "link": "https://www.ksl.com/article/51642673/casa-del-tamal-operator-puts-focus-on-family-tamales-us-official-visits-mexican-restaurant",
-     "published": "2026-10-31T07:05:56+00:00"
+     "source": "Deseret News",
+     "title": "Letter to the editor: I’m voting against Amendment B",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/10/31/letter-im-voting-against-amendment-b/",
+     "published": "2026-10-31T17:00:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
      "title": "Letter: I’m a conservative in several ways, but primarily ethically. Here’s why the GOP has lost me.",
-     "summary": "",
+     "summary": "Letter: My ethical standards have led me to abandon the Republican Party. Please think of how your elected officials actually behave, who they choose to support, and vote accordingly.",
      "link": "https://www.sltrib.com/opinion/letters/2026/10/29/letter-im-conservative-several/",
      "published": "2026-10-31T12:01:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Perspective: Horror movies are more popular than ever. That can’t be a good thing, right?",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/31/why-being-scared-of-scary-movies-can-be-good/",
-     "published": "2026-10-31T10:00:00+00:00"
+     "source": "KSL",
+     "title": "Halloween through the years: A look back at Utah's spooky season traditions",
+     "summary": "From trick-or-treating and costume parades to candy safety and haunted graveyards, KSL archive footage reveals how Halloween traditions in Utah have evolved over the decades.",
+     "link": "https://www.ksl.com/article/51642674/halloween-through-the-years-a-look-back-at-utahs-spooky-season-traditions",
+     "published": "2026-10-31T11:30:00+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
-     "summary": "Residents evacuated from the Russian-occupied city of Oleshky have crossed into Ukrainian-held territory after a humanitarian mission and localized ceasefire. The residents traveled by bus and plane through Russia and…",
-     "link": "https://www.ksl.com/article/51642723/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
-     "published": "2026-10-31T07:04:49+00:00"
+     "source": "Deseret News",
+     "title": "The meteoric rise of Ella Langley",
+     "summary": "",
+     "link": "https://www.deseret.com/entertainment/2026/10/31/the-rise-of-ella-langley/",
+     "published": "2026-10-31T16:16:17+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -133,25 +140,18 @@
      "published": "2026-10-31T12:00:01+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "New ebook tells the story of Joseph Smith’s faith and financial sacrifice",
-     "summary": "",
-     "link": "https://www.deseret.com/faith/2026/10/31/joseph-smith-papers-ebook-explores-the-prophets-financial-records/",
-     "published": "2026-10-31T10:00:00+00:00"
-    },
-    {
      "source": "KSL",
-     "title": "1 dead, 6 wounded in shooting at California Spirit Halloween store",
-     "summary": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California on Friday night, police said.",
-     "link": "https://www.ksl.com/article/51642733/1-dead-6-wounded-in-shooting-at-california-spirit-halloween-store",
-     "published": "2026-10-31T05:43:50+00:00"
+     "title": "Advisories issued as more rain, snow return to Utah, including areas recovering from floods",
+     "summary": "Another series of flood watches has been issued for most of southern Utah and parts of central and eastern Utah, as an atmospheric river and cold front are forecast to collide over the state this weekend.",
+     "link": "https://www.ksl.com/article/51642571/flood-watch-issued-across-parts-of-utah-including-areas-recovering-from-flooding",
+     "published": "2026-10-31T11:20:32+00:00"
     },
     {
-     "source": "Salt Lake Tribune",
-     "title": "Pope Leo makes history again — this time on the political front",
-     "summary": "Pope Leo XIV, the first American pontiff, has cast an absentee ballot in the Illinois races, making him the first Catholic pope to vote in a U.S. election.",
-     "link": "https://www.sltrib.com/religion/2026/10/31/first-catholic-pope-votes-us/",
-     "published": "2026-10-31T12:00:01+00:00"
+     "source": "Deseret News",
+     "title": "A drone motor in a garage. Natural gas to jet fuel. A power grid under pressure. What Utah builders made in days",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2026/10/31/utah-builders-race-the-clock-to-turn-ideas-into-working-solutions-at-hard-tech-hackathon/",
+     "published": "2026-10-31T16:01:21+00:00"
     }
    ]
   },
@@ -162,17 +162,59 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "What the Cameras Saw | Post Mortem",
-     "summary": "\"48 Hours\" correspondents Natalie Morales and Anne-Marie Green discuss the 2022 murder of Savannah Tolbert. Found dead in her husband's car with a gun in her hand, Savannah's death raised questions from the start. They…",
-     "link": "https://www.cbsnews.com/video/103126-48-hours-post-mortem-episode-2/",
-     "published": "2026-10-31T23:00:00+00:00"
+     "title": "This week on \"Sunday Morning\" (Nov. 1)",
+     "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+     "published": "2026-10-31T18:46:34+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+     "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+     "published": "2026-10-31T18:42:33+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
-     "summary": "The civilians traveled by bus and plane through Russia and Belarus, following a deal brokered by U.S. first lady Melania Trump.",
-     "link": "https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
-     "published": "2026-10-31T14:47:05+00:00"
+     "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+     "summary": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National…",
+     "link": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+     "published": "2026-10-31T18:29:25+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Book excerpt: \"Frank Capra: A Life\" by Sam Wasson",
+     "summary": "Returning to movie screens after his service in World War II, Jimmy Stewart was nervous about appearing in Frank Capra's \"It's a Wonderful Life\" – a film now acknowledged as one of his very best.",
+     "link": "https://www.cbsnews.com/news/book-excerpt-frank-capra-a-life-by-sam-wasson/",
+     "published": "2026-10-31T18:44:32+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "published": "2026-10-31T18:11:02+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+     "summary": "About 70,000 police and gendarmes were deployed across the country, and Paris marches were rerouted to the capital's edge. Youth-led demonstrations were also reported in Germany and Italy.",
+     "link": "https://www.pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
+     "published": "2026-10-31T17:14:30+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
+     "summary": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+     "published": "2026-10-31T18:40:49+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
+     "summary": "In past elections, elected leaders, candidates and social media users have spread falsehoods that \"late night\" arrivals of \"ballot dumps\" or \"suitcases\" of ballots are signs of fraud, or that only Democratic-led cities…",
+     "link": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+     "published": "2026-10-31T17:02:17+00:00"
     },
     {
      "source": "NPR",
@@ -183,52 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Family of real estate CEO wounded in Toronto home invasion, officials say",
-     "summary": "A search is underway for three armed men who broke into a mansion in Toronto belonging to a real estate CEO in the early morning hours Thursday and attacked and injured the family inside, authorities said.",
-     "link": "https://www.cbsnews.com/news/real-estate-ceo-family-wounded-toronto-home-invasion/",
-     "published": "2026-10-31T14:42:18+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-     "summary": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory.",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-     "published": "2026-10-31T12:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
-     "summary": "Scientists who study striped bass say anglers on the East Coast are right to be concerned, and they say years of overfishing are just part of the problem.",
-     "link": "https://www.pbs.org/newshour/science/for-many-striped-bass-fishing-is-a-way-of-life-but-the-iconic-species-could-face-collapse",
-     "published": "2026-10-31T00:01:16+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "As Texas Dems predict a Hispanic wave, Hinojosa takes her pitch ringside",
-     "summary": "Days before Election Day, Texas Democratic gubernatorial candidate Gina Hinojosa is stepping into the ring for a critical voting bloc in the Lone Star State: Hispanic men.",
-     "link": "https://www.cbsnews.com/news/texas-hinojosa-abbott-boxing-ad-latino-voters/",
-     "published": "2026-10-31T14:39:42+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-     "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
-     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-     "published": "2026-10-31T11:56:10+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
-     "summary": "The federal government must pull three taxpayer-funded Trump administration ads that appear to have been made for political or propaganda purposes, including one touting the president's claim that every American will…",
-     "link": "https://www.pbs.org/newshour/politics/judge-orders-3-taxpayer-funded-trump-administration-ads-to-be-pulled-from-tv-social-media",
-     "published": "2026-10-30T22:57:18+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Analyzing the midterms with 3 days to go",
-     "summary": "Robert Costa shares his analysis of key races with just a few days to go.",
-     "link": "https://www.cbsnews.com/video/analyzing-the-midterms-with-3-days-to-go/",
-     "published": "2026-10-31T14:33:44+00:00"
+     "title": "2026 elections live updates: Trump supports Republicans with telerallies",
+     "summary": "The November 2026 midterm elections are just three days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+     "published": "2026-10-31T18:33:37+00:00"
     }
    ]
   }
