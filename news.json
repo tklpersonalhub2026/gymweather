@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T19:31:37.400752+00:00",
+ "updated": "2026-11-01T23:00:10.092065+00:00",
  "sections": [
   {
    "key": "local",
@@ -36,10 +36,10 @@
     },
     {
      "source": "Park Record",
-     "title": "There’s an oil company surveying our neighborhood. Who said yes?",
-     "summary": "Last week my next-door neighbor counted 10 surveyors in orange vests out in the open space where my husband and I walk our dog in Silver Creek. They were working for HF Sinclair, a Dallas-based oil company that wants to…",
-     "link": "https://www.parkrecord.com/2026/11/01/theres-an-oil-company-surveying-our-neighborhood-who-said-yes/",
-     "published": "2026-11-01T13:36:00+00:00"
+     "title": "One of our own",
+     "summary": "As we approach Election Day, the race for Utah House District 4 is a toss-up, according to Utah Political Report. Summit County has a real opportunity to elect one of its own to represent our community. With stark…",
+     "link": "https://www.parkrecord.com/2026/11/01/one-of-our-own/",
+     "published": "2026-11-01T14:00:00+00:00"
     },
     {
      "source": "KPCW",
@@ -49,18 +49,18 @@
      "published": "2026-10-30T21:10:00+00:00"
     },
     {
+     "source": "Park Record",
+     "title": "There’s an oil company surveying our neighborhood. Who said yes?",
+     "summary": "Last week my next-door neighbor counted 10 surveyors in orange vests out in the open space where my husband and I walk our dog in Silver Creek. They were working for HF Sinclair, a Dallas-based oil company that wants to…",
+     "link": "https://www.parkrecord.com/2026/11/01/theres-an-oil-company-surveying-our-neighborhood-who-said-yes/",
+     "published": "2026-11-01T13:36:00+00:00"
+    },
+    {
      "source": "TownLift",
      "title": "More than just an extra hour: The quirky history of Daylight Saving Time",
      "summary": "Utahns will gain an extra hour of sleep this weekend as Daylight Saving Time comes to an end. Clocks will roll back one hour at 2 a.m. on Sunday, marking",
      "link": "https://townlift.com/2026/10/more-than-just-an-extra-hour-the-quirky-history-of-daylight-saving-time/",
      "published": "2026-10-31T17:05:04+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Early deja vu with warm system passing through",
-     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
-     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
-     "published": "2026-10-31T15:53:25+00:00"
     },
     {
      "source": "KPCW",
@@ -70,11 +70,11 @@
      "published": "2026-10-30T20:42:29+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Kimball Art Center celebrates 50 years with free birthday bash",
-     "summary": "PARK CITY, Utah — Join Kimball Art Center Friday, Nov. 6, for a 50th birthday celebration filled with clay challenges, collaborative artwork, games and cake. From 4 to 6 p.m.,",
-     "link": "https://townlift.com/2026/10/kimball-art-center-celebrates-50-years-with-free-birthday-bash/",
-     "published": "2026-10-31T15:02:15+00:00"
+     "source": "Park Record",
+     "title": "Early deja vu with warm system passing through",
+     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
+     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
+     "published": "2026-10-31T15:53:25+00:00"
     }
    ]
   },
@@ -84,6 +84,13 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Deseret News",
+     "title": "Opinion: Is democracy coming back?",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
+     "published": "2026-11-01T21:40:13+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Provo food bank announces temporary closure amid financial shortfall",
      "summary": "",
@@ -91,25 +98,18 @@
      "published": "2026-11-01T18:03:10+00:00"
     },
     {
+     "source": "KSL",
+     "title": "Mother-daughter duo creates pirate Halloween displays",
+     "summary": "Staci Gifford of Eagle Mountain and her daughter, Kailee Burdette of Saratoga Springs, have spent nearly a decade turning their homes into elaborate Halloween displays.",
+     "link": "https://www.ksl.com/article/51642842/mother-daughter-duo-creates-pirate-halloween-displays",
+     "published": "2026-10-31T22:33:36+00:00"
+    },
+    {
      "source": "Deseret News",
      "title": "Opinion: Families find their place in Utah’s charter schools",
      "summary": "",
      "link": "https://www.deseret.com/opinion/2026/11/01/utah-families-find-their-place-in-charter-schools/",
      "published": "2026-11-01T16:00:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US",
-     "summary": "Dozens of people were left injured and at least six people have died in mass shootings as gun violence broke out at nightlife districts in a half-dozen cities across the country over the Halloween weekend.",
-     "link": "https://www.ksl.com/article/51642877/mass-shooting-after-alabama-football-game-leaves-1-dead-8-wounded",
-     "published": "2026-11-01T12:24:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Deseret News archives: Saga of Seabiscuit found the winner’s circle",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2024/11/01/deseret-news-archives-saga-of-seabiscuit-in-1938/",
-     "published": "2026-11-01T14:48:57+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,10 +120,17 @@
     },
     {
      "source": "KSL",
-     "title": "What to know about the Affordable Care Act's open enrollment period now underway",
-     "summary": "People signing up for health insurance coverage under the Affordable Care Act for 2027 should expect higher premiums and fewer options. The enrollment period starts Sunday and ends in mid-January.",
-     "link": "https://www.ksl.com/article/news/business/what-to-know-about-the-affordable-care-acts-open-enrollment-period-now-underway/51642886",
-     "published": "2026-11-01T12:03:00+00:00"
+     "title": "Nonprofit temporarily closes its doors, impacting more than 20,000",
+     "summary": "Starting Sunday, Nov. 1, families will no longer be able to receive help from Community Action Services and Food Bank.",
+     "link": "https://www.ksl.com/article/51642853/nonprofit-temporarily-closes-its-doors-impacting-more-than-20000",
+     "published": "2026-10-31T22:24:43+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Deseret News archives: Saga of Seabiscuit found the winner’s circle",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2024/11/01/deseret-news-archives-saga-of-seabiscuit-in-1938/",
+     "published": "2026-11-01T14:48:57+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -134,23 +141,16 @@
     },
     {
      "source": "KSL",
-     "title": "Russia's security service detains a teenager planning a 'terror attack' after a US tip-off",
-     "summary": "A suspect allegedly planning a terror attack on a major Moscow museum was arrested by Russian authorities after a tip-off from the United States, Russia's security agency FSB announced on Sunday.",
-     "link": "https://www.ksl.com/article/news/world/russias-security-service-detains-a-teenager-planning-a-terror-attack-after-a-us-tip-off/51642924",
-     "published": "2026-11-01T11:31:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Top Democrats are positioning themselves for the 2028 presidential race",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/01/where-top-democrats-are-campaigning-ahead-of-midterm-elections-gives-a-look-into-2028/",
-     "published": "2026-11-01T11:00:01+00:00"
+     "title": "7-year-old critically injured after being struck on Spanish Fork Parkway",
+     "summary": "A 7-year-old boy \"wearing dark clothing and a mask\" is in critical condition after being struck by a vehicle on North Spanish Fork Parkway on Saturday night, police say.",
+     "link": "https://www.ksl.com/article/51642857/7-year-old-critically-injured-after-being-struck-on-spanish-fork-parkway",
+     "published": "2026-10-31T22:09:22+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "The Utah quilting novel that stormed the bestseller list",
-     "summary": "Eli McCann had a surprise hit with his debut novel, “Stitched.” He talks about how he came to write the book and what its success has meant.",
-     "link": "https://www.sltrib.com/artsliving/2026/11/01/how-utahs-eli-mccanns-novel/",
+     "title": "Tribune editorial: USU is wrong to play along with gambling interests",
+     "summary": "“Gambling, legal or not, can only be a threat to the game,” the editorial board writes.",
+     "link": "https://www.sltrib.com/opinion/editorial/2026/11/01/tribune-editorial-usu-shouldnt/",
      "published": "2026-11-01T13:00:00+00:00"
     }
    ]
@@ -162,17 +162,59 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Sen. Chris Murphy hospitalized following stroke",
-     "summary": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said.",
-     "link": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
-     "published": "2026-11-01T19:27:52+00:00"
+     "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
+     "summary": "Details about what may have caused the crash had not yet been shared.",
+     "link": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+     "published": "2026-11-01T22:48:29+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+     "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+     "published": "2026-11-01T22:22:12+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
-     "summary": "Trump's first stop is scheduled for Sunday afternoon in Dubuque, Iowa, where Republicans are battling to hold onto a critical Senate seat along with the governor's office.",
-     "link": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
-     "published": "2026-11-01T19:12:43+00:00"
+     "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+     "summary": "The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed to the Bahamas, according to the Federal Aviation Administration.",
+     "link": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+     "published": "2026-11-01T22:05:03+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Stevens endorses Rogers amid rift with El-Sayed",
+     "summary": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket.",
+     "link": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+     "published": "2026-11-01T22:34:22+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+     "summary": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
+     "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+     "published": "2026-11-01T21:20:25+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+     "summary": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+     "published": "2026-11-01T19:49:15+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Sanders says GOP rhetoric about El-Sayed \"should appall\" Americans",
+     "summary": "Sen. Bernie Sanders, who's supported El-Sayed's campaign, specifically referred to comments made by Republican surrogates, including President Trump and GOP Sen. Ted Cruz of Texas",
+     "link": "https://www.cbsnews.com/news/bernie-sanders-abdul-el-sayed-campaign-republican-rhetoric/",
+     "published": "2026-11-01T22:19:17+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+     "summary": "By casting doubt on the vote, Netanyahu appears to be trying to block any potential alliance in the opposition with the Arab parties that could force him from office.",
+     "link": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
+     "published": "2026-11-01T19:57:09+00:00"
     },
     {
      "source": "NPR",
@@ -183,52 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump says U.S. still has to \"take care\" of more targets in Iran",
-     "summary": "After Iran's Supreme Leader warned against restarting the war, President Trump suggested there are still targets to \"take care of.\"",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-     "published": "2026-11-01T19:22:22+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "How to think about the midterms — and the political moment the country is in",
-     "summary": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
-     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-     "published": "2026-11-01T18:27:06+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
-     "summary": "Carney said the conversation built on recent discussions about the outlines of a deal that would create jobs, lower costs for families and protect Canada's languages, culture and sovereignty.",
-     "link": "https://www.pbs.org/newshour/world/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-u-s-midterms",
-     "published": "2026-11-01T18:00:43+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Pennsylvania Gov. Josh Shapiro says on threats: \"It weighs on me, but it doesn't control me\"",
-     "summary": "Pennsylvania's Democratic Gov. Josh Shapiro said on \"Face the Nation with Margaret Brennan\" about the threats against him and his family, particularly over their religion \"it weighs on me, but it doesn't control me. You…",
-     "link": "https://www.cbsnews.com/video/pennsylvania-gov-josh-shapiro-says-on-threats-it-weighs-on-me-but-it-doesnt-control-me/",
-     "published": "2026-11-01T19:13:20+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "published": "2026-11-01T18:00:37+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across U.S.",
-     "summary": "Police in Dallas, the site of the deadliest violence, said four people are dead and 15 others were injured following a handful of shootings in the city's Deep Ellum neighborhood, a center of music, restaurants and…",
-     "link": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
-     "published": "2026-11-01T17:49:59+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
-     "summary": "The Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race would benefit as a result.",
-     "link": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
-     "published": "2026-11-01T19:11:53+00:00"
+     "title": "Live Updates: Michigan Democratic rift spills into public view and more",
+     "summary": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+     "published": "2026-11-01T22:09:19+00:00"
     }
    ]
   }
