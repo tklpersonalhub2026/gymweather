@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:03:48.459123+00:00",
+ "updated": "2026-11-01T14:59:16.316769+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "Park Record",
+     "title": "Journalism Matters: This is just our world of glitz and grit",
+     "summary": "The bids at the gala for a dinner mounted to $75,000. This is dinner for a dozen in a tipi in the snow somewhere. At $75,000, the auctioneer stopped and offered a second one at the same price. He had a taker. Such was…",
+     "link": "https://www.parkrecord.com/2026/11/01/journalism-matters-this-is-just-our-world-of-glitz-and-grit/",
+     "published": "2026-11-01T14:42:41+00:00"
+    },
+    {
      "source": "TownLift",
      "title": "More than just an extra hour: The quirky history of Daylight Saving Time",
      "summary": "Utahns will gain an extra hour of sleep this weekend as Daylight Saving Time comes to an end. Clocks will roll back one hour at 2 a.m. on Sunday, marking",
      "link": "https://townlift.com/2026/10/more-than-just-an-extra-hour-the-quirky-history-of-daylight-saving-time/",
      "published": "2026-10-31T17:05:04+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Early deja vu with warm system passing through",
-     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
-     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
-     "published": "2026-10-31T15:53:25+00:00"
     },
     {
      "source": "KPCW",
@@ -28,18 +28,18 @@
      "published": "2026-10-30T21:34:00+00:00"
     },
     {
+     "source": "Park Record",
+     "title": "There’s an oil company surveying our neighborhood. Who said yes?",
+     "summary": "Last week my next-door neighbor counted 10 surveyors in orange vests out in the open space where my husband and I walk our dog in Silver Creek. They were working for HF Sinclair, a Dallas-based oil company that wants to…",
+     "link": "https://www.parkrecord.com/2026/11/01/theres-an-oil-company-surveying-our-neighborhood-who-said-yes/",
+     "published": "2026-11-01T13:36:00+00:00"
+    },
+    {
      "source": "TownLift",
      "title": "Kimball Art Center celebrates 50 years with free birthday bash",
      "summary": "PARK CITY, Utah — Join Kimball Art Center Friday, Nov. 6, for a 50th birthday celebration filled with clay challenges, collaborative artwork, games and cake. From 4 to 6 p.m.,",
      "link": "https://townlift.com/2026/10/kimball-art-center-celebrates-50-years-with-free-birthday-bash/",
      "published": "2026-10-31T15:02:15+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Betty Diaries: The horror, the horror",
-     "summary": "\"A solitary chime punctuates the silence as I drive home late one night. The basis of all human fears. A gas tank, slightly empty.\" The post Betty Diaries: The horror, the horror appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/10/31/betty-diaries-the-horror-the-horror/",
-     "published": "2026-10-31T14:30:00+00:00"
     },
     {
      "source": "KPCW",
@@ -50,10 +50,10 @@
     },
     {
      "source": "Park Record",
-     "title": "More Dogs on Main: Hard times for the 1 percent",
-     "summary": "\"If you are not a member of the Illuminati, Wasatch Peaks might not be on your radar. It’s a private ski and golf resort in Morgan County designed as a refuge for the 1% of the 1%.\" The post More Dogs on Main: Hard…",
-     "link": "https://www.parkrecord.com/2026/10/31/more-dogs-on-main-hard-times-for-the-1-percent/",
-     "published": "2026-10-31T14:15:00+00:00"
+     "title": "Early deja vu with warm system passing through",
+     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
+     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
+     "published": "2026-10-31T15:53:25+00:00"
     },
     {
      "source": "TownLift",
@@ -71,10 +71,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Wild Seeing: A postcard from the wild West",
-     "summary": "\"This summer's drive through the West's most iconic landscapes — Montana, Idaho, Utah, Wyoming, Nevada and California — surpassed expectations.\" The post Wild Seeing: A postcard from the wild West appeared first on Park…",
-     "link": "https://www.parkrecord.com/2026/10/31/wild-seeing-a-postcard-from-the-wild-west/",
-     "published": "2026-10-31T14:00:00+00:00"
+     "title": "Betty Diaries: The horror, the horror",
+     "summary": "\"A solitary chime punctuates the silence as I drive home late one night. The basis of all human fears. A gas tank, slightly empty.\" The post Betty Diaries: The horror, the horror appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/10/31/betty-diaries-the-horror-the-horror/",
+     "published": "2026-10-31T14:30:00+00:00"
     }
    ]
   },
@@ -85,45 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Joseph’s brothers were right to be annoyed",
+     "title": "Deseret News archives: Saga of Seabiscuit found the winner’s circle",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/31/josephs-brothers-were-right-to-be-annoyed/",
-     "published": "2026-11-01T02:33:27+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Mother-daughter duo creates pirate Halloween displays",
-     "summary": "Staci Gifford of Eagle Mountain and her daughter, Kailee Burdette of Saratoga Springs, have spent nearly a decade turning their homes into elaborate Halloween displays.",
-     "link": "https://www.ksl.com/article/51642842/mother-daughter-duo-creates-pirate-halloween-displays",
-     "published": "2026-10-31T22:33:36+00:00"
+     "link": "https://www.deseret.com/utah/2024/11/01/deseret-news-archives-saga-of-seabiscuit-in-1938/",
+     "published": "2026-11-01T14:48:57+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: Make the judiciary boring again",
-     "summary": "“A fair, independent court system requires judges to decide cases according to the rule of law and the Constitution, not fear, political pressure or retaliation,” Natasha Rogers and Nancy Sylvester write in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/10/31/voices-keep-judiciary-independent/",
-     "published": "2026-10-31T12:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "November events and activities in Utah",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2026/10/31/november-events-in-utah-2-0-2-6/",
-     "published": "2026-11-01T02:15:11+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Nonprofit temporarily closes its doors, impacting more than 20,000",
-     "summary": "Starting Sunday, Nov. 1, families will no longer be able to receive help from Community Action Services and Food Bank.",
-     "link": "https://www.ksl.com/article/51642853/nonprofit-temporarily-closes-its-doors-impacting-more-than-20000",
-     "published": "2026-10-31T22:24:43+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Letter: I’m a conservative in several ways, but primarily ethically. Here’s why the GOP has lost me.",
-     "summary": "Letter: My ethical standards have led me to abandon the Republican Party. Please think of how your elected officials actually behave, who they choose to support, and vote accordingly.",
-     "link": "https://www.sltrib.com/opinion/letters/2026/10/29/letter-im-conservative-several/",
-     "published": "2026-10-31T12:01:00+00:00"
+     "title": "This week from Bagley: ICE, political paranoia, Trump worship, Pat McAfee",
+     "summary": "This week's cartoons from The Salt Lake Tribune's Pat Bagley.",
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/01/this-week-bagley-ice-political/",
+     "published": "2026-11-01T13:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -133,18 +105,18 @@
      "published": "2026-10-31T22:09:22+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Opinion: Emily Dickinson’s Response to the 1871 Peshtigo Fire",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/10/31/emily-dickinson-and-the-1871-peshtigo-fire/",
-     "published": "2026-10-31T19:00:00+00:00"
+     "source": "Salt Lake Tribune",
+     "title": "Are these Utah developers unconstitutionally governing their own project? A judge is about to weigh in.",
+     "summary": "Should developers get to run their own municipality as a temporary government? That’s what is happening at Echo Canyon in southern Utah, and a judge is weighing whether to put an end to it.",
+     "link": "https://www.sltrib.com/news/2026/11/01/are-echo-canyons-developers/",
+     "published": "2026-11-01T13:00:01+00:00"
     },
     {
-     "source": "Salt Lake Tribune",
-     "title": "A father’s favorite songs. Cherished train trips with mom. Here’s how Utahns are remembering loved ones for Day of the Dead.",
-     "summary": "As a child, Consuelo Soto Vargas spent days traveling by train to Oaxaca with her mother and siblings. During the Day of the Dead, Vargas said her memories of those journeys are some of the ones she treasures the most.",
-     "link": "https://www.sltrib.com/news/2026/10/31/utahns-remember-loved-ones-ahead/",
-     "published": "2026-10-31T12:00:01+00:00"
+     "source": "Deseret News",
+     "title": "Where the Day of the Dead and Latter-day Saint belief intersect",
+     "summary": "",
+     "link": "https://www.deseret.com/faith/2026/11/01/connections-between-day-of-the-dead-and-latter-day-saint-faith/",
+     "published": "2026-11-01T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -152,6 +124,34 @@
      "summary": "The family of the 22-year-old woman critically injured in a motorcycle crash near the mouth of Ogden Canyon earlier this week said she is not expected to survive.",
      "link": "https://www.ksl.com/article/51642845/family-identifies-ogden-canyon-crash-victim-prepares-to-say-goodbye",
      "published": "2026-10-31T22:01:38+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "The Utah quilting novel that stormed the bestseller list",
+     "summary": "Eli McCann had a surprise hit with his debut novel, “Stitched.” He talks about how he came to write the book and what its success has meant.",
+     "link": "https://www.sltrib.com/artsliving/2026/11/01/how-utahs-eli-mccanns-novel/",
+     "published": "2026-11-01T13:00:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Top Democrats are positioning themselves for the 2028 presidential race",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/11/01/where-top-democrats-are-campaigning-ahead-of-midterm-elections-gives-a-look-into-2028/",
+     "published": "2026-11-01T11:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Longtime homeless cleanup nonprofit shuts down, leaving 125 unemployed",
+     "summary": "Despite efforts to save it, longtime Utah social enterprise nonprofit Advantage Services is shutting down amid financial struggles.",
+     "link": "https://www.ksl.com/article/51642840/longtime-homeless-cleanup-nonprofit-shuts-down-leaving-125-unemployed",
+     "published": "2026-10-31T21:35:14+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Tribune editorial: USU is wrong to play along with gambling interests",
+     "summary": "“Gambling, legal or not, can only be a threat to the game,” the editorial board writes.",
+     "link": "https://www.sltrib.com/opinion/editorial/2026/11/01/tribune-editorial-usu-shouldnt/",
+     "published": "2026-11-01T13:00:00+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
-     "summary": "The TV personality went viral in 2022 when she arrived at a party encased in a slithering worm costume.",
-     "link": "https://www.cbsnews.com/news/heidi-klum-halloween-2026-costume-hand/",
-     "published": "2026-11-01T07:28:03+00:00"
+     "title": "This week on \"Sunday Morning\" (Nov. 1)",
+     "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+     "published": "2026-11-01T14:51:25+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Living with high prices in Virginia's 1st Congressional District",
+     "summary": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.'s 1st Congressional district. They explain how they're handling the economic stress of these times.",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+     "published": "2026-11-01T13:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-10-31T23:22:29+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Virginia and D.C. sue to block construction of Trump arch",
-     "summary": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-     "published": "2026-10-31T22:48:51+00:00"
+     "source": "CBS News",
+     "title": "Passage: In memoriam",
+     "summary": "\"Sunday Morning\" remembers some of the notable figures who left us this week, including actor Sir Patrick Stewart, best known as Captain Jean Luc Godard in the \"Star Trek\" franchise.",
+     "link": "https://www.cbsnews.com/video/passage-in-memoriam-110126/",
+     "published": "2026-11-01T14:47:07+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "\"48 Hours\" show schedule",
-     "summary": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-     "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
-     "published": "2026-11-01T07:00:18+00:00"
+     "source": "NPR",
+     "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+     "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+     "published": "2026-11-01T12:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-10-31T23:14:59+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Mixed economic forecast weighs heavy ahead of midterms",
-     "summary": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
-     "published": "2026-10-31T21:14:35+00:00"
+     "source": "CBS News",
+     "title": "\"The Lost Boys\": How a vampire musical brings the undead to life",
+     "summary": "In movies and TV, vampires – the blood-sucking undead – have held a firm grip on the public's imagination. That popularity has now extended to Broadway. Correspondent Tracy Smith talks with actors L.J. Benet and Ali…",
+     "link": "https://www.cbsnews.com/video/the-lost-boys-how-a-vampire-musical-brings-the-undead-to-life/",
+     "published": "2026-11-01T14:45:13+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Rioters loot stores in Germany amid cost of living protests",
-     "summary": "After a largely peaceful protest, violence broke out between police and demonstrators in Germany.",
-     "link": "https://www.cbsnews.com/news/germany-protest-frankfurt-looting-violence/",
-     "published": "2026-11-01T05:53:35+00:00"
+     "source": "NPR",
+     "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+     "summary": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter.",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+     "published": "2026-11-01T11:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-10-31T22:32:54+00:00"
     },
     {
-     "source": "NPR",
-     "title": "France seethes again as youth-led protests sweep Europe",
-     "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
-     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-     "published": "2026-10-31T19:30:19+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "2026 elections live updates: Trump supports Republicans with telerallies",
-     "summary": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
-     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-     "published": "2026-11-01T04:07:00+00:00"
+     "title": "The issue that could tip the scales in the Texas Senate race",
+     "summary": "The contest between Republican Ken Paxton and Democrat James Talarico may determine control of the U.S. Senate. \"Sunday Morning\" talks with the candidates' supporters and local observers about a race that has drawn…",
+     "link": "https://www.cbsnews.com/news/texas-senate-race-james-talarico-ken-paxton/",
+     "published": "2026-11-01T14:37:06+00:00"
     }
    ]
   }
