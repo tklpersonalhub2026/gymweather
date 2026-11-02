@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:00:10.092065+00:00",
+ "updated": "2026-11-02T02:22:15.926790+00:00",
  "sections": [
   {
    "key": "local",
@@ -84,11 +84,39 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "‘Historic flooding’ has hit roads in San Juan County and Four Corners area, officials said",
+     "summary": "San Juan County residents are being told to stay off the roads, many of which have washed out or are impassible because of \"significant and historic flooding\" on Sunday.",
+     "link": "https://www.sltrib.com/news/2026/11/01/san-juan-county-hit-with-lot-rain/",
+     "published": "2026-11-02T00:19:36+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "Opinion: Is democracy coming back?",
+     "title": "The hero it was OK to meet — and re-meet",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
-     "published": "2026-11-01T21:40:13+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/01/chris-isaak-fan-shares-full-circle-moment-utah-show/",
+     "published": "2026-11-01T23:34:31+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Areas near Aneth and Bluff ordered to evacuate due to flood dangers",
+     "summary": "Low-lying areas near Aneth and residents along Cottonwood Wash near Bluff were ordered to evacuate on Sunday due to flood dangers.",
+     "link": "https://www.ksl.com/article/51642977/areas-near-aneth-and-bluff-ordered-to-evacuate-due-to-flood-dangers",
+     "published": "2026-11-01T19:12:09+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Opinion: Don’t wait for political leaders to save us",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/01/politics-doesnt-save/",
+     "published": "2026-11-01T23:27:18+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Utah woman works to preserve state's cemetery history, one headstone at a time",
+     "summary": "As people observe holidays like Day of the Dead and All Saints' Day, one Utah woman is working year-round to preserve the stories of those who came before her.",
+     "link": "https://www.ksl.com/article/51642974/utah-woman-works-to-preserve-states-cemetery-history-one-headstone-at-a-time",
+     "published": "2026-11-01T19:02:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,18 +126,18 @@
      "published": "2026-11-01T18:03:10+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Mother-daughter duo creates pirate Halloween displays",
-     "summary": "Staci Gifford of Eagle Mountain and her daughter, Kailee Burdette of Saratoga Springs, have spent nearly a decade turning their homes into elaborate Halloween displays.",
-     "link": "https://www.ksl.com/article/51642842/mother-daughter-duo-creates-pirate-halloween-displays",
-     "published": "2026-10-31T22:33:36+00:00"
+     "source": "Deseret News",
+     "title": "Opinion: Is democracy coming back?",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
+     "published": "2026-11-01T21:40:13+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Opinion: Families find their place in Utah’s charter schools",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/utah-families-find-their-place-in-charter-schools/",
-     "published": "2026-11-01T16:00:00+00:00"
+     "source": "KSL",
+     "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+     "summary": "A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway.",
+     "link": "https://www.ksl.com/article/51642955/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball",
+     "published": "2026-11-01T18:29:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,38 +148,10 @@
     },
     {
      "source": "KSL",
-     "title": "Nonprofit temporarily closes its doors, impacting more than 20,000",
-     "summary": "Starting Sunday, Nov. 1, families will no longer be able to receive help from Community Action Services and Food Bank.",
-     "link": "https://www.ksl.com/article/51642853/nonprofit-temporarily-closes-its-doors-impacting-more-than-20000",
-     "published": "2026-10-31T22:24:43+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Deseret News archives: Saga of Seabiscuit found the winner’s circle",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2024/11/01/deseret-news-archives-saga-of-seabiscuit-in-1938/",
-     "published": "2026-11-01T14:48:57+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Are these Utah developers unconstitutionally governing their own project? A judge is about to weigh in.",
-     "summary": "Should developers get to run their own municipality as a temporary government? That’s what is happening at Echo Canyon in southern Utah, and a judge is weighing whether to put an end to it.",
-     "link": "https://www.sltrib.com/news/2026/11/01/are-echo-canyons-developers/",
-     "published": "2026-11-01T13:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "7-year-old critically injured after being struck on Spanish Fork Parkway",
-     "summary": "A 7-year-old boy \"wearing dark clothing and a mask\" is in critical condition after being struck by a vehicle on North Spanish Fork Parkway on Saturday night, police say.",
-     "link": "https://www.ksl.com/article/51642857/7-year-old-critically-injured-after-being-struck-on-spanish-fork-parkway",
-     "published": "2026-10-31T22:09:22+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Tribune editorial: USU is wrong to play along with gambling interests",
-     "summary": "“Gambling, legal or not, can only be a threat to the game,” the editorial board writes.",
-     "link": "https://www.sltrib.com/opinion/editorial/2026/11/01/tribune-editorial-usu-shouldnt/",
-     "published": "2026-11-01T13:00:00+00:00"
+     "title": "1 dead, another injured in off-road vehicle crash",
+     "summary": "A man died and a woman was taken to the hospital when the two were injured in a side-by-side crash in Utah County on Saturday night.",
+     "link": "https://www.ksl.com/article/51642975/1-dead-another-injured-in-off-road-vehicle-crash",
+     "published": "2026-11-01T18:24:13+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
-     "summary": "Details about what may have caused the crash had not yet been shared.",
-     "link": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
-     "published": "2026-11-01T22:48:29+00:00"
+     "title": "Sen. Chris Murphy hospitalized following stroke",
+     "summary": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said.",
+     "link": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
+     "published": "2026-11-02T02:19:45+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+     "summary": "Attorneys for an immigrant rights group on Saturday filed court papers revealing that their analysis found more than 40% of the people on the list do not appear in the state's voter file.",
+     "link": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+     "published": "2026-11-01T23:18:16+00:00"
     },
     {
      "source": "NPR",
@@ -175,25 +182,18 @@
      "published": "2026-11-01T22:22:12+00:00"
     },
     {
+     "source": "CBS News",
+     "title": "Dangerous flooding hits Four Corners, prompting evacuations across U.S. Southwest",
+     "summary": "Meteorologists say a super El Niño and a subtropical jet stream are to blame for the heavier rain, more torrential storms and bigger floods. Akiko Fujita is in Huntington Beach, California, with more details, and Andrew…",
+     "link": "https://www.cbsnews.com/video/dangerous-flooding-hits-the-west/",
+     "published": "2026-11-02T02:09:35+00:00"
+    },
+    {
      "source": "PBS NewsHour",
      "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
      "summary": "The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed to the Bahamas, according to the Federal Aviation Administration.",
      "link": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
      "published": "2026-11-01T22:05:03+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Stevens endorses Rogers amid rift with El-Sayed",
-     "summary": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket.",
-     "link": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
-     "published": "2026-11-01T22:34:22+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
-     "summary": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
-     "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
-     "published": "2026-11-01T21:20:25+00:00"
     },
     {
      "source": "NPR",
@@ -204,17 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Sanders says GOP rhetoric about El-Sayed \"should appall\" Americans",
-     "summary": "Sen. Bernie Sanders, who's supported El-Sayed's campaign, specifically referred to comments made by Republican surrogates, including President Trump and GOP Sen. Ted Cruz of Texas",
-     "link": "https://www.cbsnews.com/news/bernie-sanders-abdul-el-sayed-campaign-republican-rhetoric/",
-     "published": "2026-11-01T22:19:17+00:00"
+     "title": "Connecticut Sen. Chris Murphy reportedly \"awake\" and recovering from stroke",
+     "summary": "Connecticut Sen. Chris Murphy's office said the 53-year-old Democrat began feeling numbness in his arms while attending his son's hockey game, and he was taken to the hospital. It was discovered there that he had…",
+     "link": "https://www.cbsnews.com/video/sen-chris-murphy-recovering-from-stroke/",
+     "published": "2026-11-02T02:03:26+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
-     "summary": "By casting doubt on the vote, Netanyahu appears to be trying to block any potential alliance in the opposition with the Arab parties that could force him from office.",
-     "link": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
-     "published": "2026-11-01T19:57:09+00:00"
+     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+     "summary": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
+     "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+     "published": "2026-11-01T21:20:25+00:00"
     },
     {
      "source": "NPR",
@@ -228,7 +228,7 @@
      "title": "Live Updates: Michigan Democratic rift spills into public view and more",
      "summary": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
      "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-     "published": "2026-11-01T22:09:19+00:00"
+     "published": "2026-11-02T01:59:50+00:00"
     }
    ]
   }
