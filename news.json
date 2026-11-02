@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:22:15.926790+00:00",
+ "updated": "2026-11-02T09:53:33.501188+00:00",
  "sections": [
   {
    "key": "local",
@@ -84,11 +84,25 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Deseret News",
+     "title": "Save the lake? Ben Abbott has his finger in the dike",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2026/11/01/ben-abbott-shares-passion-for-saving-great-salt-lake/",
+     "published": "2026-11-02T03:00:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "‘Historic flooding’ has hit roads in San Juan County and Four Corners area, officials said",
      "summary": "San Juan County residents are being told to stay off the roads, many of which have washed out or are impassible because of \"significant and historic flooding\" on Sunday.",
      "link": "https://www.sltrib.com/news/2026/11/01/san-juan-county-hit-with-lot-rain/",
      "published": "2026-11-02T00:19:36+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Utah County steps in to keep warming center open",
+     "summary": "Utah County is temporarily taking over administration of its warming center after Community Action Services and Food Bank announced a temporary closure.",
+     "link": "https://www.ksl.com/article/51642984/utah-county-steps-in-to-keep-warming-center-open",
+     "published": "2026-11-01T22:25:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -99,24 +113,10 @@
     },
     {
      "source": "KSL",
-     "title": "Areas near Aneth and Bluff ordered to evacuate due to flood dangers",
-     "summary": "Low-lying areas near Aneth and residents along Cottonwood Wash near Bluff were ordered to evacuate on Sunday due to flood dangers.",
-     "link": "https://www.ksl.com/article/51642977/areas-near-aneth-and-bluff-ordered-to-evacuate-due-to-flood-dangers",
-     "published": "2026-11-01T19:12:09+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Don’t wait for political leaders to save us",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/politics-doesnt-save/",
-     "published": "2026-11-01T23:27:18+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Utah woman works to preserve state's cemetery history, one headstone at a time",
-     "summary": "As people observe holidays like Day of the Dead and All Saints' Day, one Utah woman is working year-round to preserve the stories of those who came before her.",
-     "link": "https://www.ksl.com/article/51642974/utah-woman-works-to-preserve-states-cemetery-history-one-headstone-at-a-time",
-     "published": "2026-11-01T19:02:00+00:00"
+     "title": "Here's where Thanksgiving, Christmas holidays mean better deals for homebuyers",
+     "summary": "Planning on searching for a new home at the same time you're preparing to celebrate the upcoming holiday season?",
+     "link": "https://www.ksl.com/article/news/utah/heres-where-thanksgiving-christmas-holidays-mean-better-deals-for-homebuyers/51642073",
+     "published": "2026-11-01T21:29:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -127,17 +127,17 @@
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: Is democracy coming back?",
+     "title": "Opinion: Don’t wait for political leaders to save us",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
-     "published": "2026-11-01T21:40:13+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/01/politics-doesnt-save/",
+     "published": "2026-11-01T23:27:18+00:00"
     },
     {
      "source": "KSL",
-     "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
-     "summary": "A business jet carrying nine people nose-dived into a South Florida neighborhood Sunday and erupted into a giant fireball that appeared to just miss homes before crashing near a busy roadway.",
-     "link": "https://www.ksl.com/article/51642955/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball",
-     "published": "2026-11-01T18:29:00+00:00"
+     "title": "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest",
+     "summary": "Heavy rains and flash flooding have prompted mandatory evacuation orders in parts of the U.S. Southwest.",
+     "link": "https://www.ksl.com/article/51642944/flash-floods-trigger-evacuations-in-arizona-and-colorado-amid-heavy-rains-in-southwest",
+     "published": "2026-11-01T21:05:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -147,11 +147,11 @@
      "published": "2026-11-01T13:00:01+00:00"
     },
     {
-     "source": "KSL",
-     "title": "1 dead, another injured in off-road vehicle crash",
-     "summary": "A man died and a woman was taken to the hospital when the two were injured in a side-by-side crash in Utah County on Saturday night.",
-     "link": "https://www.ksl.com/article/51642975/1-dead-another-injured-in-off-road-vehicle-crash",
-     "published": "2026-11-01T18:24:13+00:00"
+     "source": "Deseret News",
+     "title": "Opinion: Is democracy coming back?",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
+     "published": "2026-11-01T21:40:13+00:00"
     }
    ]
   },
@@ -161,11 +161,18 @@
    "scope": "United States",
    "items": [
     {
+     "source": "NPR",
+     "title": "Morning news brief",
+     "summary": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race, key races remain close in last day before midterm election, Gulf states concerned about possible U.S. attack on Iran.",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
+     "published": "2026-11-02T09:42:20+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "Sen. Chris Murphy hospitalized following stroke",
-     "summary": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said.",
-     "link": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
-     "published": "2026-11-02T02:19:45+00:00"
+     "title": "Push for U.S.-Iran deal punctuated by threats to resume fighting",
+     "summary": "Mediators have been pushing for a deal to end the U.S.-Iran war as both sides publicly exchange threats.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+     "published": "2026-11-02T09:09:03+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-11-01T23:18:16+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-     "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-     "published": "2026-11-01T22:22:12+00:00"
+     "source": "CBS News",
+     "title": "Live Updates: Michigan Democratic rift spills into public view and more",
+     "summary": "Ahead of the 2026 midterm elections on Tuesday, candidates in key races — and President Trump — are making their closing arguments to voters.",
+     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+     "published": "2026-11-02T08:06:59+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Dangerous flooding hits Four Corners, prompting evacuations across U.S. Southwest",
-     "summary": "Meteorologists say a super El Niño and a subtropical jet stream are to blame for the heavier rain, more torrential storms and bigger floods. Akiko Fujita is in Huntington Beach, California, with more details, and Andrew…",
-     "link": "https://www.cbsnews.com/video/dangerous-flooding-hits-the-west/",
-     "published": "2026-11-02T02:09:35+00:00"
+     "source": "NPR",
+     "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+     "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+     "published": "2026-11-02T07:19:35+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,17 +204,17 @@
     },
     {
      "source": "NPR",
-     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-     "summary": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-     "published": "2026-11-01T19:49:15+00:00"
+     "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+     "summary": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+     "published": "2026-11-02T06:13:28+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Connecticut Sen. Chris Murphy reportedly \"awake\" and recovering from stroke",
-     "summary": "Connecticut Sen. Chris Murphy's office said the 53-year-old Democrat began feeling numbness in his arms while attending his son's hockey game, and he was taken to the hospital. It was discovered there that he had…",
-     "link": "https://www.cbsnews.com/video/sen-chris-murphy-recovering-from-stroke/",
-     "published": "2026-11-02T02:03:26+00:00"
+     "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
+     "summary": "Details about what may have caused the crash had not yet been shared.",
+     "link": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+     "published": "2026-11-02T05:29:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-01T21:20:25+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "published": "2026-11-01T19:00:58+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Live Updates: Michigan Democratic rift spills into public view and more",
-     "summary": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
-     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-     "published": "2026-11-02T01:59:50+00:00"
+     "title": "Trump says Iran war will be put away very soon, \"one way or the other\"",
+     "summary": "Earlier, President Trump predicted the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+     "published": "2026-11-02T04:15:00+00:00"
     }
    ]
   }
