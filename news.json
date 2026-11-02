@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:53:33.501188+00:00",
+ "updated": "2026-11-02T20:15:33.882424+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,11 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "KPCW",
+     "title": "2026 Wasatch Back midterm voter guide",
+     "summary": "Voters in Summit and Wasatch counties will choose candidates for U.S. and state offices, state and local school boards along with county council, clerk, sheriff, auditor and attorney. Ballots will also ask residents to…",
+     "link": "https://www.kpcw.org/summit-county/2026-11-02/2026-wasatch-back-midterm-voter-guide",
+     "published": "2026-11-02T19:36:19+00:00"
+    },
+    {
      "source": "TownLift",
-     "title": "Look up, Summit County: Fireballs, meteors, and a supermoon fill November skies",
-     "summary": "November brings two meteor showers, dark skies for the Taurids and a bright Beaver supermoon just before Thanksgiving",
-     "link": "https://townlift.com/2026/11/look-up-summit-county-fireballs-meteors-and-a-supermoon-fill-november-skies/",
-     "published": "2026-11-01T19:12:23+00:00"
+     "title": "Still have your ballot? Summit County voters urged to use a drop box",
+     "summary": "PARK CITY, Utah — With Election Day one day away, Summit County voters who still have their mail ballots should consider using an official ballot drop box rather than putting",
+     "link": "https://townlift.com/2026/11/still-have-your-ballot-summit-county-voters-urged-to-use-a-drop-box/",
+     "published": "2026-11-02T19:12:39+00:00"
     },
     {
      "source": "Park Record",
@@ -22,17 +29,17 @@
     },
     {
      "source": "KPCW",
-     "title": "Summit County budgets for more staff on 910 Ranch open space",
-     "summary": "The county lands department has grown alongside the county's landholdings, acquired with a 2021 open space bond.",
-     "link": "https://www.kpcw.org/summit-county/2026-10-30/summit-county-budgets-for-more-staff-on-910-ranch-open-space",
-     "published": "2026-10-30T21:34:00+00:00"
+     "title": "GALLERY: Wasatch Back weathers rain, wind for Halloween celebrations",
+     "summary": "A little rain didn't stop the Wasatch Back from celebrating Halloween on Park City's Main Street and Heber's Main Street Park.",
+     "link": "https://www.kpcw.org/park-city/2026-11-02/gallery-wasatch-back-weathers-rain-wind-for-halloween-celebrations",
+     "published": "2026-11-02T18:48:40+00:00"
     },
     {
      "source": "TownLift",
-     "title": "Park City Real Estate Q3 2026: A Market That Is Becoming More Selective",
-     "summary": "Park City’s real estate market is shifting, now making neighborhood, price point, property type, condition, new-construction competition and available inventory matter far more than any single statistic",
-     "link": "https://townlift.com/2026/11/park-city-real-estate-q3-2026-a-market-that-is-becoming-more-selective/",
-     "published": "2026-11-01T17:05:01+00:00"
+     "title": "After Dakota Pacific referendum dispute, Summit County clerk candidates offer different paths forward",
+     "summary": "Suni Woolstenhulme calls for more proactive transparency and a limited role in petition disputes, while Malena Stevens emphasizes clear guidance, consistent application of the law and government experience.",
+     "link": "https://townlift.com/2026/11/after-dakota-pacific-referendum-dispute-summit-county-clerk-candidates-offer-different-paths-forward/",
+     "published": "2026-11-02T18:02:59+00:00"
     },
     {
      "source": "Park Record",
@@ -42,11 +49,11 @@
      "published": "2026-11-01T14:00:00+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Turn back clocks, check smoke detectors for daylight saving time",
-     "summary": "Utahns will gain an hour of sleep Sunday when daylight saving time ends.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-30/turn-back-clocks-check-smoke-detectors-for-daylight-saving-time",
-     "published": "2026-10-30T21:10:00+00:00"
+     "source": "TownLift",
+     "title": "Jans now offers Kids’ Ski Rental Package for the whole season",
+     "summary": "PARK CITY, Utah — For kids, staying on the slopes is easy. Staying in gear that fits? Not so much. This winter, Jans is helping families keep their young skiers",
+     "link": "https://townlift.com/2026/11/jans-now-offers-a-kids-ski-rental-package-for-the-whole-season/",
+     "published": "2026-11-02T17:31:13+00:00"
     },
     {
      "source": "Park Record",
@@ -56,25 +63,18 @@
      "published": "2026-11-01T13:36:00+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "More than just an extra hour: The quirky history of Daylight Saving Time",
-     "summary": "Utahns will gain an extra hour of sleep this weekend as Daylight Saving Time comes to an end. Clocks will roll back one hour at 2 a.m. on Sunday, marking",
-     "link": "https://townlift.com/2026/10/more-than-just-an-extra-hour-the-quirky-history-of-daylight-saving-time/",
-     "published": "2026-10-31T17:05:04+00:00"
-    },
-    {
      "source": "KPCW",
-     "title": "Utah Lt. Gov. says it is too late to mail ballots for Nov. election",
-     "summary": "It's too late for Utah voters to submit their ballots in the mail, but there’s still time to vote early at polling locations or use a county drop box before Election Day.",
-     "link": "https://www.kpcw.org/state-regional/2026-10-30/utah-lt-gov-says-it-is-too-late-to-mail-ballots-for-nov-election",
-     "published": "2026-10-30T20:42:29+00:00"
+     "title": "Summit County budgets for more staff on 910 Ranch open space",
+     "summary": "The county lands department has grown alongside the county's landholdings, acquired with a 2021 open space bond.",
+     "link": "https://www.kpcw.org/summit-county/2026-10-30/summit-county-budgets-for-more-staff-on-910-ranch-open-space",
+     "published": "2026-10-30T21:34:00+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Early deja vu with warm system passing through",
-     "summary": "What OpenSnow forecaster Evan Thayer called a “good storm” is coming through Sunday to Monday, but it’s another that plagued last ski season: too warm and too rainy instead of genuinely snowy in the lower mountain…",
-     "link": "https://www.parkrecord.com/2026/10/31/early-deja-vu-with-warm-system-passing-through/",
-     "published": "2026-10-31T15:53:25+00:00"
+     "source": "TownLift",
+     "title": "Swaner seeks teen input on possible yearlong environmental program",
+     "summary": "Nov. 12 focus group will help shape hands-on opportunities for students in grades 9-12",
+     "link": "https://townlift.com/2026/11/swaner-seeks-teen-input-on-possible-yearlong-environmental-program/",
+     "published": "2026-11-02T17:10:03+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Save the lake? Ben Abbott has his finger in the dike",
+     "title": "Fridges are failing — and some are getting hacked",
      "summary": "",
-     "link": "https://www.deseret.com/utah/2026/11/01/ben-abbott-shares-passion-for-saving-great-salt-lake/",
-     "published": "2026-11-02T03:00:00+00:00"
+     "link": "https://www.deseret.com/u-s-world/2026/11/02/from-commissaries-to-supermarkets-trouble-in-the-freezer/",
+     "published": "2026-11-02T19:34:51+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "‘Historic flooding’ has hit roads in San Juan County and Four Corners area, officials said",
-     "summary": "San Juan County residents are being told to stay off the roads, many of which have washed out or are impassible because of \"significant and historic flooding\" on Sunday.",
-     "link": "https://www.sltrib.com/news/2026/11/01/san-juan-county-hit-with-lot-rain/",
-     "published": "2026-11-02T00:19:36+00:00"
+     "title": "LDS apostle speaks out against online anonymity, calls it spiritually dangerous",
+     "summary": "“Hiding in the darkness of anonymity to say unkind or cruel things about another individual is incompatible with being a light,\" apostle Quentin Cook says in a worldwide devotional.",
+     "link": "https://www.sltrib.com/religion/2026/11/02/lds-apostle-quentin-cook-speaks/",
+     "published": "2026-11-02T19:03:47+00:00"
     },
     {
      "source": "KSL",
-     "title": "Utah County steps in to keep warming center open",
-     "summary": "Utah County is temporarily taking over administration of its warming center after Community Action Services and Food Bank announced a temporary closure.",
-     "link": "https://www.ksl.com/article/51642984/utah-county-steps-in-to-keep-warming-center-open",
-     "published": "2026-11-01T22:25:00+00:00"
+     "title": "Utah lost the space shuttle 50 years ago. Now it has 2 spaceport sites",
+     "summary": "After a state committee picked two locations, aerospace leaders say Utah's geography makes it better suited for landing spacecraft than launching them.",
+     "link": "https://www.deseret.com/business/2026/11/02/utah-spaceport-launch-facility-nasa-spacecraft-reentry-newspace-aerospace/",
+     "published": "2026-11-02T10:47:33+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "The hero it was OK to meet — and re-meet",
+     "title": "Partisanship may be letting politicians off the hook, experts say",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/01/chris-isaak-fan-shares-full-circle-moment-utah-show/",
-     "published": "2026-11-01T23:34:31+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Here's where Thanksgiving, Christmas holidays mean better deals for homebuyers",
-     "summary": "Planning on searching for a new home at the same time you're preparing to celebrate the upcoming holiday season?",
-     "link": "https://www.ksl.com/article/news/utah/heres-where-thanksgiving-christmas-holidays-mean-better-deals-for-homebuyers/51642073",
-     "published": "2026-11-01T21:29:00+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/02/how-perceptions-of-government-corruption-influence-voters/",
+     "published": "2026-11-02T18:41:09+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Provo food bank announces temporary closure amid financial shortfall",
-     "summary": "",
-     "link": "https://www.sltrib.com/news/2026/11/01/provo-food-bank-announces/",
-     "published": "2026-11-01T18:03:10+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Don’t wait for political leaders to save us",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/politics-doesnt-save/",
-     "published": "2026-11-01T23:27:18+00:00"
+     "title": "Bagley Cartoon: Vote!",
+     "summary": "Check out Pat Bagley's latest cartoon: Vote!",
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/02/bagley-cartoon-vote/",
+     "published": "2026-11-02T18:33:29+00:00"
     },
     {
      "source": "KSL",
-     "title": "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest",
-     "summary": "Heavy rains and flash flooding have prompted mandatory evacuation orders in parts of the U.S. Southwest.",
-     "link": "https://www.ksl.com/article/51642944/flash-floods-trigger-evacuations-in-arizona-and-colorado-amid-heavy-rains-in-southwest",
-     "published": "2026-11-01T21:05:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "This week from Bagley: ICE, political paranoia, Trump worship, Pat McAfee",
-     "summary": "This week's cartoons from The Salt Lake Tribune's Pat Bagley.",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/11/01/this-week-bagley-ice-political/",
-     "published": "2026-11-01T13:00:01+00:00"
+     "title": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother's house",
+     "summary": "Karl Bushby embraced his weeping mother in his arms Monday as he returned to his northern England home to complete a 28-year odyssey to walk around the world.",
+     "link": "https://www.ksl.com/article/news/utah/science-and-tech/karl-bushby-completes-28-year-31000-mile-walk-around-world-and-returns-to-mothers-house/51643024",
+     "published": "2026-11-02T10:34:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: Is democracy coming back?",
+     "title": "Tyler Robinson seeks to keep cameras out of courtroom, citing Trump social media post",
+     "summary": "Tyler Robinson says a social media post by President Donald Trump is an example of how cameras in the courtroom threaten his right to a fair trial.",
+     "link": "https://www.deseret.com/utah/2026/11/02/tyler-robinson-seeks-to-keep-cameras-out-of-courtroom-citing-trump-media-posts/",
+     "published": "2026-11-02T18:37:15+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Trump’s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues",
+     "summary": "“The judge in the Charlie Kirk case is doing a terrible job!” President Donald Trump wrote, among other comments, on social media. Tyler Robinson’s defense team is citing those comments in a renewed push to bar cameras…",
+     "link": "https://www.sltrib.com/news/2026/11/02/charlie-kirk-case-defense-cites/",
+     "published": "2026-11-02T17:11:15+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "KSL Outdoors Snapshot of the Week: October 31, 2026",
+     "summary": "The KSL Outdoors Snapshot of the Week from our October 31, 2026 episode.",
+     "link": "https://www.ksl.com/article/51643092/ksl-outdoors-snapshot-of-the-week-october-31-2026",
+     "published": "2026-11-02T10:25:18+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Conservative climate group faces a midterm reckoning. Its Utah founder still sees hope for the movement",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/01/is-democracy-coming-back/",
-     "published": "2026-11-01T21:40:13+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/02/conservative-climate-caucus-lose-members-in-midterms/",
+     "published": "2026-11-02T17:57:33+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "NPR",
-     "title": "Morning news brief",
-     "summary": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race, key races remain close in last day before midterm election, Gulf states concerned about possible U.S. attack on Iran.",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
-     "published": "2026-11-02T09:42:20+00:00"
+     "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+     "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+     "published": "2026-11-02T20:02:41+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Push for U.S.-Iran deal punctuated by threats to resume fighting",
-     "summary": "Mediators have been pushing for a deal to end the U.S.-Iran war as both sides publicly exchange threats.",
+     "title": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
+     "summary": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-     "published": "2026-11-02T09:09:03+00:00"
+     "published": "2026-11-02T19:57:35+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
-     "summary": "Attorneys for an immigrant rights group on Saturday filed court papers revealing that their analysis found more than 40% of the people on the list do not appear in the state's voter file.",
-     "link": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
-     "published": "2026-11-01T23:18:16+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Live Updates: Michigan Democratic rift spills into public view and more",
-     "summary": "Ahead of the 2026 midterm elections on Tuesday, candidates in key races — and President Trump — are making their closing arguments to voters.",
-     "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-     "published": "2026-11-02T08:06:59+00:00"
+     "title": "ICE officer charged with ramming man with SUV in Houston turns himself in",
+     "summary": "Mario Alberto Morales made his first court appearance Monday on a felony charge of aggravated assault with a deadly weapon for striking Miguel Parra Hernandez with an unmarked SUV on Oct. 10.",
+     "link": "https://www.pbs.org/newshour/nation/ice-officer-charged-with-ramming-man-with-suv-in-houston-turns-himself-in",
+     "published": "2026-11-02T19:44:40+00:00"
     },
     {
      "source": "NPR",
-     "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-     "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
-     "published": "2026-11-02T07:19:35+00:00"
+     "title": "Is America really that polarized? The answer might be a surprise",
+     "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+     "published": "2026-11-02T20:00:00+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Live Updates: Trump tells GOP \"we gave this a very strong shot\"",
+     "summary": "President Trump is holding an event Monday at the Washington, D.C. Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement.",
+     "link": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
+     "published": "2026-11-02T19:50:58+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
-     "summary": "The aircraft had departed Austin-Bergstrom International Airport in Texas and was headed to the Bahamas, according to the Federal Aviation Administration.",
-     "link": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
-     "published": "2026-11-01T22:05:03+00:00"
+     "title": "Evidence suggests parts of jet broke off before Florida crash, NTSB investigator says",
+     "summary": "National Transportation Safety Board member Tom Chapman said that evidence found at the crash site indicates the aircraft was breaking up before making impact impact on Sunday. He says parts of the plane may be found…",
+     "link": "https://www.pbs.org/newshour/nation/evidence-suggests-parts-of-jet-broke-off-before-florida-crash-ntsb-investigator-says",
+     "published": "2026-11-02T19:31:24+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Snap settles social media addiction lawsuit, averting trial",
+     "summary": "Snap joins Alphabet, Meta and TikTok in resolving allegations that its social media platform was designed to encourage addictive behavior.",
+     "link": "https://www.cbsnews.com/news/slug-snap-settles-social-media-addiction-lawsuit/",
+     "published": "2026-11-02T19:45:02+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Voters on the left and right fear the America they've known is slipping away",
+     "summary": "Whether they're from the left or the right, they're worried that the America they've known is slipping away. They see the political class stirring up anger and hate and turning neighbors against each other.",
+     "link": "https://www.pbs.org/newshour/politics/voters-on-the-left-and-right-fear-the-america-theyve-known-is-slipping-away",
+     "published": "2026-11-02T19:14:28+00:00"
     },
     {
      "source": "NPR",
-     "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
-     "summary": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
-     "link": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
-     "published": "2026-11-02T06:13:28+00:00"
+     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+     "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+     "published": "2026-11-02T18:54:01+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
-     "summary": "Details about what may have caused the crash had not yet been shared.",
-     "link": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
-     "published": "2026-11-02T05:29:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
-     "summary": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
-     "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
-     "published": "2026-11-01T21:20:25+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Trump says Iran war will be put away very soon, \"one way or the other\"",
-     "summary": "Earlier, President Trump predicted the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-     "published": "2026-11-02T04:15:00+00:00"
+     "title": "A bitter sheriff's primary, a write-in campaign and a county divided",
+     "summary": "An unusual sheriff election in Lee County, Alabama, highlights how elected law enforcement often shapes issues of public safety, immigration and gun control.",
+     "link": "https://www.cbsnews.com/news/lee-county-alabama-sheriff-election-write-in-campaign/",
+     "published": "2026-11-02T19:43:17+00:00"
     }
    ]
   }
