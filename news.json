@@ -1,11 +1,46 @@
 {
- "updated": "2026-11-06T14:56:44.615468+00:00",
+ "updated": "2026-11-06T20:49:53.942199+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "Park Record",
+     "title": "Summit County Sheriff’s Office asks for more detectives as caseloads increase",
+     "summary": "Summit County Sheriff Kacey Bates wants to add two full-time detectives to her staff next year to bolster the department’s investigative capabilities, which she said is necessary as the county sees an increase in…",
+     "link": "https://www.parkrecord.com/2026/11/06/summit-county-sheriffs-office-asks-for-more-detectives-as-caseloads-increase/",
+     "published": "2026-11-06T20:45:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Summit County Council approves Mountain Regional Water annexation in 2-1 vote",
+     "summary": "The decision brings 10 parcels near Kimball Junction into the district's service area, though additional infrastructure will be needed to deliver water.",
+     "link": "https://townlift.com/2026/11/summit-county-council-approves-mountain-regional-water-annexation-in-2-1-vote/",
+     "published": "2026-11-06T20:07:47+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Coalville, Oakley rush to meet need after food banks close before holidays",
+     "summary": "The Summit County closures are linked to a Provo nonprofit's loss of funding.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-06/coalville-oakley-rush-to-meet-need-after-food-banks-close-before-holidays",
+     "published": "2026-11-06T17:01:00+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Heber City cuts the ribbon on 300 South Trail",
+     "summary": "The first section of the trail opened on the east side, and now a section on the west side of the 300 South Trail has opened to the public stretching from 100 West to 600 West. The post Heber City cuts the ribbon on 300…",
+     "link": "https://www.parkrecord.com/2026/11/06/heber-city-cuts-the-ribbon-on-300-south-trail/",
+     "published": "2026-11-06T20:30:00+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "When will Utah ski resorts open? Here’s the 2026-27 schedule so far",
+     "summary": "UTAH — Utah’s ski season is approaching, and several resorts have announced their planned opening dates for the 2026-27 winter. Skiers and snowboarders heading out early should be aware that",
+     "link": "https://townlift.com/2026/11/when-will-utah-ski-resorts-open-heres-the-2026-27-schedule-so-far/",
+     "published": "2026-11-06T19:02:53+00:00"
+    },
     {
      "source": "KPCW",
      "title": "Rigby sought to discredit Wasatch County sheriff's race opponents, indictment says",
@@ -15,17 +50,17 @@
     },
     {
      "source": "Park Record",
-     "title": "Basin Recreation to pivot to smaller outdoor amenities after bond measure trails on Election Day",
-     "summary": "The Snyderville Basin Special Recreation District will likely pivot to smaller outdoor amenities on its Silver Creek and Jeremy Ranch properties after voters seemingly rejected a $71 million general obligation bond to…",
-     "link": "https://www.parkrecord.com/2026/11/05/basin-recreation-to-pivot-to-smaller-outdoor-amenities-after-bond-measure-trails-on-election-day/",
-     "published": "2026-11-05T23:29:51+00:00"
+     "title": "Staying on top of forecasts from the Utah Avalanche Center",
+     "summary": "The forecast provides detailed information, including the overall danger rating and other critical information everyone should know before heading into the backcountry. The post Staying on top of forecasts from the Utah…",
+     "link": "https://www.parkrecord.com/2026/11/06/staying-on-top-of-forecasts-from-the-utah-avalanche-center/",
+     "published": "2026-11-06T20:15:00+00:00"
     },
     {
      "source": "TownLift",
-     "title": "Enter for a chance to win over $11,000 in prizes with the TownLift Local Holiday Shopping Spree",
-     "summary": "45 new and returning local businesses have come together to give three lucky winners the shopping spree of their dreams, and to remind everyone to #shoplocal this holiday season.",
-     "link": "https://townlift.com/2026/11/enter-for-a-chance-to-win-over-11000-in-prizes-with-the-townlift-local-holiday-shopping-spree/",
-     "published": "2026-11-05T21:53:06+00:00"
+     "title": "Utah Avalanche Center begins seasonal updates as early snowpack builds",
+     "summary": "PARK CITY, Utah — Snow is back in the mountains, which means Utah Avalanche Center’s team is back to providing daily observations and avalanche warnings. On Wednesday, UAC forecasters Nikki",
+     "link": "https://townlift.com/2026/11/utah-avalanche-center-begins-seasonal-updates-as-early-snowpack-builds/",
+     "published": "2026-11-06T17:32:30+00:00"
     },
     {
      "source": "KPCW",
@@ -36,45 +71,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Heber City police investigate possible animal cruelty case",
-     "summary": "The Heber City Police Department is investigating the death of a dog found in the Heber Valley. About two weeks ago, Police Chief Parker Sever said the department received a report of an abandoned dog. An officer was…",
-     "link": "https://www.parkrecord.com/2026/11/05/heber-city-police-investigate-possible-animal-cruelty-case/",
-     "published": "2026-11-05T23:19:26+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Hales leads Wasatch County sheriff race as indicted incumbent Rigby prepares to leave office",
-     "summary": "Unofficial results show Hales with 68% of the vote as the county prepares for a leadership transition.",
-     "link": "https://townlift.com/2026/11/hales-leads-wasatch-county-sheriff-race-as-indicted-incumbent-prepares-to-leave-office/",
-     "published": "2026-11-05T21:14:15+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Local nonprofit calls for coats to help Navajo Nation after severe floods",
-     "summary": "The Adopt-A-Native-Elder program is asking Wasatch Back residents to bring winter coats to its annual Navajo rug show at Deer Valley this weekend.",
-     "link": "https://www.kpcw.org/park-city/2026-11-05/local-nonprofit-calls-for-coats-to-help-navajo-nation-after-severe-floods",
-     "published": "2026-11-05T23:05:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Deer Valley Resort reveals 2026-27 trail map",
-     "summary": "The season's map includes Hail Peak Express, seven new runs and 200 more acres of skiable terrain. The post Deer Valley Resort reveals 2026-27 trail map appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/11/05/deer-valley-reveals-2026-27-trail-map/",
-     "published": "2026-11-05T22:31:51+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Local artists return to Miners Hospital for three-day MinersART show",
-     "summary": "PARK CITY, Utah — Local art, jewelry, photography, and stories from a nearly four-month pilgrimage across Europe will be part of the next MinersART show at the historic Miners Hospital",
-     "link": "https://townlift.com/2026/11/local-artists-return-to-miners-hospital-for-three-day-minersart-show/",
-     "published": "2026-11-05T20:45:14+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Pro Skijor tour to visit Wasatch Back in winter 2027",
-     "summary": "Professional skijoring will return to the Wasatch Back this winter with high-speed competition at a new location.",
-     "link": "https://www.kpcw.org/wasatch-county/2026-11-05/pro-skijor-tour-to-visit-wasatch-back-in-winter-2027",
-     "published": "2026-11-05T22:21:56+00:00"
+     "title": "Mack’s Finest Gelato expands ‘community creamery’ to Salt Lake City",
+     "summary": "Now, after almost two years, Mack’s Finest Gelato is expanding, will plans to open a second location on Sake Lake City’s popular 900 South corridor. The post Mack’s Finest Gelato expands ‘community creamery’ to Salt…",
+     "link": "https://www.parkrecord.com/2026/11/06/macks-finest-gelato-expands-community-creamery-to-salt-lake-city/",
+     "published": "2026-11-06T20:00:00+00:00"
     }
    ]
   },
@@ -84,74 +84,74 @@
    "scope": "Utah",
    "items": [
     {
-     "source": "Salt Lake Tribune",
-     "title": "Voices: There’s a hidden danger beside Utah’s hiking trails",
-     "summary": "“Trapping on recreational trails is a clear and present danger,” Bill Mader writes in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/06/voices-theres-hidden-danger-near/",
-     "published": "2026-11-06T13:05:00+00:00"
+     "source": "Deseret News",
+     "title": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/11/06/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/",
+     "published": "2026-11-06T19:43:18+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Opinion: The quickest way for Democrats to squander their red-state breakthrough",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/06/will-democrats-squander-blue-wave-breakthrough/",
-     "published": "2026-11-06T11:00:01+00:00"
+     "source": "Salt Lake Tribune",
+     "title": "Investigation: Witnesses said Democratic Sen. Kathleen Riebe harassed and discriminated against staffers and interns",
+     "summary": "Investigators interviewed witnesses who said Democratic Sen. Kathleen Riebe harassed and discriminated against staffers and interns, a newly released report shows. Democrats have called on Riebe to resign. She is…",
+     "link": "https://www.sltrib.com/news/politics/2026/11/06/utah-democratic-sen-kathleen-riebe/",
+     "published": "2026-11-06T18:30:47+00:00"
     },
     {
      "source": "KSL",
-     "title": "Taylorsville man accused of killing kitten",
-     "summary": "A man accused of killing his 5-month-old kitten was charged on Thursday.",
-     "link": "https://www.ksl.com/article/51644071/taylorsville-man-accused-of-killing-kitten",
-     "published": "2026-11-06T07:36:48+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Tribune editorial: Voters won this election. Now those in power must actually listen.",
-     "summary": "“Those who were elected have the chance, and the responsibility, to do real governing, wisely, judiciously and for the benefit of the people,” The Salt Lake Tribune editorial board writes.",
-     "link": "https://www.sltrib.com/opinion/editorial/2026/11/06/tribune-editorial-voters-demanded/",
-     "published": "2026-11-06T13:05:00+00:00"
+     "title": "Airstrikes on a market in southwestern Yemen kill at least 20, Houthis say",
+     "summary": "Airstrikes hit a market in southwestern Yemen on Friday, killing at least 20 people, according to an official with Iran-backed Houthi rebels.",
+     "link": "https://www.ksl.com/article/51644183/airstrikes-on-a-market-in-southwestern-yemen-kill-at-least-20-houthis-say",
+     "published": "2026-11-06T13:41:33+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Trump administration holds up Utah as national example on this issue",
+     "title": "Opinion: Do Democrats have the will to stop runaway federal spending?",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/06/trump-hud-secretary-scott-turner-says-utah-is-example-for-nation-on-treatment-first-approach-to-homelessness/",
-     "published": "2026-11-06T11:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Northbound I-15 near Beaver completely blocked by semitruck during early commute",
-     "summary": "Both lanes of northbound I-15 were blocked early Friday morning after a semi-truck crashed. The trailer blocked both lanes while the cab was on the shoulder of the interstate.",
-     "link": "https://www.ksl.com/article/51644187/northbound-i-15-near-beaver-completely-blocked-by-semitruck",
-     "published": "2026-11-06T07:18:20+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/06/democrats-will-ignore-runaway-spending-like-republicans-did/",
+     "published": "2026-11-06T19:20:50+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Utah’s state school board just appointed a Republican to a seat a Democrat won — for 2 months",
-     "summary": "The two-month term is only until the newly elected Democrat is sworn into office.",
-     "link": "https://www.sltrib.com/news/education/2026/11/06/utahs-state-school-board/",
-     "published": "2026-11-06T13:04:52+00:00"
+     "title": "‘This feels slimy’: Wasatch County sheriff accused of using Kouri Richins trial to discredit political rival",
+     "summary": "Wasatch Sheriff Jared Rigby allegedly tried to use a high-profile murder trial to undermine a political rival. When he raised concerns about the detective with another sheriff, she told him: “This feels dirty.”",
+     "link": "https://www.sltrib.com/news/2026/11/06/wasatch-sheriff-jared-rigby/",
+     "published": "2026-11-06T17:05:42+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Investigators found Utah senator likely engaged in workplace discrimination and harassment",
+     "summary": "Independent investigators looking into allegations against Utah state Sen. Kathleen Riebe found the Democratic lawmaker \"more likely than not\" violated state policies on workplace harassment and discrimination.",
+     "link": "https://www.ksl.com/article/51644276/investigators-found-utah-senator-likely-engaged-in-workplace-discrimination-and-harassment",
+     "published": "2026-11-06T13:30:56+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Which movie most accurately depicts our AI-disrupted future? A new nationwide poll may surprise you",
+     "title": "A new live-action ‘Stranger Things’ prequel is in the works at Netflix",
      "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/06/ai-artificial-intelligence-best-movies-new-survey-results/",
-     "published": "2026-11-06T11:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "At 96, Utah woman continues making teddy bears for kids",
-     "summary": "For 33 years, Ruth Brasher has helped lead the Teddy Bear Project, a volunteer effort that has produced more than 23,000 handmade teddy bears for children visiting the Utah County Children's Justice Center.",
-     "link": "https://www.ksl.com/article/51644105/at-96-utah-woman-continues-making-teddy-bears-for-kids",
-     "published": "2026-11-06T07:14:39+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/06/stranger-things-prequel-other-worlds/",
+     "published": "2026-11-06T17:26:55+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Bird flu death in Washington state renews concern as virus spreads unchecked at Utah mink farm",
-     "summary": "A resident of Washington state died this week after a severe case of bird flu, a new and worrying sign that the virus continues to be a threat in the United States.",
-     "link": "https://www.sltrib.com/news/2026/11/06/bird-flu-death-washington-state/",
-     "published": "2026-11-06T13:00:01+00:00"
+     "title": "Bagley Cartoon: The New Kid",
+     "summary": "Check out Pat Bagley's latest cartoon: The New Kid",
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/06/bagley-cartoon-new-kid/",
+     "published": "2026-11-06T17:01:19+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Cox issues state of emergency over flooding in southern Utah",
+     "summary": "Utah Gov. Spencer Cox has issued a state of emergency in San Juan and Washington counties after flooding over the past few weeks caused significant damage in both southeast and southwest Utah.",
+     "link": "https://www.ksl.com/article/51644278/cox-issues-state-of-emergency-over-flooding-in-southern-utah",
+     "published": "2026-11-06T13:14:43+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Kennedy, Moore reelected; Utah House GOP supermajority may end",
+     "summary": "Freshman Rep. Mike Kennedy, R-Utah, will serve another term in Congress, according to the Associated Press.",
+     "link": "https://www.deseret.com/utah/2026/11/06/moore-kennedy-win-reelection-utah-voters-back-top-supreme-court-justice/",
+     "published": "2026-11-06T16:42:36+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Employers added 165,000 jobs in October, soaring past expectations",
-     "summary": "Hiring across the U.S. surged last month and unemployment dipped, a sign the job market is picking up speed.",
-     "link": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/",
-     "published": "2026-11-06T14:47:03+00:00"
+     "title": "Naresh Bhatt's Shocking Testimony | Case by Case | \"48 Hours\" Podcast",
+     "summary": "As Naresh Bhatt takes the stand in the trial surrounding the disappearance of Mamta Kafle Bhatt, \"48 Hours\" correspondent Natalie Morales and CBS News correspondent Shanelle Kaul unpack his bombshell testimony and…",
+     "link": "https://www.cbsnews.com/video/110626-48-hours-case-by-case-episode-29/",
+     "published": "2026-11-07T00:00:00+00:00"
     },
     {
      "source": "NPR",
-     "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-     "summary": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-     "published": "2026-11-06T13:56:43+00:00"
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key",
+     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "published": "2026-11-06T20:42:51+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Alabama executes man for 1991 killings in last of 3 U.S. executions carried out the same day",
-     "summary": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
-     "link": "https://www.pbs.org/newshour/nation/alabama-executes-man-for-1991-killings-in-last-of-3-u-s-executions-carried-out-the-same-day",
-     "published": "2026-11-06T00:49:28+00:00"
+     "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+     "summary": "The White House highlighted the website the morning after U.S. District Judge Tanya Chutkan issued a temporary restraining order that prohibits work on the site for 14 days.",
+     "link": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+     "published": "2026-11-06T20:36:43+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Jaw-dropping video shows Citibank shooter. Here's what officials say about his motive.",
-     "summary": "More details are emerging about a possible motive after an armed man barged into Citibank's corporate campus near Tampa, Florida, and killed a woman. CBS News' Cristian Benavides reports.",
-     "link": "https://www.cbsnews.com/video/jaw-dropping-video-shows-citibank-shooter-heres-what-officials-say-was-his-motive/",
-     "published": "2026-11-06T14:44:52+00:00"
+     "title": "The biggest hurdles Democrats face on affordability",
+     "summary": "Voters' frustration about the economy helped Democrats to regain control of Congress, but can they provide the economic relief they campaigned on? CBS News' Kelly O'Grady breaks it down.",
+     "link": "https://www.cbsnews.com/video/biggest-hurdles-democrats-face-on-affordability/",
+     "published": "2026-11-06T20:41:43+00:00"
     },
     {
      "source": "NPR",
-     "title": "Hiring jumps: The economy added 165,000 jobs last month",
-     "summary": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%.",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-     "published": "2026-11-06T13:49:21+00:00"
+     "title": "The incoming class of U.S. senators is full of historic firsts",
+     "summary": "From the first Native American elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates in the midterms.",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+     "published": "2026-11-06T20:21:13+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
-     "summary": "\"Habibi\" literally translates to \"my beloved\" and is peppered through Arab pop songs. In everyday speech, it often means \"buddy,\" \"pal,\" or \"bro.\" El-Sayed's supporters have sported shirts reading \"Habibi for Abdul.\"",
-     "link": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech",
-     "published": "2026-11-06T00:42:09+00:00"
+     "title": "Connecticut Sen. Chris Murphy released from hospital after stroke",
+     "summary": "The 53-year-old Democrat said in a statement Friday that doctors are \"encouraged by the progress\" he's made so far.",
+     "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-released-from-hospital-after-stroke",
+     "published": "2026-11-06T19:52:13+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Trump touts imminent decision on potential new attack on Iran",
-     "summary": "President Trump says he will make a decision \"very soon\" on whether to \"destroy what is left of\" Iran, calls Qatari emir as mediators push for a peace deal.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-     "published": "2026-11-06T14:42:54+00:00"
+     "title": "These House and Senate midterm races don't have winners yet",
+     "summary": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
+     "link": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+     "published": "2026-11-06T20:40:12+00:00"
     },
     {
      "source": "NPR",
-     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-     "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-     "published": "2026-11-06T12:24:52+00:00"
+     "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+     "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+     "published": "2026-11-06T20:09:58+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
-     "summary": "President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially…",
-     "link": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
-     "published": "2026-11-06T00:17:51+00:00"
+     "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+     "summary": "Schumer says the party's agenda will center around lowering prices, along with five issues that they have focused on in the minority — healthcare, housing, Trump's tariffs, childcare and lowering energy bills.",
+     "link": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
+     "published": "2026-11-06T19:46:53+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Size of Democratic majorities comes into focus as GOP grapples with loss",
-     "summary": "The dust continues to settle after Democrats' sweeping victories in the midterm elections. Follow live updates here.",
-     "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-     "published": "2026-11-06T14:38:18+00:00"
+     "title": "How to save on car insurance in 2027: Take these steps now",
+     "summary": "Making a few moves before the end of 2026 could help you secure more affordable car insurance coverage next year.",
+     "link": "https://www.cbsnews.com/news/how-to-save-on-car-insurance-in-2027/",
+     "published": "2026-11-06T20:21:42+00:00"
     }
    ]
   }
