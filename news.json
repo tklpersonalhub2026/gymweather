@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:07:29.137099+00:00",
+ "updated": "2026-11-06T06:58:48.166342+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "KPCW",
+     "title": "Rigby sought to discredit Wasatch County sheriff's race opponents, indictment says",
+     "summary": "New charging documents detail the obstruction of justice allegations against Wasatch County Sheriff Jared Rigby and former Summit County Sheriff Dave Edmunds.",
+     "link": "https://www.kpcw.org/state-regional/2026-11-05/rigby-sought-to-discredit-wasatch-county-sheriffs-race-opponents-indictment-says",
+     "published": "2026-11-06T03:08:00+00:00"
+    },
+    {
      "source": "Park Record",
      "title": "Basin Recreation to pivot to smaller outdoor amenities after bond measure trails on Election Day",
      "summary": "The Snyderville Basin Special Recreation District will likely pivot to smaller outdoor amenities on its Silver Creek and Jeremy Ranch properties after voters seemingly rejected a $71 million general obligation bond to…",
      "link": "https://www.parkrecord.com/2026/11/05/basin-recreation-to-pivot-to-smaller-outdoor-amenities-after-bond-measure-trails-on-election-day/",
      "published": "2026-11-05T23:29:51+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Wasatch Back school enrollment continues decline; leaders hope to change that",
-     "summary": "Wasatch Back school districts saw another enrollment decline this fall, following a state trend. Some school leaders predict that will change.",
-     "link": "https://www.kpcw.org/education/2026-11-05/wasatch-back-school-enrollment-continues-decline-leaders-hope-to-change-that",
-     "published": "2026-11-05T23:27:16+00:00"
     },
     {
      "source": "TownLift",
@@ -28,18 +28,18 @@
      "published": "2026-11-05T21:53:06+00:00"
     },
     {
+     "source": "KPCW",
+     "title": "Wasatch Back school enrollment continues decline; leaders hope to change that",
+     "summary": "Wasatch Back school districts saw another enrollment decline this fall, following a state trend. Some school leaders predict that will change.",
+     "link": "https://www.kpcw.org/education/2026-11-05/wasatch-back-school-enrollment-continues-decline-leaders-hope-to-change-that",
+     "published": "2026-11-05T23:27:16+00:00"
+    },
+    {
      "source": "Park Record",
      "title": "Heber City police investigate possible animal cruelty case",
      "summary": "The Heber City Police Department is investigating the death of a dog found in the Heber Valley. About two weeks ago, Police Chief Parker Sever said the department received a report of an abandoned dog. An officer was…",
      "link": "https://www.parkrecord.com/2026/11/05/heber-city-police-investigate-possible-animal-cruelty-case/",
      "published": "2026-11-05T23:19:26+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Rigby sought to discredit Wasatch County sheriff's race opponents, indictment says",
-     "summary": "New charging documents detail the obstruction of justice allegations against Wasatch County Sheriff Jared Rigby and former Summit County Sheriff Dave Edmunds.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-05/rigby-sought-to-discredit-wasatch-county-sheriffs-race-opponents-indictment-says",
-     "published": "2026-11-05T23:08:07+00:00"
     },
     {
      "source": "TownLift",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "What’s happening with mortgage rates after the election?",
+     "title": "A perfume shop on wheels is betting on the in-person shopping trip",
      "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/11/05/mortgage-rates-down-after-democrats-midterm-wins-but-will-trend-continue/",
-     "published": "2026-11-05T23:43:02+00:00"
+     "link": "https://www.deseret.com/utah/2026/11/05/le-labo-on-wheels-brings-in-person-perfume-shopping-to-utah/",
+     "published": "2026-11-06T03:01:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of making threats",
+     "summary": "Dolly Parton 's longtime manager moved Thursday to drop a complaint that accused the late singer's nephew who acted as her head of security with threatening her estate and its employees.",
+     "link": "https://www.ksl.com/article/51644110/dolly-partons-manager-moves-to-drop-complaint-accusing-late-singers-nephew-of-making-threats",
+     "published": "2026-11-05T22:50:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,25 +105,18 @@
      "published": "2026-11-05T17:30:46+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Wisconsin infant is third measles-related death this week in US",
-     "summary": "An infant in Wisconsin has died in connection with a large, ongoing measles outbreak, the state health department said Thursday. The death marks the first measles-related death in Wisconsin in more than 35 years and the…",
-     "link": "https://www.ksl.com/article/51644051/wisconsin-infant-is-third-measles-related-death-this-week-in-us",
-     "published": "2026-11-05T17:25:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "Gavin Newsom commutes sentences for more than 500 California inmates on death row",
+     "title": "2 celebrities on ‘Who Wants to Be a Millionaire’ got stumped on the $500,000 question. Then they called Ken Jennings",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/05/california-governor-gavin-newsom-commutes-sentences-for-more-than-five-hundred-inmates-on-death-row-before-leaving-office/",
-     "published": "2026-11-05T22:11:33+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/05/who-wants-to-be-a-millionaire-ken-jennings-lifeline-colin-jost-michael-che/",
+     "published": "2026-11-06T02:48:59+00:00"
     },
     {
      "source": "KSL",
-     "title": "From Tonga to Utah's Capitol: Doug Fiefia celebrates historic Senate election",
-     "summary": "Doug Fiefia is poised to become Utah's first Tongan-American state senator. He reflects on his family's journey from Tonga and what the historic milestone means for the next generation.",
-     "link": "https://www.ksl.com/article/51644038/from-tonga-to-utahs-capitol-doug-fiefia-celebrates-historic-senate-election",
-     "published": "2026-11-05T17:03:31+00:00"
+     "title": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
+     "summary": "Little-known Los Angeles City Council member Nithya Raman has defeated embattled Los Angeles Mayor Karen Bass to lead the nation's second most populous city.",
+     "link": "https://www.ksl.com/article/51644046/democratic-socialist-nithya-raman-ousts-embattled-los-angeles-mayor-karen-bass",
+     "published": "2026-11-05T22:20:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -127,17 +127,17 @@
     },
     {
      "source": "Deseret News",
-     "title": "Justice Samuel Alito says he won’t retire from the Supreme Court despite midterm election outcome",
+     "title": "What’s happening with mortgage rates after the election?",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/05/supreme-court-justice-samuel-alito-will-not-be-retiring-immediately-despite-election-outcome/",
-     "published": "2026-11-05T21:58:51+00:00"
+     "link": "https://www.deseret.com/u-s-world/2026/11/05/mortgage-rates-down-after-democrats-midterm-wins-but-will-trend-continue/",
+     "published": "2026-11-05T23:43:02+00:00"
     },
     {
      "source": "KSL",
-     "title": "Game-day entertaining tips to make you an MVP host",
-     "summary": "Your turn to throw the weekend football watch party? Give your guests luxury-suite treatment with these simple hosting tips.",
-     "link": "https://bit.ly/3WfKd68",
-     "published": "2026-11-05T16:57:00+00:00"
+     "title": "Debt collection lawsuits surging in Utah",
+     "summary": "More than 76,000 debt collection lawsuits were filed in Utah in 2025, up 23% from 2019. Rising living costs, debt and depleted savings may be pushing more households to the breaking point.",
+     "link": "https://www.ksl.com/article/51643971/debt-collection-lawsuits-surging-in-utah",
+     "published": "2026-11-05T21:59:32+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -148,10 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "Whitney Leavitt’s life beyond ‘Secret Lives’ is coming to Hulu",
+     "title": "Gavin Newsom commutes sentences for more than 500 California inmates on death row",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/05/whitney-leavitt-gets-her-own-hulu-show/",
-     "published": "2026-11-05T20:17:50+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/05/california-governor-gavin-newsom-commutes-sentences-for-more-than-five-hundred-inmates-on-death-row-before-leaving-office/",
+     "published": "2026-11-05T22:11:33+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
-     "summary": "Raman's win comes after resounding victories for Democrats across the country on Election Day.",
-     "link": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
-     "published": "2026-11-06T00:03:01+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "A look at the midterm races that remain undecided",
-     "summary": "As Democrats prepare to take control of Congress and Republicans grapple with stunning losses, every remaining race matters. Some races are still too close to call, including Senate battles in both Alaska and…",
-     "link": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
-     "published": "2026-11-05T23:55:48+00:00"
+     "title": "Judge blocks construction on Trump's 250-foot arch for now",
+     "summary": "The National Capital Planning Commission voted Thursday to approve plans for President Trump's 250-foot triumphal arch. A judge quickly blocked any construction from starting.",
+     "link": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
+     "published": "2026-11-06T05:50:25+00:00"
     },
     {
      "source": "NPR",
-     "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-     "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-     "published": "2026-11-05T23:52:48+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Did GOP efforts to redistrict the House turn into a dummymander?",
-     "summary": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
-     "link": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
-     "published": "2026-11-05T23:56:15+00:00"
+     "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+     "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+     "published": "2026-11-06T05:05:43+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: Head of Justice Department's civil rights division resigns",
-     "summary": "In our news wrap Thursday, Harmeet Dhillon is stepping down as head of the Justice Department's civil rights division, Melania Trump hosted Russian and Ukrainian officials to mark a localized ceasefire and European…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-head-of-justice-departments-civil-rights-division-resigns",
-     "published": "2026-11-05T23:50:08+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
-     "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
-     "published": "2026-11-05T23:34:36+00:00"
+     "title": "Alabama executes man for 1991 killings in last of 3 U.S. executions carried out the same day",
+     "summary": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
+     "link": "https://www.pbs.org/newshour/nation/alabama-executes-man-for-1991-killings-in-last-of-3-u-s-executions-carried-out-the-same-day",
+     "published": "2026-11-06T00:49:28+00:00"
     },
     {
      "source": "CBS News",
-     "title": "DeSantis calls midterms close to \"extinction-level\" for GOP, says corruption focus worked",
-     "summary": "Former Republican congressman from Louisiana Garret Graves and Communications Director for the Democratic House majority PAC CJ Warnke join \"The Takeout.\"",
-     "link": "https://www.cbsnews.com/video/desantis-calls-midterms-close-to-extinction-level-for-gop-says-corruption-focus-worked/",
-     "published": "2026-11-05T23:49:41+00:00"
+     "title": "Democrats flip more seats in Congress as GOP grapples with stunning losses",
+     "summary": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
+     "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+     "published": "2026-11-06T05:39:44+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
-     "summary": "As Trump ponders his next move, the stakes couldn't be higher for Iran, the Middle East and the global economy writ large.",
-     "link": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
-     "published": "2026-11-05T23:46:36+00:00"
+     "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
+     "summary": "\"Habibi\" literally translates to \"my beloved\" and is peppered through Arab pop songs. In everyday speech, it often means \"buddy,\" \"pal,\" or \"bro.\" El-Sayed's supporters have sported shirts reading \"Habibi for Abdul.\"",
+     "link": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech",
+     "published": "2026-11-06T00:42:09+00:00"
     },
     {
      "source": "NPR",
-     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-     "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-     "published": "2026-11-05T18:30:16+00:00"
+     "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+     "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+     "published": "2026-11-06T00:16:53+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Dolly Parton's estate moves to dismiss lawsuit against nephew",
-     "summary": "The details of the resolution between Dolly Parton's estate and her nephew, Bryan Seaver, were not immediately known.",
-     "link": "https://www.cbsnews.com/news/dolly-parton-estate-lawsuit-dismissed-nephew-bryan-seaver/",
-     "published": "2026-11-05T23:46:43+00:00"
+     "title": "Trump signs proclamation declaring Oval Office a national monument",
+     "summary": "The action does not prevent future presidents from restyling the iconic office that President Trump has filled to the brim with gold flourishes, nor does it prevent a successor from rolling back the proclamation itself.",
+     "link": "https://www.cbsnews.com/news/trump-proclamation-oval-office-national-monument/",
+     "published": "2026-11-06T04:41:55+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
+     "summary": "President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially…",
+     "link": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
+     "published": "2026-11-06T00:17:51+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "These are the races in the House and Senate that haven't been called yet",
+     "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
+     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+     "published": "2026-11-06T00:03:45+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "FEMA backlog causes delays in California infrastructure projects",
+     "summary": "FEMA is behind on approving major projects to protect Southern California from floods, earthquakes, fires and landslides.",
+     "link": "https://www.cbsnews.com/losangeles/news/fema-backlog-causing-delays-in-southern-california-infrastructure-projects/",
+     "published": "2026-11-06T03:32:40+00:00"
     }
    ]
   }
