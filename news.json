@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:14:49.953544+00:00",
+ "updated": "2026-11-07T21:58:57.004240+00:00",
  "sections": [
   {
    "key": "local",
@@ -8,10 +8,10 @@
    "items": [
     {
      "source": "TownLift",
-     "title": "Alpine Distilling expands operations into historic Evanston roundhouse",
-     "summary": "EVANSTON, Wyo. — 10 years after opening in Park City, Alpine Distilling is expanding its footprint in the Mountain West with the launch of bulk production and manufacturing operations inside",
-     "link": "https://townlift.com/2026/11/alpine-distilling-expands-operations-into-historic-evanston-roundhouse/",
-     "published": "2026-11-07T18:03:49+00:00"
+     "title": "Summit County weighs $25,000 in emergency funding following food pantry closures",
+     "summary": "Council member Tonja Hanson seeks temporary assistance as local organizations work to restore food services in eastern Summit County",
+     "link": "https://townlift.com/2026/11/summit-county-weighs-25000-in-emergency-funding-following-food-pantry-closures/",
+     "published": "2026-11-07T19:13:30+00:00"
     },
     {
      "source": "Park Record",
@@ -29,10 +29,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Centenarian Ed Barfield",
-     "summary": "Ed Barfield loves skiing and golfing, although at the age of 99, he says he no longer skis. Ed turns 100 years old this December. That love of the outdoors",
-     "link": "https://townlift.com/2026/11/centenarian-ed-barfield/",
-     "published": "2026-11-07T17:03:25+00:00"
+     "title": "Alpine Distilling expands operations into historic Evanston roundhouse",
+     "summary": "EVANSTON, Wyo. — 10 years after opening in Park City, Alpine Distilling is expanding its footprint in the Mountain West with the launch of bulk production and manufacturing operations inside",
+     "link": "https://townlift.com/2026/11/alpine-distilling-expands-operations-into-historic-evanston-roundhouse/",
+     "published": "2026-11-07T18:03:49+00:00"
     },
     {
      "source": "Park Record",
@@ -49,6 +49,13 @@
      "published": "2026-11-06T23:10:16+00:00"
     },
     {
+     "source": "TownLift",
+     "title": "Centenarian Ed Barfield",
+     "summary": "Ed Barfield loves skiing and golfing, although at the age of 99, he says he no longer skis. Ed turns 100 years old this December. That love of the outdoors",
+     "link": "https://townlift.com/2026/11/centenarian-ed-barfield/",
+     "published": "2026-11-07T17:03:25+00:00"
+    },
+    {
      "source": "Park Record",
      "title": "New dermatology clinic opens in Heber City",
      "summary": "Après Dermatology and Cosmetic Center cut the ribbon with the Heber Valley Visitor Center on Nov. 5 for its new Heber City office. The post New dermatology clinic opens in Heber City appeared first on Park Record .",
@@ -61,13 +68,6 @@
      "summary": "Police advise renters verify listings and speak with property owners directly.",
      "link": "https://www.kpcw.org/summit-county/2026-11-06/kamas-police-warn-renters-about-online-security-deposit-scam",
      "published": "2026-11-06T22:54:38+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "O’Shucks space in Pinebrook to become new community restaurant and gathering place",
-     "summary": "PARK CITY, Utah — The O’Shucks location in Pinebrook is set to become a new community gathering place called Hounds and Handles, according to an announcement from the incoming business.",
-     "link": "https://townlift.com/2026/11/oshucks-space-in-pinebrook-to-become-new-community-restaurant-and-gathering-place/",
-     "published": "2026-11-06T21:02:37+00:00"
     },
     {
      "source": "Park Record",
@@ -84,6 +84,27 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "34-year-old man shot and killed in Salt Lake City’s Granary District",
+     "summary": "Police are searching for the suspected shooter, who took off in a vehicle after the shooting, headed southbound.",
+     "link": "https://www.sltrib.com/news/2026/11/07/salt-lake-city-shooting-granary/",
+     "published": "2026-11-07T20:15:41+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Opinion: Can AI become Utah’s next economic engine?",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/07/ai-impact-on-utah-economy-and-workforce/",
+     "published": "2026-11-07T20:00:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
+     "summary": "Melania Trump has announced a partnership with Louisiana State University to provide scholarships for students who were once in foster care.",
+     "link": "https://www.ksl.com/article/51644392/melania-trump-and-lsu-are-set-to-announce-a-scholarship-program-for-students-who-were-in-foster-care",
+     "published": "2026-11-07T14:46:13+00:00"
+    },
+    {
      "source": "Deseret News",
      "title": "Opinion: The newly elected promise to govern for all. Now prove it",
      "summary": "",
@@ -99,10 +120,10 @@
     },
     {
      "source": "KSL",
-     "title": "The GOP's grip on Arizona is slipping. The East Valley shows how far",
-     "summary": "The political pendulum swung hard. Is the shift here to stay?",
-     "link": "https://www.deseret.com/politics/2026/11/07/arizona-voters-swing-toward-democrats-in-east-valley-where-andy-biggs-and-mark-lamb-lost/",
-     "published": "2026-11-07T11:06:39+00:00"
+     "title": "World's 50 best restaurants for 2026 revealed",
+     "summary": "The best restaurant in the world this year is Asador Etxebarri, an eatery in Atxondo, Spain, that's nestled in the Basque region and which has become a revered destination restaurant known for a revelatory grilling…",
+     "link": "https://www.ksl.com/article/51643884/worlds-50-best-restaurants-for-2026-revealed",
+     "published": "2026-11-07T14:31:26+00:00"
     },
     {
      "source": "Deseret News",
@@ -112,6 +133,13 @@
      "published": "2026-11-07T16:00:00+00:00"
     },
     {
+     "source": "KSL",
+     "title": "Utah nonprofit offering affordable ski classes to Iron County students this winter",
+     "summary": "Many students in Iron County will now be able to ski at Brian Head Resort thanks to Youth Sports Alliance, which is a nonprofit organization providing outdoor sports opportunities at a reduced cost for those who qualify.",
+     "link": "https://www.ksl.com/article/51644190/utah-nonprofit-offering-affordable-ski-classes-to-iron-county-students-this-winter",
+     "published": "2026-11-07T13:54:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Voices: Before we spend Trump’s money to save Great Salt Lake, there are two questions we must ask",
      "summary": "“If the goal is to save Great Salt Lake, the measure of success should not just be how much money we spend, but how much water we get for it,” researcher Kyle Lowe writes in an op-ed.",
@@ -119,39 +147,11 @@
      "published": "2026-11-07T13:05:00+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Melania Trump and LSU are set to announce a scholarship program for students who were in foster care",
-     "summary": "Melania Trump is set to travel to Louisiana to announce a partnership with Louisiana State University to provide scholarships for students who were once in foster care.",
-     "link": "https://www.ksl.com/article/51644392/melania-trump-and-lsu-are-set-to-announce-a-scholarship-program-for-students-who-were-in-foster-care",
-     "published": "2026-11-07T10:41:00+00:00"
-    },
-    {
      "source": "Deseret News",
      "title": "Deseret News archives: Magic Johnson announced he had HIV, then worked to turn a negative into a plus",
      "summary": "",
      "link": "https://www.deseret.com/utah/2024/11/07/deseret-news-archives-magic-johnson-announces-he-has-aids-works-to-turn-negative-into-a-plus/",
      "published": "2026-11-07T14:59:59+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Opinion: The most dangerous way to misread the midterm results",
-     "summary": "",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/07/opinion-most-dangerous-way-misread/",
-     "published": "2026-11-07T13:01:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Fatal crash closes S.R.-172 in Salt Lake City after vehicle fire",
-     "summary": "A driver was killed early Saturday after losing control of a vehicle traveling at a high speed and crashing into a steel traffic control pole in Salt Lake City, police said.",
-     "link": "https://www.ksl.com/article/51644402/fatal-crash-closes-sr-172-in-salt-lake-city-after-vehicle-fire",
-     "published": "2026-11-07T10:25:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Utah suburb eyes ban on chain-link fences to preserve its beauty ‘years, decades, centuries’ down the line",
-     "summary": "If adopted, no new chain-link fences would be allowed in front yards.",
-     "link": "https://www.sltrib.com/news/2026/11/07/west-valley-city-considers-chain/",
-     "published": "2026-11-07T13:00:01+00:00"
     }
    ]
   },
@@ -162,17 +162,59 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Jade Benning's Final Call | Post Mortem",
-     "summary": "\"48 Hours\" correspondents Anne-Marie Green and Natalie Morales discuss the case of Jade Benning, who died after collapsing during a date night with Blaise Taylor. She had told friends and family that she was pregnant…",
-     "link": "https://www.cbsnews.com/video/110726-48-hours-post-mortem-episode-3/",
-     "published": "2026-11-08T00:00:00+00:00"
+     "title": "Mass shooting in Polish market leaves at least 6 dead, 15 injured",
+     "summary": "Krakow police said a man who had driven onto the square began firing at random people from his car.",
+     "link": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
+     "published": "2026-11-07T21:24:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
-     "summary": "The state is still tallying ballots that could make Colom the first Black senator from this Deep South state since post-Civil War Reconstruction.",
-     "link": "https://www.pbs.org/newshour/politics/scott-colom-and-black-mississippians-stand-on-the-cusp-of-senate-history-as-vote-count-stretches-on",
-     "published": "2026-11-07T17:54:01+00:00"
+     "title": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
+     "summary": "Researchers found that the stroke incidence rate among adults from 1993-94 nearly doubled in 2020, jumping from 33.90 cases per 100,000 people to 62.18 cases.",
+     "link": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen",
+     "published": "2026-11-07T21:14:44+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "published": "2026-11-07T20:18:18+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "U.S. expands naval blockade to include task force on disrupting ground transport",
+     "summary": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+     "published": "2026-11-07T21:00:06+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Trump says he's asked UFC's Dana White to be his press secretary",
+     "summary": "Trump's social media post about the offer came as his White House is in a period of major transition and struggling with his party's deep losses in Tuesday's midterm elections.",
+     "link": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
+     "published": "2026-11-07T20:55:40+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+     "summary": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+     "published": "2026-11-07T18:37:36+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Israel's president taps opposition candidate Eisenkot to form a government",
+     "summary": "Gadi Eisenkot, a former military chief, ran against Prime Minister Benjamin Netanyahu, but neither won a clear majority.",
+     "link": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
+     "published": "2026-11-07T20:47:45+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+     "summary": "Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel's main parties recommended Eisenkot be tasked with…",
+     "link": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+     "published": "2026-11-07T20:39:08+00:00"
     },
     {
      "source": "NPR",
@@ -183,52 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Mass shooting in Polish market leaves at least 6 dead, 15 injured",
-     "summary": "Krakow police said a man who had driven onto the square began firing at random people from his car.",
-     "link": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
-     "published": "2026-11-07T17:57:20+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
-     "summary": "An outspoken defender of President Donald Trump's most far-reaching goals to remake government going back to his 2016 run for president, Miller is known for his harsh language and unapologetic bombast.",
-     "link": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
-     "published": "2026-11-07T17:39:49+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "A promising new medicine against heart disease fails unexpectedly",
-     "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-     "published": "2026-11-07T14:50:00+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Pope Leo calls for universal healthcare weeks after lung cancer surgery",
-     "summary": "Pope Leo XIV spoke about access to healthcare on his first stop in Uruguay during his 12-day Latin American tour.",
-     "link": "https://www.cbsnews.com/news/pope-leo-xiv-universal-healthcare-uruguay/",
-     "published": "2026-11-07T17:36:14+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-     "summary": "The gunman, a Polish citizen, aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said.",
-     "link": "https://www.pbs.org/newshour/world/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-     "published": "2026-11-07T17:21:59+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Democrats plan to widen their probes of fatal ICE shootings",
-     "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents…",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-     "published": "2026-11-07T13:19:09+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "\"Face the Nation with Margaret Brennan\" guests for Nov. 8, 2026",
-     "summary": "This week's guests include Democratic Sen. Elizabeth Warren, Republican Rep. French Hill and Democratic Rep.-elect Nancy Lacore.",
-     "link": "https://www.cbsnews.com/news/face-the-nation-guests-11-08-2026/",
-     "published": "2026-11-07T17:36:09+00:00"
+     "title": "More races called as Democratic majority comes into focus",
+     "summary": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than two dozen House races unresolved. Follow live updates.",
+     "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+     "published": "2026-11-07T20:27:36+00:00"
     }
    ]
   }
