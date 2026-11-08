@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:58:57.004240+00:00",
+ "updated": "2026-11-08T01:18:15.821304+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,10 +85,10 @@
    "items": [
     {
      "source": "Salt Lake Tribune",
-     "title": "34-year-old man shot and killed in Salt Lake City’s Granary District",
-     "summary": "Police are searching for the suspected shooter, who took off in a vehicle after the shooting, headed southbound.",
-     "link": "https://www.sltrib.com/news/2026/11/07/salt-lake-city-shooting-granary/",
-     "published": "2026-11-07T20:15:41+00:00"
+     "title": "What’s playing for Christmas? Here’s what Utah’s performing arts venues are doing for the holidays.",
+     "summary": "If your Utah holiday traditions include seeing something in the performing arts, there are plenty of shows happening from now through Christmas to enjoy.",
+     "link": "https://www.sltrib.com/artsliving/2026/11/07/holiday-2026-what-utahs-performing/",
+     "published": "2026-11-07T23:04:34+00:00"
     },
     {
      "source": "Deseret News",
@@ -99,10 +99,17 @@
     },
     {
      "source": "KSL",
-     "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
-     "summary": "Melania Trump has announced a partnership with Louisiana State University to provide scholarships for students who were once in foster care.",
-     "link": "https://www.ksl.com/article/51644392/melania-trump-and-lsu-are-set-to-announce-a-scholarship-program-for-students-who-were-in-foster-care",
-     "published": "2026-11-07T14:46:13+00:00"
+     "title": "Utah veteran's post-traumatic stress reduced after magnetic treatment",
+     "summary": "Retired Brigadier General Paul Peters served in the Army National Guard for 32 years. Even after retiring in 2025, the stresses of serving in the military followed him home, defying therapy and medication.",
+     "link": "https://www.ksl.com/article/51644047/utah-veterans-post-traumatic-stress-reduced-after-magnetic-treatment",
+     "published": "2026-11-07T16:53:44+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "34-year-old man shot and killed in Salt Lake City’s Granary District",
+     "summary": "Police are searching for the suspected shooter, who took off in a vehicle after the shooting, headed southbound.",
+     "link": "https://www.sltrib.com/news/2026/11/07/salt-lake-city-shooting-granary/",
+     "published": "2026-11-07T20:15:41+00:00"
     },
     {
      "source": "Deseret News",
@@ -110,6 +117,13 @@
      "summary": "",
      "link": "https://www.deseret.com/opinion/2026/11/07/disagreeing-better-after-the-midterms/",
      "published": "2026-11-07T17:30:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
+     "summary": "A Polish man who authorities say harbors far-right views drove into a busy central square in Krakow and opened fire, killing six people and injuring 15 others before being shot and wounded.",
+     "link": "https://www.ksl.com/article/news/world/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15/51644397",
+     "published": "2026-11-07T16:38:42+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,10 +134,10 @@
     },
     {
      "source": "KSL",
-     "title": "World's 50 best restaurants for 2026 revealed",
-     "summary": "The best restaurant in the world this year is Asador Etxebarri, an eatery in Atxondo, Spain, that's nestled in the Basque region and which has become a revered destination restaurant known for a revelatory grilling…",
-     "link": "https://www.ksl.com/article/51643884/worlds-50-best-restaurants-for-2026-revealed",
-     "published": "2026-11-07T14:31:26+00:00"
+     "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+     "summary": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.",
+     "link": "https://www.ksl.com/article/51644420/want-to-fly-to-the-moon-nasa-is-looking-for-new-astronauts-to-help-grow-its-artemis-program",
+     "published": "2026-11-07T16:13:28+00:00"
     },
     {
      "source": "Deseret News",
@@ -134,24 +148,10 @@
     },
     {
      "source": "KSL",
-     "title": "Utah nonprofit offering affordable ski classes to Iron County students this winter",
-     "summary": "Many students in Iron County will now be able to ski at Brian Head Resort thanks to Youth Sports Alliance, which is a nonprofit organization providing outdoor sports opportunities at a reduced cost for those who qualify.",
-     "link": "https://www.ksl.com/article/51644190/utah-nonprofit-offering-affordable-ski-classes-to-iron-county-students-this-winter",
-     "published": "2026-11-07T13:54:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Voices: Before we spend Trump’s money to save Great Salt Lake, there are two questions we must ask",
-     "summary": "“If the goal is to save Great Salt Lake, the measure of success should not just be how much money we spend, but how much water we get for it,” researcher Kyle Lowe writes in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/07/voices-this-is-how-we-should-spend/",
-     "published": "2026-11-07T13:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Deseret News archives: Magic Johnson announced he had HIV, then worked to turn a negative into a plus",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2024/11/07/deseret-news-archives-magic-johnson-announces-he-has-aids-works-to-turn-negative-into-a-plus/",
-     "published": "2026-11-07T14:59:59+00:00"
+     "title": "Have You Seen This? A visit to the Crow Depot",
+     "summary": "Avoid this parking lot at all costs. Being surrounded by a murder of crows is nothing but trouble.",
+     "link": "https://www.ksl.com/article/51641391/have-you-seen-this-a-visit-to-the-crow-depot",
+     "published": "2026-11-07T15:30:51+00:00"
     }
    ]
   },
@@ -162,10 +162,38 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Mass shooting in Polish market leaves at least 6 dead, 15 injured",
-     "summary": "Krakow police said a man who had driven onto the square began firing at random people from his car.",
-     "link": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/",
-     "published": "2026-11-07T21:24:00+00:00"
+     "title": "NYPD arrests suspect in stabbing death of Brooklyn jogger",
+     "summary": "A New York City Department of Education employee is facing murder charges in the stabbing death of a 28-year-old woman last week in Brooklyn, authorities announced Saturday.",
+     "link": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
+     "published": "2026-11-08T01:08:18+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+     "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+     "published": "2026-11-08T00:19:52+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
+     "summary": "The festival follows the Hindu lunar calendar, typically falling in late October or early November. This year, Diwali falls on Nov. 8.",
+     "link": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated",
+     "published": "2026-11-07T23:01:43+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Democrats win Senate control — live updates",
+     "summary": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+     "link": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+     "published": "2026-11-08T00:23:18+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "The surprising and often forgotten history of economic populism in Texas",
+     "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+     "published": "2026-11-07T22:12:07+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +203,11 @@
      "published": "2026-11-07T21:14:44+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-     "published": "2026-11-07T20:18:18+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "U.S. expands naval blockade to include task force on disrupting ground transport",
-     "summary": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-     "published": "2026-11-07T21:00:06+00:00"
+     "title": "More races called as Democratic majority comes into focus",
+     "summary": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than 20 House races unresolved. Follow live updates.",
+     "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+     "published": "2026-11-08T00:18:04+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,38 +218,17 @@
     },
     {
      "source": "NPR",
-     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-     "summary": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
-     "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-     "published": "2026-11-07T18:37:36+00:00"
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "published": "2026-11-07T20:18:18+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Israel's president taps opposition candidate Eisenkot to form a government",
-     "summary": "Gadi Eisenkot, a former military chief, ran against Prime Minister Benjamin Netanyahu, but neither won a clear majority.",
-     "link": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
-     "published": "2026-11-07T20:47:45+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-     "summary": "Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel's main parties recommended Eisenkot be tasked with…",
-     "link": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
-     "published": "2026-11-07T20:39:08+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Ousted Paraguayan president appears before prosecutors",
-     "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-     "published": "2026-11-07T17:14:36+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "More races called as Democratic majority comes into focus",
-     "summary": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than two dozen House races unresolved. Follow live updates.",
-     "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-     "published": "2026-11-07T20:27:36+00:00"
+     "title": "2 licensed skydivers die after midair collision in California",
+     "summary": "The two skydivers collided at approximately 150 feet above the ground, Skydive Elsinore said.",
+     "link": "https://www.cbsnews.com/news/licensed-skydivers-die-midair-collision-california/",
+     "published": "2026-11-07T23:39:58+00:00"
     }
    ]
   }
