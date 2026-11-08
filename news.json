@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:29:39.773504+00:00",
+ "updated": "2026-11-08T14:28:31.195884+00:00",
  "sections": [
   {
    "key": "local",
@@ -84,18 +84,18 @@
    "scope": "Utah",
    "items": [
     {
-     "source": "Deseret News",
-     "title": "The search for the best chips and salsa hunt comes to an end",
-     "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/11/07/best-chips-and-salsa-in-utah-del-barrio-cafe/",
-     "published": "2026-11-08T02:30:00+00:00"
+     "source": "Salt Lake Tribune",
+     "title": "Voices: Before you grab that rake, here’s when you should — and shouldn’t — leave the leaves",
+     "summary": "Should you “leave the leaves” this fall? Or rake them up? Gardening educator Katie Wagner offers her advice in an op-ed.",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/08/voices-when-you-should-shouldnt/",
+     "published": "2026-11-08T13:05:00+00:00"
     },
     {
-     "source": "Salt Lake Tribune",
-     "title": "What’s playing for Christmas? Here’s what Utah’s performing arts venues are doing for the holidays.",
-     "summary": "If your Utah holiday traditions include seeing something in the performing arts, there are plenty of shows happening from now through Christmas to enjoy.",
-     "link": "https://www.sltrib.com/artsliving/2026/11/07/holiday-2026-what-utahs-performing/",
-     "published": "2026-11-07T23:04:34+00:00"
+     "source": "Deseret News",
+     "title": "A new poll shows Utah mirrors the nation on attitudes toward deportation",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2026/11/08/faith-and-gender-divides-immigration-issues/",
+     "published": "2026-11-08T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -103,6 +103,20 @@
      "summary": "State charges have been dismissed against an Ogden man who is now charged in U.S. District Court stemming from alleged antisemitic threats he made.",
      "link": "https://www.ksl.com/article/51644324/state-charges-dismissed-against-ogden-man-now-charged-in-federal-court-in-hate-crime-case",
      "published": "2026-11-07T22:34:58+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Letter: Is there any hope that Republican politicians can reform their party from within?",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/08/letter-is-there-any-hope-that/",
+     "published": "2026-11-08T13:02:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "The loudest data center fight in America, as seen from next door",
+     "summary": "",
+     "link": "https://www.deseret.com/magazine/2026/11/08/kevin-oleary-meets-resistance-on-data-center/",
+     "published": "2026-11-08T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -113,17 +127,17 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "34-year-old man shot and killed in Salt Lake City’s Granary District",
-     "summary": "Police are searching for the suspected shooter, who took off in a vehicle after the shooting, headed southbound.",
-     "link": "https://www.sltrib.com/news/2026/11/07/salt-lake-city-shooting-granary/",
-     "published": "2026-11-07T20:15:41+00:00"
+     "title": "Letter: John Curtis joins Mike Lee and Spencer Cox in Utah’s hypocrite hall of fame",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/08/letter-john-curtis-joins-mike-lee/",
+     "published": "2026-11-08T13:01:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: Can AI become Utah’s next economic engine?",
+     "title": "Opinion: What we owe children when they lose",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/07/ai-impact-on-utah-economy-and-workforce/",
-     "published": "2026-11-07T20:00:00+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/08/what-children-learn-when-they-lose/",
+     "published": "2026-11-08T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -134,24 +148,10 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Review: Saxophonist Nathanial Young transforms Salt Lake City hotel lobby into ‘spontaneous’ concert hall",
-     "summary": "Hundreds of inspired Utahns packed into the building to listen to Nathanial Young's “captivating” show.",
-     "link": "https://www.sltrib.com/artsliving/2026/11/07/saxaophonist-nathanial-young-stuns/",
-     "published": "2026-11-07T17:05:52+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "US says it fired on commercial vessel in Gulf of Oman that attempted to breach blockade",
-     "summary": "U.S. Central Command says it has disabled a St. Kitts-flagged ship after it ignored warnings and tried to leave the region following a visit to an Iranian port.",
-     "link": "https://www.ksl.com/article/51644456/us-says-it-fired-on-commercial-vessel-in-gulf-of-oman-that-attempted-to-breach-blockade",
-     "published": "2026-11-07T21:03:43+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Voices: Before we spend Trump’s money to save Great Salt Lake, there are two questions we must ask",
-     "summary": "“If the goal is to save Great Salt Lake, the measure of success should not just be how much money we spend, but how much water we get for it,” researcher Kyle Lowe writes in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/07/voices-this-is-how-we-should-spend/",
-     "published": "2026-11-07T13:05:00+00:00"
+     "title": "Opinion: Watching ‘NAZA’ amid the Gazan rubble",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/08/opinion-watching-naza-amid-gazan/",
+     "published": "2026-11-08T13:01:00+00:00"
     }
    ]
   },
@@ -162,17 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "NYC schools employee faces murder charge in Brooklyn jogger's killing",
-     "summary": "A New York City Department of Education employee is facing a murder charge in the stabbing death of a 28-year-old woman last week in Brooklyn, authorities announced Saturday.",
-     "link": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
-     "published": "2026-11-08T04:53:38+00:00"
+     "title": "Leading Dem on midterms aftermath: \"We're still in the fight of our lives\"",
+     "summary": "The midterms marked one of the biggest rebukes of the Republican Party since Watergate. What is the fallout from this year's elections, and how are Democrats going to address a lame-duck President Trump?",
+     "link": "https://www.cbsnews.com/news/leading-dem-on-midterms-aftermath-were-still-in-the-fight-of-our-lives/",
+     "published": "2026-11-08T14:24:06+00:00"
     },
     {
      "source": "NPR",
-     "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-     "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-     "published": "2026-11-08T00:19:52+00:00"
+     "title": "In Maine, a new approach to practicing medicine in the sky",
+     "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+     "published": "2026-11-08T11:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -183,17 +183,17 @@
     },
     {
      "source": "CBS News",
-     "title": "1 dead, at least a dozen hurt after car strikes cyclists in North Carolina",
-     "summary": "One person was killed and at least a dozen others injured when a driver suspected of being impaired struck a group of more than 40 cyclists in North Carolina, authorities said.",
-     "link": "https://www.cbsnews.com/news/driver-crashes-into-cyclists-north-carolina/",
-     "published": "2026-11-08T03:14:48+00:00"
+     "title": "Leading Dem on midterms aftermath: \"We're still in the fight of our lives\"",
+     "summary": "Last Tuesday's midterm elections marked one of the biggest rebukes of the Republican Party since Watergate, with Democrats winning control of both houses of Congress. \"Sunday Morning\" national correspondent Robert Costa…",
+     "link": "https://www.cbsnews.com/video/leading-dem-on-midterms-aftermath-were-still-in-the-fight-of-our-lives/",
+     "published": "2026-11-08T14:23:07+00:00"
     },
     {
      "source": "NPR",
-     "title": "The surprising and often forgotten history of economic populism in Texas",
-     "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-     "published": "2026-11-07T22:12:07+00:00"
+     "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+     "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+     "published": "2026-11-08T11:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -207,7 +207,14 @@
      "title": "This week on \"Sunday Morning\" (Nov. 8)",
      "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
-     "published": "2026-11-08T03:06:00+00:00"
+     "published": "2026-11-08T14:19:55+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+     "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+     "published": "2026-11-08T11:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-07T20:55:40+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-     "summary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
-     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-     "published": "2026-11-07T20:18:18+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "U.S. expands naval blockade to include task force on disrupting ground transport",
-     "summary": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-     "published": "2026-11-08T02:29:42+00:00"
+     "title": "Almanac: November 8",
+     "summary": "\"Sunday Morning\" looks back at historical events on this date.",
+     "link": "https://www.cbsnews.com/video/almanac-november-8-2026/",
+     "published": "2026-11-08T14:18:07+00:00"
     }
    ]
   }
@@ -268,7 +268,7 @@
    "source": "Deseret News",
    "url": "https://www.deseret.com/arc/outboundfeeds/rss/?outputType=xml",
    "ok": true,
-   "stories": 2
+   "stories": 4
   },
   {
    "source": "NPR",
