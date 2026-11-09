@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:04:25.311167+00:00",
+ "updated": "2026-11-09T09:39:22.534752+00:00",
  "sections": [
   {
    "key": "local",
@@ -91,18 +91,18 @@
      "published": "2026-11-09T01:00:00+00:00"
     },
     {
+     "source": "KSL",
+     "title": "How 2 teenagers turned a haircut into a business",
+     "summary": "Duality Style Lounge opened Aug. 22, shortly before both owners turned 19. It brings barbering and vintage clothing together while creating a space for other young entrepreneurs to connect.",
+     "link": "https://www.ksl.com/article/51644599/how-2-teenagers-turned-a-haircut-into-a-business",
+     "published": "2026-11-08T22:28:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Kearns neighborhood asks for public’s help after terrifying crash caught on camera",
      "summary": "",
      "link": "https://www.sltrib.com/news/2026/11/08/kearns-neighborhood-asks-publics/",
      "published": "2026-11-08T20:04:32+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Which movie most accurately depicts our AI-disrupted future? This US poll may surprise you",
-     "summary": "Science fiction author Isaac Asimov's three laws of robotics are at the center of a book of short stories, \"I, Robot.\" The book is based on a series of interviews with a fictional researcher that, in the stories, helped…",
-     "link": "https://www.ksl.com/article/news/entertainment/which-movie-most-accurately-depicts-our-ai-disrupted-future-this-us-poll-may-surprise-you/51644162",
-     "published": "2026-11-08T15:37:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -113,10 +113,10 @@
     },
     {
      "source": "KSL",
-     "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
-     "summary": "Authorities say two trains collided south of Cairo, killing seven people and injuring at least 125 others. The crash happened Sunday in al-Ayyat district, in Giza province.",
-     "link": "https://www.ksl.com/article/51644531/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100",
-     "published": "2026-11-08T15:35:01+00:00"
+     "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+     "summary": "Nvidia is opening an investigation into reports that CEO Jensen Huang was the \"target of a foreign intelligence effort,\" the company's board of directors said Sunday.",
+     "link": "https://www.ksl.com/article/51644576/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence",
+     "published": "2026-11-08T22:02:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -134,10 +134,10 @@
     },
     {
      "source": "KSL",
-     "title": "First-generation farmer in Parowan encourages other women to start farming",
-     "summary": "Dayla Ulrich owns Sweet Pea Farm and Orchard in Parowan and has been serving her community a farm-to-table breakfast for the past eight years.",
-     "link": "https://www.ksl.com/article/51643794/first-generation-farmer-in-parowan-encourages-other-women-to-start-farming",
-     "published": "2026-11-08T14:34:00+00:00"
+     "title": "The vanity economy is taking over America's downtowns",
+     "summary": "QQ Nails opened its first salon in New York City twenty years ago. By 2020, QQ had grown to roughly 20 locations.",
+     "link": "https://www.ksl.com/article/51644513/the-vanity-economy-is-taking-over-americas-downtowns",
+     "published": "2026-11-08T21:04:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -162,17 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
-     "summary": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
-     "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
-     "published": "2026-11-09T01:37:08+00:00"
+     "title": "Gunman who carried out Poland mass shooting has died, police say",
+     "summary": "The attack, which Poland's defense minister described as an \"act of terror,\" left six people dead aside from the gunman and 15 wounded.",
+     "link": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+     "published": "2026-11-09T08:58:06+00:00"
     },
     {
      "source": "NPR",
-     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-     "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-     "published": "2026-11-09T00:17:43+00:00"
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "summary": "A bank's collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties.",
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "published": "2026-11-09T06:20:44+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -183,17 +183,17 @@
     },
     {
      "source": "CBS News",
-     "title": "How NASA is working to grow food on the moon",
-     "summary": "NASA plans to build a permanent lunar base in the 2030s, and keeping astronauts fed could be simpler if they could grow their own food. Mark Strassmann takes a look at how they're researching lunar potato growth.",
-     "link": "https://www.cbsnews.com/video/how-nasa-working-grow-food-moon/",
-     "published": "2026-11-09T01:13:07+00:00"
+     "title": "Trump says there is \"no reason\" to escalate war with Iran",
+     "summary": "President Trump told 60 Minutes the war with Iran was a \"good decision\" long-term, despite short-term impact.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+     "published": "2026-11-09T08:42:26+00:00"
     },
     {
      "source": "NPR",
-     "title": "NASA is looking for astronauts to live and work on the Moon",
-     "summary": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-     "published": "2026-11-08T23:36:47+00:00"
+     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+     "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+     "published": "2026-11-09T00:17:43+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -204,10 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Pro-Israel and pro-Palestinian protesters clash in streets of Philadelphia",
-     "summary": "Pro-Israel and pro-Palestinian protesters clashed over a bike boycott against six Jewish-owned businesses. Three people were arrested. Jared Ochacher has more details.",
-     "link": "https://www.cbsnews.com/video/pro-israel-pro-palestinian-protesters-clash-streets-philadelphia/",
-     "published": "2026-11-09T00:53:33+00:00"
+     "title": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
+     "summary": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
+     "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+     "published": "2026-11-09T08:41:51+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "NASA is looking for astronauts to live and work on the Moon",
+     "summary": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+     "published": "2026-11-08T23:36:47+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-08T21:15:34+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-     "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-     "published": "2026-11-08T19:25:30+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Pope Leo on 3-country tour, weeks after lung cancer surgery",
-     "summary": "Pope Leo is in Argentina after wrapping up his visit to Uruguay. The 71-year-old pope arrived in Buenos Aires, where he was greeted at the airport by President Javier Milei and a military band. Chris Livesay is…",
-     "link": "https://www.cbsnews.com/video/pope-leo-3-country-tour-weeks-after-lung-cancer-surgery/",
-     "published": "2026-11-09T00:51:33+00:00"
+     "title": "Iran downplays new U.S. task force aimed at disrupting land routes",
+     "summary": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+     "published": "2026-11-09T03:35:00+00:00"
     }
    ]
   }
