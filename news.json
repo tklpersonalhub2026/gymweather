@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:47:16.725551+00:00",
+ "updated": "2026-11-10T10:29:52.890585+00:00",
  "sections": [
   {
    "key": "local",
@@ -91,18 +91,18 @@
      "published": "2026-11-09T23:42:10+00:00"
     },
     {
+     "source": "KSL",
+     "title": "A 'huge mistake': MIDA should not decide new data centers, House speaker says",
+     "summary": "Utah House Speaker Mike Schultz agrees that the general public had \"fair concerns\" regarding the Stratos Project.",
+     "link": "https://www.ksl.com/article/51644832/a-huge-mistake-mida-should-not-decide-new-data-centers-house-speaker-says",
+     "published": "2026-11-09T22:27:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "A new Supreme Court justice signed the petition to repeal Prop 4. Now the plaintiffs want him off their case",
      "summary": "Lawyers in Utah's long-running gerrymandering case want Justice Michael Menssen to be disqualified from a dispute over the Legislature's creation of three-judge panels to hear challenges to state law. They argue the…",
      "link": "https://www.sltrib.com/news/politics/2026/11/09/prop-4-fight-continues-its/",
      "published": "2026-11-09T21:22:33+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Officer killed, 3 officers and bystander wounded in Denver-area bus shootout",
-     "summary": "Police in a Denver suburb on Friday mourned an officer killed in a shootout on a city bus that also killed a gunman, wounded three other officers and injured a bystander.",
-     "link": "https://www.ksl.com/article/51644782/officer-killed-3-officers-and-bystander-wounded-in-denver-area-bus-shootout",
-     "published": "2026-11-09T17:47:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -112,18 +112,18 @@
      "published": "2026-11-09T23:31:52+00:00"
     },
     {
+     "source": "KSL",
+     "title": "License plate reader misuse uncovered by KSL raises questions about oversight in Utah",
+     "summary": "The KSL Investigators surveyed more than 30 Utah law enforcement agencies and found significant differences in how departments audit and oversee license plate reader systems.",
+     "link": "https://www.ksl.com/article/51644872/license-plate-reader-misuse-uncovered-by-ksl-raises-questions-about-oversight-in-utah",
+     "published": "2026-11-09T21:55:19+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "When will the Charlie Kirk murder trial begin? A Utah judge has set the date.",
      "summary": "Tyler Robinson will stand trial in June 2028 in the killing of Charlie Kirk, a Utah judge announced Monday. The judge reserved 105 court days — about five months — for the death penalty trial.",
      "link": "https://www.sltrib.com/news/2026/11/09/judge-sets-june-2028-trial-man/",
      "published": "2026-11-09T20:57:22+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "5 states in Colorado River Basin elect new governors. Will it impact negotiations?",
-     "summary": "Gov. Cox was the only river basin governor not on the ballot this year. California, Colorado, Nevada, New Mexico and Wyoming all elected new governors, while Arizona Gov. Katie Hobbs won her reelection.",
-     "link": "https://www.ksl.com/article/51644788/5-states-in-colorado-river-basin-elect-new-governors-will-it-impact-negotiations",
-     "published": "2026-11-09T17:22:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -133,18 +133,18 @@
      "published": "2026-11-09T22:55:06+00:00"
     },
     {
+     "source": "KSL",
+     "title": "Judge's ruling could clear the way for Lindsay Clancy to be tried again in the deaths of her 3 kids",
+     "summary": "A judge on Monday denied a motion to dismiss the murder case against Lindsay Clancy, potentially clearing the way for her to be retried next year in the deaths of her three children.",
+     "link": "https://www.ksl.com/article/51644798/judges-ruling-could-clear-the-way-for-lindsay-clancy-to-be-tried-again-in-the-deaths-of-her-3-kids",
+     "published": "2026-11-09T21:31:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Gov. Cox: Ignoring voters on redistricting led to GOP’s big Utah Legislature loss",
      "summary": "Reflecting on the end of the GOP supermajority in the Utah Legislature, Gov. Spencer Cox says Washington isn't to blame. Instead, he pointed to times voters pushed back on lawmakers and “that public feedback was…",
      "link": "https://www.sltrib.com/news/politics/2026/11/09/utah-elections-cox-points-gop/",
      "published": "2026-11-09T20:01:36+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Run, fly, repeat: A Utah woman prepares for 7 marathons in 7 days on 7 continents",
-     "summary": "Utah mom and distance runner Melissa Walker is running The Great World Race, which entails seven marathons in seven days on seven continents.",
-     "link": "https://www.ksl.com/article/news/utah/run-fly-repeat-a-utah-woman-prepares-for-7-marathons-in-7-days-on-7-continents/51643119",
-     "published": "2026-11-09T17:01:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Trump defends Hegseth as Massie moves for impeachment",
-     "summary": "GOP Rep. Thomas Massie on Monday introduced new articles of impeachment against Defense Secretary Pete Hegseth. CBS News' Taurean Small and Olivia Rinaldi have more on that and all the top news from Washington.",
-     "link": "https://www.cbsnews.com/video/trump-defends-hegseth-as-massie-moves-for-impeachment/",
-     "published": "2026-11-10T02:36:00+00:00"
+     "title": "U.S. becoming first nation to refuse U.N. Human Rights Council review",
+     "summary": "\"This irredeemable body makes a mockery of human rights through consistent failures to uphold its own 'values' as it pushes anti-American rhetoric,\" a State Department spokesperson said.",
+     "link": "https://www.cbsnews.com/news/us-first-nation-refuse-un-human-rights-council-review/",
+     "published": "2026-11-10T10:22:57+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+     "summary": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican.",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+     "published": "2026-11-10T10:01:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -176,17 +183,17 @@
     },
     {
      "source": "NPR",
-     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-     "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of…",
-     "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-     "published": "2026-11-09T22:30:49+00:00"
+     "title": "Is honesty always the best policy? When to speak up — or stay silent",
+     "summary": "Should you tell your boss she's got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+     "published": "2026-11-10T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Rep.-elect Scott Wiener says Trump is \"not connected to reality\" on Iran, economy, immigration",
-     "summary": "President Trump held a surprise press briefing at the White House on Monday featuring UFC CEO Dana White. Democratic Representative-elect Scott Wiener of California joins CBS News with reaction.",
-     "link": "https://www.cbsnews.com/video/rep-elect-scott-wiener-says-trump-not-connected-reality-iran-immigration/",
-     "published": "2026-11-10T02:23:43+00:00"
+     "title": "Russell Brand sentenced to over 10 years for rape and sex assault",
+     "summary": "Disgraced British television personality and Hollywood actor Russell Brand has been sentenced to prison for raping a woman in 2009 and sexually assaulting three others.",
+     "link": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
+     "published": "2026-11-10T09:58:11+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,17 +204,17 @@
     },
     {
      "source": "NPR",
-     "title": "Supreme Court says border wall construction can continue in west Texas",
-     "summary": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
-     "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-     "published": "2026-11-09T21:47:39+00:00"
+     "title": "How word of mouth is helping an Amish community's fight against measles",
+     "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+     "published": "2026-11-10T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Mike Johnson on midterm results: \"The people have spoken\"",
-     "summary": "Republican House Speaker Mike Johnson told reporters Monday that \"there's not much more that any of us could've done\" after massive GOP losses to Democrats in last week's midterm elections.",
-     "link": "https://www.cbsnews.com/video/mike-johnson-on-midterm-results-the-people-have-spoken/",
-     "published": "2026-11-10T02:17:14+00:00"
+     "title": "France says Iran behind costly grocery store refrigeration hacks",
+     "summary": "The Paris prosecutor's office says investigators have determined that a cyberattack on grocery store chains was \"carried out to serve a foreign power — in this case, Iran.\"",
+     "link": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
+     "published": "2026-11-10T09:39:20+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -218,17 +225,10 @@
     },
     {
      "source": "NPR",
-     "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-     "summary": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
-     "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-     "published": "2026-11-09T20:52:24+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "U.S. measles cases more than doubled in 2026, compared with all of 2025",
-     "summary": "More than twice as many U.S. measles cases were counted this year as there were in all of 2025. This week, experts for the Pan American Health Organization will rule on the country's elimination status. CBS News medical…",
-     "link": "https://www.cbsnews.com/video/us-measles-cases-more-doubled-2026-compared-2025-tracker-finds/",
-     "published": "2026-11-10T02:14:00+00:00"
+     "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+     "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+     "published": "2026-11-10T10:00:00+00:00"
     }
    ]
   }
