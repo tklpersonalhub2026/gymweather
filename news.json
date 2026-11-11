@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:43:15.396767+00:00",
+ "updated": "2026-11-11T18:08:08.030584+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,11 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "TownLift",
+     "title": "Floods bring rare relief to US Southwest reservoirs as Lake Powell rises more than 20 feet",
+     "summary": "PHOENIX (AP) — Recent flooding across the U.S. Southwest is providing rare relief to thirsty reservoirs that had fallen to record lows amid a yearslong megadrought. Storms in late October",
+     "link": "https://townlift.com/2026/11/floods-bring-rare-relief-to-us-southwest-reservoirs-as-lake-powell-rises-more-than-20-feet/",
+     "published": "2026-11-11T17:30:47+00:00"
+    },
+    {
      "source": "Park Record",
-     "title": "Former Wasatch County Sheriff’s Office employee sentenced to prison for sex crimes",
-     "summary": "Former Wasatch County Sheriff’s Office employee Mitchell McKee, 61, was sentenced to up to five years in state prison on Tuesday after he pleaded guilty to unlawful sexual activity with a minor, a third-degree felony.…",
-     "link": "https://www.parkrecord.com/2026/11/10/former-wasatch-county-sheriffs-office-employee-sentenced-to-prison-for-sex-crimes/",
-     "published": "2026-11-11T01:03:53+00:00"
+     "title": "Ridgelines: What I learned from George",
+     "summary": "\"This winter, I want to savor every run, strike up more chairlift conversations, and invite others to share the joy skiing has given me.\" The post Ridgelines: What I learned from George appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/11/ridgelines-what-i-learned-from-george/",
+     "published": "2026-11-11T15:30:00+00:00"
     },
     {
      "source": "KPCW",
@@ -22,17 +29,17 @@
     },
     {
      "source": "TownLift",
-     "title": "Vail revives plans for development of Park City Mountains base lots",
-     "summary": "East West Partners will lead a new planning process for the resort’s Mountain Village parking lots, reopening questions about development rights, parking, housing and the future of the base area.",
-     "link": "https://townlift.com/2026/11/vail-revives-plans-for-development-of-park-city-mountains-base-lots-nearly-four-years-after-peg-withdrew/",
-     "published": "2026-11-10T22:04:22+00:00"
+     "title": "Snowbasin adds new base-area pavilion, expands season pass benefits",
+     "summary": "The resort is targeting Nov. 27 for opening day, conditions permitting.",
+     "link": "https://townlift.com/2026/11/snowbasin-adds-new-base-area-pavilion-expands-season-pass-benefits/",
+     "published": "2026-11-11T17:02:16+00:00"
     },
     {
      "source": "Park Record",
-     "title": "Obituary: Randy Volheim",
-     "summary": "Remembering Randy. My friend and longtime Park City resident Randy passed away at his home in San Diego, California, on October 24. The cause of death has not yet been determined, although a stroke is suspected.…",
-     "link": "https://www.parkrecord.com/2026/11/10/obituary-randy-volheim/",
-     "published": "2026-11-11T00:39:38+00:00"
+     "title": "Park City Pulse: Coming back stronger, smarter, better",
+     "summary": "\"Our new partnership with Wheel the World enables local businesses to verify their accessibility, helping travelers with disabilities plan with confidence.\" The post Park City Pulse: Coming back stronger, smarter…",
+     "link": "https://www.parkrecord.com/2026/11/11/park-city-pulse-coming-back-stronger-smarter-better/",
+     "published": "2026-11-11T15:15:00+00:00"
     },
     {
      "source": "KPCW",
@@ -43,17 +50,17 @@
     },
     {
      "source": "TownLift",
-     "title": "Who sets the salary? Summit County takes a closer look at elected officials’ pay",
-     "summary": "As county officials review proposed merit raises in the 2027 budget, council members call for a broader approach to setting salaries.",
-     "link": "https://townlift.com/2026/11/summit-county-council-questions-how-elected-officials-pay-is-determined/",
-     "published": "2026-11-10T21:14:51+00:00"
+     "title": "Summit Bike Share looks to community feedback as season winds down",
+     "summary": "County plans to use rider input to guide improvements ahead of the 2027 season.",
+     "link": "https://townlift.com/2026/11/summit-bike-share-looks-to-community-feedback-as-season-winds-down/",
+     "published": "2026-11-11T16:07:13+00:00"
     },
     {
      "source": "Park Record",
-     "title": "Obituary: Frances Joye Carpenter Handy",
-     "summary": "Frances Joye Handy—a devoted wife, mother, and grandmother—passed from this life on October 27, 2026. Joye was born in the Old Miner’s Hospital on January 15, 1929, in Park City, Utah to Francis Henry (Fritz) Carpenter…",
-     "link": "https://www.parkrecord.com/2026/11/10/obituary-frances-joye-carpenter-handy/",
-     "published": "2026-11-11T00:34:42+00:00"
+     "title": "Journalism Matters: Are those 5 acres an hourglass about to flip again?",
+     "summary": "\"Some critics go on how councilors don’t listen. I wonder whether they listen maybe too much.\" The post Journalism Matters: Are those 5 acres an hourglass about to flip again? appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/11/journalism-matters-are-those-5-acres-an-hourglass-about-to-flip-again/",
+     "published": "2026-11-11T15:00:00+00:00"
     },
     {
      "source": "KPCW",
@@ -63,18 +70,11 @@
      "published": "2026-11-10T23:43:04+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Police Log: E-bike garage theft, car dealership foot chase, and drug arrests in grocery store parking lot",
-     "summary": "A reported garage burglary, a foot chase at a car dealership and a drug investigation in a grocery store parking lot led to multiple arrests this week. Deputies also responded",
-     "link": "https://townlift.com/2026/11/police-log-e-bike-garage-theft-car-dealership-foot-chase-and-drug-arrests-in-grocery-store-parking-lot/",
-     "published": "2026-11-10T20:10:08+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Park City Council to decide if new Bonanza Park plans match its vision",
-     "summary": "The Park City Council will look at revised 5-acre Bonanza Park plans Friday. Councilmembers worry the site concept is veering off course.",
-     "link": "https://www.kpcw.org/park-city/2026-11-10/park-city-council-to-decide-if-new-bonanza-park-plans-match-its-vision",
-     "published": "2026-11-10T23:06:38+00:00"
+     "source": "Park Record",
+     "title": "Green Tips: What’s in the air in Parleys Canyon?",
+     "summary": "Currently, the unique rock formations and colorful vegetation in Parleys Canyon are interrupted partway through by the Harper/Kilgore Quarry gravel mine. The post Green Tips: What’s in the air in Parleys Canyon?…",
+     "link": "https://www.parkrecord.com/2026/11/11/green-tips-whats-in-the-air-in-parleys-canyon/",
+     "published": "2026-11-11T14:45:00+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "A ‘distinctly Utah brand.’ How The Food Nanny went nationwide",
+     "title": "Billionaire tax fails in California, deepening Democratic divide",
      "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/10/how-food-nanny-went-nationwide/",
-     "published": "2026-11-11T02:00:00+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/11/california-voters-reject-proposed-one-time-tax-on-billionaires/",
+     "published": "2026-11-11T17:49:28+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Here’s which Utah restaurants are offering Thanksgiving meals for dine-in or takeout",
-     "summary": "Thanksgiving is coming up on Thursday, Nov. 26, and now is the time to decide how you want to feast. Here is a list of the Utah restaurants that are going to be serving special Thanksgiving meals for dine-in or takeout.",
-     "link": "https://www.sltrib.com/artsliving/food/2026/11/01/thanksgiving-utah-restaurants/",
-     "published": "2026-11-10T21:29:27+00:00"
+     "title": "Voices: When Indigenous women lead, I see the women who raised me",
+     "summary": "“Our people were told to abandon the very things that made us who we are,” Mickaela Allison writes in an op-ed. “Yet here we are. Our cultures remain. Our women are leading. Our voices are being heard.”",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/11/voices-when-indigenous-women-lead/",
+     "published": "2026-11-11T13:10:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "Whose DNA is it? Legal analyst says unanswered question could loom over Douglas Carter trial",
-     "summary": "Douglas Carter appeared in court Tuesday as attorneys argued over DNA evidence and a confession that prosecutors continue to rely on in the 1985 killing of Eva Olesen.",
-     "link": "https://www.ksl.com/article/51645079/whose-dna-is-it-legal-analyst-says-unanswered-question-could-loom-over-douglas-carter-trial",
-     "published": "2026-11-10T20:47:00+00:00"
+     "title": "Russia, Ukraine agree to large prisoner exchange, talks conclude with no major breakthrough",
+     "summary": "Russia and Ukraine have agreed to a large prisoner exchange during U.S.-mediated talks. However, no major breakthroughs were announced in efforts to end the war that began nearly five years ago.",
+     "link": "https://www.ksl.com/article/51645156/russia-ukraine-agree-to-large-prisoner-exchange-talks-conclude-with-no-major-breakthrough",
+     "published": "2026-11-11T08:44:58+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Musicians are wary of AI. Spotify is charging ahead anyway",
+     "summary": "",
+     "link": "https://www.deseret.com/entertainment/2026/11/11/spotify-to-launch-ai-generated-remixes-and-covers/",
+     "published": "2026-11-11T17:06:40+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Voices: She cared for wounded soldiers on Okinawa. Utah should remember her name.",
+     "summary": "“A huge photo of Ora Mae Sorensen Hyatt on one of her flights is on the wall of the Salt Lake City International Airport. It does not include her name, but it is my hope that we all remember this remarkable…",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/11/voices-she-cared-wounded-soldiers/",
+     "published": "2026-11-11T13:05:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Adults think kids are more creative than they are, but new research shows that's not the case",
+     "summary": "Emily Liu's 2-year-old daughter, Rose, writes piano melodies, makes up yoga moves and turns mixing bowls and pacifiers into hats and jewelry. She makes up her own recipes too, although consumers should be wary of rocks.",
+     "link": "https://www.ksl.com/article/51645165/are-you-more-creative-than-a-preschooler",
+     "published": "2026-11-11T08:12:56+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Deseret News archives: Veterans Day a chance to honor veterans for their sacrifice and service",
+     "summary": "",
+     "link": "https://www.deseret.com/utah/2024/11/11/deseret-news-archives-celebrating-veterans-day-in-1918/",
+     "published": "2026-11-11T16:49:44+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Letter: As a lame duck president, Donald Trump has a choice to make. Elevating Stephen Miller sure points in the wrong direction.",
+     "summary": "Letter: Stephen Miller becoming the new chief of staff reminds me of Joseph Goebbels being appointed Minister of Propaganda in 1933 Germany.",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/11/letter-lame-duck-president-donald/",
+     "published": "2026-11-11T13:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Hidden for decades, a Bountiful veteran's letters tell story of Vietnam War",
+     "summary": "A Bountiful family discovered hundreds of letters written during the Vietnam War, giving them a chance to reconnect with their stepfather and husband.",
+     "link": "https://www.ksl.com/article/51645083/hidden-for-decades-a-bountiful-veterans-letters-tell-story-of-vietnam-war",
+     "published": "2026-11-11T08:12:08+00:00"
     },
     {
      "source": "Deseret News",
      "title": "Here’s where to get free meals, deals on Veterans Day",
      "summary": "",
      "link": "https://www.deseret.com/lifestyle/2026/11/10/veterans-day-2026-where-to-get-free-meals-discounts/",
-     "published": "2026-11-11T01:23:44+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Saratoga Springs schools temporarily locked down after police chase alleged carjacker",
-     "summary": "One man was arrested and several schools were placed on secure status as police pursued a carjacking suspect across multiple cities Tuesday morning.",
-     "link": "https://www.ksl.com/article/51645063/saratoga-springs-schools-temporarily-locked-down-after-police-chase-alleged-carjacker",
-     "published": "2026-11-10T20:32:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Prosecutors said DNA testing would resolve this Utah murder case. They’re still pursuing the man who didn’t match.",
-     "summary": "A prosecutor said DNA testing would settle Douglas Carter’s case. The results didn’t match him — but Utah County prosecutors are still considering another trial for the former death row inmate.",
-     "link": "https://www.sltrib.com/news/2026/11/10/douglas-carter-still-faces-utah/",
-     "published": "2026-11-10T17:34:07+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Top Utah lawmaker said MIDA overreach on Stratos was ‘a huge mistake’",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/10/where-midterm-votes-left-data-center-developers/",
-     "published": "2026-11-10T23:27:58+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "North Texas becomes home to nation's first donkey hospital",
-     "summary": "The nation's first and only donkey hospital, The Center for the Advancement of Donkeys, is located in Collinsville, Texas. Its main focus is getting donkeys back to a healthy status after they've been rescued.",
-     "link": "https://www.ksl.com/article/51644923/north-texas-becomes-home-to-nations-first-donkey-hospital",
-     "published": "2026-11-10T20:06:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Utahns gather to pray, weep and remember the ‘Night of Broken Glass’",
-     "summary": "On the 88th anniversary of Kristallnacht, the IJ & Jeanné Wagner Jewish Community Center rededicated the Price Family Holocaust Memorial Garden, the only Holocaust memorial between Denver and Portland, Oregon.",
-     "link": "https://www.sltrib.com/religion/2026/11/10/utahns-gather-pray-weep-remember/",
-     "published": "2026-11-10T16:19:08+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Republican leaders defeat impeachment articles targeting Hegseth",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/10/house-votes-to-impeach-pete-hegseth/",
-     "published": "2026-11-10T23:10:40+00:00"
+     "published": "2026-11-11T15:39:44+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Stacy Keach, star of \"Mike Hammer\" TV series and stage, dies at 85",
-     "summary": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV, HAS DIED. hE WAS 85.",
-     "link": "https://www.cbsnews.com/news/stacy-keach-mike-hammer-stage-dies-85/",
-     "published": "2026-11-11T10:37:27+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
-     "summary": "Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
-     "published": "2026-11-11T10:02:44+00:00"
+     "title": "Iran vows not to give up \"a single particle\" of nuclear material",
+     "summary": "President Trump has repeatedly cited Iran's nuclear program as the core reason for going to war, but Tehran says it will not hand over any of its enriched uranium.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+     "published": "2026-11-11T18:04:01+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
-     "summary": "Power shifts in Washington continued as new party leadership began to take shape. In the House, the GOP picked Jim Jordan to be their new leader and Senate Republicans re-elected John Thune. The House also voted to…",
-     "link": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
-     "published": "2026-11-10T23:55:40+00:00"
+     "title": "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
+     "summary": "The historic ocean liner SS United States will be intentionally sunk Wednesday off the coast of the Florida panhandle.",
+     "link": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida",
+     "published": "2026-11-11T17:54:51+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
+     "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
+     "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
+     "published": "2026-11-11T16:59:32+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Meghan Markle's father jailed after cutting off monitoring device",
-     "summary": "Thomas Markle was jailed in Florida after federal prosecutors alleged that he cut off his location monitoring device.",
-     "link": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
-     "published": "2026-11-11T10:20:07+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
-     "summary": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
-     "published": "2026-11-11T10:00:00+00:00"
+     "title": "Baby found \"clinging to life\" after being buried in crate for 24 hours",
+     "summary": "An infant was found alive after apparently being buried in a dog crate for about 24 hours, authorities in South Carolina said.",
+     "link": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
+     "published": "2026-11-11T17:47:26+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
-     "summary": "For a legal perspective on the effort to impeach Defense Secretary Pete Hegseth, Geoff Bennett spoke with Eugene Fidell. He's a longtime military law expert who served as a Coast Guard lawyer and later practiced…",
-     "link": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
-     "published": "2026-11-10T23:50:33+00:00"
+     "title": "White House sends warning to Democrats about investigating the Trump administration",
+     "summary": "The White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress -- may amount to…",
+     "link": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+     "published": "2026-11-11T17:06:10+00:00"
     },
     {
      "source": "NPR",
-     "title": "U.S. officials look to Europe to learn how to make prison better",
-     "summary": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
-     "published": "2026-11-11T10:00:00+00:00"
+     "title": "What's behind Democratic Socialists' historic victories in the midterms?",
+     "summary": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
+     "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+     "published": "2026-11-11T16:41:48+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Grim details emerge after bears kill woman and daughter",
-     "summary": "The delay in finding the remains of the two women was complicated by difficult terrain and the grizzly bears' behavior.",
-     "link": "https://www.cbsnews.com/news/grizzly-bear-kills-woman-daughter-canada-search/",
-     "published": "2026-11-11T09:49:56+00:00"
+     "title": "Veterans groups keep focus on traumatic brain injuries",
+     "summary": "Dozens of service members have suffered TBIs during the current conflict with Iran, and hundreds of thousands of veterans have been diagnosed during the Global War on Terrorism.",
+     "link": "https://www.cbsnews.com/news/veterans-traumatic-brain-injuries-wounded-warriors-project/",
+     "published": "2026-11-11T17:45:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: U.S. charges 3 with plotting attacks",
-     "summary": "In our news wrap Tuesday, the U.S. charged three men with being Iran-backed operatives who planned attacks on Jewish communities and an attack at a British air base, Russian and Ukrainian representatives met for peace…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities",
-     "published": "2026-11-10T23:45:02+00:00"
+     "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
+     "summary": "The campaign of Alaska Democratic U.S. Senate candidate Mary Peltola is seeking a list of absentee voters whose ballots have been rejected in one of the most closely watched races of the midterm elections.",
+     "link": "https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race",
+     "published": "2026-11-11T16:01:25+00:00"
     },
     {
      "source": "NPR",
-     "title": "Your guide to hosting a flavorful, cozy and stress-free Thanksgiving",
-     "summary": "Whether you're hosting friendsgiving or Thanksgiving, we've got foolproof turkey recipes, advice on how to stay present while hosting, and directions on how to create a stunning floral arrangement.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-6034639/your-guide-to-hosting-a-flavorful-cozy-and-stress-free-thanksgiving",
-     "published": "2026-11-11T10:00:00+00:00"
+     "title": "Following big Democratic wins, these swing voters are looking for results",
+     "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+     "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+     "published": "2026-11-11T14:19:42+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Congressional Democrats target Trump's \"pardon industrial complex\"",
+     "summary": "A new bill would bring scrutiny to pardons tied to the president's allies and donors, but legal experts say it would likely run up against the Constitution.",
+     "link": "https://www.cbsnews.com/news/democrats-congress-trump-pardon-industrial-complex/",
+     "published": "2026-11-11T17:36:00+00:00"
     }
    ]
   }
