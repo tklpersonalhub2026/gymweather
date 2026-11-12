@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-12T07:48:13.786310+00:00",
+ "updated": "2026-11-12T16:20:35.309826+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "TownLift",
+     "title": "Summit Land Conservancy secures $15M to protect 8,800 acres near Coalville",
+     "summary": "Federal funding will support conservation of two ranchland properties, but additional money is needed to complete the projects.",
+     "link": "https://townlift.com/2026/11/summit-land-conservancy-secures-15m-to-protect-8800-acres-near-coalville/",
+     "published": "2026-11-12T16:17:49+00:00"
+    },
     {
      "source": "KPCW",
      "title": "Kouri Richins' former Midway mansion now finished, back on market",
@@ -22,10 +29,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Enter for a chance to win over $12,000 in prizes with the TownLift Local Holiday Shopping Spree",
-     "summary": "45 new and returning local businesses have come together to give three lucky winners the shopping spree of their dreams, and to remind everyone to #shoplocal this holiday season.",
-     "link": "https://townlift.com/2026/11/enter-for-a-chance-to-win-over-11000-in-prizes-with-the-townlift-local-holiday-shopping-spree/",
-     "published": "2026-11-11T21:53:06+00:00"
+     "title": "Heber Valley Chamber to operate independently beginning in 2027",
+     "summary": "The change will give local business leaders direct oversight of Chamber operations while tourism and economic development efforts continue separately.",
+     "link": "https://townlift.com/2026/11/heber-valley-chamber-to-operate-independently-beginning-in-2027/",
+     "published": "2026-11-12T15:11:16+00:00"
     },
     {
      "source": "KPCW",
@@ -40,13 +47,6 @@
      "summary": "The machine works by letting customers choose donation amounts that then go toward the specific services that participating nonprofits provide. The post ‘Giving machine’ offers new way to support area nonprofits this…",
      "link": "https://www.parkrecord.com/2026/11/11/giving-machine-offers-new-way-to-support-area-nonprofits-this-holiday-season/",
      "published": "2026-11-11T23:10:01+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "2026 Park City Community Volunteer of the Year now needs community’s help",
-     "summary": "PARK CITY, Utah — Daniel Lewis has volunteered and worked all over town. Even if you don’t know him by name, you’ve likely encountered him. Now, he needs the community’s",
-     "link": "https://townlift.com/2026/11/2026-park-city-community-volunteer-of-the-year-now-needs-communitys-help/",
-     "published": "2026-11-11T21:51:25+00:00"
     },
     {
      "source": "KPCW",
@@ -64,10 +64,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Summit County budget growth prompts questions about reliance on sales taxes",
-     "summary": "As officials review the 2027 budget, council members seek a clearer picture of how new tax revenue is contributing to county spending.",
-     "link": "https://townlift.com/2026/11/summit-county-budget-growth-prompts-questions-about-reliance-on-sales-taxes/",
-     "published": "2026-11-11T21:37:49+00:00"
+     "title": "Enter for a chance to win over $12,000 in prizes with the TownLift Local Holiday Shopping Spree",
+     "summary": "45 new and returning local businesses have come together to give three lucky winners the shopping spree of their dreams, and to remind everyone to #shoplocal this holiday season.",
+     "link": "https://townlift.com/2026/11/enter-for-a-chance-to-win-over-11000-in-prizes-with-the-townlift-local-holiday-shopping-spree/",
+     "published": "2026-11-11T21:53:06+00:00"
     },
     {
      "source": "KPCW",
@@ -84,74 +84,74 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "Box Elder County sheriff charged with obstruction of justice in DUI investigation",
+     "summary": "Box Elder County Sheriff Kevin Potter has been charged with obstruction of justice in connection with an investigation into an accusation that he was driving while impaired.",
+     "link": "https://www.sltrib.com/news/2026/11/12/utah-sheriff-box-elder-county/",
+     "published": "2026-11-12T16:05:41+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "Trump administration proposes sale of federal lands in new plan",
+     "title": "At least five shot in Washington, D.C. as shooter barricades in apartment",
      "summary": "",
-     "link": "https://www.deseret.com/environment/2026/11/11/trump-administration-plans-to-sell-off-public-lands/",
-     "published": "2026-11-12T01:36:08+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/12/at-least-five-shot-in-washington-dc-shooting-alleged-gunman-barricaded-in-apartment/",
+     "published": "2026-11-12T15:27:52+00:00"
     },
     {
      "source": "KSL",
-     "title": "US Interior secretary visits Utah geothermal site, calls it example of 'energy dominance agenda'",
-     "summary": "During a visit to Fervo's geothermal operation near Milford, Interior Secretary Doug Burgum said the U.S. will need to adopt similar clean, strong baseline energy sources to expand the nation's power grid.",
-     "link": "https://www.ksl.com/article/51645338/us-interior-secretary-visits-utah-geothermal-site-calls-it-example-of-energy-dominance-agenda",
-     "published": "2026-11-11T22:38:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "The Trump administration has a plan to sell off federal lands",
-     "summary": "“This so-called strategic plan is straight out of Secretary Burgum’s vulture capitalist playbook. He looks at our public lands and sees a balance sheet — nothing more than tradeable assets and potential profits,” said…",
-     "link": "https://www.sltrib.com/news/politics/2026/11/11/trump-administration-has-plan-sell/",
-     "published": "2026-11-11T22:22:26+00:00"
+     "title": "5 people are shot in a trendy DC neighborhood, including 1 killed at a gym, then suspect kills self",
+     "summary": "Five people were shot Thursday in a trendy Washington, D.C., neighborhood within walking distance of the White House, police said, and the suspected gunman later shot himself as a swarm of officers responded to a nearby…",
+     "link": "https://www.ksl.com/article/51645405/police-say-4-people-have-been-shot-in-the-logan-circle-neighborhood-of-the-nations-capital",
+     "published": "2026-11-12T09:20:08+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Utah women business leaders honored for building companies and opening doors",
+     "title": "Deseret News archives: Ellis Island closed in 1954, but its place in history lives on",
      "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/11/utah-women-business-leaders-award/",
-     "published": "2026-11-12T01:29:08+00:00"
+     "link": "https://www.deseret.com/utah/2024/11/12/deseret-news-archivesellis-island-closed-in-1954/",
+     "published": "2026-11-12T15:25:58+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Voices: Amendment B’s failure is the most seismic political event in Utah since the ’70s",
+     "summary": "“The enormous significance of the Amendment B debacle is that the word ‘compromise’ may finally find its way back into the Republican vocabulary,” former legislator David Irvine writes in an op-ed.",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/12/voices-this-election-marks-new/",
+     "published": "2026-11-12T13:05:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "Families from France, US reunite in Veterans Day story 80 years in the making",
-     "summary": "The son of a Utah World War II fighter pilot traveled to France to meet the family of a farmer who saved his dad's life.",
-     "link": "https://www.ksl.com/article/51645357/families-from-france-us-reunite-in-veterans-day-story-80-years-in-the-making",
-     "published": "2026-11-11T22:11:03+00:00"
+     "title": "Google knows smart glasses have a privacy problem. Here's how it's trying to fix it",
+     "summary": "Google's new smart glasses, like Meta's, light up to show when they're recording. But once you know someone is recording, what do you do next?",
+     "link": "https://www.ksl.com/article/51645417/google-knows-smart-glasses-have-a-privacy-problem-heres-how-its-trying-to-fix-it",
+     "published": "2026-11-12T08:58:23+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: When Indigenous women lead, I see the women who raised me",
-     "summary": "“Our people were told to abandon the very things that made us who we are,” Mickaela Allison writes in an op-ed. “Yet here we are. Our cultures remain. Our women are leading. Our voices are being heard.”",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/11/voices-when-indigenous-women-lead/",
-     "published": "2026-11-11T13:10:00+00:00"
+     "title": "A Utah startup has officially submitted its plans for nuclear-powered data centers. As it seeks its first permit, here’s what we know.",
+     "summary": "Valar Atomics' application describes a natural gas plant, dozens of small nuclear reactors, data centers, stored radioactive waste — and how the company would mitigate their impacts.",
+     "link": "https://www.sltrib.com/news/environment/2026/11/12/valar-atomics-seeks-1st-permit/",
+     "published": "2026-11-12T13:00:01+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Democrat Scott Colom wins Mississippi Senate race",
+     "title": "Democrats are coming for Trump’s tech allies. An AI insider sees a warning sign",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race-in-midterm-elections/",
-     "published": "2026-11-12T01:07:06+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/12/democrats-in-congress-prepare-to-investigate-tech-ceos-with-ties-to-president-trump/",
+     "published": "2026-11-12T11:00:01+00:00"
     },
     {
      "source": "KSL",
-     "title": "The historic SS United States is sunk after a long goodbye off Florida's coast",
-     "summary": "The historic SS United States, once the fastest ship on the seas, made a slow final journey beneath the waters Wednesday.",
-     "link": "https://www.ksl.com/article/51645131/this-ocean-liner-was-the-worlds-fastest-its-being-sunk-to-make-the-largest-artificial-reef",
-     "published": "2026-11-11T22:09:13+00:00"
+     "title": "Utah seeks diabetes patient experiences to support insulin pricing lawsuit",
+     "summary": "The lawsuit claims major drug manufacturers drove up insulin prices by about 1000%.",
+     "link": "https://www.ksl.com/article/51645089/utah-seeks-diabetes-patient-experiences-to-support-insulin-pricing-lawsuit",
+     "published": "2026-11-12T08:37:59+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: She cared for wounded soldiers on Okinawa. Utah should remember her name.",
-     "summary": "“A huge photo of Ora Mae Sorensen Hyatt on one of her flights is on the wall of the Salt Lake City International Airport. It does not include her name, but it is my hope that we all remember this remarkable…",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/11/voices-she-cared-wounded-soldiers/",
-     "published": "2026-11-11T13:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Before we reinvent civics, look at what university history departments already do",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/11/trust-your-historians/",
-     "published": "2026-11-11T23:52:21+00:00"
+     "title": "Utahn says mushroom use was for a religious ceremony. The city busted him anyway.",
+     "summary": "Orem police arrested two men in January for using psychedelic mushrooms. Now one of them is threatening to sue, arguing the mushrooms were part of a religious ceremony and the police interfered with their faith.",
+     "link": "https://www.sltrib.com/religion/2026/11/12/orem-threatened-with-religious/",
+     "published": "2026-11-12T13:00:01+00:00"
     }
    ]
   },
@@ -161,18 +161,60 @@
    "scope": "United States",
    "items": [
     {
+     "source": "NPR",
+     "title": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+     "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+     "published": "2026-11-12T16:12:53+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "Trump says Iran war will be over \"when we want to end it\"",
-     "summary": "President Trump spoke about the Iran war during a Veterans Day address at Arlington National Cemetery.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-     "published": "2026-11-12T07:15:10+00:00"
+     "title": "1 killed, 4 injured in shooting in D.C.'s Logan Circle neighborhood",
+     "summary": "Residents have been asked to avoid the area of 15th and P Street in Washington, D.C., as police respond to the incident.",
+     "link": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/",
+     "published": "2026-11-12T16:08:08+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Sharp swings for Nvidia and oil prices weigh on Wall Street",
+     "summary": "Nvidia's stock plunged as much as 14% at the start of trading following the resignation of Jensen Huang, its CEO, co-founder and face of the brand.",
+     "link": "https://www.pbs.org/newshour/economy/sharp-swings-for-nvidia-and-oil-prices-weigh-on-wall-street",
+     "published": "2026-11-12T16:05:41+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Latest news on deadly shooting in Washington, D.C.",
+     "summary": "One person was killed, and four were injured, during a string of shootings in Washington, D.C.'s Logan Circle neighborhood, police said. CBS News' Taurean Small has the latest.",
+     "link": "https://www.cbsnews.com/video/latest-news-on-deadly-shooting-in-washington-dc/",
+     "published": "2026-11-12T15:55:30+00:00"
     },
     {
      "source": "NPR",
-     "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-     "summary": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-     "published": "2026-11-12T03:10:32+00:00"
+     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+     "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+     "published": "2026-11-12T15:26:34+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+     "summary": "Huang faced growing calls to resign after his affair with an alleged Chinese spy. Late Wednesday, media reports said Huang had another extramarital affair with an Nvidia employee who reports to him.",
+     "link": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
+     "published": "2026-11-12T14:10:01+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Bolton reacts to Iran threats as Bessent is forced to live in military base",
+     "summary": "Iranian threats targeting U.S. officials continue. Former Trump adviser John Bolton is reacting to news that Treasury Secretary Scott Bessent is changing living arrangements for his safety. CBS News contributor Joseph…",
+     "link": "https://www.cbsnews.com/video/bolton-reacts-to-iran-threats-as-bessent-is-forced-to-live-in-military-base/",
+     "published": "2026-11-12T15:44:04+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+     "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
+     "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+     "published": "2026-11-12T14:22:50+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -183,52 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Israeli strike on Gaza hospital kills 6, health authorities say",
-     "summary": "An Israeli airstrike targeting the Nasser Hospital in southern Gaza killed six people and wounded at least a dozen more, Gaza's Hamas-controlled Health Ministry said.",
-     "link": "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/",
-     "published": "2026-11-12T07:08:11+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
-     "summary": "In our news wrap Wednesday, Democrat Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in Mississippi, a group that included Defense Secretary Pete Hegseth was admonished by an Army sentinel at the…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
-     "published": "2026-11-11T23:50:05+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Democrat Scott Colom wins the closest Senate race in the country",
-     "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
-     "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-     "published": "2026-11-11T23:33:59+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "3 killed when SUV crashes into North Hollywood food stand",
-     "summary": "At least three people were killed and two others were severely injured when an SUV crashed into a food stand near a Metro bus stop in North Hollywood.",
-     "link": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
-     "published": "2026-11-12T06:47:10+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "White House threatens Democrats over plans to investigate Trump officials",
-     "summary": "With Democrats set to take control of Congress, the White House is threatening them over investigations into the Trump administration. The top White House lawyer warned that aggressive oversight of the administration…",
-     "link": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
-     "published": "2026-11-11T23:45:49+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Democrat Scott Colom wins Mississippi Senate race",
-     "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-     "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-     "published": "2026-11-11T23:04:51+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "At least 2 killed, 17 hurt in Brooklyn building collapse",
-     "summary": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
-     "link": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
-     "published": "2026-11-12T05:17:53+00:00"
+     "title": "Crews search for survivors in Brooklyn building collapse",
+     "summary": "At least eight people were killed and 17 others were injured​ after a building collapsed in Flatbush, Brooklyn.",
+     "link": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
+     "published": "2026-11-12T15:41:49+00:00"
     }
    ]
   }
