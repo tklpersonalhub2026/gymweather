@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:05:07.451579+00:00",
+ "updated": "2026-11-13T17:39:58.817125+00:00",
  "sections": [
   {
    "key": "local",
@@ -8,10 +8,31 @@
    "items": [
     {
      "source": "TownLift",
-     "title": "Three Utah Summit Sotheby’s International Realty agents named to Sotheby’s International Realty’s Top 100 Worldwide",
-     "summary": "PARK CITY, Utah — Three Summit Sotheby’s International Realty global real estate advisors, Sheila Hall, Michael LaPay and Chris Maddox, have been named among the Top 100 Sotheby’s International Realty",
-     "link": "https://townlift.com/2026/11/three-utah-summit-sothebys-international-realty-agents-named-to-sothebys-international-realtys-top-100-worldwide/",
-     "published": "2026-11-13T00:45:02+00:00"
+     "title": "New Park City giving machines offer a hands-on way to help neighbors this holiday season",
+     "summary": "Park City residents and visitors will have a new way to support neighbors in need this holiday season when a Light the World Giving Machine opens Nov. 21 at Snow Creek Shopping Center.",
+     "link": "https://townlift.com/2026/11/new-park-city-giving-machines-offer-a-hands-on-way-to-help-neighbors-this-holiday-season/",
+     "published": "2026-11-13T17:12:27+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Summit Bike Share to add more e-bike stations next year",
+     "summary": "Summit County’s fleet of e-bikes are back in storage after another successful summer. The team hopes to expand access next year.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-13/summit-bike-share-to-add-more-e-bike-stations-next-year",
+     "published": "2026-11-13T17:06:00+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Plan for East Side’s future focuses on rural preservation; residents worry about state interference",
+     "summary": "Residents largely supported proposed updates to the Eastern Summit County General Plan, which they praised last week for its focus on cultural heritage and preservation. But many speakers worried the plan will be…",
+     "link": "https://www.parkrecord.com/2026/11/12/plan-for-east-sides-future-focuses-on-rural-preservation-but-residents-worry-about-summit-countys-ability-to-stop-state-interference/",
+     "published": "2026-11-12T20:52:35+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "New Coalville community brings affordable homeownership options to Summit County",
+     "summary": "COALVILLE, Utah — A new community is opening its doors in Summit County, giving prospective homebuyers an opportunity to explore a range of new homes in Coalville at prices below",
+     "link": "https://townlift.com/2026/11/new-coalville-community-brings-affordable-homeownership-options-to-summit-county/",
+     "published": "2026-11-13T16:33:58+00:00"
     },
     {
      "source": "KPCW",
@@ -22,10 +43,17 @@
     },
     {
      "source": "Park Record",
-     "title": "Plan for East Side’s future focuses on rural preservation; residents worry about state interference",
-     "summary": "Residents largely supported proposed updates to the Eastern Summit County General Plan, which they praised last week for its focus on cultural heritage and preservation. But many speakers worried the plan will be…",
-     "link": "https://www.parkrecord.com/2026/11/12/plan-for-east-sides-future-focuses-on-rural-preservation-but-residents-worry-about-summit-countys-ability-to-stop-state-interference/",
-     "published": "2026-11-12T20:52:35+00:00"
+     "title": "Summit County, Park City affected by Microsoft services outage",
+     "summary": "Residents should expect delays in email responses from the county and city governments while the systems are down. The post Summit County, Park City affected by Microsoft services outage appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/12/summit-county-affected-by-microsoft-services-outage/",
+     "published": "2026-11-12T20:51:45+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Jordanelle area gets a dam bar, just in time for après",
+     "summary": "“We want The Dam Bar to feel like the kind of place locals can make their own,” - general manager Andrew McKay",
+     "link": "https://townlift.com/2026/11/the-dam-bar-looks-to-fill-a-dining-gap-for-jordanelles-growing-community/",
+     "published": "2026-11-13T16:02:20+00:00"
     },
     {
      "source": "KPCW",
@@ -35,34 +63,6 @@
      "published": "2026-11-12T21:48:00+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Where does your Summit County property tax money go?",
-     "summary": "As the Nov. 30 payment deadline approaches, county officials explain how property taxes are distributed and who decides how the money is spent.",
-     "link": "https://townlift.com/2026/11/where-does-your-summit-county-property-tax-money-go/",
-     "published": "2026-11-12T21:14:50+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Summit County, Park City affected by Microsoft services outage",
-     "summary": "Residents should expect delays in email responses from the county and city governments while the systems are down. The post Summit County, Park City affected by Microsoft services outage appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/11/12/summit-county-affected-by-microsoft-services-outage/",
-     "published": "2026-11-12T20:51:45+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Park City weighs ice arena expansion, seeks county funding",
-     "summary": "Local youth sports programs have outgrown the Park City Ice Arena. The building also needs repairs. Park City leaders are open to expanding the facility if they can secure outside financial support.",
-     "link": "https://www.kpcw.org/park-city/2026-11-12/park-city-weighs-ice-arena-expansion-seeks-county-funding",
-     "published": "2026-11-12T21:31:21+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Microsoft outage disrupts Summit County email and communications",
-     "summary": "County officials warn of delayed email responses Thursday as a widespread Microsoft 365 outage affects services.",
-     "link": "https://townlift.com/2026/11/microsoft-outage-disrupts-summit-county-email-and-communications/",
-     "published": "2026-11-12T20:52:23+00:00"
-    },
-    {
      "source": "Park Record",
      "title": "Professional event marks final rodeo in Heber City for the year",
      "summary": "Professional cowboys and cowgirls gathered at the Wasatch County Event Center on Nov. 6 and 7 for the Wilderness Circuit Finals Rodeo, bringing two days of competition to Heber City and marking the town's final rodeo of…",
@@ -70,11 +70,11 @@
      "published": "2026-11-12T19:18:44+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "New Mountain Mediation leader hope to grow Wasatch Back services",
-     "summary": "Mountain Mediation Center Executive Director Gretchen Lee is stepping down.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-12/new-mountain-mediation-leader-hope-to-grow-wasatch-back-services",
-     "published": "2026-11-12T21:26:05+00:00"
+     "source": "TownLift",
+     "title": "Three Utah Summit Sotheby’s International Realty agents named to Sotheby’s International Realty’s Top 100 Worldwide",
+     "summary": "PARK CITY, Utah — Three Summit Sotheby’s International Realty global real estate advisors, Sheila Hall, Michael LaPay and Chris Maddox, have been named among the Top 100 Sotheby’s International Realty",
+     "link": "https://townlift.com/2026/11/three-utah-summit-sothebys-international-realty-agents-named-to-sothebys-international-realtys-top-100-worldwide/",
+     "published": "2026-11-13T00:45:02+00:00"
     }
    ]
   },
@@ -84,74 +84,74 @@
    "scope": "Utah",
    "items": [
     {
-     "source": "KSL",
-     "title": "Firefighters with cancer have workers' compensation claims denied, despite Utah law",
-     "summary": "Utah lawmakers promised help for firefighters diagnosed with certain cancers. But when a West Jordan firefighter's prostate cancer returned, getting that help became another fight.",
-     "link": "https://www.ksl.com/article/51645468/firefighters-with-cancer-having-workers-compensation-claims-denied-despite-utah-law",
-     "published": "2026-11-13T21:04:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "These 5 singers just made the top 10 on ‘The Voice’",
+     "title": "‘Ebenezer’ is no humbug, but it’s no classic either",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/12/the-voice-season-30-who-is-in-the-top-10/",
-     "published": "2026-11-13T05:12:05+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/13/new-ebenezer-scrooge-movie-review/",
+     "published": "2026-11-13T17:17:07+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Bagley Cartoon: Negotiations",
-     "summary": "Check out Pat Bagley's latest cartoon: Negotiations",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/11/12/bagley-cartoon-negotiations/",
-     "published": "2026-11-13T00:22:31+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Utah mountain biker conquers Kilimanjaro on a broken leg",
+     "title": "Bagley Cartoon: New Language",
      "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/11/12/utah-mountain-biker-hannah-otto-first-woman-ascend-descend-mount-kilimanjaro-single-day-broken-leg/",
-     "published": "2026-11-13T04:34:09+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Here’s which Utah restaurants are offering Thanksgiving meals for dine-in or takeout",
-     "summary": "Thanksgiving is coming up on Thursday, Nov. 26, and now is the time to decide how you want to feast. Here is a list of the Utah restaurants that are going to be serving special Thanksgiving meals for dine-in or takeout.",
-     "link": "https://www.sltrib.com/artsliving/food/2026/11/01/thanksgiving-utah-restaurants/",
-     "published": "2026-11-12T23:42:08+00:00"
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/13/bagley-cartoon-new-language/",
+     "published": "2026-11-13T17:10:43+00:00"
     },
     {
      "source": "KSL",
-     "title": "Provo GOP lawmaker holds narrow lead in tight Utah House race",
-     "summary": "Rep. Lisa Shepherd, R-Provo, holds a lead of 228 votes over Democrat Alan Jimenez, as of late Thursday.",
-     "link": "https://www.ksl.com/article/51645566/provo-gop-lawmaker-holds-narrow-lead-in-tight-utah-house-race",
-     "published": "2026-11-12T22:37:00+00:00"
+     "title": "BLM rounds up hundreds of wild horses near Dugway",
+     "summary": "This week, the BLM rounded up wild horses in the Cedar Mountain Herd Management Area near Dugway in an attempt to manage herd size and maintain the land.",
+     "link": "https://www.ksl.com/article/51645556/blm-rounds-up-hundreds-of-wild-horses-near-dugway",
+     "published": "2026-11-13T10:02:59+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "A quiet border faces a new test as migrant caravans head north",
+     "title": "Deseret News archives: Vietnam Veterans Memorial dedicated in 1982, now a national treasure",
      "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/11/12/new-migrant-caravans-revive-a-border-confrontation-with-mexico/",
-     "published": "2026-11-13T02:38:22+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Protecting babies from RSV during the holiday season",
-     "summary": "An Intermountain Children's Health expert shares how to protect babies from RSV during holiday gatherings, what symptoms to watch for and when to seek care.",
-     "link": "https://www.ksl.com/article/51645551/protecting-babies-from-rsv-during-the-holiday-season",
-     "published": "2026-11-12T22:03:00+00:00"
+     "link": "https://www.deseret.com/utah/2024/11/13/deseret-news-archives-vietnam-wall-memorial-dedicated-in-1982/",
+     "published": "2026-11-13T16:59:23+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Box Elder County sheriff charged with obstruction of justice in DUI investigation",
-     "summary": "Box Elder County Sheriff Kevin Potter has been charged with obstruction of justice in connection with an investigation into an accusation that he was driving while impaired.",
-     "link": "https://www.sltrib.com/news/2026/11/12/utah-sheriff-box-elder-county/",
-     "published": "2026-11-12T16:05:41+00:00"
+     "title": "Voices: I was 17 when ICE took my mother away. A decade later, I’m still trying to heal.",
+     "summary": "“I am a living example of how a broken system can break an individual,” Sherry Padron writes in an op-ed. “If we really want to protect children, separating them from their caregivers is not the answer.”",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/13/voices-decade-after-ice-took-my/",
+     "published": "2026-11-13T13:05:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
+     "summary": "Stocks are swinging again on Wall Street, but the market remains on track for its first winning week since early October. The S&P 500 fell 1% Friday and is on track for a weekly gain of 1.9%. The Dow Jones Industrial…",
+     "link": "https://www.ksl.com/article/51645663/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days",
+     "published": "2026-11-13T09:29:55+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "We are in charge of our future, leaders say at conference on AI",
+     "title": "Chuck Schumer gets a challenger in race to be top Senate leader",
      "summary": "",
-     "link": "https://www.deseret.com/utah/2026/11/12/human-flourishing-in-age-of-ai/",
-     "published": "2026-11-13T00:33:10+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/13/schumer-gets-challenger-in-race-for-senate-majority-leader/",
+     "published": "2026-11-13T16:29:24+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Proposed data center on land leased from LDS Church moves forward",
+     "summary": "Residents have decidedly mixed views of the project sure to transform their rural community — for better or worse.",
+     "link": "https://www.sltrib.com/religion/2026/11/13/texas-officials-advance-plan-data/",
+     "published": "2026-11-13T13:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Arrest made in fatal Salt Lake City shooting",
+     "summary": "Salt Lake City police have arrested a man in connection with a fatal shooting near 500 West and 600 South.",
+     "link": "https://www.ksl.com/article/51645557/arrest-made-in-fatal-salt-lake-city-shooting",
+     "published": "2026-11-13T09:09:42+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Sen. Curtis questions Trump nominee on ‘skeptical’ comments about Latter-day Saints",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/11/12/curtis-presses-trump-nominee-on-lds-comments/",
+     "published": "2026-11-13T15:31:26+00:00"
     }
    ]
   },
@@ -161,74 +161,74 @@
    "scope": "United States",
    "items": [
     {
-     "source": "NPR",
-     "title": "Rosalía and Milo J take top awards as Daddy Yankee is paid tribute at Latin Grammys",
-     "summary": "The night was filled with music and surprises. Rosalía opened the show with medley of tracks and elaborate dancing, and Milo J appeared with a colorful Uruguayan theatrical ensemble.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6032776/rosalia-and-milo-j-take-top-awards-as-daddy-yankee-is-paid-tribute-at-latin-grammys",
-     "published": "2026-11-13T09:57:22+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Trump says \"we don't need a deal with Iran\"",
-     "summary": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-     "published": "2026-11-13T08:31:34+00:00"
+     "title": "As Americans drown in medical debt, how one family found a lifeline",
+     "summary": "Coy and Caty Smith are gainfully employed and have health insurance. But when illness struck, the bills piled up fast — here's how they found their way back to financial health.",
+     "link": "https://www.cbsnews.com/news/medical-debt-credit-card-repayment-plan/",
+     "published": "2026-11-13T17:28:56+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
-     "summary": "Two Democratic senators are launching an investigation into whether Health Secretary Robert F. Kennedy Jr. lied to Congress about his reason for a 2019 trip to Samoa after The Associated Press and The Guardian published…",
-     "link": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
-     "published": "2026-11-13T00:50:18+00:00"
+     "title": "Bigger and more-frequent wildfires threaten water supplies across the U.S.",
+     "summary": "Wildfires leave behind charred trees and scorched vegetation that impact the streams and rivers providing drinking water to much of the country, and new studies show that contamination could remain for more than a…",
+     "link": "https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s",
+     "published": "2026-11-13T17:21:28+00:00"
     },
     {
      "source": "NPR",
-     "title": "Morning news brief",
-     "summary": "What's next for Nvidia after CEO's resignation, Trump's reliance on former Nvidia CEO in flux ahead of China trip, Trump's envoys hope to get Europe involved in Russia-Ukraine peace talks.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6035581/morning-news-brief",
-     "published": "2026-11-13T09:44:21+00:00"
+     "title": "The Trump administration's voter roll crusade could continue",
+     "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+     "published": "2026-11-13T17:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Van Hollen will challenge Schumer for Senate majority leader",
-     "summary": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader.",
-     "link": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
-     "published": "2026-11-13T03:58:38+00:00"
+     "title": "Best pet insurance companies of 2026",
+     "summary": "Pet insurance premiums jumped by double digits last year. We priced the best pet insurance to see who's worth it.",
+     "link": "https://www.cbsnews.com/moneywatch/insurance/pets/",
+     "published": "2026-11-13T17:26:46+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "What to know about dengue fever as Florida reports more than 500 cases this year",
-     "summary": "As Florida navigates its largest dengue outbreak in more than 15 years, it might help to understand how this virus spreads and how to recognize symptoms and protect yourself.",
-     "link": "https://www.pbs.org/newshour/health/what-to-know-about-dengue-fever-as-florida-reports-more-than-500-cases-this-year",
-     "published": "2026-11-13T00:31:23+00:00"
+     "title": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China",
+     "summary": "Commerce Secretary Howard Lutnick has come under increasing scrutiny because of his reportedly close relationship with Jensen Huang.",
+     "link": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
+     "published": "2026-11-13T17:09:45+00:00"
     },
     {
      "source": "NPR",
-     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
-     "summary": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-     "published": "2026-11-13T03:52:25+00:00"
+     "title": "Does Europe regret its bet on U.S. defense?",
+     "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+     "published": "2026-11-13T16:17:43+00:00"
     },
     {
      "source": "CBS News",
-     "title": "GOP lawmakers press Huang and Lutnick to testify over Nvidia",
-     "summary": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress.",
-     "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
-     "published": "2026-11-13T02:59:50+00:00"
+     "title": "Criminal probe launched into cruise ship over potential \"magic pipe\"",
+     "summary": "The U.S. Coast Guard launched an investigation into a so-called \"magic pipe\" case, in which a ship transfers its oil discharge into its gray water system.",
+     "link": "https://www.cbsnews.com/news/coast-guard-msc-poesia-criminal-investigation-potential-magic-pipe/",
+     "published": "2026-11-13T17:21:45+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
-     "summary": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive. Huang's…",
-     "link": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
-     "published": "2026-11-12T23:55:39+00:00"
+     "title": "Navy has quietly fired some commanders and other officials, drawing congressional pushback",
+     "summary": "The firings are a break from the Navy's longstanding policy to announce major removals of commanders and other highly visible officials. They also follow an increasing level of secrecy over military operations…",
+     "link": "https://www.pbs.org/newshour/politics/navy-has-quietly-fired-some-commanders-and-other-officials-drawing-congressional-pushback",
+     "published": "2026-11-13T16:58:31+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+     "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+     "published": "2026-11-13T15:46:35+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Crews begin excavating site of building collapse in Brooklyn",
-     "summary": "At least eight people were killed​ after a building collapsed Wednesday in Flatbush, Brooklyn.",
-     "link": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
-     "published": "2026-11-13T02:27:43+00:00"
+     "title": "U.S. gave Singapore scant help with Alice Huang probe, source says",
+     "summary": "Singapore held Alice Huang's passport for 8 months and asked the U.S. to help investigate her firm's suspected Nvidia chip sales, but received little help, sources say.",
+     "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
+     "published": "2026-11-13T17:16:00+00:00"
     }
    ]
   }
