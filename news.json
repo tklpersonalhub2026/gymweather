@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:42:06.228826+00:00",
+ "updated": "2026-11-13T10:05:07.451579+00:00",
  "sections": [
   {
    "key": "local",
@@ -84,11 +84,18 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "KSL",
+     "title": "Firefighters with cancer have workers' compensation claims denied, despite Utah law",
+     "summary": "Utah lawmakers promised help for firefighters diagnosed with certain cancers. But when a West Jordan firefighter's prostate cancer returned, getting that help became another fight.",
+     "link": "https://www.ksl.com/article/51645468/firefighters-with-cancer-having-workers-compensation-claims-denied-despite-utah-law",
+     "published": "2026-11-13T21:04:00+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "We are in charge of our future, leaders say at conference on AI",
+     "title": "These 5 singers just made the top 10 on ‘The Voice’",
      "summary": "",
-     "link": "https://www.deseret.com/utah/2026/11/12/human-flourishing-in-age-of-ai/",
-     "published": "2026-11-13T00:33:10+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/12/the-voice-season-30-who-is-in-the-top-10/",
+     "published": "2026-11-13T05:12:05+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,11 +105,11 @@
      "published": "2026-11-13T00:22:31+00:00"
     },
     {
-     "source": "KSL",
-     "title": "California man accused of human smuggling in southern Utah",
-     "summary": "A man allegedly being paid to transport illegal immigrants from California to other states has been arrested and charged in southern Utah.",
-     "link": "https://www.ksl.com/article/51645491/california-man-accused-of-human-smuggling-in-southern-utah",
-     "published": "2026-11-12T19:24:00+00:00"
+     "source": "Deseret News",
+     "title": "Utah mountain biker conquers Kilimanjaro on a broken leg",
+     "summary": "",
+     "link": "https://www.deseret.com/lifestyle/2026/11/12/utah-mountain-biker-hannah-otto-first-woman-ascend-descend-mount-kilimanjaro-single-day-broken-leg/",
+     "published": "2026-11-13T04:34:09+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -112,32 +119,25 @@
      "published": "2026-11-12T23:42:08+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Illustrated ‘New Testament Stories’ available online and in print",
-     "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/12/church-news-illustrated-new-testament-stories-now-available-online-and-in-print/",
-     "published": "2026-11-12T23:20:06+00:00"
-    },
-    {
      "source": "KSL",
-     "title": "1,000 Thanksgiving meals for veterans in SLC, Ogden by Ken Garff employees",
-     "summary": "The Thanksgiving meals will be distributed Friday from 8 a.m. to 10 a.m. at drive-through events at the VA hospital in Salt Lake City and the VA clinic in Ogden.",
-     "link": "https://www.ksl.com/article/51645484/ken-garff-prepares-1000-thanksgiving-meals-for-veterans-and-military-members",
-     "published": "2026-11-12T18:34:00+00:00"
+     "title": "Provo GOP lawmaker holds narrow lead in tight Utah House race",
+     "summary": "Rep. Lisa Shepherd, R-Provo, holds a lead of 228 votes over Democrat Alan Jimenez, as of late Thursday.",
+     "link": "https://www.ksl.com/article/51645566/provo-gop-lawmaker-holds-narrow-lead-in-tight-utah-house-race",
+     "published": "2026-11-12T22:37:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "These are the best books of 2026, according to Amazon and Barnes & Noble",
+     "title": "A quiet border faces a new test as migrant caravans head north",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/12/best-books-of-2026-amazon-barnes-and-noble/",
-     "published": "2026-11-12T23:06:09+00:00"
+     "link": "https://www.deseret.com/u-s-world/2026/11/12/new-migrant-caravans-revive-a-border-confrontation-with-mexico/",
+     "published": "2026-11-13T02:38:22+00:00"
     },
     {
      "source": "KSL",
-     "title": "Man charged in connection with 12 hour standoff in Yalecrest neighborhood",
-     "summary": "A man accused of firing shots and throwing an axe at a police armored vehicle is now facing multiple charges.",
-     "link": "https://www.ksl.com/article/51645535/man-charged-in-connection-with-12-hour-standoff-in-yalecrest-neighborhood",
-     "published": "2026-11-12T18:03:00+00:00"
+     "title": "Protecting babies from RSV during the holiday season",
+     "summary": "An Intermountain Children's Health expert shares how to protect babies from RSV during holiday gatherings, what symptoms to watch for and when to seek care.",
+     "link": "https://www.ksl.com/article/51645551/protecting-babies-from-rsv-during-the-holiday-season",
+     "published": "2026-11-12T22:03:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -148,10 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "Sen. Curtis questions Trump nominee on ‘skeptical’ comments about Latter-day Saints",
+     "title": "We are in charge of our future, leaders say at conference on AI",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/12/curtis-presses-trump-nominee-on-lds-comments/",
-     "published": "2026-11-12T23:00:00+00:00"
+     "link": "https://www.deseret.com/utah/2026/11/12/human-flourishing-in-age-of-ai/",
+     "published": "2026-11-13T00:33:10+00:00"
     }
    ]
   },
@@ -161,18 +161,18 @@
    "scope": "United States",
    "items": [
     {
-     "source": "CBS News",
-     "title": "Van Hollen will challenge Schumer for Senate majority leader",
-     "summary": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader.",
-     "link": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
-     "published": "2026-11-13T02:34:31+00:00"
+     "source": "NPR",
+     "title": "Rosalía and Milo J take top awards as Daddy Yankee is paid tribute at Latin Grammys",
+     "summary": "The night was filled with music and surprises. Rosalía opened the show with medley of tracks and elaborate dancing, and Milo J appeared with a colorful Uruguayan theatrical ensemble.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6032776/rosalia-and-milo-j-take-top-awards-as-daddy-yankee-is-paid-tribute-at-latin-grammys",
+     "published": "2026-11-13T09:57:22+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-     "summary": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-     "published": "2026-11-13T01:26:24+00:00"
+     "source": "CBS News",
+     "title": "Trump says \"we don't need a deal with Iran\"",
+     "summary": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+     "published": "2026-11-13T08:31:34+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -182,11 +182,18 @@
      "published": "2026-11-13T00:50:18+00:00"
     },
     {
+     "source": "NPR",
+     "title": "Morning news brief",
+     "summary": "What's next for Nvidia after CEO's resignation, Trump's reliance on former Nvidia CEO in flux ahead of China trip, Trump's envoys hope to get Europe involved in Russia-Ukraine peace talks.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6035581/morning-news-brief",
+     "published": "2026-11-13T09:44:21+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "GOP lawmakers press Huang and Lutnick to testify",
-     "summary": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress.",
-     "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
-     "published": "2026-11-13T02:30:44+00:00"
+     "title": "Van Hollen will challenge Schumer for Senate majority leader",
+     "summary": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader.",
+     "link": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
+     "published": "2026-11-13T03:58:38+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,10 +204,24 @@
     },
     {
      "source": "NPR",
-     "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-     "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-     "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-     "published": "2026-11-12T23:36:19+00:00"
+     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+     "summary": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+     "published": "2026-11-13T03:52:25+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "GOP lawmakers press Huang and Lutnick to testify over Nvidia",
+     "summary": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress.",
+     "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
+     "published": "2026-11-13T02:59:50+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
+     "summary": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive. Huang's…",
+     "link": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
+     "published": "2026-11-12T23:55:39+00:00"
     },
     {
      "source": "CBS News",
@@ -208,27 +229,6 @@
      "summary": "At least eight people were killed​ after a building collapsed Wednesday in Flatbush, Brooklyn.",
      "link": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
      "published": "2026-11-13T02:27:43+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "What Huang's resignation mean for chipmakers, AI and U.S. national security",
-     "summary": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive. Huang's…",
-     "link": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
-     "published": "2026-11-12T23:55:39+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-     "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-     "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-     "published": "2026-11-12T22:52:49+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "NAACP official on Mississippi electing Scott Colom as its first Black senator since the 1800s",
-     "summary": "CBS News projects that Democrat Scott Colom will defeat Republican incumbent Cindy Hyde-Smith to become the first Black senator from Mississippi since the 1800s. Charles Taylor, executive director of the Mississippi…",
-     "link": "https://www.cbsnews.com/video/naacp-on-mississippi-electing-scott-colom-first-black-senator-since-1800s/",
-     "published": "2026-11-13T02:20:35+00:00"
     }
    ]
   }
