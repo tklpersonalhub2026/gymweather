@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:03:42.967407+00:00",
+ "updated": "2026-11-14T10:10:19.839926+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,10 +85,10 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "‘Fire seasons are becoming fire years’: Will Congress act?",
+     "title": "The Yelp reviews are in, and this restaurant landed a No. 2 spot on a national list",
      "summary": "",
-     "link": "https://www.deseret.com/environment/2026/11/13/fire-seasons-are-becoming-fire-years-will-congress-act/",
-     "published": "2026-11-14T02:15:29+00:00"
+     "link": "https://www.deseret.com/lifestyle/2026/11/13/mumbai-house-named-yelp-no-2-restaurant-in-u-s/",
+     "published": "2026-11-14T04:00:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,17 +99,17 @@
     },
     {
      "source": "KSL",
-     "title": "Millburn extends lead over Lee in tightly contested Davis County Commission race",
-     "summary": "Bret Millburn has extended his 18-vote lead over Susan Lee in the tightly contest race for a Davis County Commission seat, but more votes have to be counted.",
-     "link": "https://www.ksl.com/article/51645784/millburn-extends-lead-over-lee-in-tightly-contested-davis-county-commission-race",
-     "published": "2026-11-13T19:21:00+00:00"
+     "title": "Wrangle weeds, win cash: Hurricane mayor hosts 'Tumbleweed Takeover'",
+     "summary": "Hurricane Mayor Clark Fawcett is inviting residents to join a Saturday \"Tumbleweed Takeover\" cleanup to help clear the city of invasive weeds that have blocked sidewalks and doorways.",
+     "link": "https://www.ksl.com/article/51645717/wrangle-weeds-win-cash-hurricane-mayor-hosts-tumbleweed-takeover",
+     "published": "2026-11-13T14:48:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Up or down? What’s happening with mortgage rates",
+     "title": "‘Fire seasons are becoming fire years’: Will Congress act?",
      "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/11/13/will-mortgage-rates-continue-to-fall-or-are-borrowing-costs-already-heading-up/",
-     "published": "2026-11-13T23:57:08+00:00"
+     "link": "https://www.deseret.com/environment/2026/11/13/fire-seasons-are-becoming-fire-years-will-congress-act/",
+     "published": "2026-11-14T02:15:29+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -120,17 +120,10 @@
     },
     {
      "source": "KSL",
-     "title": "Federal Aviation Administration says airplane departures can resume following nationwide ground stop",
-     "summary": "The Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems.",
+     "title": "FAA issues nationwide ground stop for all flights due to 'extraodinary circumstances,' safety",
+     "summary": "All flights in the United States are grounded until further notice, \"due to extraordinary circumstances and for reasons of safety,\" the Federal Aviation Administration said.",
      "link": "https://www.ksl.com/article/51645749/faa-issues-nationwide-ground-stop-for-all-flights-due-to-extrodinary-circumstances-and-safety",
-     "published": "2026-11-13T19:14:53+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "She’s 13 years old — and she’s in the top 13 on ‘The Voice’",
-     "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/13/the-voice-will-top-13-singer-brianna-cameron-make-the-top-10/",
-     "published": "2026-11-13T23:52:35+00:00"
+     "published": "2026-11-13T14:32:46+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -140,18 +133,25 @@
      "published": "2026-11-13T22:00:23+00:00"
     },
     {
-     "source": "KSL",
-     "title": "FAA lifts ground stop, but several Salt Lake City flights delayed or canceled",
-     "summary": "Federal officials have lifted a nationwide ground stop after several hours on Friday, but not before several flights out of Salt Lake City were delayed or canceled.",
-     "link": "https://www.ksl.com/article/51645760/salt-lake-city-airport-activates-emergency-operations-amid-faa-ground-stop",
-     "published": "2026-11-13T19:10:43+00:00"
+     "source": "Deseret News",
+     "title": "Federal Aviation Administration says airplane departures can resume following nationwide ground stop",
+     "summary": "",
+     "link": "https://www.deseret.com/business/2026/11/13/faa-grounds-flights-across-us/",
+     "published": "2026-11-13T21:45:35+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-     "summary": "",
-     "link": "https://www.deseret.com/u-s-world/2026/11/13/cruise-boat-tanker-collide-in-new-orleans/",
-     "published": "2026-11-13T23:44:12+00:00"
+     "source": "KSL",
+     "title": "Pick Six Previews: Utah to keep undefeated streak, but it Arizona to keep it tight",
+     "summary": "Utah will extend the nation's best win streak, remain undefeated, but will also be the latest hangover victim against-the-spread. With Arizona as a field goal underdog, look for a tight-margin win for the Utes.",
+     "link": "https://www.ksl.com/article/51645730/pick-six-previews-utah-to-keep-undefeated-streak-but-it-arizona-to-keep-it-tight",
+     "published": "2026-11-13T13:42:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Here’s which Utah restaurants are offering Thanksgiving meals for dine-in or takeout",
+     "summary": "Thanksgiving is coming up on Thursday, Nov. 26, and now is the time to decide how you want to feast. Here is a list of the Utah restaurants that are going to be serving special Thanksgiving meals for dine-in or takeout.",
+     "link": "https://www.sltrib.com/artsliving/food/2026/11/01/thanksgiving-utah-restaurants/",
+     "published": "2026-11-13T21:54:27+00:00"
     }
    ]
   },
@@ -161,11 +161,18 @@
    "scope": "United States",
    "items": [
     {
+     "source": "NPR",
+     "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+     "summary": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+     "published": "2026-11-14T10:00:00+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "FAA lifts nationwide ground stop that halted thousands of flights",
-     "summary": "The FAA on Friday issued a rare nationwide ground stop. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
-     "link": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
-     "published": "2026-11-14T02:59:00+00:00"
+     "title": "Microsoft says it \"restored service\" after major worldwide outage",
+     "summary": "A Microsoft outage involving services like Outlook and Teams impacted many users, companies and government services.",
+     "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+     "published": "2026-11-14T07:32:05+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -176,17 +183,17 @@
     },
     {
      "source": "NPR",
-     "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-     "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-     "published": "2026-11-13T22:36:46+00:00"
+     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+     "summary": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+     "published": "2026-11-14T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "How \"Banana Man\" took a small Indiana town by storm",
-     "summary": "Banana Man began popping up around Linton, Indiana, a few months ago. Videos that also began circulating on social media appeared to show a boy biking all over town in a banana suit.",
-     "link": "https://www.cbsnews.com/news/banana-man-linton-indiana-superhero/",
-     "published": "2026-11-14T02:29:27+00:00"
+     "title": "Alaska elects first Democrat governor since 1998",
+     "summary": "Jonathan Kreiss-Tomkins, also known as JKT, campaigned on issues including affordability and funding of public schools",
+     "link": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/",
+     "published": "2026-11-14T07:11:29+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,17 +204,17 @@
     },
     {
      "source": "NPR",
-     "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-     "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-     "published": "2026-11-13T22:36:45+00:00"
+     "title": "An organ transplant controversy tests 'the dead donor rule'",
+     "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+     "published": "2026-11-14T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Nationwide ground stop lifted, Duffy calls for congressional funding to upgrade ATC system",
-     "summary": "The FAA on Friday night lifted a nationwide ground stop issued hours earlier over what DHS Secretary Markwayne Mullin called a telecommunications outage. Mullin and Transportation Secretary Sean Duffy took questions on…",
-     "link": "https://www.cbsnews.com/video/nationwide-ground-stop-lifted-duffy-calls-for-congressional-funding-to-upgrade-atc-system/",
-     "published": "2026-11-14T02:16:30+00:00"
+     "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+     "summary": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+     "link": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+     "published": "2026-11-14T04:44:21+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -218,17 +225,10 @@
     },
     {
      "source": "NPR",
-     "title": "What we know about the FAA nationwide ground stop",
-     "summary": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-     "published": "2026-11-13T22:27:38+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "SpaceX launches first-of-its-kind Starship test flight",
-     "summary": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
-     "link": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
-     "published": "2026-11-14T02:10:25+00:00"
+     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+     "summary": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+     "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+     "published": "2026-11-14T05:12:43+00:00"
     }
    ]
   }
