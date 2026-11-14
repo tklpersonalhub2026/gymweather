@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-13T22:54:59.954044+00:00",
+ "updated": "2026-11-14T03:03:42.967407+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "KPCW",
+     "title": "Park City hits reset button on Bonanza Park amid increased costs, community pushback",
+     "summary": "The city council scrapped a proposal for the 5-acre site Friday and is reevaluating how best to develop it.",
+     "link": "https://www.kpcw.org/park-city/2026-11-13/park-city-hits-reset-button-on-bonanza-park-amid-increased-costs-community-pushback",
+     "published": "2026-11-14T01:30:00+00:00"
+    },
     {
      "source": "Park Record",
      "title": "Summit County, city officials disagree on whether transit funds should prioritize local or regional work",
@@ -14,18 +21,18 @@
      "published": "2026-11-13T22:45:00+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Summit County, transit leaders wrestle with cities over sales tax dollars",
-     "summary": "Local mayors adopted a new policy that hampers High Valley Transit's access to grant money. They say the move will fund a larger number of smaller projects.",
-     "link": "https://www.kpcw.org/summit-county/2026-11-13/summit-county-transit-leaders-wrestle-with-cities-over-sales-tax-dollars",
-     "published": "2026-11-13T21:48:50+00:00"
-    },
-    {
      "source": "TownLift",
-     "title": "FAA halts departures nationwide, grounding flights at Salt Lake City International",
-     "summary": "SALT LAKE CITY, Utah — The Federal Aviation Administration ordered a ground stop for every U.S. airport on Friday afternoon, holding all departing flights at Salt Lake City International Airport",
+     "title": "UPDATE: FAA lifts nationwide ground stop after more than four hours; cause of outage still under investigation",
+     "summary": "SALT LAKE CITY, Utah — The Federal Aviation Administration lifted a nationwide ground stop Friday evening after more than four hours, ABC News reported, ending a rare halt that held",
      "link": "https://townlift.com/2026/11/faa-halts-departures-nationwide-grounding-flights-at-salt-lake-city-international/",
      "published": "2026-11-13T21:38:47+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Park City Film welcomes ski season with November screenings",
+     "summary": "Park City Film is ringing in the winter with independent ski films.",
+     "link": "https://www.kpcw.org/park-city/2026-11-13/park-city-film-welcomes-ski-season-with-november-screenings",
+     "published": "2026-11-14T00:16:13+00:00"
     },
     {
      "source": "Park Record",
@@ -35,18 +42,18 @@
      "published": "2026-11-13T22:30:00+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Flights halted at airports across U.S. due to air traffic control communications problems, FAA says",
-     "summary": "The Federal Aviation Administration has grounded all flights nationwide. The FAA notice on Friday afternoon said the ground stop was being imposed “due to extraordinary circumstances and for reasons of safety.”",
-     "link": "https://www.kpcw.org/local-news/2026-11-13/flights-halted-at-airports-across-us-due-to-unspecified-extraordinary-circumstances-faa-says",
-     "published": "2026-11-13T21:32:38+00:00"
-    },
-    {
      "source": "TownLift",
      "title": "BREAKING: Bonanza 5-acre project collapses under weight of cost and community opposition",
      "summary": "“I wish we would have stopped this process when Kimball left and really taken a look at what happened and why did they leave, and what was the impact of that?” said Councilmember Tana Toly",
      "link": "https://townlift.com/2026/11/bonanza-5-acre-project-collapses-under-weight-of-cost-and-community-opposition/",
      "published": "2026-11-13T21:30:36+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "USPS’s Operation Santa provides holiday cheer to kids in need",
+     "summary": "The United States Postal Service is spreading holiday cheer to children in need through its century old Operation Santa program.",
+     "link": "https://www.kpcw.org/2026-11-13/uspss-operation-santa-provides-holiday-cheer-to-kids-in-need",
+     "published": "2026-11-13T23:53:05+00:00"
     },
     {
      "source": "Park Record",
@@ -64,17 +71,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Park City hits reset button on Bonanza Park amid increased costs, community pushback",
-     "summary": "The city council scrapped a proposal for the 5-acre site Friday and is reevaluating how best to develop it.",
-     "link": "https://www.kpcw.org/park-city/2026-11-13/park-city-hits-reset-button-on-bonanza-park-amid-increased-costs-community-pushback",
-     "published": "2026-11-13T19:30:18+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Riverhorse on Main gets a refresh and a new chef",
-     "summary": "A few changes at Riverhorse on Main will bring the restaurant up to speed as diners are faced with more and more options in the Park City area. The post Riverhorse on Main gets a refresh and a new chef appeared first on…",
-     "link": "https://www.parkrecord.com/2026/11/13/riverhorse-on-main-gets-a-refresh-and-a-new-chef/",
-     "published": "2026-11-13T21:15:00+00:00"
+     "title": "Summit County, transit leaders wrestle with cities over sales tax dollars",
+     "summary": "Local mayors adopted a new policy that hampers High Valley Transit's access to grant money. They say the move will fund a larger number of smaller projects.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-13/summit-county-transit-leaders-wrestle-with-cities-over-sales-tax-dollars",
+     "published": "2026-11-13T21:48:50+00:00"
     }
    ]
   },
@@ -85,10 +85,31 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Advisory issued as rain, snow return to Utah after recent lull",
-     "summary": "Some of Utah's mountain sites could see up to 1 foot of snow this week, with several feet possible by the end of next week.",
-     "link": "https://www.deseret.com/utah/2026/11/13/advisory-issued-as-rain-snow-return-to-utah-after-recent-lull/",
-     "published": "2026-11-13T22:39:50+00:00"
+     "title": "‘Fire seasons are becoming fire years’: Will Congress act?",
+     "summary": "",
+     "link": "https://www.deseret.com/environment/2026/11/13/fire-seasons-are-becoming-fire-years-will-congress-act/",
+     "published": "2026-11-14T02:15:29+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Brian Head sets opening date for Utah’s 2026-27 ski season",
+     "summary": "Brian Head Resort expects its new targeted opening date for the 2026-27 ski and snowboard season to stick - just like the incoming snow.",
+     "link": "https://www.sltrib.com/news/environment/2026/11/13/brian-head-sets-opening-date-utahs/",
+     "published": "2026-11-14T00:40:09+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Millburn extends lead over Lee in tightly contested Davis County Commission race",
+     "summary": "Bret Millburn has extended his 18-vote lead over Susan Lee in the tightly contest race for a Davis County Commission seat, but more votes have to be counted.",
+     "link": "https://www.ksl.com/article/51645784/millburn-extends-lead-over-lee-in-tightly-contested-davis-county-commission-race",
+     "published": "2026-11-13T19:21:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Up or down? What’s happening with mortgage rates",
+     "summary": "",
+     "link": "https://www.deseret.com/u-s-world/2026/11/13/will-mortgage-rates-continue-to-fall-or-are-borrowing-costs-already-heading-up/",
+     "published": "2026-11-13T23:57:08+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -99,59 +120,38 @@
     },
     {
      "source": "KSL",
-     "title": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-     "summary": "At least 180 passengers and crew members were rescued Friday after a tanker lost control, hit and sank a paddleboat on the Mississippi River, the mayor of New Orleans said.",
-     "link": "https://www.ksl.com/article/51645733/tanker-collides-with-river-cruiser-near-port-of-new-orleans",
-     "published": "2026-11-13T15:51:00+00:00"
+     "title": "Federal Aviation Administration says airplane departures can resume following nationwide ground stop",
+     "summary": "The Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems.",
+     "link": "https://www.ksl.com/article/51645749/faa-issues-nationwide-ground-stop-for-all-flights-due-to-extrodinary-circumstances-and-safety",
+     "published": "2026-11-13T19:14:53+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Return to the dark ages",
+     "title": "She’s 13 years old — and she’s in the top 13 on ‘The Voice’",
      "summary": "",
-     "link": "https://www.deseret.com/magazine/2026/11/13/decline-of-reading-portends-new-dark-ages/",
-     "published": "2026-11-13T22:14:35+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/13/the-voice-will-top-13-singer-brianna-cameron-make-the-top-10/",
+     "published": "2026-11-13T23:52:35+00:00"
     },
     {
      "source": "Salt Lake Tribune",
      "title": "Salt Lake City airport halts all flights amid rare nationwide ground stop",
-     "summary": "The national ground stop was issued due to a “communication issue” affecting Air Traffic Control Centers, the U.S. Secretary of Transportation announced.",
+     "summary": "The national ground stop was issued due to a “communication issue” affecting air traffic control centers, the U.S. Secretary of Transportation announced.",
      "link": "https://www.sltrib.com/news/2026/11/13/salt-lake-city-international/",
      "published": "2026-11-13T22:00:23+00:00"
     },
     {
      "source": "KSL",
-     "title": "Have you seen this? Johnny Depp is not afraid of goats in hilarious interview",
-     "summary": "Ghosts or goats? A reporter and Johnny Depp can't seem to get on the same page in a viral video from the \"Ebenezer\" premiere.",
-     "link": "https://www.ksl.com/article/51645545/have-you-seen-this-johnny-depp-is-not-afraid-of-goats-in-hilarious-interview",
-     "published": "2026-11-13T15:30:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Here’s which Utah restaurants are offering Thanksgiving meals for dine-in or takeout",
-     "summary": "Thanksgiving is coming up on Thursday, Nov. 26, and now is the time to decide how you want to feast. Here is a list of the Utah restaurants that are going to be serving special Thanksgiving meals for dine-in or takeout.",
-     "link": "https://www.sltrib.com/artsliving/food/2026/11/01/thanksgiving-utah-restaurants/",
-     "published": "2026-11-13T21:54:27+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Flights halted at airports across U.S. due to air traffic control communications problems, FAA says",
-     "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/13/faa-grounds-flights-across-us/",
-     "published": "2026-11-13T21:45:35+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Salt Lake City airport activates emergency operations amid FAA ground stop",
-     "summary": "Utah's largest airport has activated its emergency operations center to help communicate with airline passengers affected by a federal ground stop issued Friday afternoon.",
+     "title": "FAA lifts ground stop, but several Salt Lake City flights delayed or canceled",
+     "summary": "Federal officials have lifted a nationwide ground stop after several hours on Friday, but not before several flights out of Salt Lake City were delayed or canceled.",
      "link": "https://www.ksl.com/article/51645760/salt-lake-city-airport-activates-emergency-operations-amid-faa-ground-stop",
-     "published": "2026-11-13T15:19:35+00:00"
+     "published": "2026-11-13T19:10:43+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Trump and Stephen A. Smith go toe-to-toe on midterms, Obama and more",
+     "title": "Rescues are underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/13/trump-and-stephen-a-smith-go-toe-to-toe-on-midterms-obama-and-more/",
-     "published": "2026-11-13T21:03:57+00:00"
+     "link": "https://www.deseret.com/u-s-world/2026/11/13/cruise-boat-tanker-collide-in-new-orleans/",
+     "published": "2026-11-13T23:44:12+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Naresh Bhatt Convicted: The Road to Justice for Mamta's Family | Case by Case | \"48 Hours\" Podcast",
-     "summary": "A Virginia jury has found Naresh Bhatt guilty of murdering his wife, Mamta Kafle Bhatt, whose body has never been found. Just days before the verdict, Bhatt stunned the courtroom when he admitted to dismembering and…",
-     "link": "https://www.cbsnews.com/video/111326-48-hours-case-by-case-episode-30/",
-     "published": "2026-11-14T00:00:00+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-     "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-     "published": "2026-11-13T22:18:55+00:00"
+     "title": "FAA lifts nationwide ground stop that halted thousands of flights",
+     "summary": "The FAA on Friday issued a rare nationwide ground stop. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
+     "link": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+     "published": "2026-11-14T02:59:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "FAA grounds all flights at U.S. airports due to air traffic control communications problems",
-     "summary": "The FAA notice said the ground stop was being imposed \"due to extraordinary circumstances and for reasons of safety.\"",
-     "link": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems",
-     "published": "2026-11-13T21:41:27+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Passengers rescued after tanker hit river cruise boat in New Orleans",
-     "summary": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
-     "link": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
-     "published": "2026-11-13T22:53:38+00:00"
+     "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
+     "summary": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster malfunctioned and ended up in the water Friday, but the spacecraft still soared into orbit in its boldest test yet.",
+     "link": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
+     "published": "2026-11-14T00:20:20+00:00"
     },
     {
      "source": "NPR",
-     "title": "FAA issues nationwide ground stop for all U.S. airports",
-     "summary": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-     "published": "2026-11-13T21:55:13+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
-     "summary": "Democrat Eileen Laubacher defeated Rep. Lauren Boebert for a Colorado U.S. House seat on Friday, ousting a three-term Republican and staple of conservative media.",
-     "link": "https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher",
-     "published": "2026-11-13T21:32:51+00:00"
+     "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+     "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+     "published": "2026-11-13T22:36:46+00:00"
     },
     {
      "source": "CBS News",
-     "title": "\"Face the Nation with Margaret Brennan\" guests for Nov. 15, 2026",
-     "summary": "This week's guests include Republican Sen. Bill Cassidy, Democratic Rep. Jim Himes and Republican Rep. John Moolenaar.",
-     "link": "https://www.cbsnews.com/news/face-the-nation-guests-11-15-2026/",
-     "published": "2026-11-13T22:41:33+00:00"
+     "title": "How \"Banana Man\" took a small Indiana town by storm",
+     "summary": "Banana Man began popping up around Linton, Indiana, a few months ago. Videos that also began circulating on social media appeared to show a boy biking all over town in a banana suit.",
+     "link": "https://www.cbsnews.com/news/banana-man-linton-indiana-superhero/",
+     "published": "2026-11-14T02:29:27+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'",
+     "summary": "Air travel across the country came to a standstill on Friday after the Federal Aviation Administration issued a rare nationwide ground stop citing \"extraordinary circumstances\" and \"reasons of safety.\" Aviation…",
+     "link": "https://www.pbs.org/newshour/show/faa-issues-rare-nationwide-ground-stop-due-to-extraordinary-circumstances",
+     "published": "2026-11-13T23:56:33+00:00"
     },
     {
      "source": "NPR",
-     "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-     "summary": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-     "published": "2026-11-13T21:06:09+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Rescues operations underway in New Orleans after tanker hits river cruise boat",
-     "summary": "A tanker struck a New Orleans river cruise with 129 passengers on board on Friday, partially submerging the boat. Rescues were underway on the Mississippi River, officials say.",
-     "link": "https://www.pbs.org/newshour/nation/rescues-operations-underway-in-new-orleans-after-tanker-hits-river-cruise-boat",
-     "published": "2026-11-13T21:00:35+00:00"
+     "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+     "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+     "published": "2026-11-13T22:36:45+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Mullin says FAA ground stop caused by telecommunications outage",
-     "summary": "Homeland Security Secretary Markwayne Mullin briefed reporters on the ongoing FAA ground stop on Friday, saying it was caused by a telecommunications outage with no indication of an attack. Major Garrett anchors ongoing…",
-     "link": "https://www.cbsnews.com/video/homeland-security-secretary-markwayne-mullin-says-faa-ground-stop-caused-by-telecommunications-outage/",
-     "published": "2026-11-13T22:29:13+00:00"
+     "title": "Nationwide ground stop lifted, Duffy calls for congressional funding to upgrade ATC system",
+     "summary": "The FAA on Friday night lifted a nationwide ground stop issued hours earlier over what DHS Secretary Markwayne Mullin called a telecommunications outage. Mullin and Transportation Secretary Sean Duffy took questions on…",
+     "link": "https://www.cbsnews.com/video/nationwide-ground-stop-lifted-duffy-calls-for-congressional-funding-to-upgrade-atc-system/",
+     "published": "2026-11-14T02:16:30+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "News Wrap: Tanker crashes into river cruise boat in New Orleans",
+     "summary": "In our news wrap Friday, a ship collided with a river cruise boat in New Orleans, causing it to sink in the Mississippi River, some Microsoft users were offline for a second day as the company scrambled to restore its…",
+     "link": "https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans",
+     "published": "2026-11-13T23:55:45+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "What we know about the FAA nationwide ground stop",
+     "summary": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+     "published": "2026-11-13T22:27:38+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "SpaceX launches first-of-its-kind Starship test flight",
+     "summary": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
+     "link": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
+     "published": "2026-11-14T02:10:25+00:00"
     }
    ]
   }
