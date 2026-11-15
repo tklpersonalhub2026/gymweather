@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:59:40.693140+00:00",
+ "updated": "2026-11-15T20:19:09.311053+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "TownLift",
+     "title": "What’s next for Utah’s public lands after the midterm elections?",
+     "summary": "A new federal land sale proposal and changes in congressional leadership could alter how public lands are managed across the West.",
+     "link": "https://townlift.com/2026/11/federal-land-sale-proposal-congressional-leadership-changes-put-utah-public-lands-in-focus/",
+     "published": "2026-11-15T20:13:49+00:00"
+    },
+    {
      "source": "Park Record",
      "title": "Obituary: Insa Riepen",
      "summary": "Insa Marika-Anna Riepen, beloved mother, friend, and tireless advocate for her Park City community, passed away November 8, 2026, at age 75. Petite in stature and formidable in determination, she showed how much one…",
      "link": "https://www.parkrecord.com/2026/11/14/obituary-insa-riepen/",
      "published": "2026-11-14T21:13:46+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Summit County owns the land. Can it turn it into affordable housing?",
-     "summary": "Council members signal support for advancing Cline Dahle, exploring Gilmore property's future and working with Coalville on potential housing",
-     "link": "https://townlift.com/2026/11/summit-county-looks-to-county-owned-land-to-move-affordable-housing-plans-forward/",
-     "published": "2026-11-14T19:14:22+00:00"
     },
     {
      "source": "KPCW",
@@ -29,10 +29,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Troopers say Wyoming man pointed gun, fired shot in I-80 road rage near Silver Creek Junction",
-     "summary": "PARK CITY, Utah — A Wyoming man is being held without bail after a Utah Highway Patrol trooper said he pointed a handgun at another driver and fired a shot",
-     "link": "https://townlift.com/2026/11/troopers-say-wyoming-man-pointed-gun-fired-shot-in-i-80-road-rage-near-silver-creek-junction/",
-     "published": "2026-11-14T18:31:11+00:00"
+     "title": "New UDOT quiz helps Utah drivers prepare for winter road requirements",
+     "summary": "SALT LAKE CITY, Utah — As winter driving season gets underway, the Utah Department of Transportation announced a new way for drivers to check whether their vehicles meet traction requirements",
+     "link": "https://townlift.com/2026/11/udot-launches-winter-traction-quiz-as-cottonwood-canyons-sticker-program-returns-for-sixth-season/",
+     "published": "2026-11-15T18:08:43+00:00"
     },
     {
      "source": "Park Record",
@@ -50,10 +50,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Breaking the Mold",
-     "summary": "Seamless Signs CEO Boyd Mitchell brands businesses while merging culture, craft, and community connections",
-     "link": "https://townlift.com/2026/11/breaking-the-mold/",
-     "published": "2026-11-14T17:05:52+00:00"
+     "title": "Summit County owns the land. Can it turn it into affordable housing?",
+     "summary": "Council members signal support for advancing Cline Dahle, exploring Gilmore property's future and working with Coalville on potential housing",
+     "link": "https://townlift.com/2026/11/summit-county-looks-to-county-owned-land-to-move-affordable-housing-plans-forward/",
+     "published": "2026-11-14T19:14:22+00:00"
     },
     {
      "source": "Park Record",
@@ -70,11 +70,11 @@
      "published": "2026-11-13T23:53:05+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Betty Diaries: Dating by the numbers",
-     "summary": "\"This year marks the 40th anniversary of a study published in Newsweek that triggered among single women what can only be called widespread panic.\" The post Betty Diaries: Dating by the numbers appeared first on Park…",
-     "link": "https://www.parkrecord.com/2026/11/14/betty-diaries-dating-by-the-numbers/",
-     "published": "2026-11-14T15:00:00+00:00"
+     "source": "TownLift",
+     "title": "Troopers say Wyoming man pointed gun, fired shot in I-80 road rage near Silver Creek Junction",
+     "summary": "PARK CITY, Utah — A Wyoming man is being held without bail after a Utah Highway Patrol trooper said he pointed a handgun at another driver and fired a shot",
+     "link": "https://townlift.com/2026/11/troopers-say-wyoming-man-pointed-gun-fired-shot-in-i-80-road-rage-near-silver-creek-junction/",
+     "published": "2026-11-14T18:31:11+00:00"
     }
    ]
   },
@@ -84,6 +84,13 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Deseret News",
+     "title": "Opinion: If the customer service is good, does it matter if it’s AI?",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/15/results-matter-more-than-the-method/",
+     "published": "2026-11-15T20:00:00+00:00"
+    },
+    {
      "source": "Salt Lake Tribune",
      "title": "Voices: I watched my hometown come together after disaster. But rural Utah still needs help.",
      "summary": "“The road to recovery is long for Beaver County,” Aspen Marshall writes in an op-ed. “We need federal funding.”",
@@ -91,18 +98,18 @@
      "published": "2026-11-15T13:05:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "New federal rule ends housing aid for some families",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/15/us-citizenship-now-needed-for-housing-assistance/",
-     "published": "2026-11-15T11:00:00+00:00"
+     "source": "KSL",
+     "title": "A Georgia O'Keeffe painting was buried in a New York apartment closet. It is going up for auction",
+     "summary": "The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
+     "link": "https://www.ksl.com/article/news/business/a-georgia-okeeffe-painting-was-buried-in-a-new-york-apartment-closet-it-is-going-up-for-auction/51645985",
+     "published": "2026-11-15T13:02:00+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Utah woman hopes DNA testing will finally bring home relative killed in World War II",
+     "source": "Deseret News",
+     "title": "Analysis: Latter-day Saints, Evangelicals among most discriminated-against groups in academia",
      "summary": "",
-     "link": "https://www.ksl.com/article/51645765/utah-woman-hopes-dna-testing-will-finally-bring-home-relative-killed-in-world-war-ii",
-     "published": "2026-11-15T07:50:00+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/15/survey-shows-religious-discrimination-academia-latter-day-saints-evangelicals/",
+     "published": "2026-11-15T18:27:37+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -112,39 +119,18 @@
      "published": "2026-11-15T13:01:00+00:00"
     },
     {
-     "source": "Deseret News",
-     "title": "Analysis: Latter-day Saints, Evangelicals among most discriminated-against groups in academia",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/15/survey-shows-religious-discrimination-academia-latter-day-saints-evangelicals/",
-     "published": "2026-11-15T11:00:00+00:00"
-    },
-    {
      "source": "KSL",
-     "title": "Sen. Curtis questions Trump nominee on 'skeptical' comments about Latter-day Saints",
-     "summary": "Utah Sen. John Curtis is closely examining a Trump nominee for a high-ranking diplomatic position within the State Department, specifically citing concerns about her past remarks toward The Church of Jesus Christ of…",
-     "link": "https://www.ksl.com/article//sen-curtis-questions-trump-nominee-on-skeptical-comments-about-latter-day-saints/51645761",
-     "published": "2026-11-15T07:15:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Letter: Rep. Mike Kennedy: Quit being a rubber stamp for evil",
-     "summary": "",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/15/letter-rep-mike-kennedy-quit-being/",
-     "published": "2026-11-15T13:00:01+00:00"
+     "title": "2 troopers injured while stopping a suspected drunken driver near Park City",
+     "summary": "Two Utah Highway Patrol troopers were injured Sunday morning after stopping a vehicle from hitting investigators on the scene of a crash site near Park City.",
+     "link": "https://www.ksl.com/article/51646047/2-troopers-injured-while-stopping-a-suspected-drunken-driver-near-park-city",
+     "published": "2026-11-15T12:39:32+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "7 seasons of ‘The Chosen’ changed the people who made it",
+     "title": "Opinion: Forget the next election. Focus on your neighbor down the street",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/15/how-the-chosen-changed-the-people-who-made-it-after-seven-seasons/",
-     "published": "2026-11-15T06:04:13+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "No. 2 Utah outlasts No. 23 Arizona in late-night shootout to stay undefeated",
-     "summary": "Utah quarterback Devon Dampier hit Creed Whittemore late in the fourth quarter, and the receiver went 70 yards untouched for what turned out to be the game-winning score.",
-     "link": "https://www.ksl.com/article/51645926/no-2-utah-outlasts-no-23-arizona-in-late-night-shootout-to-stay-undefeated",
-     "published": "2026-11-15T01:42:05+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/15/choose-neighbors-over-elections/",
+     "published": "2026-11-15T18:17:48+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -152,6 +138,20 @@
      "summary": "",
      "link": "https://www.sltrib.com/opinion/letters/2026/11/15/letter-world-is-paying-our/",
      "published": "2026-11-15T13:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Federal grant program wrapping up 7 years of helping students find a path to college",
+     "summary": "The USU STARS GEAR UP program just wrapped up its fourth grant after seven years of service.",
+     "link": "https://www.ksl.com/article/51644833/federal-grantprogram-wrapping-up-7-years-of-helping-students-find-a-path-to-college",
+     "published": "2026-11-15T12:02:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Opinion: Let’s get the delayed ‘golden age of America’ rolling",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/15/lets-get-the-golden-age-of-america-rolling/",
+     "published": "2026-11-15T18:15:28+00:00"
     }
    ]
   },
@@ -162,10 +162,59 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Billy Evans tells his side of \"You Can See Everything,\" Elizabeth Holmes' portrayal",
-     "summary": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he says have been made…",
-     "link": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
-     "published": "2026-11-15T14:59:28+00:00"
+     "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+     "summary": "The following is the transcript of the interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
+     "link": "https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-11-15-2026/",
+     "published": "2026-11-15T20:07:02+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+     "summary": "On the penultimate day of his visit to his adopted homeland, Leo channeled Pope Francis by emphasizing Catholic teaching that links care for the most vulnerable with care for God's creation.",
+     "link": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
+     "published": "2026-11-15T19:57:37+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+     "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+     "published": "2026-11-15T17:45:27+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Cassidy slams RFK Jr. for \"series of failures\" as HHS secretary",
+     "summary": "GOP Sen. Bill Cassidy of Louisiana railed against Robert F. Kennedy Jr. for what he called a \"series of failures\" at the helm of the Department of Health and Human Services.",
+     "link": "https://www.cbsnews.com/news/rfjk-series-of-failures-hhs-bill-cassidy-face-the-nation/",
+     "published": "2026-11-15T20:04:57+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
+     "summary": "Restrictions on Ukraine's Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelenskyy said Sunday.",
+     "link": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
+     "published": "2026-11-15T18:40:21+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+     "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+     "published": "2026-11-15T13:11:30+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Vulcan rocket fails in major setback for United Launch Alliance",
+     "summary": "The loss of its new Vulcan rocket was the first outright failure for United Launch Alliance, a major setback in the commercial launch industry.",
+     "link": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/",
+     "published": "2026-11-15T20:04:05+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+     "summary": "Throw in a few more examples just from Friday — a cruise ship that overturned in New Orleans when a tanker slammed into it, suspicious drones over a U.S. air base in Britain, a bomb found near an ethanol plant in Ohio.",
+     "link": "https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder",
+     "published": "2026-11-15T17:05:04+00:00"
     },
     {
      "source": "NPR",
@@ -175,60 +224,11 @@
      "published": "2026-11-15T10:00:00+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
-     "summary": "Michael McCormick, a former airspace manager with the Federal Aviation Administration, said it could take days for airlines — many of which had to divert flights — to resume normal operations after officials lifted the…",
-     "link": "https://www.pbs.org/newshour/nation/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues",
-     "published": "2026-11-14T22:35:29+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "This week on \"Sunday Morning\" (Nov. 15)",
-     "summary": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
-     "published": "2026-11-15T14:55:41+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
-     "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-     "published": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-     "summary": "It was the grand finale that Elon Musk and his team hoped for — the first-ever capture of a Starship flying back from space. But with the first-stage booster exploding shortly after Friday's liftoff from Texas, the…",
-     "link": "https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first",
-     "published": "2026-11-14T21:56:15+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Transcript: Transportation Secretary Sean Duffy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-     "summary": "The following is the transcript of the interview with Transportation Secretary Sean Duffy that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-     "link": "https://www.cbsnews.com/news/sean-duffy-transportation-secretary-face-the-nation-transcript-11-15-2026/",
-     "published": "2026-11-15T14:54:26+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-     "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-     "published": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
-     "summary": "Trump's tonal shifts have only added to the uncertainty about what comes next in a war in which America's allies were not consulted before it was started but nonetheless struggle to deal with its economic ramifications.",
-     "link": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead",
-     "published": "2026-11-14T21:17:42+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Macy's Thanksgiving Day Parade turns 100",
-     "summary": "This year, Macy's celebrates its 100th Thanksgiving Day Parade in New York City. Correspondent Mo Rocca learns how, a century ago, puppeteer and artist Tony Sarg created the parade's iconic balloons, floats and…",
-     "link": "https://www.cbsnews.com/video/macys-thanksgiving-day-parade-turns-100/",
-     "published": "2026-11-15T14:53:07+00:00"
+     "title": "Transcript: Rep. John Moolenaar on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+     "summary": "The following is the transcript of the interview with Rep. John Moolenaar, Republican of Michigan, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
+     "link": "https://www.cbsnews.com/news/john-moolenaar-michigan-republican-face-the-nation-transcript-11-15-2026/",
+     "published": "2026-11-15T20:03:16+00:00"
     }
    ]
   }
