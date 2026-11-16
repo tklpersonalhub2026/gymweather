@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:19:09.311053+00:00",
+ "updated": "2026-11-16T00:01:52.567367+00:00",
  "sections": [
   {
    "key": "local",
@@ -99,10 +99,10 @@
     },
     {
      "source": "KSL",
-     "title": "A Georgia O'Keeffe painting was buried in a New York apartment closet. It is going up for auction",
-     "summary": "The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
-     "link": "https://www.ksl.com/article/news/business/a-georgia-okeeffe-painting-was-buried-in-a-new-york-apartment-closet-it-is-going-up-for-auction/51645985",
-     "published": "2026-11-15T13:02:00+00:00"
+     "title": "Federal grant program wrapping up 7 years of helping students find a path to college",
+     "summary": "The USU STARS GEAR UP program just wrapped up its fourth grant after seven years of service.",
+     "link": "https://www.ksl.com/article/51644833/federal-grantprogram-wrapping-up-7-years-of-helping-students-find-a-path-to-college",
+     "published": "2026-11-15T12:02:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -120,10 +120,10 @@
     },
     {
      "source": "KSL",
-     "title": "2 troopers injured while stopping a suspected drunken driver near Park City",
-     "summary": "Two Utah Highway Patrol troopers were injured Sunday morning after stopping a vehicle from hitting investigators on the scene of a crash site near Park City.",
-     "link": "https://www.ksl.com/article/51646047/2-troopers-injured-while-stopping-a-suspected-drunken-driver-near-park-city",
-     "published": "2026-11-15T12:39:32+00:00"
+     "title": "Latter-day Saint leader invites followers of Jesus Christ to become peacemakers in 'hearts, homes and communities'",
+     "summary": "The leader of The Church of Jesus Christ of Latter-day Saints has extended an invitation for the upcoming Christmas season: \"Let this be a season of kindness and goodwill.\"",
+     "link": "https://www.ksl.com/article/news/utah/religion/latter-day-saint-leader-invites-followers-of-jesus-christ-to-become-peacemakers-in-hearts-homes-and-communities/51646028",
+     "published": "2026-11-15T11:35:04+00:00"
     },
     {
      "source": "Deseret News",
@@ -134,17 +134,17 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Letter: The world is paying for our gasoline habit. Let’s stop using and get clean.",
-     "summary": "",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/15/letter-world-is-paying-our/",
+     "title": "Bagley Cartoon: MAGA semantics, Russia-Ukraine talks, White House transparency, Utah Legislature",
+     "summary": "This week's cartoons from The Salt Lake Tribune's Pat Bagley.",
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/15/bagley-cartoon-maga-semantics/",
      "published": "2026-11-15T13:00:01+00:00"
     },
     {
      "source": "KSL",
-     "title": "Federal grant program wrapping up 7 years of helping students find a path to college",
-     "summary": "The USU STARS GEAR UP program just wrapped up its fourth grant after seven years of service.",
-     "link": "https://www.ksl.com/article/51644833/federal-grantprogram-wrapping-up-7-years-of-helping-students-find-a-path-to-college",
-     "published": "2026-11-15T12:02:00+00:00"
+     "title": "Salt Lake Masonic Temple still open after nearly a century in Utah",
+     "summary": "The Salt Lake Masonic Temple was built in the late 1920s. In spite of its age, the building is still used to this day and is open to tours, thanks in part to Preservation Utah.",
+     "link": "https://www.ksl.com/article/51644284/salt-lake-masonic-temple-still-open-after-nearly-a-century-in-utah",
+     "published": "2026-11-15T11:15:00+00:00"
     },
     {
      "source": "Deseret News",
@@ -162,17 +162,59 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-     "summary": "The following is the transcript of the interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-     "link": "https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-11-15-2026/",
-     "published": "2026-11-15T20:07:02+00:00"
+     "title": "60 Minutes Transcript: John Malkovich on his career",
+     "summary": "John Malkovich says he couldn't teach the John Malkovich method—because there's no such thing—\"and I certainly wouldn't recommend studying it.\"",
+     "link": "https://www.cbsnews.com/news/john-malkovich-60-minutes-transcript/",
+     "published": "2026-11-16T00:00:22+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
-     "summary": "On the penultimate day of his visit to his adopted homeland, Leo channeled Pope Francis by emphasizing Catholic teaching that links care for the most vulnerable with care for God's creation.",
-     "link": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
-     "published": "2026-11-15T19:57:37+00:00"
+     "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+     "summary": "The preliminary finding from National Transportation Safety Board officials provided the first official word on what caused Friday's crash of the Atlantic Asphalt tanker into the American Heritage cruise ship, which…",
+     "link": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+     "published": "2026-11-15T23:02:00+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+     "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+     "published": "2026-11-15T22:41:22+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "Parents whose sons died from kratom use warn about the substance",
+     "summary": "Kratom is derived from a tree in Southeast Asia. Advocates say it can help with opioid addiction, while health experts say it can lead to death.",
+     "link": "https://www.cbsnews.com/news/parents-whose-sons-died-from-kratom-use-warn-about-substance-60-minutes/",
+     "published": "2026-11-16T00:00:20+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+     "summary": "The emerging fight, which will shape the 2028 presidential nominating contest, represents a rare challenge to Trump's dominance, even after the party's worst midterm performance in a generation.",
+     "link": "https://www.pbs.org/newshour/politics/trumps-handpicked-party-chair-faces-a-rebellion-as-midterm-losses-challenge-presidents-grip-on-gop",
+     "published": "2026-11-15T22:43:07+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+     "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+     "published": "2026-11-15T22:07:55+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "60 Minutes Transcript: Kratom faces scrutiny over health concerns",
+     "summary": "Kratom products, sold at gas stations, have found allies in Washington. But health experts warn it is an addictive opioid, fueling increasing outrage that it remains legal in most states.",
+     "link": "https://www.cbsnews.com/news/kratom-60-minutes-transcript/",
+     "published": "2026-11-16T00:00:19+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "2 planes collide on the ground in Miami, only minor injuries reported",
+     "summary": "The accident happened at about 9 p.m. Saturday and involved a Copa Airlines Boeing 737 aircraft with 172 people aboard and a UPS Boeing 767 cargo plane, according to the National Transportation Safety Board and Copa…",
+     "link": "https://www.pbs.org/newshour/nation/2-planes-collide-on-the-ground-in-miami-only-minor-injuries-reported",
+     "published": "2026-11-15T22:16:01+00:00"
     },
     {
      "source": "NPR",
@@ -183,52 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Cassidy slams RFK Jr. for \"series of failures\" as HHS secretary",
-     "summary": "GOP Sen. Bill Cassidy of Louisiana railed against Robert F. Kennedy Jr. for what he called a \"series of failures\" at the helm of the Department of Health and Human Services.",
-     "link": "https://www.cbsnews.com/news/rfjk-series-of-failures-hhs-bill-cassidy-face-the-nation/",
-     "published": "2026-11-15T20:04:57+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
-     "summary": "Restrictions on Ukraine's Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelenskyy said Sunday.",
-     "link": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
-     "published": "2026-11-15T18:40:21+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-     "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-     "published": "2026-11-15T13:11:30+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Vulcan rocket fails in major setback for United Launch Alliance",
-     "summary": "The loss of its new Vulcan rocket was the first outright failure for United Launch Alliance, a major setback in the commercial launch industry.",
-     "link": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/",
-     "published": "2026-11-15T20:04:05+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-     "summary": "Throw in a few more examples just from Friday — a cruise ship that overturned in New Orleans when a tanker slammed into it, suspicious drones over a U.S. air base in Britain, a bomb found near an ethanol plant in Ohio.",
-     "link": "https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder",
-     "published": "2026-11-15T17:05:04+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-     "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
-     "published": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Transcript: Rep. John Moolenaar on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-     "summary": "The following is the transcript of the interview with Rep. John Moolenaar, Republican of Michigan, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-     "link": "https://www.cbsnews.com/news/john-moolenaar-michigan-republican-face-the-nation-transcript-11-15-2026/",
-     "published": "2026-11-15T20:03:16+00:00"
+     "title": "U.S. families demand answers on Iran war deaths",
+     "summary": "This week, the families will finally be briefed on the results of the U.S. Army investigation into the strike.",
+     "link": "https://www.cbsnews.com/news/military-families-want-answers-on-iran-war-deaths-60-minutes/",
+     "published": "2026-11-16T00:00:17+00:00"
     }
    ]
   }
