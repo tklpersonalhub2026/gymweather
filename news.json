@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:32:12.082338+00:00",
+ "updated": "2026-11-20T10:24:00.778461+00:00",
  "sections": [
   {
    "key": "local",
@@ -92,10 +92,10 @@
     },
     {
      "source": "KSL",
-     "title": "Former Salt Lake rec center becomes affordable housing",
-     "summary": "Innovation Park at Liberty Wells officially opened Thursday, transforming the former recreation center into a development featuring 36 townhomes and 30 apartments.",
-     "link": "https://www.ksl.com/article/51647041/former-salt-lake-rec-center-becomes-affordable-housing",
-     "published": "2026-11-19T19:03:00+00:00"
+     "title": "Lehi family pays it forward after contractors donate garage remodel in son's memory",
+     "summary": "After 20-year-old Dominic Millward died last month, a local contractor who showed up for a forgotten flooring estimate rallied industry suppliers to renovate the Lehi family's garage for free in his memory. Moved by the…",
+     "link": "https://www.ksl.com/article/51647046/lehi-family-pays-it-forward-after-contractors-donate-garage-remodel-in-sons-memory",
+     "published": "2026-11-19T22:28:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -113,10 +113,10 @@
     },
     {
      "source": "KSL",
-     "title": "Hooper man faces 41 felony counts, including 21 for secretly recording children",
-     "summary": "A Hooper man who served as a teacher at a church faces 41 felony counts — including 21 for secretly recording children and 19 for possession of child sexual abuse material.",
-     "link": "https://www.ksl.com/article/51646916/hooper-church-teacher-faces-41-felony-counts-including-21-for-secretly-recording-children",
-     "published": "2026-11-19T18:51:00+00:00"
+     "title": "4 ways you can 'love your kids so much that their grandkids feel it'",
+     "summary": "Eli Harwood shares four ways parents can help build generational love.",
+     "link": "https://www.ksl.com/article/51645712/4-ways-you-can-love-your-kids-so-much-that-their-grandkids-feel-it",
+     "published": "2026-11-19T22:05:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -134,10 +134,10 @@
     },
     {
      "source": "KSL",
-     "title": "Anthropic surges after biggest IPO on record, despite fears that AI is running amok",
-     "summary": "The artificial intelligence giant Anthropic rose sharply after making the biggest public stock offering ever, at one point surpassing $2 trillion in value.",
-     "link": "https://www.ksl.com/article/51646814/anthropic-surges-after-biggest-ipo-on-record-despite-fears-that-ai-is-running-amok",
-     "published": "2026-11-19T18:32:00+00:00"
+     "title": "Utah drivers can check canyon traction-law readiness with new UDOT quiz",
+     "summary": "As snow begins to accumulate in the Wasatch Mountains, transportation officials urge drivers to make sure their vehicles meet traction law requirements before heading into the Cottonwood Canyons.",
+     "link": "https://www.ksl.com/article/51647021/udot-reminds-drivers-to-prepare-before-heading-into-cottonwood-canyons",
+     "published": "2026-11-19T21:39:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -161,11 +161,18 @@
    "scope": "United States",
    "items": [
     {
+     "source": "NPR",
+     "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+     "summary": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
+     "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+     "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "Marine Corps hero under federal investigation",
-     "summary": "Retired Sgt. Maj. Bradley Kasal, whose bloodied visage was depicted in an iconic Iraq War photo, is under investigation stemming from his tenure as a high school JROTC instructor.",
-     "link": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/",
-     "published": "2026-11-20T02:28:01+00:00"
+     "title": "Iran may be working on biological weapons, Trump says",
+     "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+     "published": "2026-11-20T08:51:51+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -176,17 +183,17 @@
     },
     {
      "source": "NPR",
-     "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-     "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-     "published": "2026-11-19T18:28:23+00:00"
+     "title": "How exactly did Trump get so rich on crypto? We explain",
+     "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+     "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+     "published": "2026-11-20T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Judge further delays Trump's plan for D.C. arch",
-     "summary": "A federal judge is putting President Trump's plans for a triumphal arch on hold for another two weeks. With a Democrat-led Congress coming into session in 2027, lawmakers could throw a wrench into Mr. Trump's plans for…",
-     "link": "https://www.cbsnews.com/video/judge-further-delays-trumps-plan-for-dc-arch/",
-     "published": "2026-11-20T02:01:46+00:00"
+     "title": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
+     "summary": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
+     "link": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
+     "published": "2026-11-20T08:43:27+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -197,17 +204,17 @@
     },
     {
      "source": "NPR",
-     "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-     "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-     "published": "2026-11-19T17:03:11+00:00"
+     "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+     "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+     "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+     "published": "2026-11-20T10:00:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "No major agreements from Trump summit with Putin, Xi",
-     "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held a historic summit this week in China, but they didn't reach any major agreements. Zeke Miller, deputy Washington bureau chief at…",
-     "link": "https://www.cbsnews.com/video/no-major-agreements-from-trump-summit-with-putin-xi/",
-     "published": "2026-11-20T01:55:00+00:00"
+     "title": "Photos, videos show devastating South Florida flooding",
+     "summary": "Significant flooding devastated some South Florida communities this week.",
+     "link": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
+     "published": "2026-11-20T07:18:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -218,17 +225,10 @@
     },
     {
      "source": "NPR",
-     "title": "The midterms were the largest win for either party in 50 years",
-     "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-     "published": "2026-11-19T15:55:05+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Anthropic's 7 co-founders now worth about $20 billion each after record IPO",
-     "summary": "Anthropic on Thursday posted the largest IPO on record and ended the day with shares up 17%, putting its valuation at $1.7 trillion. Miles Kruppa, technology correspondent for the Economist, joins CBS News with more.",
-     "link": "https://www.cbsnews.com/video/anthropics-7-co-founders-now-worth-about-20-billion-each-after-record-ipo/",
-     "published": "2026-11-20T01:50:44+00:00"
+     "title": "The U.K. and EU hold a rare summit to strengthen ties",
+     "summary": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+     "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+     "published": "2026-11-20T09:14:41+00:00"
     }
    ]
   }
