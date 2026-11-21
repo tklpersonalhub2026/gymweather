@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:19:44.029009+00:00",
+ "updated": "2026-11-21T07:25:55.616515+00:00",
  "sections": [
   {
    "key": "local",
@@ -8,10 +8,10 @@
    "items": [
     {
      "source": "KPCW",
-     "title": "Summit County plans to connect Sun Peak, Canyons with bike path",
-     "summary": "County leaders hope more trail infrastructure makes the area safer for pedestrians and cyclists.",
-     "link": "https://www.kpcw.org/summit-county/2026-11-20/summit-county-plans-to-connect-sun-peak-canyons-with-bike-path",
-     "published": "2026-11-21T00:17:20+00:00"
+     "title": "High Valley Transit adds Coalville, UOP service in winter overhaul",
+     "summary": "Changes are coming to nearly every route next month, including a late-night bus to Salt Lake City and no more Kamas shuttle.",
+     "link": "https://www.kpcw.org/state-regional/2026-11-20/high-valley-transit-adds-coalville-uop-service-in-winter-overhaul",
+     "published": "2026-11-21T00:38:55+00:00"
     },
     {
      "source": "TownLift",
@@ -29,10 +29,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Thousands of Thanksgiving turkeys head to families in Park City Realtors drive",
-     "summary": "This is Park City nonprofit's 25th turkey drive.",
-     "link": "https://www.kpcw.org/park-city/2026-11-20/thousands-of-thanksgiving-turkeys-head-to-families-in-park-city-realtors-drive",
-     "published": "2026-11-20T23:42:28+00:00"
+     "title": "UDOT to close Summit County seasonal roads before Thanksgiving",
+     "summary": "Winter has returned to the Wasatch Back along with winter driving conditions.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-20/udot-to-close-summit-county-seasonal-roads-before-thanksgiving",
+     "published": "2026-11-21T00:21:34+00:00"
     },
     {
      "source": "Park Record",
@@ -50,10 +50,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Double semi crash closes US 40 through Wasatch County Friday",
-     "summary": "U.S. Highway 40 through Wasatch County was closed for nearly seven hours Friday.",
-     "link": "https://www.kpcw.org/wasatch-county/2026-11-20/double-semi-crash-closes-us-40-through-wasatch-county-friday",
-     "published": "2026-11-20T23:36:36+00:00"
+     "title": "Park City locals remember Insa Riepen as force for sustainable change",
+     "summary": "Parkites remembered beloved community member Insa Riepen during a celebration of life Thursday. She is credited with instilling sustainable values in Park City.",
+     "link": "https://www.kpcw.org/park-city/2026-11-20/park-city-locals-remember-insa-riepen-as-force-for-sustainable-change",
+     "published": "2026-11-21T00:21:25+00:00"
     },
     {
      "source": "Park Record",
@@ -71,10 +71,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Park City Mountain Canyons Village Skyway is ready for the season",
-     "summary": "More than 100 people turned out for the grand opening of the new Canyons Village Skyway gondola Thursday.",
-     "link": "https://www.kpcw.org/park-city/2026-11-20/park-city-mountain-canyons-village-skyway-is-ready-for-the-season",
-     "published": "2026-11-20T23:02:33+00:00"
+     "title": "Summit County plans to connect Sun Peak, Canyons with bike path",
+     "summary": "County leaders hope more trail infrastructure makes the area safer for pedestrians and cyclists.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-20/summit-county-plans-to-connect-sun-peak-canyons-with-bike-path",
+     "published": "2026-11-21T00:17:20+00:00"
     }
    ]
   },
@@ -85,17 +85,38 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "‘I Play Rocky’ is a feel-good knockout",
+     "title": "Utah’s water demand will soon surpass its supply. What would it take to close the gap?",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/20/i-play-rocky-movie-preview-review/",
-     "published": "2026-11-20T23:15:34+00:00"
+     "link": "https://www.deseret.com/the-west/2026/11/20/utah-water-plan/",
+     "published": "2026-11-21T02:00:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Box Elder County Sheriff Kevin Potter charged with automobile homicide for fatal collision",
+     "summary": "Box Elder County Sheriff Kevin Potter has been charged with automobile homicide following a fatal accident last month in which he was allegedly driving while intoxicated.",
+     "link": "https://www.sltrib.com/news/2026/11/20/box-elder-county-sheriff-kevin/",
+     "published": "2026-11-21T00:36:16+00:00"
     },
     {
      "source": "KSL",
-     "title": "Minnesota woman faces 2 counts of second-degree murder in deaths of her children, 3 and 5",
-     "summary": "A southeastern Minnesota mother is charged with two counts of second-degree murder in the shooting deaths of her two young children.",
-     "link": "https://www.ksl.com/article/51647147/minnesota-woman-faces-2-counts-of-second-degree-murder-in-deaths-of-her-children-3-and-5",
-     "published": "2026-11-20T16:59:00+00:00"
+     "title": "Box Elder County sheriff charged with automobile homicide for deadly crash",
+     "summary": "Box Elder County Sheriff Kevin Potter is facing criminal charges for his involvement in a crash that led to the death of a 22-year-old motorcyclist.",
+     "link": "https://www.ksl.com/article/51647264/box-elder-county-sheriff-charged-with-automobile-homicide-for-deadly-crash",
+     "published": "2026-11-20T23:06:24+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Senate passes Sen. Lee’s permitting bill in bipartisan win",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/11/20/permitting-bill-passes-senate-with-support-from-sen-lee-gov-cox/",
+     "published": "2026-11-21T01:17:31+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Spanish Fork community rallies around 25-year-old man injured in hit-and-run",
+     "summary": "Culver's in Spanish Fork will host a fundraiser on Nov. 30 to help support 25-year-old Alan Zelaya after he suffered serious injuries in an alleged hit-and-run.",
+     "link": "https://www.ksl.com/article//spanish-fork-community-rallies-around-25-year-old-man-injured-in-hit-and-run/51647275",
+     "published": "2026-11-20T22:32:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -106,17 +127,17 @@
     },
     {
      "source": "Deseret News",
-     "title": "More Salt Lake Temple open house tickets coming soon",
+     "title": "‘I Play Rocky’ is a feel-good knockout",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/20/church-of-jesus-christ-announces-next-ticket-release-for-salt-lake-temple-open-house/",
-     "published": "2026-11-20T23:02:05+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/20/i-play-rocky-movie-preview-review/",
+     "published": "2026-11-20T23:15:34+00:00"
     },
     {
      "source": "KSL",
-     "title": "Box Elder County sheriff charged with automobile homicide for deadly crash",
-     "summary": "Box Elder County Sheriff Kevin Potter is facing criminal charges for his involvement in a crash that led to the death of a 22-year-old motorcyclist.",
-     "link": "https://www.ksl.com/article/51647264/box-elder-county-sheriff-charged-with-automobile-homicide-for-deadly-crash",
-     "published": "2026-11-20T16:57:25+00:00"
+     "title": "Serious crash closes US-6 near Soldier Summit",
+     "summary": "A crash involving a semitruck closed both directions of U.S. Highway 6 near Soldier Summit on Friday night, causing serious injuries and shutting down traffic for several hours, according to the Utah Highway Patrol.",
+     "link": "https://www.ksl.com/article/51647290/serious-crash-closes-us-6-near-soldier-summit",
+     "published": "2026-11-20T22:30:06+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -127,31 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: When the system fails, the cause is irrelevant",
+     "title": "More Salt Lake Temple open house tickets coming soon",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/20/reliability-is-not-resilience/",
-     "published": "2026-11-20T22:46:24+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Body found during search for missing Utah Marine in California",
-     "summary": "Search crews found a body Friday near Adobe Road in Twentynine Palms, California, during an extensive search for a missing 19-year-old Marine from Syracuse, Utah, authorities said.",
-     "link": "https://www.ksl.com/article//body-found-during-search-for-missing-utah-marine-in-california/51647260",
-     "published": "2026-11-20T16:39:45+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Better than bacon? Ski season has arrived on the Wasatch Front.",
-     "summary": "Anticipation for this super El Niño-fueled ski and snowboard season has been off the charts. It finally got started on the Wasatch Front under a fresh blanket of snow Thursday, and more is on the way.",
-     "link": "https://www.sltrib.com/news/environment/2026/11/20/utah-skiers-revel-fresh-snow/",
-     "published": "2026-11-20T13:00:01+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "House Ethics agrees to disclose when lawmakers are guilty of sexual misconduct in major rule change",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/20/house-ethics-committee-approve-sexual-harassment-policies/",
-     "published": "2026-11-20T20:51:43+00:00"
+     "link": "https://www.deseret.com/faith/2026/11/20/church-of-jesus-christ-announces-next-ticket-release-for-salt-lake-temple-open-house/",
+     "published": "2026-11-20T23:02:05+00:00"
     }
    ]
   },
@@ -162,17 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Jonathan Rinderknecht found guilty in Palisades Fire case",
-     "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
-     "link": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/",
-     "published": "2026-11-21T00:18:33+00:00"
+     "title": "South Florida begins recovery after widespread flooding",
+     "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+     "link": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+     "published": "2026-11-21T02:42:51+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-     "summary": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial.",
-     "link": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
-     "published": "2026-11-21T00:01:50+00:00"
+     "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+     "summary": "The International Court of Justice has no power to enforce Thursday's ruling, which orders Myanmar's military-supported government to allow those who fled the violence to return home safely, to pay reparations to the…",
+     "link": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+     "published": "2026-11-21T00:28:54+00:00"
     },
     {
      "source": "NPR",
@@ -183,17 +183,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump says recent tech outages are \"all separate events\"",
-     "summary": "President Trump's wide-ranging remarks Friday touched on the lingering concerns that tech outages at the FAA, NSA, banks and other companies were part of a coordinated attack. Mr. Trump denied that, saying all the…",
-     "link": "https://www.cbsnews.com/video/trump-says-recent-tech-outages-are-all-separate-events/",
-     "published": "2026-11-21T00:09:40+00:00"
+     "title": "Stocks enter correction territory, driven by deepening tech rout",
+     "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+     "link": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
+     "published": "2026-11-21T02:25:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "What Trump addressed during his lengthy White House news conference",
-     "summary": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers…",
-     "link": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
-     "published": "2026-11-20T23:55:30+00:00"
+     "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+     "summary": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial.",
+     "link": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+     "published": "2026-11-21T00:01:50+00:00"
     },
     {
      "source": "NPR",
@@ -204,17 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-     "published": "2026-11-21T00:00:42+00:00"
+     "title": "Jonathan Rinderknecht found guilty in Palisades Fire case",
+     "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
+     "link": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/",
+     "published": "2026-11-21T02:02:18+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: Stocks tumble as worries about AI rattle market",
-     "summary": "In our news wrap Friday, stocks tumbled to end the week as worries about AI rattled the market, a second federal judge is blocking President Trump's triumphal arch in Washington and a federal appeals court is blocking…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market",
-     "published": "2026-11-20T23:50:42+00:00"
+     "title": "What Trump addressed during his lengthy White House news conference",
+     "summary": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers…",
+     "link": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+     "published": "2026-11-20T23:55:30+00:00"
     },
     {
      "source": "NPR",
@@ -225,10 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Mayor Mamdani announces plan to shut down Rikers Island",
-     "summary": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
-     "link": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/",
-     "published": "2026-11-20T23:59:30+00:00"
+     "title": "Detonation of unstable explosives in Iowa paused indefinitely by court",
+     "summary": "The U.S. Army's plan to detonate five tons of unstable explosives containing lead azide at a munitions plant in Iowa has been put on indefinite hold by a federal court Friday.",
+     "link": "https://www.cbsnews.com/news/iowa-detonation-lead-azide-paused-indefinitely-court-order/",
+     "published": "2026-11-21T01:29:59+00:00"
     }
    ]
   }
