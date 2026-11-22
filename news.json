@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:08:07.407546+00:00",
+ "updated": "2026-11-22T16:23:58.401322+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,10 +85,38 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Opinion: Don’t drop-kick the Electoral College",
+     "title": "Opinion: Great Salt Lake is the bipartisan win Washington needs",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/20/america-should-keep-the-electoral-college/",
-     "published": "2026-11-22T06:55:22+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/22/great-salt-lake-can-be-bipartisan-win/",
+     "published": "2026-11-22T16:00:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Voices: Without critical repairs, my senior living neighbors are at risk of homelessness",
+     "summary": "“I love my home, and I love my neighbors. But costly repairs leave us at risk,” Catherine Coombs Vickers writes in an op-ed. “So many of my friends here will be on the streets if funding can’t be raised.”",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/22/voices-my-senior-living-neighbors/",
+     "published": "2026-11-22T13:05:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Prosecutors abandon plan to use AI simulation of murdered woman's voice in death penalty case",
+     "summary": "The Weber County Attorney's Office is seeking a third death sentence against Douglas Lovell for the death of Joyce Yost.",
+     "link": "https://www.ksl.com/article/51647245/prosecutors-abandon-plan-to-use-ai-simulation-of-murdered-womans-voice-in-death-penalty-case",
+     "published": "2026-11-22T07:11:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Opinion: Is there a force in Israeli politics stronger than anti-Arab racism?",
+     "summary": "Opinion: The obscenely simple question at the heart of Israeli politics",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/22/opinion-obscenely-simple-question/",
+     "published": "2026-11-22T13:01:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Norman Rockwell, American realist",
+     "summary": "",
+     "link": "https://www.deseret.com/magazine/2026/11/22/norman-rockwell-illustration-evolution/",
+     "published": "2026-11-22T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -99,17 +127,17 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Tooele County Council member resigns, faces sexual abuse charges",
-     "summary": "Tooele County Council member Erik Stromberg has stepped down from his elected post after he was charged with multiple counts of sexual abuse.",
-     "link": "https://www.sltrib.com/news/2026/11/21/tooele-county-council-member/",
-     "published": "2026-11-21T16:29:30+00:00"
+     "title": "Letter: Our foreign policy is driven by Trump’s yearning to be a card-carrying member of the dictators’ club",
+     "summary": "Letter: Trump’s autocratic instincts have made his foreign policy a dangerous mess",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/22/letter-our-foreign-policy-is/",
+     "published": "2026-11-22T13:01:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "‘The Hunger Games: Sunrise on the Reaping’ proves the value of dystopian stories",
+     "title": "The U.S. has sufficient munitions to fight Iran — but what about China?",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/21/the-hunger-games-sunrise-on-the-reaping-proves-the-value-of-dystopian-stories/",
-     "published": "2026-11-22T02:49:04+00:00"
+     "link": "https://www.deseret.com/u-s-world/2026/11/22/munitions-military-iran-china-trump/",
+     "published": "2026-11-22T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -120,38 +148,10 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Letter: Deidre Henderson has served Utahns well. Here’s hoping she has aspirations for higher office.",
-     "summary": "Letter: Deidre Henderson has performed the duties of her office heroically, and we can only hope she will run for governor in two years, or to replace Mike Lee in the Senate.",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/21/letter-deidre-henderson-has-served/",
-     "published": "2026-11-21T13:00:01+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Faithfully and joyfully preparing for the Modesto California Temple dedication",
+     "title": "Letter: Multiple countries are viably reducing emissions. America must reset, and become a leader in this endeavor.",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/21/preparing-for-modesto-california-temple-dedication/",
-     "published": "2026-11-21T22:29:48+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Little Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-     "summary": "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
-     "link": "https://www.ksl.com/article/51647410/little-mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
-     "published": "2026-11-21T22:11:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Letter: Global warming is a massive challenge, but solutions are readily available",
-     "summary": "Letter: We, the people must use our voices and our votes to lead a rapid transition to clean, renewable energy sources and to stop burning Earth-killing fossil fuels.",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/21/letter-global-warming-is-massive/",
-     "published": "2026-11-21T13:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Holy Cross Hospital hosts community party to celebrate 50 years of serving others",
-     "summary": "Holy Cross Hospital – Davis hosted a community celebration on Saturday, thanking the community for 50 years of support with cake, live demonstrations and giveaways.",
-     "link": "https://www.ksl.com/article/51647405/holy-cross-hospital-hosts-community-party-to-celebrate-50-years-of-serving-others",
-     "published": "2026-11-21T21:40:24+00:00"
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/22/letter-multiple-countries-are/",
+     "published": "2026-11-22T13:00:01+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-     "published": "2026-11-22T05:20:05+00:00"
+     "title": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+     "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
+     "link": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
+     "published": "2026-11-22T15:59:26+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+     "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+     "published": "2026-11-22T13:11:04+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-11-21T23:14:57+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Trump orders federal contractors to check with White House before responding to Congress",
-     "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
-     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-     "published": "2026-11-21T22:40:36+00:00"
+     "source": "CBS News",
+     "title": "Jeffries talks about where Democrats may be able to work with Trump",
+     "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+     "link": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+     "published": "2026-11-22T15:55:06+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Kansas City Current capture first NWSL trophy",
-     "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
-     "link": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/",
-     "published": "2026-11-22T04:15:00+00:00"
+     "source": "NPR",
+     "title": "NPR's Senior Podcast Challenge: Early entries we love",
+     "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+     "published": "2026-11-22T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,25 +203,18 @@
      "published": "2026-11-21T22:52:03+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Google employees protest AI in schools policy",
-     "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-     "published": "2026-11-21T22:01:40+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "ICE officers arrest 2 passengers boarding flight in Seattle",
-     "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-     "link": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
-     "published": "2026-11-22T02:56:57+00:00"
+     "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+     "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+     "link": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+     "published": "2026-11-22T15:41:41+00:00"
     },
     {
      "source": "NPR",
-     "title": "Highlights and challenges from covering an historic month in South America",
-     "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-     "published": "2026-11-21T22:01:35+00:00"
+     "title": "He expected a small-business loan. He got a 7-year nightmare",
+     "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+     "published": "2026-11-22T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -225,10 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Trump says he wants \"permanent\" deal with Iran",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-     "published": "2026-11-22T01:34:57+00:00"
+     "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+     "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+     "published": "2026-11-22T15:35:22+00:00"
     }
    ]
   }
