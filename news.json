@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:09:20.269509+00:00",
+ "updated": "2026-11-23T22:43:41.033572+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,60 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "Park Record",
+     "title": "Summit County Sheriff’s Office transfers teacher investigation to ‘protect the integrity’ of the case",
+     "summary": "The Davis County Sheriff’s Office will investigate a North Summit High School teacher accused of inappropriately messaging students to “protect the integrity” of the case after the Summit County Sheriff’s Office…",
+     "link": "https://www.parkrecord.com/2026/11/23/summit-county-sheriffs-office-transfers-teacher-investigation-to-protect-the-integrity-of-the-case/",
+     "published": "2026-11-23T22:07:33+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Park City’s White Pine Nordic trails open early after November storms",
+     "summary": "Saturday's opening puts the cross-country ski center on track to beat last year's 35-day season.",
+     "link": "https://www.kpcw.org/park-city/2026-11-23/park-citys-white-pine-nordic-trails-open-early-after-november-storms",
+     "published": "2026-11-23T21:52:34+00:00"
+    },
+    {
      "source": "TownLift",
-     "title": "Park City Mountain will open Wednesday, joining four Utah resorts opening this week",
-     "summary": "Here's who's opening, which lifts are spinning and when you can get your first turns",
-     "link": "https://townlift.com/2026/11/park-city-mountain-will-open-wednesday-joining-four-utah-resorts-opening-this-week/",
-     "published": "2026-11-22T21:36:36+00:00"
+     "title": "SNAPPED: Ballerina Farm’s Hannah and Daniel Neeleman make first gift at Park City Giving Machine",
+     "summary": "PARK CITY, Utah — The Park City community gathered Saturday, Nov. 21, to celebrate the opening of the Light the World Giving Machine Wasatch, with Hannah and Daniel Neeleman of",
+     "link": "https://townlift.com/2026/11/snapped-ballerina-farms-hannah-and-daniel-neeleman-make-first-gift-at-park-city-giving-machine/",
+     "published": "2026-11-23T21:46:58+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Park City schools projected to lose nearly 1 in 4 students by 2031",
+     "summary": "Enrollment could fall from 4,592 students in 2021 to 3,519 by 2031, raising questions about funding, open enrollment, and the future of public education across the Wasatch Back.",
+     "link": "https://townlift.com/2026/11/park-city-schools-projected-to-lose-nearly-a-quarter-of-students-over-a-decade/",
+     "published": "2026-11-23T21:14:42+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Wasatch County’s new clerk-auditor wants to improve voter turnout",
+     "summary": "Park City recorder Michelle Kellogg is leaving her post for a new role in Wasatch County government. Kellogg will be the county’s new clerk-auditor.",
+     "link": "https://www.kpcw.org/wasatch-county/2026-11-23/wasatch-countys-new-clerk-auditor-wants-to-improve-voter-turnout",
+     "published": "2026-11-23T21:05:24+00:00"
     },
     {
      "source": "Park Record",
-     "title": "Park City Mountain targets Wednesday for opening",
-     "summary": "Park City Mountain plans to open on Wednesday, according to an email to resort employees. “Wow, what an incredible few days!” wrote Deirdra Walsh, vice president and chief operating officer of Park City Mountain. “The…",
-     "link": "https://www.parkrecord.com/2026/11/22/park-city-mountain-targets-wednesday-for-openin/",
-     "published": "2026-11-22T20:47:52+00:00"
+     "title": "Reservations open for Viking Yurt dinner and sleigh rides",
+     "summary": "Guests depart from Park City Mountain's Legacy Lodge for a 25-minute snow-cat-pulled sleigh ride, which delivers them to the Viking Yurt at the top of Crescent Lift. The post Reservations open for Viking Yurt dinner and…",
+     "link": "https://www.parkrecord.com/2026/11/23/reservations-open-for-viking-yurt-dinner-and-sleigh-rides/",
+     "published": "2026-11-23T18:51:47+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "SNAPPED: Crowds brave snowstorm for Create PC’s Holiday Maker Market opening",
+     "summary": "PARK CITY, Utah — Despite the “Winter Snowstorm Warning” and slippery roads, art lovers showed up to see and purchase local art and products at Create PC’s Holiday Maker Market",
+     "link": "https://townlift.com/2026/11/snapped-crowds-brave-snowstorm-for-create-pcs-holiday-maker-market-opening/",
+     "published": "2026-11-23T20:32:40+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Lighting celebration will kick off Main Street’s holiday season on Saturday",
+     "summary": "Music by DJ Dolph begins at 5 p.m., and the lighting will begin at 6 p.m. The first 1,000 guests will receive a commemorative ornament. The post Lighting celebration will kick off Main Street’s holiday season on…",
+     "link": "https://www.parkrecord.com/2026/11/23/lighting-celebration-will-kick-off-main-streets-holiday-season-on-saturday/",
+     "published": "2026-11-23T18:44:15+00:00"
     },
     {
      "source": "KPCW",
@@ -28,53 +70,11 @@
      "published": "2026-11-22T20:15:00+00:00"
     },
     {
-     "source": "Park Record",
-     "title": "Journalism Matters: Looking ahead to the singularity, what are we thinking?",
-     "summary": "Why, in pretty much all I read about AI in the news, has Isaac Asimov and his three laws for robots almost never come up? What I see mostly is a failure so far in imagination. The post Journalism Matters: Looking ahead…",
-     "link": "https://www.parkrecord.com/2026/11/22/journalism-matters-looking-ahead-to-the-singularity-what-are-we-thinking/",
-     "published": "2026-11-22T19:54:58+00:00"
-    },
-    {
      "source": "TownLift",
-     "title": "UPDATE: Skier-triggered avalanche near Guardsman Pass",
-     "summary": "The forecast danger rating has dropped to moderate, but forecasters say a weak layer near the ground can still produce slides large enough to bury a person.",
-     "link": "https://townlift.com/2026/11/skier-caught-and-carried-in-avalanche-near-guardsman-pass/",
-     "published": "2026-11-22T19:28:04+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "High Valley Transit adds Coalville, UOP service in winter overhaul",
-     "summary": "Changes are coming to nearly every route next month, including a late-night bus to Salt Lake City and no more Kamas shuttle.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-20/high-valley-transit-adds-coalville-uop-service-in-winter-overhaul",
-     "published": "2026-11-21T00:38:55+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Summit County recreation funding shrinks. Here’s which projects made the cut",
-     "summary": "Council approves $692,555 for 14 projects, but officials say reduced funding could continue for another five years.",
-     "link": "https://townlift.com/2026/11/summit-county-recreation-grants-fall-nearly-878k-short-of-requests-as-bond-payments-take-priority/",
-     "published": "2026-11-22T19:12:22+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "More Dogs on Main: Brave new world",
-     "summary": "\"Business productivity soared to levels never before imagined when Microsoft Outlook crashed all around the world.\" The post More Dogs on Main: Brave new world appeared first on Park Record .",
-     "link": "https://www.parkrecord.com/2026/11/21/more-dogs-on-main-brave-new-world/",
-     "published": "2026-11-21T15:30:00+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "UDOT to close Summit County seasonal roads before Thanksgiving",
-     "summary": "Winter has returned to the Wasatch Back along with winter driving conditions.",
-     "link": "https://www.kpcw.org/summit-county/2026-11-20/udot-to-close-summit-county-seasonal-roads-before-thanksgiving",
-     "published": "2026-11-21T00:21:34+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Federal study could advance completion of Bonneville Shoreline Trail",
-     "summary": "UTAH — Utah’s vision for the Bonneville Shoreline Trail, a nearly 280-mile trail stretching along the Wasatch Front, has cleared a major hurdle, with the U.S. Senate unanimously passing a",
-     "link": "https://townlift.com/2026/11/federal-study-could-advance-completion-of-bonneville-shoreline-trail/",
-     "published": "2026-11-21T18:09:21+00:00"
+     "title": "Thanksgiving in Park City: Where to eat, trot, and celebrate this holiday weekend",
+     "summary": "PARK CITY, Utah — Thanksgiving in Park City is about more than what’s on the table. From a free community feast on Main Street to holiday hikes, a turkey trot,",
+     "link": "https://townlift.com/2026/11/thanksgiving-in-park-city-where-to-eat-trot-and-celebrate-this-holiday-weekend/",
+     "published": "2026-11-23T19:29:13+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Analysis: Guarding the heart in Vice City — Debating the spiritual impact of Grand Theft Auto 6",
+     "title": "The most memorable ‘Dancing with the Stars’ performances this season",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/23/debating-grand-theft-auto/",
-     "published": "2026-11-23T11:00:01+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Bill Clinton tells governors he hopes new political landscape can 'take some of the poison out'",
-     "summary": "As dozens of newly elected governors gathered in Park City, Utah, former President Bill Clinton encouraged them to make a to-do list of priorities, and to work together to solve some of the biggest problems in the…",
-     "link": "https://www.ksl.com/article/51647397/bill-clinton-tells-governors-he-hopes-new-political-landscape-can-take-some-of-the-poison-out",
-     "published": "2026-11-22T22:37:02+00:00"
+     "link": "https://www.deseret.com/entertainment/2026/11/23/dancing-with-the-stars-this-seasons-most-memorable-dances/",
+     "published": "2026-11-23T21:50:16+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: Without critical repairs, my senior living neighbors are at risk of homelessness",
-     "summary": "“I love my home, and I love my neighbors. But costly repairs leave us at risk,” Catherine Coombs Vickers writes in an op-ed. “So many of my friends here will be on the streets if funding can’t be raised.”",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/22/voices-my-senior-living-neighbors/",
-     "published": "2026-11-22T13:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Church attendance associated with more gambling: American Family Survey",
-     "summary": "",
-     "link": "https://www.deseret.com/special-series/2026/11/23/church-attendance-associated-more-online-gambing-american-family-survey/",
-     "published": "2026-11-23T11:00:00+00:00"
+     "title": "We now know when the Salt Lake LDS Temple will truly be a ‘temple’ again",
+     "summary": "The First Presidency of The Church of Jesus Christ of Latter-day Saints has announced that the Salt Lake Temple will be rededicated on Sunday, Dec. 5, 2027, nearly two months after public tours end.",
+     "link": "https://www.sltrib.com/religion/2026/11/23/lds-church-announces-rededication/",
+     "published": "2026-11-23T21:01:20+00:00"
     },
     {
      "source": "KSL",
-     "title": "Utah man wins 1st place for United States in The Great Wall of China Marathon",
-     "summary": "Across the world, a Utah man completed a once-in-a-lifetime experience running a marathon on one of the Seven Wonders of the World.",
-     "link": "https://www.ksl.com/article//utah-man-wins-first-place-for-united-states-in-the-great-wall-of-china-marathon/51647510",
-     "published": "2026-11-22T22:03:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Letter: Our foreign policy is driven by Trump’s yearning to be a card-carrying member of the dictators’ club",
-     "summary": "Letter: Donald Trump despises our democratic allies and cozies up to dictators. Most Americans seem to have figured that out. Maybe Utah voters will come around, eventually.",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/22/letter-our-foreign-policy-is/",
-     "published": "2026-11-22T13:01:00+00:00"
+     "title": "Have You Seen This? Donny Osmond puts out backyard barbecue fire",
+     "summary": "Singer and local legend Donny Osmond helped extinguish a fire in a backyard barbecue on Sunday while on his way to his granddaughter's birthday party.",
+     "link": "https://www.ksl.com/article/51647662/have-you-seen-this-donny-osmond-puts-out-backyard-barbecue-fire",
+     "published": "2026-11-23T15:28:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: It’s time to get tough on background checks",
+     "title": "These Utah ski resorts open this week",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/23/background-checks-foster-parents-teachers-criminal-records/",
-     "published": "2026-11-23T11:00:00+00:00"
+     "link": "https://www.deseret.com/lifestyle/2026/11/23/utah-ski-snowboard-resort-open-snow-thanksgiving/",
+     "published": "2026-11-23T21:24:24+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Former Rep. Trevor Lee makes second court appearance on felony fraud charges",
+     "summary": "Former Rep. Trevor Lee made a brief court appearance Monday morning on felony fraud and forgery charges he is facing.",
+     "link": "https://www.sltrib.com/news/politics/2026/11/23/former-rep-trevor-lee-makes-second/",
+     "published": "2026-11-23T19:47:45+00:00"
     },
     {
      "source": "KSL",
-     "title": "Do school phone bans help students learn? So far, gains are 'modest'",
-     "summary": "The argument for school cellphone bans is simple: Phones offer endless distraction. Take them away and students can focus on classwork, engage with peers and, ultimately, learn more.",
-     "link": "https://www.ksl.com/article/51646384/do-school-phone-bans-help-students-learn-so-far-gains-are-modest",
-     "published": "2026-11-22T21:37:34+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Opinion: Is there a force in Israeli politics stronger than anti-Arab racism?",
-     "summary": "Opinion: The obscenely simple question at the heart of Israeli politics",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/22/opinion-obscenely-simple-question/",
-     "published": "2026-11-22T13:01:00+00:00"
+     "title": "What are digital license plates? Utah to consider a bill that would allow them",
+     "summary": "Utah has dabbled in digital driver's licenses in recent years, along with other digital equipment, but license plates could be the next on the digital frontier.",
+     "link": "https://www.ksl.com/article/51647172/what-are-digital-license-plates-utah-to-consider-a-bill-that-would-allow-them",
+     "published": "2026-11-23T14:57:19+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Did Latter-day Saints in the U.S. shift left? What the latest polls tell us",
+     "title": "What are digital license plates? Utah to consider a bill that would allow them",
+     "summary": "Utah has dabbled in digital driver's licenses in recent years, along with other digital equipment, but license plates could be the next on the digital frontier.",
+     "link": "https://www.deseret.com/utah/2026/11/23/what-are-digital-license-plates-utah-to-consider-a-bill-that-would-allow-them/",
+     "published": "2026-11-23T21:24:12+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "With founders facing criminal charges in Utah, Kalshi decides to ‘pause operations’ in the state",
+     "summary": "After being engaged in legal battles for much of the year, the prediction market Kalshi has decided to \"pause operations\" in Utah.",
+     "link": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
+     "published": "2026-11-23T19:44:10+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "For third time this month, feds indict alleged Utah dealer in fatal fentanyl overdose case",
+     "summary": "A federal grand jury has indicted a Utah man for allegedly supplying the fentanyl that resulted in a woman's death. It's the third such case filed in November.",
+     "link": "https://www.ksl.com/article/51647678/for-third-time-this-month-feds-indict-alleged-utah-dealer-in-fatal-fentanyl-overdose-case",
+     "published": "2026-11-23T14:43:21+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "A Thanksgiving meal without the risk of food-borne illness",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/23/latter-day-saint-republicans-crossed-over-to-vote-democratic-in-utah-but-are-not-leaving-the-gop/",
-     "published": "2026-11-23T11:00:00+00:00"
+     "link": "https://www.deseret.com/lifestyle/2026/11/23/food-safety-recalls-thanksgiving-meal-preparation-salmonella/",
+     "published": "2026-11-23T21:23:17+00:00"
     }
    ]
   },
@@ -161,74 +161,74 @@
    "scope": "United States",
    "items": [
     {
-     "source": "NPR",
-     "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
-     "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
-     "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-     "published": "2026-11-23T10:16:33+00:00"
+     "source": "CBS News",
+     "title": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
+     "summary": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
+     "link": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/",
+     "published": "2026-11-23T22:43:15+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank",
-     "summary": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks on two Russian warships off Libya, and one sank.",
-     "link": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-     "published": "2026-11-23T10:07:04+00:00"
+     "source": "NPR",
+     "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+     "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+     "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+     "published": "2026-11-23T22:29:53+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
-     "summary": "Other passengers boarding the Alaska Airlines flight at Seattle-Tacoma International Airport on Saturday used their cellphones to film the father and daughter being detained by the officers, who were wearing unmarked…",
-     "link": "https://www.pbs.org/newshour/nation/lawyer-father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism",
-     "published": "2026-11-22T23:46:56+00:00"
+     "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+     "summary": "The House Ethics Committee said in a report released Monday that there is \"substantial evidence\" that Democratic Rep. Jimmy Gomez of California engaged in sexual misconduct by making unwelcome sexual advances and sexual…",
+     "link": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+     "published": "2026-11-23T22:11:09+00:00"
     },
     {
      "source": "CBS News",
-     "title": "When disaster strikes, Medicaid work rules add barriers",
-     "summary": "Medicaid provides a critical safety net for people to maintain healthcare coverage. But new work requirements create barriers for those trying to recover from natural disasters.",
-     "link": "https://www.cbsnews.com/news/medicaid-work-rules-disasters/",
-     "published": "2026-11-23T10:00:07+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-     "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-     "published": "2026-11-23T10:00:00+00:00"
+     "title": "Trump tells Army to halt detonation for now in Iowa this week",
+     "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
+     "link": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/",
+     "published": "2026-11-23T22:36:20+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
-     "summary": "After reviewing a draft of the agreement released by co-host Turkey, a number of countries spoke up during the final meeting Sunday to say they couldn't accept a deal that failed to include wording on fossil fuels.",
-     "link": "https://www.pbs.org/newshour/world/in-their-own-words-leaders-at-un-climate-talks-discuss-why-negotiations-ended-without-deal",
-     "published": "2026-11-22T23:00:37+00:00"
+     "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
+     "summary": "Nvidia was already facing sharp scrutiny from Congress after Huang acknowledged a relationship with a Chinese businesswoman whom U.S. officials believed to be a spy. Putting Huang back in charge, after Trump said the…",
+     "link": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
+     "published": "2026-11-23T22:06:38+00:00"
     },
     {
      "source": "NPR",
-     "title": "K is for kindness, but families worry the world has less of it",
-     "summary": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-     "published": "2026-11-23T10:00:00+00:00"
+     "title": "Some women in tech have concerns about Huang's return",
+     "summary": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+     "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+     "published": "2026-11-23T22:03:57+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Trump says he wants \"permanent\" deal with Iran",
-     "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-     "published": "2026-11-23T07:20:47+00:00"
+     "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+     "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+     "published": "2026-11-23T22:19:13+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
-     "summary": "Earlier Sunday, the Federal Aviation Administration issued about an hourlong ground stop to some flights into Hartsfield-Jackson Atlanta International Airport, which is Delta's hub and one of the busiest airports in the…",
-     "link": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
-     "published": "2026-11-22T22:40:06+00:00"
+     "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+     "summary": "The U.S. Army's controlled detonation of 68 barrels of unstable lead azide in Iowa on Wednesday is expected to produce a plume of dust containing lead particles that could extend as far as 100 miles away, a plan that…",
+     "link": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+     "published": "2026-11-23T22:05:00+00:00"
     },
     {
      "source": "NPR",
-     "title": "Mushroom supplements promise health benefits. What does the science say?",
-     "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-     "published": "2026-11-23T10:00:00+00:00"
+     "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+     "summary": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things…",
+     "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+     "published": "2026-11-23T20:53:12+00:00"
+    },
+    {
+     "source": "CBS News",
+     "title": "U.S. adds Megaspeed to trade blacklist after Nvidia scandal",
+     "summary": "The Trump administration restricted Megaspeed from buying advanced semiconductor chips, after the firm's alleged links to China helped kick-start the scandal surrounding Nvidia CEO Jensen Huang.",
+     "link": "https://www.cbsnews.com/news/megaspeed-trade-blacklist-nvidia-jensen-huang/",
+     "published": "2026-11-23T22:16:20+00:00"
     }
    ]
   }
