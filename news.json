@@ -1,11 +1,25 @@
 {
- "updated": "2026-11-24T06:30:05.232765+00:00",
+ "updated": "2026-11-24T18:12:17.704657+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "TownLift",
+     "title": "Park City declares Nov. 28 Small Business Saturday, encourages residents to shop local",
+     "summary": "PARK CITY, Utah — Park City leaders are encouraging residents to support locally owned businesses this holiday season, proclaiming Saturday, Nov. 28, as Small Business Saturday. The Park City Council",
+     "link": "https://townlift.com/2026/11/park-city-declares-nov-28-small-business-saturday-encourages-residents-to-shop-local/",
+     "published": "2026-11-24T18:02:14+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Park City police blotter: Wildlife seen near roads",
+     "summary": "The Park City Police Department in mid-November received several wildlife-related reports, including cases involving moose, elk and deer. The post Park City police blotter: Wildlife seen near roads appeared first on…",
+     "link": "https://www.parkrecord.com/2026/11/24/park-city-police-blotter-wildlife-seen-near-roads/",
+     "published": "2026-11-24T15:30:00+00:00"
+    },
     {
      "source": "KPCW",
      "title": "Utah lawmakers face hundreds of millions in Medicaid budget costs",
@@ -15,17 +29,10 @@
     },
     {
      "source": "TownLift",
-     "title": "Park City Mountain prepares for another season of uphill skiing",
-     "summary": "Uphill access is anticipated to open mid-December, according to the resort",
-     "link": "https://townlift.com/2026/11/park-city-mountain-prepares-for-another-season-of-uphill-skiing/",
-     "published": "2026-11-23T23:36:45+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Sheriff’s Report: Facebook listing helps deputies reunite stolen puppies with owner",
-     "summary": "The Summit County Sheriff’s Office recovered two stolen puppies after they were listed for sale on Facebook, according to shift reports. The post Sheriff’s Report: Facebook listing helps deputies reunite stolen puppies…",
-     "link": "https://www.parkrecord.com/2026/11/23/sheriffs-report-facebook-listing-helps-deputies-reunite-stolen-puppies-with-owner/",
-     "published": "2026-11-23T22:45:00+00:00"
+     "title": "Great Salt Lake levels inch upward, but restoration challenges remain",
+     "summary": "Recent storms and an October water release offer modest gains as Utah continues efforts to restore the lake.",
+     "link": "https://townlift.com/2026/11/great-salt-lake-levels-inch-upward-but-restoration-challenges-remain/",
+     "published": "2026-11-24T16:01:04+00:00"
     },
     {
      "source": "KPCW",
@@ -36,17 +43,17 @@
     },
     {
      "source": "Park Record",
-     "title": "Summit County Sheriff’s Office transfers teacher investigation to ‘protect the integrity’ of the case",
-     "summary": "The Davis County Sheriff’s Office will investigate a North Summit High School teacher accused of inappropriately messaging students to “protect the integrity” of the case after the Summit County Sheriff’s Office…",
-     "link": "https://www.parkrecord.com/2026/11/23/summit-county-sheriffs-office-transfers-teacher-investigation-to-protect-the-integrity-of-the-case/",
-     "published": "2026-11-23T22:07:33+00:00"
+     "title": "Sheriff’s Report: Facebook listing helps deputies reunite stolen puppies with owner",
+     "summary": "The Summit County Sheriff’s Office recovered two stolen puppies after they were listed for sale on Facebook, according to shift reports. The post Sheriff’s Report: Facebook listing helps deputies reunite stolen puppies…",
+     "link": "https://www.parkrecord.com/2026/11/23/sheriffs-report-facebook-listing-helps-deputies-reunite-stolen-puppies-with-owner/",
+     "published": "2026-11-23T22:45:00+00:00"
     },
     {
      "source": "TownLift",
-     "title": "SNAPPED: Ballerina Farm’s Hannah and Daniel Neeleman make first gift at Park City Giving Machine",
-     "summary": "PARK CITY, Utah — The Park City community gathered Saturday, Nov. 21, to celebrate the opening of the Light the World Giving Machine Wasatch, with Hannah and Daniel Neeleman of",
-     "link": "https://townlift.com/2026/11/snapped-ballerina-farms-hannah-and-daniel-neeleman-make-first-gift-at-park-city-giving-machine/",
-     "published": "2026-11-23T21:46:58+00:00"
+     "title": "On the Market, Week of Nov. 24",
+     "summary": "Check out this week’s featured real estate listings from Summit Sotheby’s",
+     "link": "https://townlift.com/2026/11/on-the-market-nov-24/",
+     "published": "2026-11-24T11:00:07+00:00"
     },
     {
      "source": "KPCW",
@@ -56,25 +63,18 @@
      "published": "2026-11-23T23:05:00+00:00"
     },
     {
-     "source": "TownLift",
-     "title": "Park City schools projected to lose nearly 1 in 4 students by 2031",
-     "summary": "Enrollment could fall from 4,592 students in 2021 to 3,519 by 2031, raising questions about funding, open enrollment, and the future of public education across the Wasatch Back.",
-     "link": "https://townlift.com/2026/11/park-city-schools-projected-to-lose-nearly-a-quarter-of-students-over-a-decade/",
-     "published": "2026-11-23T21:14:42+00:00"
-    },
-    {
      "source": "Park Record",
-     "title": "Reservations open for Viking Yurt dinner and sleigh rides",
-     "summary": "Guests depart from Park City Mountain's Legacy Lodge for a 25-minute snow-cat-pulled sleigh ride, which delivers them to the Viking Yurt at the top of Crescent Lift. The post Reservations open for Viking Yurt dinner and…",
-     "link": "https://www.parkrecord.com/2026/11/23/reservations-open-for-viking-yurt-dinner-and-sleigh-rides/",
-     "published": "2026-11-23T18:51:47+00:00"
+     "title": "Summit County Sheriff’s Office transfers teacher investigation to ‘protect the integrity’ of the case",
+     "summary": "The Davis County Sheriff’s Office will investigate a North Summit High School teacher accused of inappropriately messaging students to “protect the integrity” of the case after the Summit County Sheriff’s Office…",
+     "link": "https://www.parkrecord.com/2026/11/23/summit-county-sheriffs-office-transfers-teacher-investigation-to-protect-the-integrity-of-the-case/",
+     "published": "2026-11-23T22:07:33+00:00"
     },
     {
-     "source": "KPCW",
-     "title": "Artist Rad Smith carries on hand-painted ski map tradition",
-     "summary": "Illustrator and cartographer Rad Smith is keeping the tradition of hand-painted ski resort maps alive. He created Deer Valley Resort’s new map showcasing the East Village expansion.",
-     "link": "https://www.kpcw.org/ski-resorts/2026-11-23/artist-rad-smith-carries-on-hand-painted-ski-map-tradition",
-     "published": "2026-11-23T22:50:59+00:00"
+     "source": "TownLift",
+     "title": "Park City Mountain prepares for another season of uphill skiing",
+     "summary": "Uphill access is anticipated to open mid-December, according to the resort",
+     "link": "https://townlift.com/2026/11/park-city-mountain-prepares-for-another-season-of-uphill-skiing/",
+     "published": "2026-11-23T23:36:45+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "‘The Voice’ top 10 just battled for spots in the top 8 — with Dolly Parton songs",
+     "title": "Deseret News gift guide",
      "summary": "",
-     "link": "https://www.deseret.com/entertainment/2026/11/23/the-voice-top-10-dolly-parton-performances-highlights-results/",
-     "published": "2026-11-24T05:49:43+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Frank Cordova Foundation delivers Thanksgiving turkeys to Utah families",
-     "summary": "The Frank Cordova Foundation is delivering Thanksgiving turkeys through 15 schools across the Wasatch Front, continuing a tradition that started 27 years ago with just 25 families.",
-     "link": "https://www.ksl.com/article//frank-cordova-foundation-delivers-thanksgiving-turkeys-to-utah-families/51647624",
-     "published": "2026-11-23T22:37:00+00:00"
+     "link": "https://www.deseret.com/family/2026/11/24/deseret-news-christmas-gift-guide-santa-clause-holidays/",
+     "published": "2026-11-24T17:51:49+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "We now know when the Salt Lake LDS Temple will truly be a ‘temple’ again",
-     "summary": "The First Presidency of The Church of Jesus Christ of Latter-day Saints has announced that the Salt Lake Temple will be rededicated on Sunday, Dec. 5, 2027, nearly two months after public tours end.",
-     "link": "https://www.sltrib.com/religion/2026/11/23/lds-church-announces-rededication/",
-     "published": "2026-11-23T21:01:20+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Don’t feel like cooking Thanksgiving this year? These restaurants are open",
-     "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/11/23/us-and-utah-restaurants-open-on-thanksgiving-2026/",
-     "published": "2026-11-24T04:01:00+00:00"
+     "title": "Police kill man during domestic barricade situation in South Jordan",
+     "summary": "A man was shot and killed by police after allegedly grabbing their gun during an overnight domestic barricade situation in South Jordan.",
+     "link": "https://www.sltrib.com/news/2026/11/24/south-jordan-man-killed-by-police/",
+     "published": "2026-11-24T17:30:40+00:00"
     },
     {
      "source": "KSL",
-     "title": "Immigrant detained in Provo for allegedly distributing stickers with messages targeting Trump",
-     "summary": "Immigration officials detained a Venezuelan immigrant in Provo last month who allegedly distributed stickers with threatening messages aimed at President Trump.",
-     "link": "https://www.ksl.com/article/51647743/immigrant-detained-in-provo-for-allegedly-distributing-stickers-with-messages-targeting-trump",
-     "published": "2026-11-23T22:04:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Former Rep. Trevor Lee makes second court appearance on felony fraud charges",
-     "summary": "Former Rep. Trevor Lee made a brief court appearance Monday morning on felony fraud and forgery charges he is facing.",
-     "link": "https://www.sltrib.com/news/politics/2026/11/23/former-rep-trevor-lee-makes-second/",
-     "published": "2026-11-23T19:47:45+00:00"
+     "title": "Provo food bank closure leaves gaps as community steps up to help",
+     "summary": "The closure of Community Action Services in Provo has left some families seeking food assistance. Alpine School District pantries are also declining because they relied on the food bank.",
+     "link": "https://www.ksl.com/article/51647778/provo-food-bank-closure-leaves-gaps-as-community-steps-up-to-help",
+     "published": "2026-11-24T10:02:38+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: The return of Jensen Huang gives the super-distrusters another reason to distrust",
+     "title": "Baked In: How pie became an American tradition",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/23/jensen-huang-return-super-distrusters-nvidia/",
-     "published": "2026-11-24T01:13:00+00:00"
+     "link": "https://www.deseret.com/magazine/2026/11/24/how-pie-became-an-american-tradition/",
+     "published": "2026-11-24T17:49:03+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "After Kalshi pulls out of Utah, state moves to drop criminal charges",
+     "summary": "Utah's attorney general moved to drop criminal charges against Kalshi a day after the site announced it \"paused operations\" in the state.",
+     "link": "https://www.sltrib.com/news/2026/11/24/after-kalshi-pulls-out-utah-state/",
+     "published": "2026-11-24T17:18:15+00:00"
     },
     {
      "source": "KSL",
-     "title": "Batmobile stalls at auction by failing to meet the seller's minimum price",
-     "summary": "Buying the Batmobile apparently requires a bank account closer to Bruce Wayne's. Bidding on the sleek black vehicle stalled out at $3.25 million Monday, leaving it unsold.",
-     "link": "https://www.ksl.com/article/51647552/batmobile-stalls-at-auction-by-failing-to-meet-the-sellers-minimum-price",
-     "published": "2026-11-23T21:31:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "After judge signals ‘steep hill’ in regulatory case, Kalshi pauses operations in Utah",
-     "summary": "After being engaged in legal battles for much of the year, the prediction market Kalshi has decided to \"pause operations\" in Utah.",
-     "link": "https://www.sltrib.com/news/2026/11/23/kalshi-pauses-operations-utah-amid/",
-     "published": "2026-11-23T19:44:10+00:00"
+     "title": "Police fatally shoot man during domestic violence call in South Jordan",
+     "summary": "A man who allegedly threatened a woman with a gun and would not allow her to leave was shot and killed following a confrontation with a SWAT team.",
+     "link": "https://www.ksl.com/article/51647870/police-fatally-shoot-man-during-domestic-violence-call-in-south-jordan",
+     "published": "2026-11-24T09:19:35+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Sen. Mike Lee joins bipartisan push for more judges",
+     "title": "The art of waiting",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/23/mike-lee-senators-want-to-fix-shortage-of-judges/",
-     "published": "2026-11-24T01:04:20+00:00"
+     "link": "https://www.deseret.com/magazine/2026/11/24/ode-to-airport-terminal/",
+     "published": "2026-11-24T17:47:12+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Bagley Cartoon: Hop Scotch Pox",
+     "summary": "Check out Pat Bagley's latest cartoon: Hop Scotch Pox",
+     "link": "https://www.sltrib.com/opinion/bagley/2026/11/24/bagley-cartoon-hop-scotch-pox/",
+     "published": "2026-11-24T14:49:59+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Box Elder County sheriff appears in court in automobile homicide case",
+     "summary": "Box Elder County Sheriff Kevin Potter made his first appearance in court in an automobile homicide case stemming from an Oct. 27 crash in Ogden.",
+     "link": "https://www.ksl.com/article/51647857/box-elder-county-sheriff-appears-in-court-in-automobile-homicide-case",
+     "published": "2026-11-24T09:18:48+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Why Taiwan’s sovereignty matters",
+     "summary": "",
+     "link": "https://www.deseret.com/magazine/2026/11/24/why-taiwan-soverignty-matters-john-curtis/",
+     "published": "2026-11-24T17:46:46+00:00"
     }
    ]
   },
@@ -162,73 +162,73 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Experts, reporters and lawmakers dig into Nvidia reinstalling Jensen Huang as CEO",
-     "summary": "Just days after Jensen Huang stepped down as Nvidia CEO following allegations he had an affair with an alleged Chinese, the chip maker reinstalled Huang to his position in a stunning reversal. President Trump took…",
-     "link": "https://www.cbsnews.com/video/experts-reporters-lawmakers-dig-nvidia-reinstalling-jensen-huang-ceo/",
-     "published": "2026-11-24T04:15:00+00:00"
+     "title": "Oil prices fall despite Iran's ongoing attacks on tankers",
+     "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+     "published": "2026-11-24T17:56:49+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
-     "summary": "Jensen Huang is back as CEO of Nvidia just two weeks after resigning amid revelations of extramarital affairs, including one with a woman suspected of ties to Chinese intelligence. President Trump personally intervened…",
-     "link": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
-     "published": "2026-11-23T23:55:49+00:00"
+     "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+     "summary": "As President Donald Trump's personal lawyer, he was a central figure in efforts to overturn Trump's 2020 presidential election loss to Democrat Joe Biden.",
+     "link": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+     "published": "2026-11-24T17:53:38+00:00"
     },
     {
      "source": "NPR",
-     "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-     "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
-     "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-     "published": "2026-11-23T22:29:53+00:00"
+     "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+     "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+     "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+     "published": "2026-11-24T14:24:04+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Appeals court clears way for Army to detonate Iowa explosives",
-     "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-     "link": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
-     "published": "2026-11-24T03:21:47+00:00"
+     "title": "Iranian women praise singer lashed for not wearing a hijab",
+     "summary": "Parastoo Ahmadi was lashed 74 times for the crime of \"outraging public decency\" after she livestreamed a concert without her hair covered.",
+     "link": "https://www.cbsnews.com/news/iran-singer-parastoo-ahmadi-lashed-performing-no-hijab/",
+     "published": "2026-11-24T17:40:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Experts weigh national security implications of Huang's return to Nvidia",
-     "summary": "For a closer look at Jensen Huang's return to Nvidia, and the national security implications, Amna Nawaz spoke with Dmitri Alperovitch and James Lewis. Alperovitch co-founded and was chief technology officer of the…",
-     "link": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
-     "published": "2026-11-23T23:50:21+00:00"
+     "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+     "summary": "A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an investment before benefiting from lucrative federal…",
+     "link": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+     "published": "2026-11-24T17:13:02+00:00"
     },
     {
      "source": "NPR",
-     "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
-     "summary": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-     "published": "2026-11-23T22:17:59+00:00"
+     "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+     "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+     "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+     "published": "2026-11-24T12:12:25+00:00"
     },
     {
      "source": "CBS News",
-     "title": "A timeline of the Karen Read case",
-     "summary": "Here's a look at how events have unfolded in the Karen Read case.",
-     "link": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
-     "published": "2026-11-24T03:20:34+00:00"
+     "title": "Spacecraft enters Mercury's orbit after 8-year journey despite glitch",
+     "summary": "BepiColombo was launched as a joint mission between the European Space Agency and the Japan Aerospace Exploration Agency in October 2018.",
+     "link": "https://www.cbsnews.com/news/bepicolombo-enters-mercury-orbit-despite-glitch/",
+     "published": "2026-11-24T17:34:32+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
-     "summary": "In our news wrap Monday, storms on both coasts threaten to disrupt Thanksgiving travel as airlines continue to grapple with a series of recent tech failures, a federal appeals court says the Army can proceed with…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
-     "published": "2026-11-23T23:45:23+00:00"
+     "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+     "summary": "Police said that \"the property was unoccupied at the time of the incident.\"",
+     "link": "https://www.pbs.org/newshour/world/2-men-arrested-over-suspected-burglary-at-prince-william-and-kates-country-home",
+     "published": "2026-11-24T16:37:03+00:00"
     },
     {
      "source": "NPR",
-     "title": "Some women in tech have concerns about Huang's return",
-     "summary": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
-     "published": "2026-11-23T22:03:57+00:00"
+     "title": "What should it cost to insure a home in wildfire country?",
+     "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+     "published": "2026-11-24T11:30:00+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Federal court releases Rep. Ilhan Omar D.C. home raid documents",
-     "summary": "A federal court on Monday evening released documents regarding last month's raid at the Washington, D.C. home of Democratic Minnesota U.S. Rep. Ilhan Omar.",
-     "link": "https://www.cbsnews.com/news/congresswoman-ilhan-omar-house-raid-documents-release/",
-     "published": "2026-11-24T02:21:00+00:00"
+     "title": "Man on cruise ship goes overboard off Bahamas, search underway",
+     "summary": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
+     "link": "https://www.cbsnews.com/news/royal-caribbean-allure-of-the-seas-man-overboard-bahamas/",
+     "published": "2026-11-24T17:30:19+00:00"
     }
    ]
   }
