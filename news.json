@@ -1,11 +1,67 @@
 {
- "updated": "2026-11-25T11:41:00.333480+00:00",
+ "updated": "2026-11-25T20:41:25.365231+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "Park Record",
+     "title": "Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life campaign",
+     "summary": "On Opening Day, guests were greeted with complimentary coffee, hot cocoa, donuts and DJs at both base areas. The post Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life…",
+     "link": "https://www.parkrecord.com/2026/11/25/park-city-mountain-kicks-off-2026-27-season-with-new-investments-events-and-larger-than-life-campaign/",
+     "published": "2026-11-25T20:34:26+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Park City announces Thanksgiving holiday closures",
+     "summary": "PARK CITY, Utah — Several Park City offices and facilities will adjust hours or close for the Thanksgiving holiday. City Hall and all administrative offices will be closed Thursday and",
+     "link": "https://townlift.com/2026/11/park-city-announces-thanksgiving-holiday-closures/",
+     "published": "2026-11-25T20:22:14+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Study shows Wasatch Back homes have heightened radon levels",
+     "summary": "New data show more than half of Wasatch Back homes have elevated levels of radon. The naturally occurring gas is the second leading cause of lung cancer.",
+     "link": "https://www.kpcw.org/park-city/2026-11-25/study-shows-wasatch-back-homes-have-heightened-radon-levels",
+     "published": "2026-11-25T19:41:46+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Wasatch County Events Complex to host four days of seasonal events",
+     "summary": "The Holiday Clothing and Toy Exchange, Cottages for the Children, and Simple Treasures Boutique will offer opportunities to find meaningful gifts and support local businesses and organizations. The post Wasatch County…",
+     "link": "https://www.parkrecord.com/2026/11/25/wasatch-county-events-complex-to-host-four-days-of-seasonal-events/",
+     "published": "2026-11-25T20:21:48+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Eight Utah artists turn Park City’s Main Street into an outdoor gallery for the holidays",
+     "summary": "The annual Snow Globe Art Stroll begins Thanksgiving Day, featuring illuminated installations by artists working in glass, painting, sculpture, and mixed media.",
+     "link": "https://townlift.com/2026/11/eight-utah-artists-turn-park-citys-main-street-into-an-outdoor-gallery-for-the-holidays/",
+     "published": "2026-11-25T19:31:22+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "Snyderville Basin water official: Save turkey grease for gravy, not drains",
+     "summary": "A Summit County water official is reminding locals not to dump grease down drains ahead of the holidays.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-25/snyderville-basin-water-official-save-turkey-grease-for-gravy-not-drains",
+     "published": "2026-11-25T16:08:00+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Heber City Main Street to host holiday festivities Dec. 4-5",
+     "summary": "Christmas is coming to downtown Heber City with two evenings of festive traditions, lights, music and community gatherings Dec. 4-5. Hosted in historic downtown, Heber City’s Old Fashioned Christmas Celebration and…",
+     "link": "https://www.parkrecord.com/2026/11/25/heber-city-main-street-to-host-holiday-festivities-dec-4-5/",
+     "published": "2026-11-25T20:08:47+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Deer Valley to open early for season passholders after two weeks of snowfall",
+     "summary": "PARK CITY, Utah — Deer Valley Resort will open its slopes early for season passholders on Wednesday, Dec. 2, following two weeks of snowfall and favorable snowmaking temperatures. The early",
+     "link": "https://townlift.com/2026/11/deer-valley-to-open-early-for-season-passholders-after-two-weeks-of-snowfall/",
+     "published": "2026-11-25T19:02:25+00:00"
+    },
     {
      "source": "KPCW",
      "title": "New UDOT tool helps drivers follow winter traction laws",
@@ -15,66 +71,10 @@
     },
     {
      "source": "Park Record",
-     "title": "‘Huge amounts’ of commercial space coming to Wasatch County in MIDA’s 10-year timeline",
-     "summary": "Deer Valley East development projections from the Military Installation Development Authority show that there will be over 600,000 square feet of commercial space upon build-out. The post ‘Huge amounts’ of commercial…",
-     "link": "https://www.parkrecord.com/2026/11/24/huge-amounts-of-commercial-space-coming-to-wasatch-county-in-midas-10-year-timeline/",
-     "published": "2026-11-24T22:45:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Major development proposal seeks commercial rezone near Quinn’s Junction",
-     "summary": "SUMMIT COUNTY, Utah — A proposal by the Burbidge family to develop about 55 acres at Quinn’s Junction into a large commercial and light-industrial business park is going under review",
-     "link": "https://townlift.com/2026/11/major-development-proposal-seeks-commercial-rezone-near-quinns-junction/",
-     "published": "2026-11-24T21:52:43+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Christian Center plans to take over Oakley, Coalville food pantries",
-     "summary": "Wasatch Back organizations are stepping up after a Provo nonprofit closed local food pantries.",
-     "link": "https://www.kpcw.org/summit-county/2026-11-24/christian-center-plans-to-take-over-oakley-coalville-food-pantries",
-     "published": "2026-11-25T00:35:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Wasatch County considers changing density rules to promote affordable housing",
-     "summary": "Wasatch County planners say it’s time to re-establish optional housing density incentives aligned with the county’s affordable housing goals. The post Wasatch County considers changing density rules to promote…",
-     "link": "https://www.parkrecord.com/2026/11/24/wasatch-county-considers-changing-density-rules-to-promote-affordable-housing/",
-     "published": "2026-11-24T22:30:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "The map at the center of Eastern Summit County’s growth debate",
-     "summary": "The proposed map would leave existing zoning and development rights intact but could influence future land use decisions, drawing competing perspectives from residents, developers and county officials.",
-     "link": "https://townlift.com/2026/11/the-map-at-the-center-of-eastern-summit-countys-growth-debate/",
-     "published": "2026-11-24T21:34:14+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Lawsuit seeks to override Utah’s ban on buying soda with SNAP benefits",
-     "summary": "A federal lawsuit filed in the District of Columbia seeks to block more states from restricting what kind of items recipients of the Supplemental Nutrition Assistance Program or SNAP can buy.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-24/lawsuit-seeks-to-override-utahs-ban-on-buying-soda-with-snap-benefits",
-     "published": "2026-11-25T00:30:41+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Soldier Hollow Nordic Center ‘snow pile’ uncovered this week",
-     "summary": "Last February, the Nordic Center targeted its snow guns to make a massive pile of snow about the area of a football field and 25-feet tall. The post Soldier Hollow Nordic Center ‘snow pile’ uncovered this week appeared…",
-     "link": "https://www.parkrecord.com/2026/11/24/soldier-hollow-nordic-center-snow-pile-uncovered-this-week/",
-     "published": "2026-11-24T22:15:00+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "The extra line on your property tax bill: Utah auditor raises alarms over PIDs funding resort growth",
-     "summary": "At least 24 PIDs and similar financing districts have been created in Summit and Wasatch counties since 2019, helping fund projects ranging from ski resort expansions to residential development.",
-     "link": "https://townlift.com/2026/11/utah-auditor-warns-of-growing-public-infrastructure-debt-summit-and-wasatch-counties-have-become-a-testing-ground/",
-     "published": "2026-11-24T21:32:03+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "Election results certified for Utah blue wave",
-     "summary": "Utah’s 2026 general election results were certified by the state Board of Canvassers Nov. 23, solidifying the state-level effects of the national blue wave.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-24/election-results-certified-for-utah-blue-wave",
-     "published": "2026-11-25T00:26:08+00:00"
+     "title": "Recovering Park City police dog visits Main Street",
+     "summary": "John Kenworthy, owner of Flanagan's on Main, said hello to Bruno as Officer Wayne Henderson brought him back to Old Town for a quick visit to his old stomping grounds. The post Recovering Park City police dog visits…",
+     "link": "https://www.parkrecord.com/2026/11/25/park-city-police-dog-is-recovering-well-visits-main-street/",
+     "published": "2026-11-25T19:36:13+00:00"
     }
    ]
   },
@@ -85,73 +85,73 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "‘Deseret Voices’ Episode 61: You don’t need millions to be a philanthropist",
+     "title": "Trump proposes new round of tariffs as inflation continues to rise",
      "summary": "",
-     "link": "https://www.deseret.com/video/2026/11/25/deseret-voices-episode-61-gail-miller-you-dont-need-millions-to-be-a-philanthropist/",
-     "published": "2026-11-25T11:00:01+00:00"
+     "link": "https://www.deseret.com/business/2026/11/25/donald-trump-tariffs-trade-high-inflation-federal-reserve-financial-hardship-american-familly-survey/",
+     "published": "2026-11-25T20:13:05+00:00"
     },
     {
      "source": "KSL",
-     "title": "After back-to-back floods, one neighbor's nonprofit helps Hurricane rebuild",
-     "summary": "La Verkin resident Cherie Santiago mobilized local businesses and volunteers to raise over $220,000 in relief funds after back-to-back floods struck Hurricane.",
-     "link": "https://www.ksl.com/article/51647765/after-back-to-back-floods-one-neighbors-nonprofit-helps-hurricane-rebuild",
-     "published": "2026-11-24T20:36:00+00:00"
+     "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+     "summary": "The Trump administration announced a set of broad new tariffs Wednesday in response to alleged overproduction of factory goods that have disadvantaged American firms.",
+     "link": "https://www.ksl.com/article/51648056/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production",
+     "published": "2026-11-25T13:24:38+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Police kill man during domestic barricade situation in South Jordan",
-     "summary": "A man was shot and killed by police after allegedly grabbing their gun during an overnight domestic barricade situation in South Jordan.",
-     "link": "https://www.sltrib.com/news/2026/11/24/south-jordan-man-killed-by-police/",
-     "published": "2026-11-24T17:30:40+00:00"
+     "title": "Voices: Social media is consuming our fellow students’ time. We’re helping them get it back.",
+     "summary": "“As we see our peers lose motivation and their procrastination skyrocket, we fear for our future,” five Utah high school students write in an op-ed.",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/25/voices-how-were-helping-our-peers/",
+     "published": "2026-11-25T13:02:28+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Analysis: Why your Sunday pew beats a backyard sauna",
+     "title": "Opinion: Preparing your table for an anger-free Thanksgiving",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/25/religion-increases-longevity/",
-     "published": "2026-11-25T11:00:00+00:00"
+     "link": "https://www.deseret.com/family/2026/11/24/anger-free-thanksgiving/",
+     "published": "2026-11-25T20:00:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "An unclassified CIA system was breached in a cyberattack, AP source says",
-     "summary": "An unclassified CIA system was breached in a cyberattack, according to a person familiar with the incident who spoke to The Associated Press on condition of anonymity.",
-     "link": "https://www.ksl.com/article/51647949/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says",
-     "published": "2026-11-24T20:03:00+00:00"
+     "title": "Review: 'Hexed' gives Disney animation a little of its magic back",
+     "summary": "Here's why \"Hexed\" may be worth a trip to the theater with the family this Thanksgiving weekend.",
+     "link": "https://www.ksl.com/article/51648145/review-hexed-gives-disney-animation-a-little-of-its-magic-back",
+     "published": "2026-11-25T13:14:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "After Kalshi pulls out of Utah, state moves to drop criminal charges",
-     "summary": "Utah's attorney general moved to drop criminal charges against Kalshi a day after the site announced it \"paused operations\" in the state.",
-     "link": "https://www.sltrib.com/news/2026/11/24/after-kalshi-pulls-out-utah-state/",
-     "published": "2026-11-24T17:18:15+00:00"
+     "title": "Letter: Always bagging on Trump. Are these all the views deemed fit to print? Where’s the other side?",
+     "summary": "Letter: Would it kill the editorial staff of The Salt Lake Tribune to print stuff in favor of Donald Trump? The letters printed can’t be all you get, are they?",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/25/letter-always-bagging-trump-are/",
+     "published": "2026-11-25T13:01:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Outside money poured into Utah this year. Republicans are now rethinking campaign finance rules",
+     "title": "22 states are suing the feds for ending immigrant housing aid",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/25/utah-republicans-consider-campaign-finance-reform-after-out-of-state-money-poured-into-midterm-elections/",
-     "published": "2026-11-25T11:00:00+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/25/22-states-are-suing-the-feds-over-this-immigration-change/",
+     "published": "2026-11-25T19:54:23+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Opinion: I can see why Jensen Huang was irreplaceable",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/25/opinion-i-can-see-why-jensen-huang/",
+     "published": "2026-11-25T13:01:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "Cache County School District receives $990K grant to improve student literacy",
-     "summary": "A Cache Valley school district is getting nearly a million dollars from Intermountain Health to help more students become successful readers.",
-     "link": "https://www.ksl.com/article/51646709/cache-county-school-district-receives-990000-grant-to-improve-student-literacy",
-     "published": "2026-11-24T19:33:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Bagley Cartoon: Hop Scotch Pox",
-     "summary": "Check out Pat Bagley's latest cartoon: Hop Scotch Pox",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/11/24/bagley-cartoon-hop-scotch-pox/",
-     "published": "2026-11-24T14:49:59+00:00"
+     "title": "Delta says it's back on track. Here's what Thanksgiving travelers should know",
+     "summary": "Two thousand Delta Air Lines flights were delayed on Sunday following a technical outage at the start of a busy Thanksgiving travel week.",
+     "link": "https://www.ksl.com/article/news/business/delta-says-its-back-on-track-heres-what-thanksgiving-travelers-should-know/51647711",
+     "published": "2026-11-25T12:58:40+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "One Utah university cracks ‘40 Beautiful College Campuses’ list",
-     "summary": "",
-     "link": "https://www.deseret.com/education/2026/11/24/utah-state-university-campus-beauty-trees/",
-     "published": "2026-11-25T03:02:00+00:00"
+     "title": "Thanksgiving travel could create road delays up to 40 minutes in Utah, UDOT warns",
+     "summary": "Utah transportation officials warn that Thanksgiving travel could cause up to 25- to 40-minute delays on some sections of I-15 this week.",
+     "link": "https://www.deseret.com/utah/2026/11/25/thanksgiving-travel-could-create-road-delays-up-to-40-minutes-in-utah-udot-warns/",
+     "published": "2026-11-25T19:34:01+00:00"
     }
    ]
   },
@@ -161,74 +161,74 @@
    "scope": "United States",
    "items": [
     {
+     "source": "PBS NewsHour",
+     "title": "Macy's Thanksgiving Day Parade to celebrate a milestone with Blue Hippo, Bluey and Megan Moroney",
+     "summary": "One of the stars of this year's Macy's Thanksgiving Day Parade should be very easy to spot. Just look in the sky for a gigantic blue hippo with a goofy smile.",
+     "link": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-to-celebrate-a-milestone-with-blue-hippo-bluey-and-megan-moroney",
+     "published": "2026-11-25T20:30:50+00:00"
+    },
+    {
      "source": "CBS News",
-     "title": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
-     "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
-     "link": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
-     "published": "2026-11-25T11:00:12+00:00"
+     "title": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
+     "summary": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
+     "link": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
+     "published": "2026-11-25T20:28:49+00:00"
     },
     {
      "source": "NPR",
-     "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-     "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-     "published": "2026-11-25T11:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "How Trump may have profited from Huang's return to Nvidia",
-     "summary": "A day after President Trump intervened to reinstate Nvidia's embattled CEO, a new report suggests that Trump himself may have benefited financially to the tune of millions of dollars. White House correspondent Liz…",
-     "link": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
-     "published": "2026-11-24T23:55:53+00:00"
+     "title": "Group of Senate Democrats push to add freshman to leadership",
+     "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+     "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+     "published": "2026-11-25T17:30:47+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Iran denounces U.S. use of AI in war",
-     "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-     "published": "2026-11-25T10:50:58+00:00"
+     "title": "More than 490,000 Russian soldiers have died in Ukraine war, leaked data suggests",
+     "summary": "More than 490,000 Russian soldiers have died since Russia invaded Ukraine in February 2022, according to leaked Russian government data analyzed by CBS News partner network BBC News. CBS News' Aidan Stretch has more.",
+     "link": "https://www.cbsnews.com/video/more-than-490000-russian-soldiers-have-died-in-ukraine-war-leaked-data-suggests/",
+     "published": "2026-11-25T20:23:34+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
+     "summary": "The reports use cherry-picked data, careful phrasing and in some cases facts that don't stand up to scrutiny to create misleading depictions of countries that are in fact often plagued by violence, government corruption…",
+     "link": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
+     "published": "2026-11-25T18:07:48+00:00"
     },
     {
      "source": "NPR",
-     "title": "Buying new things feels wonderful. But it can also be a trap",
-     "summary": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-     "published": "2026-11-25T10:02:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "What's next for Nvidia and Jensen Huang after Trump's intervention",
-     "summary": "Questions are still being raised about Jensen Huang's reinstatement as Nvidia's CEO, the role President Trump played in that decision and what other investigations could mean for the company. To help break it all down…",
-     "link": "https://www.pbs.org/newshour/show/whats-next-for-nvidia-and-jensen-huang-after-trumps-intervention",
-     "published": "2026-11-24T23:50:24+00:00"
+     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+     "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+     "published": "2026-11-25T14:14:34+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Security forces storm scene, end Colombia supermarket siege",
-     "summary": "Security forces stormed a supermarket in the Colombian city of Cartagena, ending a day-long siege, with the nation's president saying all hostages were rescued and one captor was killed.",
-     "link": "https://www.cbsnews.com/news/colombia-supermarket-siege-ends-security-forces-storm-scene/",
-     "published": "2026-11-25T10:36:34+00:00"
+     "title": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+     "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+     "link": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+     "published": "2026-11-25T20:14:00+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "Inflation remains stubbornly high, despite a drop in gas prices",
+     "summary": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September.",
+     "link": "https://www.pbs.org/newshour/economy/inflation-remains-stubbornly-high-despite-a-drop-in-gas-prices",
+     "published": "2026-11-25T17:01:18+00:00"
     },
     {
      "source": "NPR",
-     "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
-     "summary": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
-     "published": "2026-11-25T10:00:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "News Wrap: California's king tides could be biggest in 4 decades",
-     "summary": "In our news wrap Tuesday, California is bracing for king tides along the Pacific coast that could be the biggest in four decades, President Trump awarded Rudolph Giuliani the Medal of Freedom, FBI Deputy Director…",
-     "link": "https://www.pbs.org/newshour/show/news-wrap-californias-king-tides-could-be-biggest-in-4-decades",
-     "published": "2026-11-24T23:45:38+00:00"
+     "title": "What to know before using AI agents for Black Friday shopping",
+     "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+     "published": "2026-11-25T13:51:56+00:00"
     },
     {
      "source": "CBS News",
-     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
-     "summary": "As Ukraine attacks Russian ships in far-flung waters, some NATO nations are voicing increasing anxiety over the war's spread to new regions.",
-     "link": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
-     "published": "2026-11-25T10:22:19+00:00"
+     "title": "Why are investors freaking out even as the U.S. economy surges?",
+     "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
+     "link": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/",
+     "published": "2026-11-25T19:45:38+00:00"
     }
    ]
   }
