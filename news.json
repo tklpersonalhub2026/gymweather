@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:13:25.339770+00:00",
+ "updated": "2026-11-26T12:50:43.881447+00:00",
  "sections": [
   {
    "key": "local",
@@ -7,18 +7,18 @@
    "scope": "Park City · Summit · Wasatch",
    "items": [
     {
+     "source": "Park Record",
+     "title": "Ridgelines: Beam me up, Solitude",
+     "summary": "\"Over the next few days, more Utah resorts will come to life, likely offering more Thanksgiving terrain than we've seen in years.\" The post Ridgelines: Beam me up, Solitude appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/25/ridgelines-beam-me-up-solitude/",
+     "published": "2026-11-26T03:15:00+00:00"
+    },
+    {
      "source": "KPCW",
      "title": "Here’s how to keep winter trash pick up safe in Summit County",
      "summary": "Winter weather can create challenges for both waste management pickup teams and locals. These are some strategies to keep daily trash pickup safe over the holidays.",
      "link": "https://www.kpcw.org/summit-county/2026-11-25/heres-how-to-keep-winter-trash-pick-up-safe-in-summit-county",
      "published": "2026-11-26T00:59:45+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Opening day at Park City Mountain celebrates ‘first chair’ tradition under blue skies and sunshine",
-     "summary": "Park City Mountain is now open for the 2026-27 season. Wednesday morning at 9 a.m., lifts started running at Canyons Village and Mountain Village, where DJs and doughnuts greeted guests after the opening delayed by five…",
-     "link": "https://www.parkrecord.com/2026/11/25/opening-day-at-park-city-mountain-celebrates-first-chair-tradition-under-blue-skies-and-sunshine/",
-     "published": "2026-11-25T22:36:28+00:00"
     },
     {
      "source": "TownLift",
@@ -36,10 +36,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life campaign",
-     "summary": "On Opening Day, guests were greeted with complimentary coffee, hot cocoa, donuts and DJs at both base areas. The post Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life…",
-     "link": "https://www.parkrecord.com/2026/11/25/park-city-mountain-kicks-off-2026-27-season-with-new-investments-events-and-larger-than-life-campaign/",
-     "published": "2026-11-25T20:34:26+00:00"
+     "title": "Opening day at Park City Mountain celebrates ‘first chair’ tradition under blue skies and sunshine",
+     "summary": "Park City Mountain is now open for the 2026-27 season. Wednesday morning at 9 a.m., lifts started running at Canyons Village and Mountain Village, where DJs and doughnuts greeted guests after the opening delayed by five…",
+     "link": "https://www.parkrecord.com/2026/11/25/opening-day-at-park-city-mountain-celebrates-first-chair-tradition-under-blue-skies-and-sunshine/",
+     "published": "2026-11-25T22:36:28+00:00"
     },
     {
      "source": "TownLift",
@@ -57,10 +57,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Wasatch County Events Complex to host four days of seasonal events",
-     "summary": "The Holiday Clothing and Toy Exchange, Cottages for the Children, and Simple Treasures Boutique will offer opportunities to find meaningful gifts and support local businesses and organizations. The post Wasatch County…",
-     "link": "https://www.parkrecord.com/2026/11/25/wasatch-county-events-complex-to-host-four-days-of-seasonal-events/",
-     "published": "2026-11-25T20:21:48+00:00"
+     "title": "Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life campaign",
+     "summary": "On Opening Day, guests were greeted with complimentary coffee, hot cocoa, donuts and DJs at both base areas. The post Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life…",
+     "link": "https://www.parkrecord.com/2026/11/25/park-city-mountain-kicks-off-2026-27-season-with-new-investments-events-and-larger-than-life-campaign/",
+     "published": "2026-11-25T20:34:26+00:00"
     },
     {
      "source": "TownLift",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "This woman just ran 7 marathons in 7 days on 7 continents",
+     "title": "Opinion: Thanksgiving can cure many ills",
      "summary": "",
-     "link": "https://www.deseret.com/lifestyle/2026/11/25/utah-woman-seven-marathons-days-continents-great-world-race/",
-     "published": "2026-11-26T02:01:00+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/26/exhibiting-gratitude-improves-health/",
+     "published": "2026-11-26T11:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "10 years later, fallen Utah Highway Patrol trooper's memory lives on",
+     "summary": "A roadside cross, a family's memories and the voices of three sons help keep Utah Highway Patrol trooper Eric Ellsworth's legacy alive a decade after his death.",
+     "link": "https://www.ksl.com/article/51647994/10-years-later-fallen-utah-highway-patrol-troopers-memory-lives-on",
+     "published": "2026-11-25T22:33:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,25 +105,18 @@
      "published": "2026-11-25T22:26:42+00:00"
     },
     {
-     "source": "KSL",
-     "title": "Millcreek appoints new city councilman to fill seat left by state senator-elect",
-     "summary": "Millcreek appointed a member of the city's planning commission to fill a vacancy on the City Council after Sylvia Catten was elected to serve in the state Senate.",
-     "link": "https://www.ksl.com/article/51648189/millcreek-appoints-new-city-councilman-to-fill-seat-left-by-state-senator-elect",
-     "published": "2026-11-25T19:29:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "Opinion: This Thanksgiving, give thanks — for what you have gained and for what you have lost",
+     "title": "Life returns to Glen Canyon. Very little is protecting it",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/25/thanksgiving-blessings-gifts-in-losses/",
-     "published": "2026-11-26T00:46:29+00:00"
+     "link": "https://www.deseret.com/environment/2026/11/26/glen-canyon-ecosystems-reemerge-amid-receding-lake-powell/",
+     "published": "2026-11-26T11:00:01+00:00"
     },
     {
      "source": "KSL",
-     "title": "Thanksgiving food prices drop in Utah despite national upward trend",
-     "summary": "The cost of a Thanksgiving dinner this year is more expensive, according to a long-running snapshot of food prices. But in Utah, it's cheaper than it was last year.",
-     "link": "https://www.ksl.com/article/51648190/thanksgiving-food-prices-drop-in-utah-despite-national-upward-trend",
-     "published": "2026-11-25T19:03:00+00:00"
+     "title": "Utah teen's dream of marching in Macy's Thanksgiving Day Parade delayed by historic postponement",
+     "summary": "Tooele County resident Alex Harris traveled to New York City to help guide a giant balloon in the Macy's Thanksgiving Day Parade, only to learn the event would be postponed.",
+     "link": "https://www.ksl.com/article/51648230/utah-teens-dream-of-marching-in-macys-thanksgiving-day-parade-delayed-by-historic-postponement",
+     "published": "2026-11-25T22:32:34+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -127,17 +127,17 @@
     },
     {
      "source": "Deseret News",
-     "title": "Art can help people feel the Spirit as they visit the temple, President Uchtdorf says",
+     "title": "Opinion: Giving thanks, but not with ‘one heart and one voice’",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/25/church-news-president-dieter-f-uchtdorf-speaks-creation-perspective-salt-lake-temple-celebration/",
-     "published": "2026-11-26T00:25:49+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/26/thanksgiving-day-of-mourning-plymouth-pilgrims-invaders/",
+     "published": "2026-11-26T11:00:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "As GLP-1 use grows, patients and doctors rethink Thanksgiving dinner",
-     "summary": "For many people, Thanksgiving can feel like a competitive eating event. But for Kim Dillard Davis, one of millions of American adults who take prescribed weight loss medications known as GLP-1s, it is a day like any…",
-     "link": "https://www.ksl.com/article/51648053/as-glp-1-use-grows-patients-and-doctors-rethink-thanksgiving-dinner",
-     "published": "2026-11-25T18:48:00+00:00"
+     "title": "Grocery shopping on Thanksgiving? Here's what's open",
+     "summary": "Looking to buy last-minute items this Thanksgiving? Businesses around the country will be operating on holiday hours. Here's what is open.",
+     "link": "https://www.ksl.com/article/51648223/grocery-shopping-on-thanksgiving-heres-whats-open",
+     "published": "2026-11-25T22:22:10+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -148,10 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: More strategy than friendship — the Indigenous gamble behind the first Thanksgiving",
+     "title": "This woman just ran 7 marathons in 7 days on 7 continents",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/25/indigenous-gamble-behind-the-first-thanksgiving/",
-     "published": "2026-11-25T23:48:46+00:00"
+     "link": "https://www.deseret.com/lifestyle/2026/11/25/utah-woman-seven-marathons-days-continents-great-world-race/",
+     "published": "2026-11-26T02:01:00+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Judge temporarily blocks FCC from reviewing ABC's licenses",
-     "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
-     "link": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
-     "published": "2026-11-26T03:00:27+00:00"
+     "title": "FedEx cargo plane runs off MIA runway, causing brief ground stop",
+     "summary": "The Miami-Dade Fire-Rescue and Sheriff's Office both confirmed that two people were on board the plane and no injuries were reported.",
+     "link": "https://www.cbsnews.com/miami/news/miami-international-airport-ground-stop-fedex-md-11-runway-excursion-faa/",
+     "published": "2026-11-26T12:42:23+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+     "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
+     "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+     "published": "2026-11-26T12:24:29+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-11-26T00:02:17+00:00"
     },
     {
-     "source": "NPR",
-     "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-     "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-     "published": "2026-11-25T21:02:58+00:00"
+     "source": "CBS News",
+     "title": "Oil prices inch back up as Iran and the Houthis escalate threats",
+     "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+     "published": "2026-11-26T12:37:56+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
-     "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
-     "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/",
-     "published": "2026-11-26T02:07:43+00:00"
+     "source": "NPR",
+     "title": "'Memories of a Good Meal': How food made a difference during WWII",
+     "summary": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food.",
+     "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+     "published": "2026-11-26T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-11-25T23:51:49+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Group of Senate Democrats push to add freshman to leadership",
-     "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
-     "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-     "published": "2026-11-25T17:30:47+00:00"
+     "source": "CBS News",
+     "title": "Ukraine says it downed a Russian jet-powered drone with a laser",
+     "summary": "Ukraine has used a laser weapon to shoot down a Russian jet-powered drone for the first time, a senior adviser to President Volodymyr Zelenskyy says.",
+     "link": "https://www.cbsnews.com/news/russia-ukraine-war-laser-interception-russian-jet-powered-geran-drone/",
+     "published": "2026-11-26T12:02:53+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
-     "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
-     "published": "2026-11-26T01:46:00+00:00"
+     "source": "NPR",
+     "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+     "summary": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
+     "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+     "published": "2026-11-26T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-25T23:50:40+00:00"
     },
     {
-     "source": "NPR",
-     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-     "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-     "published": "2026-11-25T14:14:34+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\"",
-     "summary": "Kiel Tutin, supervising choreographer for \"The JLo Show,\" joins \"The Daily Report\" to discuss the film and Jennifer Lopez's intense Las Vegas residency. \"The JLo Show\" premieres Thursday night on CBS and Paramount+.…",
-     "link": "https://www.cbsnews.com/video/jennifer-lopezs-choreographer-on-what-to-expect-from-the-jlo-show/",
-     "published": "2026-11-26T01:21:22+00:00"
+     "title": "Fuel tanker explosion kills 31 on Egyptian highway",
+     "summary": "A massive fire killed 31 people in Egypt after a speeding driver allegedly crashed into a fuel tanker truck.",
+     "link": "https://www.cbsnews.com/news/egypt-fuel-tanker-explosion-deaths-giza-cairo/",
+     "published": "2026-11-26T11:27:25+00:00"
     }
    ]
   }
