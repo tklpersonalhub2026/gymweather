@@ -1,11 +1,39 @@
 {
- "updated": "2026-11-25T20:41:25.365231+00:00",
+ "updated": "2026-11-26T03:13:25.339770+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "KPCW",
+     "title": "Here’s how to keep winter trash pick up safe in Summit County",
+     "summary": "Winter weather can create challenges for both waste management pickup teams and locals. These are some strategies to keep daily trash pickup safe over the holidays.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-25/heres-how-to-keep-winter-trash-pick-up-safe-in-summit-county",
+     "published": "2026-11-26T00:59:45+00:00"
+    },
+    {
+     "source": "Park Record",
+     "title": "Opening day at Park City Mountain celebrates ‘first chair’ tradition under blue skies and sunshine",
+     "summary": "Park City Mountain is now open for the 2026-27 season. Wednesday morning at 9 a.m., lifts started running at Canyons Village and Mountain Village, where DJs and doughnuts greeted guests after the opening delayed by five…",
+     "link": "https://www.parkrecord.com/2026/11/25/opening-day-at-park-city-mountain-celebrates-first-chair-tradition-under-blue-skies-and-sunshine/",
+     "published": "2026-11-25T22:36:28+00:00"
+    },
+    {
+     "source": "TownLift",
+     "title": "Summit County’s transitional housing shortage leaves dozens waiting",
+     "summary": "Even with a potential $10 million contribution and donated land, efforts to expand housing for residents emerging from crisis have encountered zoning barriers.",
+     "link": "https://townlift.com/2026/11/summit-countys-transitional-housing-shortage-leaves-dozens-waiting/",
+     "published": "2026-11-25T21:14:26+00:00"
+    },
+    {
+     "source": "KPCW",
+     "title": "On opening day at Park City Mountain, ‘I don’t need sleep to ski’",
+     "summary": "Park City Mountain opened both base areas Wednesday, getting skiers on the slopes before Thanksgiving.",
+     "link": "https://www.kpcw.org/featured/2026-11-25/on-opening-day-at-park-city-mountain-i-dont-need-sleep-to-ski",
+     "published": "2026-11-26T00:24:37+00:00"
+    },
     {
      "source": "Park Record",
      "title": "Park City Mountain kicks off 2026-27 season with new investments, events and Larger than Life campaign",
@@ -22,10 +50,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Study shows Wasatch Back homes have heightened radon levels",
-     "summary": "New data show more than half of Wasatch Back homes have elevated levels of radon. The naturally occurring gas is the second leading cause of lung cancer.",
-     "link": "https://www.kpcw.org/park-city/2026-11-25/study-shows-wasatch-back-homes-have-heightened-radon-levels",
-     "published": "2026-11-25T19:41:46+00:00"
+     "title": "Wasatch Back closures for Thanksgiving weekend",
+     "summary": "State and local government offices will be closed on Thanksgiving and Black Friday this year.",
+     "link": "https://www.kpcw.org/summit-county/2026-11-25/wasatch-back-closures-for-thanksgiving-weekend",
+     "published": "2026-11-25T21:24:08+00:00"
     },
     {
      "source": "Park Record",
@@ -43,38 +71,10 @@
     },
     {
      "source": "KPCW",
-     "title": "Snyderville Basin water official: Save turkey grease for gravy, not drains",
-     "summary": "A Summit County water official is reminding locals not to dump grease down drains ahead of the holidays.",
-     "link": "https://www.kpcw.org/summit-county/2026-11-25/snyderville-basin-water-official-save-turkey-grease-for-gravy-not-drains",
-     "published": "2026-11-25T16:08:00+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Heber City Main Street to host holiday festivities Dec. 4-5",
-     "summary": "Christmas is coming to downtown Heber City with two evenings of festive traditions, lights, music and community gatherings Dec. 4-5. Hosted in historic downtown, Heber City’s Old Fashioned Christmas Celebration and…",
-     "link": "https://www.parkrecord.com/2026/11/25/heber-city-main-street-to-host-holiday-festivities-dec-4-5/",
-     "published": "2026-11-25T20:08:47+00:00"
-    },
-    {
-     "source": "TownLift",
-     "title": "Deer Valley to open early for season passholders after two weeks of snowfall",
-     "summary": "PARK CITY, Utah — Deer Valley Resort will open its slopes early for season passholders on Wednesday, Dec. 2, following two weeks of snowfall and favorable snowmaking temperatures. The early",
-     "link": "https://townlift.com/2026/11/deer-valley-to-open-early-for-season-passholders-after-two-weeks-of-snowfall/",
-     "published": "2026-11-25T19:02:25+00:00"
-    },
-    {
-     "source": "KPCW",
-     "title": "New UDOT tool helps drivers follow winter traction laws",
-     "summary": "The Utah Department of Transportation has launched a new online quiz to help drivers determine whether their vehicles meet Utah’s winter traction requirements.",
-     "link": "https://www.kpcw.org/state-regional/2026-11-24/new-udot-tool-helps-drivers-follow-winter-traction-laws",
-     "published": "2026-11-25T00:36:19+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Recovering Park City police dog visits Main Street",
-     "summary": "John Kenworthy, owner of Flanagan's on Main, said hello to Bruno as Officer Wayne Henderson brought him back to Old Town for a quick visit to his old stomping grounds. The post Recovering Park City police dog visits…",
-     "link": "https://www.parkrecord.com/2026/11/25/park-city-police-dog-is-recovering-well-visits-main-street/",
-     "published": "2026-11-25T19:36:13+00:00"
+     "title": "Deer Valley will open early to passholders",
+     "summary": "Deer Valley Resort is nearly ready to welcome skiers this year.",
+     "link": "https://www.kpcw.org/ski-resorts/2026-11-25/deer-valley-will-open-early-to-passholders",
+     "published": "2026-11-25T21:17:18+00:00"
     }
    ]
   },
@@ -85,17 +85,38 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Trump proposes new round of tariffs as inflation continues to rise",
+     "title": "This woman just ran 7 marathons in 7 days on 7 continents",
      "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/25/donald-trump-tariffs-trade-high-inflation-federal-reserve-financial-hardship-american-familly-survey/",
-     "published": "2026-11-25T20:13:05+00:00"
+     "link": "https://www.deseret.com/lifestyle/2026/11/25/utah-woman-seven-marathons-days-continents-great-world-race/",
+     "published": "2026-11-26T02:01:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Macy’s Thanksgiving Day Parade will be postponed until Saturday",
+     "summary": "The Macy’s Thanksgiving Day Parade will be postponed until Saturday, the first time in its 100-year history that the event will not take place on Thanksgiving Day because of weather.",
+     "link": "https://www.sltrib.com/news/nation-world/2026/11/25/macys-thanksgiving-day-parade/",
+     "published": "2026-11-25T22:26:42+00:00"
     },
     {
      "source": "KSL",
-     "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
-     "summary": "The Trump administration announced a set of broad new tariffs Wednesday in response to alleged overproduction of factory goods that have disadvantaged American firms.",
-     "link": "https://www.ksl.com/article/51648056/us-plans-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-production",
-     "published": "2026-11-25T13:24:38+00:00"
+     "title": "Millcreek appoints new city councilman to fill seat left by state senator-elect",
+     "summary": "Millcreek appointed a member of the city's planning commission to fill a vacancy on the City Council after Sylvia Catten was elected to serve in the state Senate.",
+     "link": "https://www.ksl.com/article/51648189/millcreek-appoints-new-city-councilman-to-fill-seat-left-by-state-senator-elect",
+     "published": "2026-11-25T19:29:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Opinion: This Thanksgiving, give thanks — for what you have gained and for what you have lost",
+     "summary": "",
+     "link": "https://www.deseret.com/opinion/2026/11/25/thanksgiving-blessings-gifts-in-losses/",
+     "published": "2026-11-26T00:46:29+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Thanksgiving food prices drop in Utah despite national upward trend",
+     "summary": "The cost of a Thanksgiving dinner this year is more expensive, according to a long-running snapshot of food prices. But in Utah, it's cheaper than it was last year.",
+     "link": "https://www.ksl.com/article/51648190/thanksgiving-food-prices-drop-in-utah-despite-national-upward-trend",
+     "published": "2026-11-25T19:03:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -106,17 +127,17 @@
     },
     {
      "source": "Deseret News",
-     "title": "Opinion: Preparing your table for an anger-free Thanksgiving",
+     "title": "Art can help people feel the Spirit as they visit the temple, President Uchtdorf says",
      "summary": "",
-     "link": "https://www.deseret.com/family/2026/11/24/anger-free-thanksgiving/",
-     "published": "2026-11-25T20:00:00+00:00"
+     "link": "https://www.deseret.com/faith/2026/11/25/church-news-president-dieter-f-uchtdorf-speaks-creation-perspective-salt-lake-temple-celebration/",
+     "published": "2026-11-26T00:25:49+00:00"
     },
     {
      "source": "KSL",
-     "title": "Review: 'Hexed' gives Disney animation a little of its magic back",
-     "summary": "Here's why \"Hexed\" may be worth a trip to the theater with the family this Thanksgiving weekend.",
-     "link": "https://www.ksl.com/article/51648145/review-hexed-gives-disney-animation-a-little-of-its-magic-back",
-     "published": "2026-11-25T13:14:00+00:00"
+     "title": "As GLP-1 use grows, patients and doctors rethink Thanksgiving dinner",
+     "summary": "For many people, Thanksgiving can feel like a competitive eating event. But for Kim Dillard Davis, one of millions of American adults who take prescribed weight loss medications known as GLP-1s, it is a day like any…",
+     "link": "https://www.ksl.com/article/51648053/as-glp-1-use-grows-patients-and-doctors-rethink-thanksgiving-dinner",
+     "published": "2026-11-25T18:48:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -127,31 +148,10 @@
     },
     {
      "source": "Deseret News",
-     "title": "22 states are suing the feds for ending immigrant housing aid",
+     "title": "Opinion: More strategy than friendship — the Indigenous gamble behind the first Thanksgiving",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/25/22-states-are-suing-the-feds-over-this-immigration-change/",
-     "published": "2026-11-25T19:54:23+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Opinion: I can see why Jensen Huang was irreplaceable",
-     "summary": "",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/25/opinion-i-can-see-why-jensen-huang/",
-     "published": "2026-11-25T13:01:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Delta says it's back on track. Here's what Thanksgiving travelers should know",
-     "summary": "Two thousand Delta Air Lines flights were delayed on Sunday following a technical outage at the start of a busy Thanksgiving travel week.",
-     "link": "https://www.ksl.com/article/news/business/delta-says-its-back-on-track-heres-what-thanksgiving-travelers-should-know/51647711",
-     "published": "2026-11-25T12:58:40+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Thanksgiving travel could create road delays up to 40 minutes in Utah, UDOT warns",
-     "summary": "Utah transportation officials warn that Thanksgiving travel could cause up to 25- to 40-minute delays on some sections of I-15 this week.",
-     "link": "https://www.deseret.com/utah/2026/11/25/thanksgiving-travel-could-create-road-delays-up-to-40-minutes-in-utah-udot-warns/",
-     "published": "2026-11-25T19:34:01+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/25/indigenous-gamble-behind-the-first-thanksgiving/",
+     "published": "2026-11-25T23:48:46+00:00"
     }
    ]
   },
@@ -161,18 +161,39 @@
    "scope": "United States",
    "items": [
     {
+     "source": "CBS News",
+     "title": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+     "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
+     "link": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
+     "published": "2026-11-26T03:00:27+00:00"
+    },
+    {
      "source": "PBS NewsHour",
-     "title": "Macy's Thanksgiving Day Parade to celebrate a milestone with Blue Hippo, Bluey and Megan Moroney",
-     "summary": "One of the stars of this year's Macy's Thanksgiving Day Parade should be very easy to spot. Just look in the sky for a gigantic blue hippo with a goofy smile.",
-     "link": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-to-celebrate-a-milestone-with-blue-hippo-bluey-and-megan-moroney",
-     "published": "2026-11-25T20:30:50+00:00"
+     "title": "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip",
+     "summary": "Authorities are investigating why a small plane carrying six members of a Florida family crashed off the Mississippi coast on Tuesday. They were returning home from a fishing trip, relatives say.",
+     "link": "https://www.pbs.org/newshour/nation/small-plane-crash-off-mississippi-coast-kills-extended-family-of-6-on-fishing-trip",
+     "published": "2026-11-26T00:02:17+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+     "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+     "published": "2026-11-25T21:02:58+00:00"
     },
     {
      "source": "CBS News",
-     "title": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
-     "summary": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
-     "link": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
-     "published": "2026-11-25T20:28:49+00:00"
+     "title": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
+     "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
+     "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/",
+     "published": "2026-11-26T02:07:43+00:00"
+    },
+    {
+     "source": "PBS NewsHour",
+     "title": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+     "summary": "Vice President JD Vance, second lady Usha Vance and their four children visited Wright-Patterson Air Force Base in Ohio on Wednesday, serving a Thanksgiving meal to troops and joining them for lunch.",
+     "link": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+     "published": "2026-11-25T23:51:49+00:00"
     },
     {
      "source": "NPR",
@@ -183,17 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "More than 490,000 Russian soldiers have died in Ukraine war, leaked data suggests",
-     "summary": "More than 490,000 Russian soldiers have died since Russia invaded Ukraine in February 2022, according to leaked Russian government data analyzed by CBS News partner network BBC News. CBS News' Aidan Stretch has more.",
-     "link": "https://www.cbsnews.com/video/more-than-490000-russian-soldiers-have-died-in-ukraine-war-leaked-data-suggests/",
-     "published": "2026-11-25T20:23:34+00:00"
+     "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+     "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+     "published": "2026-11-26T01:46:00+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
-     "summary": "The reports use cherry-picked data, careful phrasing and in some cases facts that don't stand up to scrutiny to create misleading depictions of countries that are in fact often plagued by violence, government corruption…",
-     "link": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
-     "published": "2026-11-25T18:07:48+00:00"
+     "title": "How Trump's newest tariffs could impact Americans and the economy",
+     "summary": "The Trump administration announced plans for a new round of tariffs on China, the European Union and 12 other major trading partners. China would face the highest rate with a new 20% tariff on most products. To discuss…",
+     "link": "https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy",
+     "published": "2026-11-25T23:50:40+00:00"
     },
     {
      "source": "NPR",
@@ -204,31 +225,10 @@
     },
     {
      "source": "CBS News",
-     "title": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
-     "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
-     "link": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
-     "published": "2026-11-25T20:14:00+00:00"
-    },
-    {
-     "source": "PBS NewsHour",
-     "title": "Inflation remains stubbornly high, despite a drop in gas prices",
-     "summary": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September.",
-     "link": "https://www.pbs.org/newshour/economy/inflation-remains-stubbornly-high-despite-a-drop-in-gas-prices",
-     "published": "2026-11-25T17:01:18+00:00"
-    },
-    {
-     "source": "NPR",
-     "title": "What to know before using AI agents for Black Friday shopping",
-     "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-     "published": "2026-11-25T13:51:56+00:00"
-    },
-    {
-     "source": "CBS News",
-     "title": "Why are investors freaking out even as the U.S. economy surges?",
-     "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
-     "link": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/",
-     "published": "2026-11-25T19:45:38+00:00"
+     "title": "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\"",
+     "summary": "Kiel Tutin, supervising choreographer for \"The JLo Show,\" joins \"The Daily Report\" to discuss the film and Jennifer Lopez's intense Las Vegas residency. \"The JLo Show\" premieres Thursday night on CBS and Paramount+.…",
+     "link": "https://www.cbsnews.com/video/jennifer-lopezs-choreographer-on-what-to-expect-from-the-jlo-show/",
+     "published": "2026-11-26T01:21:22+00:00"
     }
    ]
   }
