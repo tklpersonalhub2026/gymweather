@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:06:15.914604+00:00",
+ "updated": "2026-11-27T13:46:35.143179+00:00",
  "sections": [
   {
    "key": "local",
@@ -84,11 +84,60 @@
    "scope": "Utah",
    "items": [
     {
+     "source": "Salt Lake Tribune",
+     "title": "Voices: We’re taking on a toxic legacy near the Great Salt Lake. Here’s how we’ll make it right.",
+     "summary": "“We’ll earn trust through our actions; not promises,” the CEO of Mariana Minerals writes in an op-ed. “Hold us to that. Because this time, it’s different.”",
+     "link": "https://www.sltrib.com/opinion/commentary/2026/11/27/voices-were-taking-toxic-legacy/",
+     "published": "2026-11-27T13:03:52+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "Ben McAdams is returning to Congress. He wants to be a bridge between red Utah and a Democratic majority",
+     "title": "Utah looks at data center guardrails as the national pushback continues",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/26/mcadams-returns-to-congress-how-will-he-lead-the-way/",
-     "published": "2026-11-27T01:00:00+00:00"
+     "link": "https://www.deseret.com/politics/2026/11/27/utah-and-other-states-look-at-data-center-legislation/",
+     "published": "2026-11-27T11:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Navy sailor who died aboard the USS Utah finds final resting place",
+     "summary": "A U.S. Navy sailor who was killed aboard the USS Utah during the attack on Pearl Harbor nearly 85 years ago is finally heading home.",
+     "link": "https://www.ksl.com/article/51647911/navy-sailor-who-died-aboard-the-uss-utah-finds-final-resting-place",
+     "published": "2026-11-26T22:31:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Tribune editorial: Measles are back. The way to reverse that is with widespread vaccination.",
+     "summary": "“Government at all levels should be raising the alarm,” the editorial board writes. “All eligible people should get their shots. People’s lives are at risk.”",
+     "link": "https://www.sltrib.com/opinion/editorial/2026/11/27/tribune-editorial-eligible-utahns/",
+     "published": "2026-11-27T13:02:40+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Giving your child a cellphone for Christmas? Have these conversations first",
+     "summary": "",
+     "link": "https://www.deseret.com/family/2026/11/27/conversation-before-parents-buy-child-cell-phone-christmas-smartphone-rules/",
+     "published": "2026-11-27T11:00:01+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "New images reveal stadium-size crater left by humanity's first planetary defense test",
+     "summary": "NASA's DART spacecraft moved an asteroid called Dimorphos four years ago in humanity's first planetary defense test — a movie-worthy mission to explore whether it's possible to stop an asteroid from hitting Earth. Now…",
+     "link": "https://www.ksl.com/article/51648123/new-images-reveal-stadium-size-crater-left-by-humanitys-first-planetary-defense-test",
+     "published": "2026-11-26T21:04:00+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Former Utah justice and court mediator find a path to less conflict and more compassion",
+     "summary": "Former Utah Supreme Court Justice Michael Zimmerman and his wife, Diane Hamilton, who worked in court mediation, now teach others the path to greater mindfulness at their Two Arrows Zen centers.",
+     "link": "https://www.sltrib.com/religion/2026/11/27/zen-buddhist-movement-celebrates/",
+     "published": "2026-11-27T13:00:00+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Religious schools fight for their identity",
+     "summary": "",
+     "link": "https://www.deseret.com/faith/2026/11/27/religious-schools-fight-the-government-to-keep-their-denitity/",
+     "published": "2026-11-27T11:00:01+00:00"
     },
     {
      "source": "KSL",
@@ -99,59 +148,10 @@
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Tribune editorial: Justice demands that Utah fund legal defense for those appealing convictions",
-     "summary": "“The Constitution guarantees every defendant in every criminal case the aid of an attorney,” the editorial board writes. “Otherwise, it’s not justice. It’s an assembly line.”",
-     "link": "https://www.sltrib.com/opinion/editorial/2026/11/26/tribune-editorial-utah-should-fund/",
-     "published": "2026-11-26T13:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Church of Jesus Christ leaders share Thanksgiving messages",
-     "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/26/church-of-jesus-christ-apostles-share-thanksgiving-gratitude-messages/",
-     "published": "2026-11-26T23:52:34+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Utah missionary injured in deadly Brazil bus crash returns to burn unit to give back to patients",
-     "summary": "A Davis County man returned to University Hospital's burn unit one year after surviving a deadly bus crash in Brazil, delivering gifts and hope to patients spending Thanksgiving in recovery.",
-     "link": "https://www.ksl.com/article/51648340/utah-missionary-injured-in-deadly-brazil-bus-crash-returns-to-burn-unit-to-give-back-to-patients",
-     "published": "2026-11-26T19:36:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Voices: I’m a veterinarian. It’s time for a permanent, publicly funded phaseout of mink farming in Utah.",
-     "summary": "“The state has an opportunity to prevent further animal suffering and protect public health while giving the remaining farming families a path forward,” one Utah-based veterinarian writes in an op-ed.",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/26/voices-its-time-end-mink-farming/",
-     "published": "2026-11-26T13:05:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "The Justice Department just announced its largest-ever scam crackdown",
-     "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/26/inside-americas-largest-ever-crackdown-on-scammers/",
-     "published": "2026-11-26T19:55:33+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
-     "summary": "The era of artificial intelligence has raised the stakes for internet security. As AI tools uncover new vulnerabilities, many other companies and institutions are racing to patch them before they can be targeted by…",
-     "link": "https://www.ksl.com/article/51647992/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal",
-     "published": "2026-11-26T19:04:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Letter: What to consider in light of all the bigotry and hand wringing regarding America’s first Muslim senator",
-     "summary": "",
-     "link": "https://www.sltrib.com/opinion/letters/2026/11/25/letter-what-consider-light-all/",
-     "published": "2026-11-26T13:01:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Opinion: Thanksgiving is a test of the communities we build",
-     "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/26/thanksgiving-is-a-test-of-the-communities-we-build/",
-     "published": "2026-11-26T19:00:00+00:00"
+     "title": "St. George’s growth is encroaching on beloved trails and open spaces. Can locals protect them?",
+     "summary": "Outdoor advocates are rising up in Washington County as housing and commercial developments encroach on open spaces that attract many to southwest Utah in the first place.",
+     "link": "https://www.sltrib.com/news/2026/11/27/st-george-outdoor-advocates-fight/",
+     "published": "2026-11-27T13:00:00+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-     "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
-     "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
-     "published": "2026-11-27T03:40:10+00:00"
+     "title": "Powerful Thanksgiving Day storm causes flooding, power outages",
+     "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+     "link": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+     "published": "2026-11-27T13:32:19+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+     "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+     "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+     "published": "2026-11-27T11:59:02+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-11-26T23:55:26+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-     "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-     "published": "2026-11-26T13:47:09+00:00"
+     "source": "CBS News",
+     "title": "Trump says he's giving Iran \"a chance to be smart\"",
+     "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+     "published": "2026-11-27T13:21:49+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "What stores are open on Black Friday? Here are the hours.",
-     "summary": "Many retailers open their doors early on Black Friday, but the stock market will have shorter hours. Here's what to know.",
-     "link": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
-     "published": "2026-11-27T03:01:00+00:00"
+     "source": "NPR",
+     "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+     "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+     "published": "2026-11-27T11:49:50+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-11-26T23:50:47+00:00"
     },
     {
-     "source": "NPR",
-     "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-     "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-     "published": "2026-11-26T13:31:28+00:00"
+     "source": "CBS News",
+     "title": "Murder suspect crashes into elephant while fleeing police",
+     "summary": "Witnesses told police the elephant appeared to be unharmed and retreated back into the jungle.",
+     "link": "https://www.cbsnews.com/news/murder-suspect-crashes-elephant-fleeing-police-sri-lanka/",
+     "published": "2026-11-27T12:31:39+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Trump to visit maker of semiconductor chips, including Nvidia's",
-     "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
-     "link": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/",
-     "published": "2026-11-27T02:34:45+00:00"
+     "source": "NPR",
+     "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+     "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's…",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+     "published": "2026-11-27T10:59:36+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-26T23:45:13+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-     "summary": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-     "published": "2026-11-26T12:24:29+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-     "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-     "published": "2026-11-27T02:29:01+00:00"
+     "title": "U.S. opens hotline for tips about cartels, angering Mexico",
+     "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
+     "link": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/",
+     "published": "2026-11-27T11:37:43+00:00"
     }
    ]
   }
