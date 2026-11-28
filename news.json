@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-28T04:10:16.825475+00:00",
+ "updated": "2026-11-28T13:13:58.157463+00:00",
  "sections": [
   {
    "key": "local",
    "title": "LOCAL",
    "scope": "Park City · Summit · Wasatch",
    "items": [
+    {
+     "source": "Park Record",
+     "title": "Community Calendar: Upcoming events as of Nov. 28, 2026",
+     "summary": "If you’ve got an event you want to submit or have a question, email parker@parkrecord.com with the event title, location, address, date and time. The post Community Calendar: Upcoming events as of Nov. 28, 2026 appeared…",
+     "link": "https://www.parkrecord.com/2026/11/28/community-calendar-upcoming-events-as-of-nov-28-2026/",
+     "published": "2026-11-28T13:00:00+00:00"
+    },
     {
      "source": "TownLift",
      "title": "Glancing storm brings a quick refresher of snow for the Wasatch, more snowfall possible early next week",
@@ -22,10 +29,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Silicon Slopes company awards People’s Health Clinic funding, free promotional materials ahead of expansion",
-     "summary": "A partnership between The People’s Health Clinic and an AI-powered Silicon Slopes company could open the door to more funding and visibility for the nonprofit clinic, which provides healthcare to uninsured families and…",
-     "link": "https://www.parkrecord.com/2026/11/27/silicon-slopes-company-awards-peoples-health-clinic-funding-free-promotional-materials-ahead-of-expansion/",
-     "published": "2026-11-27T21:00:00+00:00"
+     "title": "Have to plan for big picture",
+     "summary": "\"Stepping back from the Bonanza Park 5-acre proposal gives Park City a timely opportunity to ask why years of review ended in an impasse.\" The post Have to plan for big picture appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/28/have-to-plan-for-big-picture/",
+     "published": "2026-11-28T13:00:00+00:00"
     },
     {
      "source": "KPCW",
@@ -33,13 +40,6 @@
      "summary": "Wasatch County is looking for residents to serve on five of its volunteer boards and commissions.",
      "link": "https://www.kpcw.org/wasatch-county/2026-11-27/wasatch-county-makes-call-for-open-advisory-board-seats",
      "published": "2026-11-27T20:52:39+00:00"
-    },
-    {
-     "source": "Park Record",
-     "title": "Turkey Trot 5K puts the fun in a community tradition",
-     "summary": "The Park City Turkey Trot is hosted by Lululemon each year, organized with help from run ambassador and Park City Run Club founder Heather VandenBroek. The post Turkey Trot 5K puts the fun in a community tradition…",
-     "link": "https://www.parkrecord.com/2026/11/27/turkey-trot-5k-puts-the-fun-in-a-community-tradition/",
-     "published": "2026-11-27T20:45:00+00:00"
     },
     {
      "source": "TownLift",
@@ -50,10 +50,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Midway’s holiday season begins Saturday",
-     "summary": "Thanksgiving is over, and Midway is ready to transition to the holiday season. Little Switzerland will play host to festive celebrations starting as soon as Saturday — and it’s almost all happening in Town Square. The…",
-     "link": "https://www.parkrecord.com/2026/11/27/midways-holiday-season-begins-saturday/",
-     "published": "2026-11-27T20:30:00+00:00"
+     "title": "Have we gone mad?",
+     "summary": "\"Every year the creep of the smog from the Salt Lake Valley gets closer to Park City.\" The post Have we gone mad? appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/28/have-we-gone-mad/",
+     "published": "2026-11-28T12:30:00+00:00"
     },
     {
      "source": "TownLift",
@@ -71,10 +71,10 @@
     },
     {
      "source": "Park Record",
-     "title": "Government group helps seniors across Wasatch Back",
-     "summary": "After the closure of Community Action Services and Food Bank pantries across the Wasatch Back, residents in need in Summit and Wasatch counties have turned to aid with the Christian Center of Park City. But the…",
-     "link": "https://www.parkrecord.com/2026/11/27/government-group-helps-seniors-across-wasatch-back/",
-     "published": "2026-11-27T20:30:00+00:00"
+     "title": "Loud voices, indeed",
+     "summary": "\"Andy, when you go home tell your wife, Molly, you think she is doing a great job, and if you're at all convincing, then at least there will be two of you.\" The post Loud voices, indeed appeared first on Park Record .",
+     "link": "https://www.parkrecord.com/2026/11/28/loud-voices-indeed/",
+     "published": "2026-11-28T12:00:00+00:00"
     }
    ]
   },
@@ -84,74 +84,74 @@
    "scope": "Utah",
    "items": [
     {
-     "source": "Deseret News",
-     "title": "Provo ranks first nationally for a surprising business distinction",
-     "summary": "",
-     "link": "https://www.deseret.com/business/2026/11/27/when-longtime-owners-step-away-utah-county-businesses-face-a-turning-point/",
-     "published": "2026-11-28T02:03:00+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Utah looks at data center guardrails as the national pushback continues",
-     "summary": "As plans edge ahead for a nuclear-powered data center in Carbon County, just one of many data center proposals in Utah, officials are mulling guardrails.",
-     "link": "https://www.ksl.com/article/news/business/utah-looks-at-data-center-guardrails-as-the-national-pushback-continues/51648377",
-     "published": "2026-11-27T20:37:30+00:00"
-    },
-    {
      "source": "Salt Lake Tribune",
-     "title": "Bagley Cartoon: Dawn of the Living Dumb",
-     "summary": "Check out Pat Bagley's latest cartoon: Dawn of the Living Dumb",
-     "link": "https://www.sltrib.com/opinion/bagley/2026/11/27/bagley-cartoon-dawn-living-dumb/",
-     "published": "2026-11-27T17:19:09+00:00"
+     "title": "Letter: Utah’s fastest growing city isn’t able to give veterans the support they need. Seems in line with Trump’s explicit disdain of vets.",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/28/letter-utahs-fastest-growing-city/",
+     "published": "2026-11-28T13:01:00+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Feel and express gratitude for missionary work, Elder Gilbert tells missionaries",
+     "title": "Opinion: Harness AI for peace, not conflict",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/27/church-news-feel-express-gratitude-for-missionary-work-elder-clark-g-gilbert-tells-missionaries-thanksgiving-day-devotional-mtc/",
-     "published": "2026-11-27T23:29:29+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/28/hope-in-artificial-intelligence/",
+     "published": "2026-11-28T07:01:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "'The Hunger Games: Sunrise on the Reaping' proves the value of dystopian stories",
-     "summary": "Unlike many prequels and sequels in other franchises, \"The Hunger Games: Sunrise on the Reaping\" functions perfectly well as a standalone movie.",
-     "link": "https://www.ksl.com/article/news/entertainment/the-hunger-games-sunrise-on-the-reaping-proves-the-value-of-dystopian-stories/51647413",
-     "published": "2026-11-27T19:53:00+00:00"
+     "title": "Undefeated season: No. 2 Utah blows past West Virginia to stay unbeaten in Morgan Scalley's first season",
+     "summary": "Utah rolled to a victory over the visiting Mountaineers and secured its third undefeated season in the modern era of college football",
+     "link": "https://www.ksl.com/article/51648489/undefeated-season-no-2-utah-blows-past-west-virginia-to-stay-unbeaten-in-morgan-scalleys-first-season",
+     "published": "2026-11-28T01:07:50+00:00"
     },
     {
      "source": "Salt Lake Tribune",
-     "title": "Voices: We’re taking on a toxic legacy near the Great Salt Lake. Here’s how we’ll make it right.",
-     "summary": "“We’ll earn trust through our actions; not promises,” the CEO of Mariana Minerals writes in an op-ed. “Hold us to that. Because this time, it’s different.”",
-     "link": "https://www.sltrib.com/opinion/commentary/2026/11/27/voices-were-taking-toxic-legacy/",
-     "published": "2026-11-27T13:03:52+00:00"
-    },
-    {
-     "source": "KSL",
-     "title": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year",
-     "summary": "Stocks jumped and nudged Wall Street to its best week in more than a year following several days of erratic swings for influential technology companies.",
-     "link": "https://www.ksl.com/article/51648348/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-streets-best-in-more-than-a-year",
-     "published": "2026-11-27T19:11:45+00:00"
+     "title": "Letter: Who do Utah Republicans think they’re fooling with their bill that seeks to collect data about students’ households?",
+     "summary": "",
+     "link": "https://www.sltrib.com/opinion/letters/2026/11/28/letter-who-do-utah-republicans/",
+     "published": "2026-11-28T13:00:01+00:00"
     },
     {
      "source": "Deseret News",
-     "title": "Screwtape goes to college",
+     "title": "Opinion: Who is attacking the banks helping impoverished people in Bangladesh?",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/27/screwtape-goes-to-college/",
-     "published": "2026-11-27T19:10:00+00:00"
-    },
-    {
-     "source": "Salt Lake Tribune",
-     "title": "Tribune editorial: Measles is back. The way to reverse that is with widespread vaccination.",
-     "summary": "“Government at all levels should be raising the alarm,” the editorial board writes. “All eligible people should get their shots. People’s lives are at risk.”",
-     "link": "https://www.sltrib.com/opinion/editorial/2026/11/27/tribune-editorial-eligible-utahns/",
-     "published": "2026-11-27T13:02:40+00:00"
+     "link": "https://www.deseret.com/opinion/2026/11/28/violence-hits-grameen-bank-in-bangladesh/",
+     "published": "2026-11-28T07:01:00+00:00"
     },
     {
      "source": "KSL",
-     "title": "Have You Seen This? A pup on a paddleboard",
-     "summary": "A man and his dog shared the sea on this paddleboard ride on the Big Island of Hawaii.",
-     "link": "https://www.ksl.com/article/51647919/have-you-seen-this-a-pup-on-a-paddleboard",
-     "published": "2026-11-27T18:49:13+00:00"
+     "title": "Ogden woman to spend up to 15 years in prison for physical abuse of her son",
+     "summary": "An Ogden woman will spend up to 15 years imprisonment on three felony counts for physically abusing her young son.",
+     "link": "https://www.ksl.com/article/51648470/ogden-woman-to-spend-up-to-15-years-in-prison-for-physical-abuse-of-her-son",
+     "published": "2026-11-27T22:37:28+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "Oscar-winning producer who worked with Spielberg and helped launch ‘Mormon cinema’ boom dies",
+     "summary": "Gerald R. Molen, the Oscar-winning producer of \"Schindler's List,\" has died at 91. Molen also produced \"The Other Side of Heaven,\" one of the first films in the \"Mormon cinema\" boom of the early 2000s.",
+     "link": "https://www.sltrib.com/artsliving/2026/11/28/producer-schindlers-list-the-other/",
+     "published": "2026-11-28T13:00:01+00:00"
+    },
+    {
+     "source": "Deseret News",
+     "title": "Older generations see ‘affordability’ differently than their kids",
+     "summary": "",
+     "link": "https://www.deseret.com/politics/2026/11/28/what-affordability-means-gen-z/",
+     "published": "2026-11-28T07:01:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
+     "summary": "The Mexican government is railing against the U.S. Drug Enforcement Agency's anonymous tip line for reports against criminals and corrupt officials in the Latin American nation.",
+     "link": "https://www.ksl.com/article/51648442/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+     "published": "2026-11-27T21:57:20+00:00"
+    },
+    {
+     "source": "Salt Lake Tribune",
+     "title": "See photos as LDS Temple Square shifts from holiday ‘lite’ to — wow — Christmas lights",
+     "summary": "After seven years, the LDS Church's Temple Square is fully open again with Christmas lights back in all their glowing wonder.",
+     "link": "https://www.sltrib.com/religion/2026/11/28/see-photos-lds-temple-square-puts/",
+     "published": "2026-11-28T13:00:01+00:00"
     }
    ]
   },
@@ -162,10 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "Power being slowly restored as heavy Thanksgiving storm eases",
-     "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
-     "link": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
-     "published": "2026-11-28T03:54:12+00:00"
+     "title": "Charity honoring veteran who raised millions with walks to be disbanded",
+     "summary": "Capt. Tom Moore raised almost $49 million with daily walks in his yard during the early days of the coronavirus pandemic.",
+     "link": "https://www.cbsnews.com/news/tom-moore-charity-disbanded-coronavirus-fundraiser/",
+     "published": "2026-11-28T13:06:30+00:00"
+    },
+    {
+     "source": "NPR",
+     "title": "Perspective: A hero's name lives on",
+     "summary": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+     "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+     "published": "2026-11-28T13:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -175,18 +182,18 @@
      "published": "2026-11-27T23:55:12+00:00"
     },
     {
-     "source": "NPR",
-     "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-     "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
-     "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
-     "published": "2026-11-27T11:59:02+00:00"
+     "source": "CBS News",
+     "title": "Power being slowly restored as heavy Thanksgiving storm eases",
+     "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+     "link": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
+     "published": "2026-11-28T12:38:51+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "U.S. Air Force cloud platform breached by hackers, report says",
-     "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
-     "link": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
-     "published": "2026-11-28T02:44:55+00:00"
+     "source": "NPR",
+     "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+     "summary": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+     "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+     "published": "2026-11-28T11:32:37+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -196,18 +203,18 @@
      "published": "2026-11-27T23:50:12+00:00"
     },
     {
-     "source": "NPR",
-     "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-     "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-     "published": "2026-11-27T11:49:50+00:00"
+     "source": "CBS News",
+     "title": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
+     "summary": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
+     "link": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
+     "published": "2026-11-28T12:29:21+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "Woman surprises hospital valet who supported her through cancer treatment with Bills tickets",
-     "summary": "Breast cancer survivor Kate Fink credits hospital valet Jon Avery with helping her fight the disease. She surprised the Buffalo Bills fan with tickets and field passes. Steve Hartman goes on the road.",
-     "link": "https://www.cbsnews.com/video/woman-surprises-hospital-valet-who-supported-her-through-cancer-treatment-with-bills-tickets/",
-     "published": "2026-11-28T01:14:25+00:00"
+     "source": "NPR",
+     "title": "New wave of Democratic attorneys general may reshape the justice system",
+     "summary": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+     "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+     "published": "2026-11-28T10:00:00+00:00"
     },
     {
      "source": "PBS NewsHour",
@@ -217,18 +224,11 @@
      "published": "2026-11-27T23:40:22+00:00"
     },
     {
-     "source": "NPR",
-     "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-     "summary": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's…",
-     "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
-     "published": "2026-11-27T10:59:36+00:00"
-    },
-    {
      "source": "CBS News",
-     "title": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-     "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
-     "published": "2026-11-28T01:10:47+00:00"
+     "title": "Spain's election could bring the far-right to power for 1st time in decades",
+     "summary": "For decades, Spain was relatively resistant to the rise of far-right populism seen elsewhere in Europe.",
+     "link": "https://www.cbsnews.com/news/spain-elections-pedro-sanchez-peoples-party-vox/",
+     "published": "2026-11-28T12:00:20+00:00"
     }
    ]
   }
