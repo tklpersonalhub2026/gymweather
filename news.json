@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:22:30.460669+00:00",
+ "updated": "2026-11-28T04:10:16.825475+00:00",
  "sections": [
   {
    "key": "local",
@@ -85,10 +85,17 @@
    "items": [
     {
      "source": "Deseret News",
-     "title": "Screwtape goes to college",
+     "title": "Provo ranks first nationally for a surprising business distinction",
      "summary": "",
-     "link": "https://www.deseret.com/faith/2026/11/27/screwtape-goes-to-college/",
-     "published": "2026-11-27T19:10:00+00:00"
+     "link": "https://www.deseret.com/business/2026/11/27/when-longtime-owners-step-away-utah-county-businesses-face-a-turning-point/",
+     "published": "2026-11-28T02:03:00+00:00"
+    },
+    {
+     "source": "KSL",
+     "title": "Utah looks at data center guardrails as the national pushback continues",
+     "summary": "As plans edge ahead for a nuclear-powered data center in Carbon County, just one of many data center proposals in Utah, officials are mulling guardrails.",
+     "link": "https://www.ksl.com/article/news/business/utah-looks-at-data-center-guardrails-as-the-national-pushback-continues/51648377",
+     "published": "2026-11-27T20:37:30+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -98,25 +105,18 @@
      "published": "2026-11-27T17:19:09+00:00"
     },
     {
-     "source": "KSL",
-     "title": "1 Utah university cracks '40 Beautiful College Campuses' list",
-     "summary": "One university in Utah made the list of the most beautiful campuses in the country.",
-     "link": "https://www.ksl.com/article/news/utah/education/1-utah-university-cracks-40-beautiful-college-campuses-list/51648009",
-     "published": "2026-11-27T14:27:00+00:00"
-    },
-    {
      "source": "Deseret News",
-     "title": "In new book, Biden details advice Romney gave him as health concerns mounted",
+     "title": "Feel and express gratitude for missionary work, Elder Gilbert tells missionaries",
      "summary": "",
-     "link": "https://www.deseret.com/politics/2026/11/27/former-president-joe-biden-details-advice-given-by-former-utah-senator-mitt-romney-in-new-book/",
-     "published": "2026-11-27T18:09:46+00:00"
+     "link": "https://www.deseret.com/faith/2026/11/27/church-news-feel-express-gratitude-for-missionary-work-elder-clark-g-gilbert-tells-missionaries-thanksgiving-day-devotional-mtc/",
+     "published": "2026-11-27T23:29:29+00:00"
     },
     {
      "source": "KSL",
-     "title": "Army deems lead azide detonation a success but criticism lingers over notification",
-     "summary": "The detonation of the nation's aging stockpile of lead azide, which spurred widespread concerns about potential environmental contamination, has been deemed a success by the U.S. Army. But questions remain about how and…",
-     "link": "https://www.ksl.com/article/51648451/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
-     "published": "2026-11-27T13:41:00+00:00"
+     "title": "'The Hunger Games: Sunrise on the Reaping' proves the value of dystopian stories",
+     "summary": "Unlike many prequels and sequels in other franchises, \"The Hunger Games: Sunrise on the Reaping\" functions perfectly well as a standalone movie.",
+     "link": "https://www.ksl.com/article/news/entertainment/the-hunger-games-sunrise-on-the-reaping-proves-the-value-of-dystopian-stories/51647413",
+     "published": "2026-11-27T19:53:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -126,11 +126,18 @@
      "published": "2026-11-27T13:03:52+00:00"
     },
     {
+     "source": "KSL",
+     "title": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year",
+     "summary": "Stocks jumped and nudged Wall Street to its best week in more than a year following several days of erratic swings for influential technology companies.",
+     "link": "https://www.ksl.com/article/51648348/stocks-jump-to-close-out-an-erratic-week-that-was-also-wall-streets-best-in-more-than-a-year",
+     "published": "2026-11-27T19:11:45+00:00"
+    },
+    {
      "source": "Deseret News",
-     "title": "Opinion: Gratitude should be an action, not just a feeling",
+     "title": "Screwtape goes to college",
      "summary": "",
-     "link": "https://www.deseret.com/opinion/2026/11/27/gratitude-on-the-irish-seas/",
-     "published": "2026-11-27T16:00:00+00:00"
+     "link": "https://www.deseret.com/faith/2026/11/27/screwtape-goes-to-college/",
+     "published": "2026-11-27T19:10:00+00:00"
     },
     {
      "source": "Salt Lake Tribune",
@@ -141,17 +148,10 @@
     },
     {
      "source": "KSL",
-     "title": "When and where storms could slow your post-Thanksgiving travel",
-     "summary": "Another round of storms could slow the trip home from Thanksgiving for some across the country this weekend and into early next week.",
-     "link": "https://www.ksl.com/article/51648434/when-and-where-storms-could-slow-your-post-thanksgiving-travel",
-     "published": "2026-11-27T12:56:00+00:00"
-    },
-    {
-     "source": "Deseret News",
-     "title": "Deseret News archives: President Bush made surprise visit to troops in 2003",
-     "summary": "",
-     "link": "https://www.deseret.com/utah/2024/11/27/deseret-news-archives-president-bush-makes-surprise-visit-to-troops-in-2003/",
-     "published": "2026-11-27T15:49:21+00:00"
+     "title": "Have You Seen This? A pup on a paddleboard",
+     "summary": "A man and his dog shared the sea on this paddleboard ride on the Big Island of Hawaii.",
+     "link": "https://www.ksl.com/article/51647919/have-you-seen-this-a-pup-on-a-paddleboard",
+     "published": "2026-11-27T18:49:13+00:00"
     }
    ]
   },
@@ -162,17 +162,17 @@
    "items": [
     {
      "source": "CBS News",
-     "title": "OpenAI countersues Apple over allegations of stealing trade secrets",
-     "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
-     "link": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/",
-     "published": "2026-11-27T22:14:43+00:00"
+     "title": "Power being slowly restored as heavy Thanksgiving storm eases",
+     "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+     "link": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
+     "published": "2026-11-28T03:54:12+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
-     "summary": "Retirees, university students, bus drivers and others joined the protest organized by some 30 groups ranging from unions to religious organizations. The crowds gathered in front of the largest mall in the Caribbean on…",
-     "link": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates",
-     "published": "2026-11-27T22:10:46+00:00"
+     "title": "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+     "summary": "In our news wrap Friday, crews are still working to restore power for hundreds of thousands of homes a day after a massive Thanksgiving storm forced some on the East Coast to dine in the dark, Ukrainian President…",
+     "link": "https://www.pbs.org/newshour/show/news-wrap-crews-work-to-restore-power-for-thousands-after-thanksgiving-storm",
+     "published": "2026-11-27T23:55:12+00:00"
     },
     {
      "source": "NPR",
@@ -182,18 +182,18 @@
      "published": "2026-11-27T11:59:02+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
-     "summary": "The announcement opened the latest chapter in an ongoing struggle between the U.S. and Mexican governments over who has the right to take action against cartels in Mexico.",
-     "link": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
-     "published": "2026-11-27T21:36:37+00:00"
+     "source": "CBS News",
+     "title": "U.S. Air Force cloud platform breached by hackers, report says",
+     "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+     "link": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
+     "published": "2026-11-28T02:44:55+00:00"
     },
     {
-     "source": "CBS News",
-     "title": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-     "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
-     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
-     "published": "2026-11-27T21:12:14+00:00"
+     "source": "PBS NewsHour",
+     "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
+     "summary": "Black Friday is no longer limited to just a single day, yet it remains one of the busiest days of the year for brick-and-mortar stores, where shoppers can still stand in long lines. Now, 90 million of those consumers…",
+     "link": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+     "published": "2026-11-27T23:50:12+00:00"
     },
     {
      "source": "NPR",
@@ -204,17 +204,17 @@
     },
     {
      "source": "CBS News",
-     "title": "25-year sentence sought for former chef who aided 14 suicides",
-     "summary": "Kenneth Law pleaded guilty earlier this year to aiding 14 suicides in Canada, but he has admitted to selling his so-called suicide kits globally.",
-     "link": "https://www.cbsnews.com/news/former-chef-kennth-law-poison-suicides-prosecutors-seek-25-years/",
-     "published": "2026-11-27T20:54:53+00:00"
+     "title": "Woman surprises hospital valet who supported her through cancer treatment with Bills tickets",
+     "summary": "Breast cancer survivor Kate Fink credits hospital valet Jon Avery with helping her fight the disease. She surprised the Buffalo Bills fan with tickets and field passes. Steve Hartman goes on the road.",
+     "link": "https://www.cbsnews.com/video/woman-surprises-hospital-valet-who-supported-her-through-cancer-treatment-with-bills-tickets/",
+     "published": "2026-11-28T01:14:25+00:00"
     },
     {
      "source": "PBS NewsHour",
-     "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
-     "summary": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it.",
-     "link": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
-     "published": "2026-11-27T20:48:47+00:00"
+     "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+     "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Nick Schifrin to discuss the week in politics, including President Trump's relationship with Russia's Vladimir Putin, Jensen Huang's return to Nvidia and…",
+     "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+     "published": "2026-11-27T23:40:22+00:00"
     },
     {
      "source": "NPR",
@@ -224,11 +224,11 @@
      "published": "2026-11-27T10:59:36+00:00"
     },
     {
-     "source": "PBS NewsHour",
-     "title": "Army deems lead azide detonation a success but criticism lingers over notification",
-     "summary": "So far, the EPA said there has continued to be \"zero\" airborne lead detected in the region since Wednesday's controlled detonation. While that's reassuring, residents and some elected officials have criticized the Army…",
-     "link": "https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
-     "published": "2026-11-27T20:25:15+00:00"
+     "source": "CBS News",
+     "title": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+     "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
+     "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+     "published": "2026-11-28T01:10:47+00:00"
     }
    ]
   }
